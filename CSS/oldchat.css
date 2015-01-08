@@ -1,0 +1,47 @@
+#chat .text::before {
+    content: " ";
+    float: right;
+    display: inline-block;
+    width: 40px;
+    height: 1px;
+}
+#chat .badge-box {
+    display: none;
+}
+#chat .moderation .badge-box {
+    display: none !important;
+    top: -10px;
+    height: 30px;
+    position: absolute;
+}
+#chat .moderation .msg {
+    margin-left: 20px;
+}
+#chat .cm {
+    min-height: 27px !important;
+}
+#chat .msg {
+    padding-left: 20px;
+}
+#chat .timestamp {
+    position: absolute;
+    right: 3px;
+}
+#chat .cm .from,
+#chat .text {
+    display: inline;
+    position: static;
+    vertical-align: top;
+}
+#chat .from .icon {
+    position: absolute;
+    left: 2px;
+    margin-top: 5px;
+}
+#chat .text {
+    margin-left: 5px;
+    width: 320px;
+}
+.system > .box, .log > .box  {
+    display: none;
+}
