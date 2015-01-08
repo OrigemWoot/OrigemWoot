@@ -87,39 +87,39 @@
         "https://i.imgur.com/VQrFnFF.jpg"
 	],
 	team : {
-		"url" : ""	
+		"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/team.json"	
 	},
 	"lng": {
 		"en" : {
-			"url" : "https://dl.dropboxusercontent.com/s/gpre86ophjs8747/English.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/english.lang.json",
 			"name" : "English"
 		},
 		"pt" : {
-			"url" : "https://dl.dropboxusercontent.com/s/p54nm79ofwez4u8/Portuguese.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/portuguese.lang.json",
 			"name" : "Português"
 		},
 		"fr" : {
-			"url" : "https://dl.dropboxusercontent.com/s/2uqbzix3lrpqeqr/French.Lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/french.Lang.json",
 			"name" : "Français"
 		},
 		"sb" : {
-			"url" : "https://dl.dropboxusercontent.com/s/c4esyi5pvpssqay/SERBIAN.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/serbian.lang.json",
 			"name" : "sb"
 		},
 		"cs" : {
-			"url" : "https://dl.dropboxusercontent.com/s/cvz4lept9a17uar/Czech.Lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/czech.Lang.json",
 			"name" : "cs"
 		},
 		"nl" : {
-			"url" : "https://dl.dropboxusercontent.com/s/tuxgytpp9kxc6ji/DUTCH.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/dutch.lang.json",
 			"name" : "nl"
 		},
 		"es" : {
-			"url" : "https://dl.dropboxusercontent.com/s/5531gtiw0fg3f8a/Spanish.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/spanish.lang.json",
 			"name" : "Español"
 		},
 		"sk" : {
-			"url" : "https://dl.dropboxusercontent.com/s/k7cx6mxkjlmsxlc/SKLang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/sklang.json",
 			"name" : "sk"
 		}
 	},
@@ -141,14 +141,14 @@
 		"nightcore-331" : {
 			"title" : "Night",
 			"background" : "https://i.imgur.com/8MyVHBu.jpg",
-			"css" : "https://dl.dropboxusercontent.com/s/uq2j150toyuaybi/Nightcore%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Nightcore%20CSS.css",
 			"pbg" : "https://i.imgur.com/uSzURQw.png",
 			"overridecss" : true
 		},
 		"electro-brasil-19" : {
 			"title" : "Dark",
 			"pbg" : "https://i.imgur.com/LdM2EXn.png",
-			"css" : "https://dl.dropboxusercontent.com/s/1sxlqxkxot8dp66/BEM%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
 		},
 		"panelinha-radioativa" : {
@@ -168,14 +168,14 @@
 			"title" : "Latvian",
 			"background" : "https://i.imgur.com/aIpSoS1.jpg",
 			"pbg" : "https://i.imgur.com/sgCEcx3.png",
-			"css" : "https://dl.dropboxusercontent.com/s/epqpypvfrrgl1pm/Latvian%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Latvian%20CSS.css",
 			"overridecss" : true
 		},
 		"exercito" : {
 			"title" : "Fodendo",
 			"msg" : "A sala agora conta com mais 2 backgrounds, digite /theme 1 / 2 para ativá-las",
 			"background" : "https://i.imgur.com/BoEcweI.jpg",
-			"css" : "https://dl.dropboxusercontent.com/s/2rh2rb1063ykdw5/Exercito%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Exercito%20CSS.css",
 			"pbg" : "https://i.imgur.com/wToRPbB.png",
 			"overridecss" : true,
 			"temas" : [
@@ -187,7 +187,7 @@
 			"title" : "HVD",
 			"msg" : "FNC Wrest for Hudba Všeho Druhu CZ/SK ( https://plug.dj/hitparada-borivoje )",
 			"background" : "https://i.imgur.com/LUDrwUX.gif",
-			"css" : "https://dl.dropboxusercontent.com/s/p4ahdnxeynk98dx/Czech%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Czech%20CSS.css",
 			"overridecss" : true
 		},
 		"assis" : {
@@ -206,21 +206,21 @@
 		},
 		"eletro-party-brasil" : {
 			"title" : "BEM",
-			"css" : "https://dl.dropboxusercontent.com/s/1sxlqxkxot8dp66/BEM%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"pbg" : "https://i.imgur.com/LdM2EXn.png",
 			"overridecss" : true
 		},
 		"rock-wins-10" : {
 			"title" : "RW",
 			"background" : "https://i.imgur.com/4KG1JZj.png",
-			"css" : "https://dl.dropboxusercontent.com/s/xfh7lrw0lpumyw5/Rock%20Wins%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"pbg" : "https://i.imgur.com/4OIt8BW.png",
 			"overridecss" : true
 		},
 		"farofa-das-divas-pop" : {
 			"title" : "Farofinha",
 			"pbg" : "https://i.imgur.com/qZM9J0P.png",
-			"css" : "https://dl.dropboxusercontent.com/s/n79fw6byef8el1r/Farofinha%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Farofinha%20CSS.css",
 			"overridecss" : true
 		},
 		"caipira-1" : {
