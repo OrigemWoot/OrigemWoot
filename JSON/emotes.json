@@ -10,6 +10,21 @@
          "url":"https://fungustime.pw/tastyplug/emotes/misc/43.png",
          "width":"31px"
       },
+      "Kappa":{  
+         "height":"28px",
+         "url":"https://i.imgur.com/HWTtoSD.png",
+         "width":"25px"
+      },
+      "Lenny":{  
+         "height":"27px",
+         "width":"75px",
+         "url":"https://fungustime.pw/tastyplug/emotes/misc/63.png"
+      },
+      "Facepalm":{  
+         "height":"35px",
+         "url":"https://i.imgur.com/VjTBSXz.png",
+         "width":"35px"
+      },
        "josh":{
          "height":"35px",
          "url":"https://i.imgur.com/QgnQKom.png",
