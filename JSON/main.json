@@ -99,7 +99,7 @@
 			"name" : "Português"
 		},
 		"fr" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/french.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/french.Lang.json",
 			"name" : "Français"
 		},
 		"sb" : {
@@ -107,7 +107,7 @@
 			"name" : "sb"
 		},
 		"cs" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/czech.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/czech.Lang.json",
 			"name" : "cs"
 		},
 		"nl" : {
