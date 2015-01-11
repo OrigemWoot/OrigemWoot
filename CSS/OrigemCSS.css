@@ -165,6 +165,10 @@ box-shadow: 0 0 15px #12A9E0 !important; }
 #playback-controls .button.hd { background: linear-gradient(to bottom,rgba(68, 68, 68, 0.6) 0,rgba(226, 37, 0, 0.73) 100%);
 box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }*/
 
+#playback-controls .button.hd .divider { height: 14px; }
+#playback-controls .button .box { font-size: 14px; top: 15px; }
+#playback-controls .button .box .icon { position: relative; top: -5px; float: left; margin-right: 1px; margin-left: -4px; }
+
 /* Custom icons */
 
 .icon { background-image: url('https://i.imgur.com/TEuRKEn.png'); } /* Só adicione ícones abaixo DESTE ! */
