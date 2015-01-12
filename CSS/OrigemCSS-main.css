@@ -85,7 +85,7 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 .userInfo.woot .votedBackgroundColor { background-color: #407D42; }
 .userInfo.meh .votedBackgroundColor { background-color: #702B30; }
 #plugbot-userlist { position: absolute; width: 220px; max-height: 445px; overflow: hidden;
-outline: none; z-index: 11; overflow-y: auto; overflow-x: hidden; }
+outline: none; z-index: 11 !important; overflow-y: auto; overflow-x: hidden; }
 #nwootCreator { margin-bottom: 0 px; width: 220px;  height: auto; cursor: move }
 .ulh1 { background-color: #052736; border-bottom:1px solid #444; border-collapse: collapse; }
 .ulh2 { font-size:22px; background: rgb(37,141,200); /* Old browsers */ 
@@ -279,7 +279,7 @@ top: 8px !important; left: 15px !important;}
 	position: absolute;
 	top: 54px;
 	display: none;
-	z-index: 12;
+	z-index: 13;
 }
 
 .origem-menu-section {
