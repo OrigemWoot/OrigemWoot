@@ -86,9 +86,6 @@
         "https://i.imgur.com/dK0JLVn.jpg",
         "https://i.imgur.com/VQrFnFF.jpg"
 	],
-	"team" : {
-		"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/team.json"	
-	},
 	"lng": {
 		"en" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/english.lang.json",
