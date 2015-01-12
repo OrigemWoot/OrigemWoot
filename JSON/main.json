@@ -105,7 +105,7 @@
 		},
 		"cs" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/czech.lang.json",
-			"name" : "čeština"
+			"name" : "Čeština"
 		},
 		"nl" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/dutch.lang.json",
@@ -117,7 +117,7 @@
 		},
 		"sk" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/sklang.json",
-			"name" : "slovenština"
+			"name" : "Slovenština"
 		}
 	},
 	"customRooms" : {
