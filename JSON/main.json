@@ -101,15 +101,15 @@
 		},
 		"sb" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/serbian.lang.json",
-			"name" : "sb"
+			"name" : "српски"
 		},
 		"cs" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/czech.lang.json",
-			"name" : "cs"
+			"name" : "čeština"
 		},
 		"nl" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/dutch.lang.json",
-			"name" : "nl"
+			"name" : "Nederlands"
 		},
 		"es" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/spanish.lang.json",
@@ -117,7 +117,7 @@
 		},
 		"sk" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/sklang.json",
-			"name" : "sk"
+			"name" : "slovenština"
 		}
 	},
 	"customRooms" : {
