@@ -58,6 +58,7 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 .ow-img.max{ width:280px; height:350px }
 .ow-img.wide{ width:280px; height:auto }
 .ow-img.high{ height:350px; width:auto }
+.ow-img.normal{ height:auto; width:auto }
 .ow-img-delete { position:absolute; top:45px; left:15px; background-color:#f04f30; padding:0 3px; cursor:pointer }
 .custom-emote { display:inline-block; vertical-align:top }
 .pm-dev { display:inline-block; vertical-align:top;background-image:url(https://i.imgur.com/7MHdeHw.png);
