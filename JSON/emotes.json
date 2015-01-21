@@ -280,10 +280,15 @@
          "width":"104px",
          "height":"80px"
       },
+        "clap":{
+         "url":"https://dl.dropboxusercontent.com/s/imaxuzsen111y3j/aplauso.gif",
+         "width":"104px",
+         "height":"80px"
+      },
 	  "taquerendo":{
          "url":"https://dl.dropboxusercontent.com/s/q9i6gdl6f8ylepi/seicome.gif",
          "width":"104px",
-         "height":"104px"
+         "height":"100px"
       },
 	  "diva":{
          "url":"https://dl.dropboxusercontent.com/s/ordgqct09npvogd/diva.gif",
