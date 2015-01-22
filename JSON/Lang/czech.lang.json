@@ -108,7 +108,7 @@
 	"song_link":"Odkaz na aktuální písnicku:",
 	"image_link":"Odkaz na obrázek z aktuální písnicky:",
 	"clk_here":"Kliknete zde",
-	"user_join":"%%User%% se pripojil do místnosti!",
+	"user_join":"%%User%% se připojil do místnosti!",
 	"user_leave":"%%User%% odešel z místnosti!",
 	"user_dc":"%%User%% odešel z místnosti, místo ve fronte: %%Position%%",
 	"afkdisable":"%%User%% vypnul AFK Message",
