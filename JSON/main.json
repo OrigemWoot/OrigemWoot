@@ -161,6 +161,14 @@
 			"title" : "Dubstep",
 			"msg" : "Bem Vindo(a) à Dubstep Eletro Music |BR|, muito obrigado pela preferência, divirta-se!"
 		},
+		"monster-music-brasil" : {
+			"title" : "Monster",
+			"msg" : "Bem Vindo(a) ao Monster Music Brazil, e muito obrigado por usar o OrigemWoot!",
+			"background" : "https://i.imgur.com/NqhDqqJ.jpg",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Monster%20CSS.css",
+			"pbg" : "https://i.imgur.com/4goDHHJ.png",
+			"overridecss" : true
+		},
 		"latvianmusicroom" : {
 			"title" : "Latvian",
 			"background" : "https://i.imgur.com/aIpSoS1.jpg",
