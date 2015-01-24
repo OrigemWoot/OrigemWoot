@@ -157,6 +157,10 @@
 		"brazil-song-pop" : {
 			"title" : "Brazil"
 		},
+		"dubstep-eletro-music" : {
+			"title" : "Dubstep",
+			"msg" : "Bem Vindo(a) à Dubstep Eletro Music |BR|, muito obrigado pela preferência, divirta-se!"
+		},
 		"latvianmusicroom" : {
 			"title" : "Latvian",
 			"background" : "https://i.imgur.com/aIpSoS1.jpg",
