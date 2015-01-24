@@ -157,6 +157,14 @@
 		"brazil-song-pop" : {
 			"title" : "Brazil"
 		},
+		"monster-music-brasil" : {
+			"title" : "Monster",
+			"msg" : "Bem Vindo(a) ao Monster Music Brazil, e muito obrigado por usar o OrigemWoot!",
+			"background" : "https://i.imgur.com/NqhDqqJ.jpg",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Monster%20CSS.css",
+			"pbg" : "http://i.imgur.com/4goDHHJ.png",
+			"overridecss" : true
+		},
 		"dubstep-eletro-music" : {
 			"title" : "Dubstep",
 			"msg" : "Bem Vindo(a) à Dubstep Eletro Music |BR|, muito obrigado pela preferência, divirta-se!"
