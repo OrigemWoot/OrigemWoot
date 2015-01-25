@@ -743,7 +743,7 @@ background: url(https://i.imgur.com/KuseBhO.png);
 background: url(https://i.imgur.com/nUXryvR.png);
 }
 .anzy .bdg, div[data-cid^='5695503'] .bdg {
-    background-image: url("http://i.imgur.com/MpuqVX1.png");
+    background-image: url("https://i.imgur.com/MpuqVX1.png");
     background-size: cover;
 }
 .message[data-cid^='5695503'] > .msg > .from > .un, 
@@ -763,9 +763,9 @@ height: 16px;
 left: 0px;
 }
 .anzy .un::before, div[data-cid^='5695503'] .un::before{
-background: url(http://i.imgur.com/TZEUF3i.png);
+background: url(https://i.imgur.com/TZEUF3i.png);
 }
-.anzy .bdg, div[data-cid^='5695503'] .bdg { background-image: url(http://i.imgur.com/MpuqVX1.png); background-size: cover; }
+.anzy .bdg, div[data-cid^='5695503'] .bdg { background-image: url(https://i.imgur.com/MpuqVX1.png); background-size: cover; }
 
 .anzy .un, div[data-cid^='5695503'] .un {
 margin-left: 21px;
@@ -780,5 +780,5 @@ height: 15px;
 left: -21px;
 }
 .anzy .un::before, div[data-cid^='5695503'] .un::before{
-background: url(http://i.imgur.com/TZEUF3i.png);
+background: url(https://i.imgur.com/TZEUF3i.png);
 }
