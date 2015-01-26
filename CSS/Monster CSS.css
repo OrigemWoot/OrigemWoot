@@ -742,3 +742,25 @@ background: url(https://i.imgur.com/KuseBhO.png);
 .ow-vip .un::before, div[data-cid~="ow-vip"] .un::before{
 background: url(https://i.imgur.com/nUXryvR.png);
 }
+.origem-menu-heading, .origem-menu-submenu .origem-submenu-heading { color: #44E803 !important; }
+.origem-menu-icon {
+background: url('https://i.imgur.com/3NetVjN.png');
+background-size: 34px;
+background-repeat: no-repeat;
+background-position: 9px 9px;
+}
+.origem-menu-element input[type=checkbox]:checked + .origem-checkmark {
+position: absolute;
+top: -1px;
+right: 0;
+width: 33px;
+height: 28px;
+background: url(https://i.imgur.com/b8RLPOx.png);
+}
+.origem-menu-opener {
+background-color: transparent;
+}
+#origem-menu-close .icon {
+left: 8px;
+top: 10px;
+}
