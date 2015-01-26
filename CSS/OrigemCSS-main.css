@@ -66,6 +66,9 @@ background-repeat: no-repeat !important;width:15px;height:15px;}
 #chat .system { background: #000000; }
 #footer-user .meta div.bar { margin-right: 0px; }
 
+.pop-menu.vote .bar .icon { top: 9px; left: 9px; }
+.pop-menu.vote .menu ul li .icon { top: 9px; left: 9px; }
+
 .eta-time{
 	font-size: small;
 }
