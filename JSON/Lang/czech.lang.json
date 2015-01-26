@@ -149,7 +149,7 @@
 	"max_length_val":"Maximální délka písnicky nastavena na: %%Time%%",
 	"off":"Vypnuto",
 	"med_in_hist_title":"Je již v historii",
-	"med_in_hist_msg":"%%Type%% v historii (%%Position%%/%%Total%%), hrálo pred %%Time%%",
+	"med_in_hist_msg": "%%Type%% je již v historii (%%Position%%/%%Total%%), hrálo již %%Times%% krát, naposledy před %%Time%% od uživatele %%User%%",
 	"friend_join":"Tvuj prítel %%User%% se práve pripojil!",
 	"lang":"Jazyky",
 	"chatcolors":"Barvy chatu",
