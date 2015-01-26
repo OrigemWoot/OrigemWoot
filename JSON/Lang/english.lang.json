@@ -150,7 +150,7 @@
     "max_length_val":     "Song max lenght defined: %%Time%%",
     "off":                "Disabled",
     "med_in_hist_title":  "Already on history",
-    "med_in_hist_msg":    "%%Type%% in history (%%Position%%/%%Total%%), played in %%Time%% ago",
+    "med_in_hist_msg":	  "%%Type%% in history (%%Position%%/%%Total%%), played %%Times%% times, last at %%Time%% ago by %%User%%",
     "friend_join":        "Your friend %%User%% just joined the room!",
     "lang":               "Languages",
     "chatcolors":         "Chat colors",
