@@ -742,3 +742,14 @@ background: url(https://i.imgur.com/KuseBhO.png);
 .ow-vip .un::before, div[data-cid~="ow-vip"] .un::before{
 background: url(https://i.imgur.com/nUXryvR.png);
 }
+.ulh3 {
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    color: #59FF17;
+    font-size: 13px;
+}
+.ulh2 {
+    font-size: 22px;
+    background: linear-gradient(to bottom, #59FF17 0%, #59FF17 100%) repeat scroll 0% 0% transparent;
+}
