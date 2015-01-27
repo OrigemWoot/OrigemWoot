@@ -160,7 +160,8 @@
 		},
 		"dubstep-eletro-music" : {
 			"title" : "Dubstep",
-			"msg" : "Bem Vindo(a) à Dubstep Eletro Music |BR|, muito obrigado pela preferência, divirta-se!"
+			"msg" : "Bem Vindo(a) à Dubstep Eletro Music |BR|, muito obrigado pela preferência, divirta-se!",
+			"css": "https://dl.dropboxusercontent.com/s/wwy6l31fnuzxlka/Vermelho.css"
 		},
 		"monster-music-brasil" : {
 			"title" : "Monster",
