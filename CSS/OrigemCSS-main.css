@@ -205,11 +205,11 @@ background-repeat: no-repeat !important;}
 .ow-designer  > .msg > .from > .un, div[data-cid~="ow-designer"]  > .msg > .from > .un { color: #E00000 !important; }
 .ow-vip  > .msg > .from > .un, div[data-cid~="ow-vip"]  > .msg > .from > .un { color: #FF69E1 !important; }
 
-.ow-dev .bdg , div[data-cid~="ow-dev"] .bdg{ background-image: url(https://dl.dropboxusercontent.com/content_link/0pNlGUpWFJGGAD83BOCQ1g2FnD5XqZi86FvDWNkzh1YnOPlztqDL3pgt7FQ1MT67); background-size: cover; }
-.ow-helper .bdg, div[data-cid~="ow-helper"] .bdg { background-image: url(https://dl.dropboxusercontent.com/content_link/4EItNFCfBlliNOicTEUFSKnptmjxCJwIrAm3MwxohOkTVdMtsMXLKCTlRxLUd43e); background-size: cover; }
-.ow-divulgadores .bdg , div[data-cid~="ow-divulgadores"] .bdg{ background-image: url(https://dl.dropboxusercontent.com/content_link/GgqQtR4akxNvbUwGKG3iWmgVYGTTfDkKoN8SiXKD36jhpcQ9ituoErshIRduBNGR); background-size: cover; }
-.ow-designer .bdg, div[data-cid~="ow-designer"] .bdg { background-image: url(https://dl.dropboxusercontent.com/content_link/IEPk8KW6lJHyVN4TLTWW8CPtOirWVnMTzhRpip16NUwxW3mg1VJVM4H8bQuNSdZO); background-size: cover; }
-.ow-vip .bdg, div[data-cid~="ow-vip"] .bdg { background-image: url(https://dl.dropboxusercontent.com/content_link/igJlfHm5vGwl9SfcLhmH3Z3l1oAOzNQR3yuSUKWlVMhLIazSmfK8XOQen1E5LT1t); background-size: cover; }
+.ow-dev .bdg , div[data-cid~="ow-dev"] .bdg{ background-image: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1); background-size: cover; }
+.ow-helper .bdg, div[data-cid~="ow-helper"] .bdg { background-image: url(https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1); background-size: cover; }
+.ow-divulgadores .bdg , div[data-cid~="ow-divulgadores"] .bdg{ background-image: url(https://www.dropbox.com/s/kc4dejy9c1ynb51/SPRDBADG30px.png?raw=1); background-size: cover; }
+.ow-designer .bdg, div[data-cid~="ow-designer"] .bdg { background-image: url(https://www.dropbox.com/s/fxz4ztvy0hz2kju/DESBADGE30px.png?raw=1); background-size: cover; }
+.ow-vip .bdg, div[data-cid~="ow-vip"] .bdg { background-image: url(https://www.dropbox.com/s/4yqjnsjn77bhdsg/VIPBADGE30px.png?raw=1); background-size: cover; }
 
 .ow-dev .un, div[data-cid~="ow-dev"] .un,
 .ow-helper .un, div[data-cid~="ow-helper"] .un,
@@ -247,11 +247,11 @@ background-repeat: no-repeat !important;}
 	background: url(https://i.imgur.com/nUXryvR.png);
 }
 
-.origem-dev-badge { background: url(https://dl.dropboxusercontent.com/content_link/0pNlGUpWFJGGAD83BOCQ1g2FnD5XqZi86FvDWNkzh1YnOPlztqDL3pgt7FQ1MT67) } 
-.origem-divulgadores-badge { background: url(https://dl.dropboxusercontent.com/content_link/GgqQtR4akxNvbUwGKG3iWmgVYGTTfDkKoN8SiXKD36jhpcQ9ituoErshIRduBNGR) }
-.origem-helper-badge { background: url(https://dl.dropboxusercontent.com/content_link/4EItNFCfBlliNOicTEUFSKnptmjxCJwIrAm3MwxohOkTVdMtsMXLKCTlRxLUd43e) }
-.origem-vip-badge { background: url(https://dl.dropboxusercontent.com/content_link/igJlfHm5vGwl9SfcLhmH3Z3l1oAOzNQR3yuSUKWlVMhLIazSmfK8XOQen1E5LT1t) } 
-.origem-designer-badge { background: url(https://dl.dropboxusercontent.com/content_link/IEPk8KW6lJHyVN4TLTWW8CPtOirWVnMTzhRpip16NUwxW3mg1VJVM4H8bQuNSdZO) } 
+.origem-dev-badge { background: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1) } 
+.origem-divulgadores-badge { background: url(https://www.dropbox.com/s/kc4dejy9c1ynb51/SPRDBADG30px.png?raw=1) }
+.origem-helper-badge { background: url(https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1) }
+.origem-vip-badge { background: url(https://www.dropbox.com/s/4yqjnsjn77bhdsg/VIPBADGE30px.png?raw=1) } 
+.origem-designer-badge { background: url(https://www.dropbox.com/s/fxz4ztvy0hz2kju/DESBADGE30px.png?raw=1) } 
 .origem-translator-badge { background: url(https://i.imgur.com/3epe8Vp.png) } 
 
 .icon-dev {	background: url(https://i.imgur.com/7MHdeHw.png) !important; background-repeat: no-repeat !important;
