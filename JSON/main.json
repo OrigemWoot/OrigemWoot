@@ -172,6 +172,14 @@
 			"pbg" : "https://i.imgur.com/4goDHHJ.png",
 			"overridecss" : true
 		},
+		"balada-do-giraffas" : {
+			"title" : "Giraffas",
+			"msg" : "Bem Vindo(a) a Balada Do Giraffas!",
+			"background" : "https://i.imgur.com/o8U69An.jpg%3C",
+			"css" : "https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/CSS/Giraffas%20CSS.css",
+			"pbg" : "https://dl.dropboxusercontent.com/s/ysqeeqth13ekf19/4.png",
+			"overridecss" : true
+		},
 		"latvianmusicroom" : {
 			"title" : "Latvian",
 			"background" : "https://i.imgur.com/aIpSoS1.jpg",
