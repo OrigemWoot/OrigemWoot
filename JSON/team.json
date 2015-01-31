@@ -23,7 +23,18 @@
 			 "color": "#db182e"
 		}
 	},
-	"vip" : {
+	vip1 : {
+		"ids" : [
+			3615814	
+		],
+		"rollover" : {
+			 "classteam" : "vip1",
+			 "icon" : "https://i.imgur.com/nUXryvR.png",
+			 "langkey": "titlevip",
+			 "color": "#FF69E1"
+		}
+	},
+	"vip2" : {
 		"ids" : [
 			3615814,			
 			3820121,
@@ -33,10 +44,10 @@
 			3423485		
 		],
 		"rollover" : {
-			 "classteam" : "vip",
+			 "classteam" : "vip2",
 			 "icon" : "https://i.imgur.com/nUXryvR.png",
 			 "langkey": "titlevip",
-			 "color": "#FF69E1"
+			 "color": "#FF7700"
 		}
 	},
 	"divulgadores" : {
