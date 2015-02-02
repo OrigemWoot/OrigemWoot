@@ -86,7 +86,7 @@
 	        "https://i.imgur.com/DiGEBvZ.jpg",
 	        "https://i.imgur.com/q8EEUif.jpg"
 	],
-	"socket" : "wss://g4group.me:9876/socket/websocket",
+	"socket" : "wss://1and1.stevesteve.net:9876/socket/websocket",
 	"lng": {
 		"en" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/english.lang.json",
