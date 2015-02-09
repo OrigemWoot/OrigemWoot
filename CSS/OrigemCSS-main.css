@@ -65,6 +65,7 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 background-repeat: no-repeat !important;width:15px;height:15px;}
 #chat .system { background: #000000; }
 #footer-user .meta div.bar { margin-right: 0px; }
+#user-lists .list.room .user .icon-meh{ left:auto; right:8px; top:-1px }
 
 .pop-menu.vote .bar .icon { top: 9px; left: 9px; }
 .pop-menu.vote .menu ul li .icon { top: 7px; left: 12px; }
