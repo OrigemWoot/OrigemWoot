@@ -170,6 +170,7 @@
 	"addvideo_done":	  "Video %%Author%% - %%Title%% adicionado à %%Playlist%%",
 	"addvideo_fail":	  "Não foi possível adicionar o vídeo: %%Error%%",
 	"addvideo_urlinv":	  "URL inválida. Tente /addvideo youtube_url",
+	"pl_find_title":	  "Resultado da busca por \"%%NAME%%\"",
 	"export_title":		  "Exportar playlists",
 	"export_wait":		  "Obtendo playlists e links, aguarde...",
 	"export_done":		  "Concluído! Playlists: %%Playlists%%, itens (vídeos e músicas): %%Items%% , sendo %%SC%% músicas do SoundCloud",
