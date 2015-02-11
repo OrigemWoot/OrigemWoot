@@ -167,6 +167,7 @@
 	"addvideo_fail":"Není možné pridat toto video: %%Error%%",
 	"addvideo_urlinv":"Neplatná URL. Zkuste /addvideo youtube_url",
 	"addvideo_title":"Add video",
+	"pl_find_title": "Search result for \"%%NAME%%\"",
 	"export_title":"Export playlists",
 	"export_wait":"Získávám playlisty a odkazy, pockejte...",
 	"export_done":"Hotovo! Playlistu: %%Playlists%%, položek (videí a písnicek): %%Items%% , s %%SC%% písnickami ze SoundCloud",
