@@ -165,6 +165,8 @@
     "addvideo_done":      "Video %%Author%% - %%Title%% toegevoegd aan %%Playlist%%",
     "addvideo_fail":      "Het is niet mogelijk om deze video toe te voegen : %%Error%%",
     "addvideo_urlinv":    "Ongeldige URL. Probeer /addvideo youtube_url",
+    "addvideo_title":	  "Add video",
+    "pl_find_title":	  "Search result for \"%%NAME%%\"",
     "export_wait":        "Ophalen playlists en links, wacht...",
     "export_done":        "Klaar! Playlists: %%Playlists%%, Items (muziek videos): %%Items%% , met %%SC%% liedjes van SoundCloud"
  
