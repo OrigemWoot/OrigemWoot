@@ -167,6 +167,7 @@
 	"addvideo_fail":"Il ne est pas possible d'ajouter ces vidéo : %%Error%%",
 	"addvideo_urlinv":"URL invalide. Essayez /addvideo youtube_url",
 	"addvideo_title":"Add video",
+	"pl_find_title": "Search result for \"%%NAME%%\"",
 	"export_title":"Export playlists",
 	"export_wait":"Chargement playlist et et chansons, attendez vous...",
 	"export_done":"Prêt! playlist: %%Playlists%%, articles (video en muziek): %%Items%%",
