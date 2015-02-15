@@ -206,6 +206,10 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Czech%20CSS.css",
 			"overridecss" : true
 		},
+		"hudba-u-tomasa" : {
+			"title" : "MiE",
+			"css" : "https://dl.dropboxusercontent.com/s/i8k67qsu2rmnzcc/Rosa.css"
+		},
 		"assis" : {
 			"title" : "Assis",
 			"msg" : "Toma cuidado com esse rabo.",
