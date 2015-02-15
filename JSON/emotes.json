@@ -346,9 +346,17 @@
          "url":"http://i.imgur.com/jGyKtjc.png",
          "width":"160px",
          "height":"90px"
+      },"wtf":{
+         "url":"https://dl.dropboxusercontent.com/s/ky65dm617j7nkv2/wtf.gif",
+         "width":"160px",
+         "height":"90px"
+      },"masc":{
+         "url":"https://i.imgur.com/O49ugVB.png",
+         "width":"216px",
+         "height":"104px"
       },
        "trap":{
-         "url":"http://i.imgur.com/U2UGB8D.png",
+         "url":"https://i.imgur.com/U2UGB8D.png",
          "width":"102px",
          "height":"90px"
       },
