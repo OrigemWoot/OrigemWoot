@@ -106,9 +106,84 @@
          "height":"51px"
       },
       "okay":{  
-         "height":"50px",
+         "height":"56px",
          "url":"https://i.imgur.com/BpQWgTs.gif",
+         "width":"75px"
+      },
+      "suicídio":{  
+         "height":"55px",
+         "url":"http://i.imgur.com/SpsBBF8.jpg",
+         "width":"75px"
+      },
+      "faleceu":{  
+         "height":"51px",
+         "url":"http://i.imgur.com/vZE62y1.jpg",
+         "width":"69px"
+      },
+      "demencia":{  
+         "height":"57px",
+         "url":"http://i.imgur.com/OUiQqjM.jpg",
+         "width":"85px"
+      },
+      "tesão":{  
+         "height":"56px",
+         "url":"http://i.imgur.com/I0NsPEe.jpg",
+         "width":"75px"
+      },
+      "psg":{  
+         "height":"65px",
+         "url":"http://i.imgur.com/BRMd1CV.jpg",
+         "width":"63px"
+      },
+      "pqeuquis":{  
+         "height":"72px",
+         "url":"http://i.imgur.com/y5plxdq.jpg",
+         "width":"54px"
+      },
+      "ovo":{  
+         "height":"65px",
+         "url":"http://i.imgur.com/vhExcIe.jpg",
+         "width":"90px"
+      },
+      "legal":{  
+         "height":"50px",
+         "url":"http://i.imgur.com/NAvDJFl.jpg",
          "width":"50px"
+      },
+      "fogo":{  
+         "height":"63px",
+         "url":"http://i.imgur.com/984lnJt.jpg",
+         "width":"85px"
+      },
+      "feels":{  
+         "height":"75px",
+         "url":"http://i.imgur.com/7pjGsQX.jpg",
+         "width":"65px"
+      },
+      "emsme":{  
+         "height":"59px",
+         "url":"http://i.imgur.com/pfQVT5U.jpg",
+         "width":"79px"
+      },
+      "empolgante":{  
+         "height":"130px",
+         "url":"http://i.imgur.com/R3HHVD2.jpg",
+         "width":"130px"
+      },
+      "dribe3":{  
+         "height":"79px",
+         "url":"http://i.imgur.com/57FtsgX.jpg",
+         "width":"97px"
+      },
+      "dribe2":{  
+         "height":"90px",
+         "url":"http://i.imgur.com/aUkbohX.jpg",
+         "width":"55px"
+      },
+      "fodase":{  
+         "height":"58px",
+         "url":"http://i.imgur.com/j1cSxm0.jpg",
+         "width":"77px"
       },
       "ponny":{  
          "height":"50px",
