@@ -1,0 +1,66 @@
+<html>
+<head>
+	<title>Emotes List</title>
+</head>
+<body bgcolor="grey">
+	<div id="main" align="center">
+		<h1>Emotes list</h1>
+		<br/><br/>
+		
+		<table>
+			<tbody id="emotes">
+			</tbody>
+		</table>
+	</div>
+</body>
+<script>
+	var xmlhttp = new XMLHttpRequest(),
+		url = "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/emotes.json";
+
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+			var arrEmotes = JSON.parse(xmlhttp.responseText),
+				emotes = [];
+			
+			for (var i in arrEmotes) {
+				for (var j in arrEmotes[i])
+					emotes[j] = arrEmotes[i][j];
+			}
+			createTable(emotes);
+		}
+	}
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+
+	function createTable(arr) {
+		var cont=0
+			max = 5,
+			html = '';
+		
+		for (var i in arr){
+			if ( !cont )
+				html += '<tr>';
+			
+			html += '<td>\
+						<div class="emotes" align="center">\
+							<img src="' + arr[i].url + '">\
+							<br/>\
+							<span>:' + i + ':</span>\
+						</div>\
+					</td>'
+			cont++;
+			
+			if ( cont==max ){
+				html += '</tr>';
+				cont=0;
+			}
+		}
+		
+		var table = document.getElementById('emotes');
+		if ( !table)
+			return;
+			
+		table.insertAdjacentHTML('beforeend', html);
+	}
+</script>
+</html>
