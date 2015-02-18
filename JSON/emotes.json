@@ -69,7 +69,12 @@
          "url":"https://i.imgur.com/L6A2yik.png",
          "width":"28px",
          "height":"28px"
-      }
+      },
+	  "pdp":{
+		 "url":"https://i.imgur.com/njLHW3I.png",
+         "width":"95px",
+         "height":"90px"
+	  }
 	},
 	"Miscellaneous" : {
 	  "Hue":{
@@ -645,11 +650,6 @@
 		"url":"https://i.imgur.com/I80DvSW.png",
 		"width":"104px",
         "height":"50px"
-	  },
-	  "pdp":{
-		 "url":"https://i.imgur.com/njLHW3I.png",
-         "width":"95px",
-         "height":"90px"
 	  },
       "okne":{  
          "url":"https://i.imgur.com/VkktMNz.gif",
