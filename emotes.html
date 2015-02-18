@@ -1,5 +1,6 @@
 <html>
 <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Emotes List</title>
 </head>
 <body bgcolor="grey">
@@ -7,10 +8,8 @@
 		<h1>Emotes list</h1>
 		<br/><br/>
 		
-		<table>
-			<tbody id="emotes">
-			</tbody>
-		</table>
+		<div id="tables">
+		</div>
 	</div>
 </body>
 <script>
@@ -18,45 +17,47 @@
 		url = "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/emotes.json";
 
 	xmlhttp.onreadystatechange = function() {
-		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-			var arrEmotes = JSON.parse(xmlhttp.responseText),
-				emotes = [];
-			
-			for (var i in arrEmotes) {
-				for (var j in arrEmotes[i])
-					emotes[j] = arrEmotes[i][j];
-			}
-			createTable(emotes);
-		}
-	}
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200)
+			createTable(JSON.parse(xmlhttp.responseText));
+	};
 	xmlhttp.open("GET", url, true);
 	xmlhttp.send();
 
-	function createTable(arr) {
+	function createTable(emotes) {
 		var cont=0
 			max = 5,
 			html = '';
-		
-		for (var i in arr){
-			if ( !cont )
-				html += '<tr>';
-			
-			html += '<td>\
-						<div class="emotes" align="center">\
-							<img src="' + arr[i].url + '">\
-							<br/>\
-							<span>:' + i + ':</span>\
-						</div>\
-					</td>'
-			cont++;
-			
-			if ( cont==max ){
-				html += '</tr>';
-				cont=0;
-			}
+
+		for (var i in emotes){
+			html += (!html ? '' : '<br/><br/>') + '\
+					<h2>' + i + '</h2>\
+					<table style="width: 100%;">\
+					<tbody>';
+					
+			for (var j in emotes[i]){
+				if ( !cont )
+					html += '<tr>';
+				
+				html += '<td>\
+							<div class="emotes" align="center">\
+								<img src="' + emotes[i][j].url + '">\
+								<br/>\
+								<span>:' + j + ':</span>\
+							</div>\
+						</td>'
+				cont++;
+				
+				if ( cont==max ){
+					html += '</tr>';
+					cont=0;
+				}
+			}			
+			html += '</tbody>\
+					</table>';
+			cont = 0;
 		}
-		
-		var table = document.getElementById('emotes');
+	
+		var table = document.getElementById('tables');
 		if ( !table)
 			return;
 			
