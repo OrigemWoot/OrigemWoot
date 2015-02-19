@@ -152,6 +152,11 @@
          "url":"https://i.imgur.com/yejRBgc.gif",
          "width":"50px"
       },
+      "babby":{  
+         "height":"35px",
+         "url":"https://i.imgur.com/u1O9yyD.png",
+         "width":"25px"
+      },
       "alpaca":{  
          "height":"50px",
          "url":"https://i.imgur.com/cLsx49C.gif",
@@ -196,6 +201,11 @@
          "url":"https://i.imgur.com/OZRWuwJ.gif",
          "width":"104px",
          "height":"50px"
+      },
+      "sanic":{  
+         "url":"https://i.imgur.com/er4UCZz.png",
+         "width":"38/px",
+         "height":"35px"
       },
    "tutstuts":{
          "url":"https://dl.dropboxusercontent.com/s/rnz9u2pmuqjsms1/tutstuts.gif",
@@ -363,28 +373,28 @@
          "width":"120px"
       },
       "dilma":{
-         "height":"44px",
-         "url":"http://i.imgur.com/Iqncb2s.png",
-         "width":"45px"
+         "height":"79px",
+         "url":"https://i.imgur.com/emL3hBV.png",
+         "width":"89px"
       },
        "dilma2":{
-         "height":"44px",
-         "url":"http://i.imgur.com/ON4nif8.png",
-         "width":"45px"
+         "height":"78px",
+         "url":"https://i.imgur.com/usdVJb3.jpg",
+         "width":"89px"
       },
       "dilma3":{
-         "height":"33px",
-         "url":"http://i.imgur.com/ZRvpeHC.png",
-         "width":"45px"
+         "height":"78px",
+         "url":"https://i.imgur.com/7eGFqGJ.jpg",
+         "width":"89px"
       },
       "dilmapalm":{
-         "height":"33px",
-         "url":"http://i.imgur.com/WjF45Pd.png",
-         "width":"45px"
+         "height":"78px",
+         "url":"https://i.imgur.com/Ub19Cm1.jpg",
+         "width":"89px"
       },
       "penes":{
          "height":"37px",
-         "url":"http://i.imgur.com/ypzUakJ.png",
+         "url":"https://i.imgur.com/ypzUakJ.png",
          "width":"71px"
       },
       "nãosei":{  
@@ -398,9 +408,9 @@
          "width":"28px"
       },
       "desgraça":{
-         "height":"28px",
-         "url":"http://i.imgur.com/I80DvSW.png?1",
-         "width":"28px"
+         "height":"74px",
+         "url":"https://i.imgur.com/erZNL5n.png",
+         "width":"93px"
       },
       "caue":{
          "height":"50px",
@@ -457,10 +467,15 @@
          "url":"https://i.imgur.com/vhExcIe.jpg",
          "width":"90px"
       },
+      "mizeravi":{  
+         "height":"82px",
+         "url":"https://i.imgur.com/4ILWtwV.png",
+         "width":"54px"
+      },
       "legal":{  
-         "height":"50px",
+         "height":"56px",
          "url":"https://i.imgur.com/NAvDJFl.jpg",
-         "width":"50px"
+         "width":"75px"
       },
       "fogo":{  
          "height":"63px",
