@@ -128,12 +128,12 @@
          "width":"75px"
       },
       "lennygif":{  
-         "height":90",
+         "height":"90",
          "url":"https://i.imgur.com/OSdFEcj.gif",
          "width":"104px"
       },
       "lennygif":{  
-         "height":"70",
+         "height":70",
          "url":"https://i.imgur.com/MRbkpXW.gif",
          "width":"128px"
       },
@@ -469,7 +469,7 @@
       },
       "prerigo":{  
          "height":"78px",
-         "url":"https://i.imgur.com/rdzc9ca.png?1;",
+         "url":"https://i.imgur.com/rdzc9ca.png",
          "width":"104px"
       },
       "suicídio":{  
@@ -553,7 +553,7 @@
          "height":"67px"
       },
       "exu":{  
-         "url":"http://i.imgur.com/V4DsMxC.png?1",
+         "url":"http://i.imgur.com/V4DsMxC.png",
          "width":"104px",
          "height":"78px"
       },
