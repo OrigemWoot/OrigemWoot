@@ -45,6 +45,11 @@
          "width":"28px",
          "height":"28px"
       },
+      "apaki":{  
+         "url":"https://i.imgur.com/7rk9I4y.png",
+         "width":"31px",
+         "height":"35px"
+      },
        "mayumi":{  
          "url":"https://i.imgur.com/Y7i3bd2.png",
          "width":"28px",
@@ -452,10 +457,30 @@
          "url":"https://i.imgur.com/6Xw3qVf.png",
          "width":"104px"
       },
+      "foda-se":{
+         "height":"90px",
+         "url":"https://i.imgur.com/8pBXLn7.gif",
+         "width":"106px"
+      },
       "palhaço":{  
          "url":"https://i.imgur.com/k6D8MdT.png",
          "width":"28px",
          "height":"28px"
+      },
+      "uau":{  
+         "url":"https://i.imgur.com/InFJRi3.gif",
+         "width":"108px",
+         "height":"88px"
+      },
+      "madruga":{  
+         "url":"https://i.imgur.com/OvDq257.gif",
+         "width":"108px",
+         "height":"88px"
+      },
+      "zoeira":{  
+         "url":"https://i.imgur.com/zVFnkQU.png",
+         "width":"90px",
+         "height":"80px"
       },
       "ficouoh":{  
          "url":"https://i.imgur.com/h1ZFm2P.jpg",
