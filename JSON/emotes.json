@@ -527,6 +527,11 @@
          "url":"https://i.imgur.com/984lnJt.jpg",
          "width":"85px"
       },
+      "sefodeu":{  
+         "height":"90px",
+         "url":"http://i.imgur.com/S51VdIi.jpg",
+         "width":"113px"
+      },
       "emsme":{  
          "height":"59px",
          "url":"https://i.imgur.com/pfQVT5U.jpg",
@@ -632,10 +637,15 @@
          "width":"104px",
          "height":"80px"
       },
-   "cazalbe":{  
+      "cazalbe":{  
          "url":"https://dl.dropboxusercontent.com/s/cmdveivyf883e23/cazalbe.gif",
          "width":"80px",
          "height":"54px"
+      },
+       "cazalbe2":{  
+         "url":"https://i.imgur.com/15XzVbp.jpg",
+         "width":"66px",
+         "height":"56px"
       },
         "nao":{
          "url":"https://i.imgur.com/XGAXb3O.png",
