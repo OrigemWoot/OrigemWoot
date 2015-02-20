@@ -449,8 +449,18 @@
       },
       "freestep":{  
          "height":"90px",
-         "url":"https://i.imgur.com/bfDKHgM.gif;",
+         "url":"https://i.imgur.com/bfDKHgM.gif",
          "width":"160px"
+      },
+      "burro":{  
+         "height":"90px",
+         "url":"https://i.imgur.com/qle8kwP.gif",
+         "width":"120xx"
+      },
+      "prerigo":{  
+         "height":"78px",
+         "url":"https://i.imgur.com/rdzc9ca.png?1;",
+         "width":"104px"
       },
       "suicídio":{  
          "height":"55px",
