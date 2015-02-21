@@ -67,7 +67,7 @@
       },
       "nathy":{  
          "height":"31px",
-         "url":"http://i.imgur.com/BhFIydj.png",
+         "url":"https://i.imgur.com/OoxKLfR.png",
          "width":"35px"
       },
       "arcadia":{  
@@ -187,6 +187,11 @@
          "url":"https://i.imgur.com/cLsx49C.gif",
          "width":"50px"
       },
+      "mgl":{  
+         "height":"94px",
+         "url":"https://i.imgur.com/vKXhX8b.gif",
+         "width":"94px"
+      },
       "nyan":{  
          "height":"50px",
          "url":"https://i.imgur.com/zkYnA9D.gif",
@@ -206,6 +211,11 @@
          "height":"50px",
          "url":"https://i.imgur.com/XcdvTtu.gif",
          "width":"50px"
+      },
+      "bait":{  
+         "url":"https://i.imgur.com/AyHjulQ.gif",
+         "width":"100px",
+         "height":"76px"
       },
       "avatar":{  
          "height":"50px",
@@ -517,6 +527,11 @@
          "url":"https://i.imgur.com/SpsBBF8.jpg",
          "width":"75px"
       },
+      "away":{  
+         "height":"88px",
+         "url":"https://i.imgur.com/RzY8ev4.gif",
+         "width":"104px"
+      },
       "faleceu":{  
          "height":"51px",
          "url":"https://i.imgur.com/vZE62y1.jpg",
@@ -533,9 +548,9 @@
          "width":"75px"
       },
       "ovo":{  
-         "height":"65px",
-         "url":"https://i.imgur.com/vhExcIe.jpg",
-         "width":"90px"
+         "height":"90px",
+         "url":"https://i.imgur.com/MojsPPc.gif",
+         "width":"110px"
       },
       "mizeravi":{  
          "height":"82px",
@@ -547,20 +562,40 @@
          "url":"https://i.imgur.com/NAvDJFl.jpg",
          "width":"75px"
       },
-      "fogo":{  
-         "height":"63px",
-         "url":"https://i.imgur.com/984lnJt.jpg",
-         "width":"85px"
+      "putavida":{  
+         "height":"88px",
+         "url":"http://i.imgur.com/dhnwM5I.gif",
+         "width":"104px"
       },
       "sefodeu":{  
          "height":"90px",
-         "url":"http://i.imgur.com/S51VdIi.jpg",
+         "url":"https://i.imgur.com/S51VdIi.jpg",
          "width":"113px"
+      },
+      "rica":{  
+         "height":"88px",
+         "url":"https://i.imgur.com/hzqgxR6.gif",
+         "width":"102px"
+      },
+      "mosh":{  
+         "height":"100px",
+         "url":"https://i.imgur.com/UQiM8Bh.gif",
+         "width":"150px"
+      },
+      "émentira":{  
+         "height":"80px",
+         "url":"https://i.imgur.com/JQEmF2m.gif",
+         "width":"96px"
       },
       "emsme":{  
          "height":"59px",
          "url":"https://i.imgur.com/pfQVT5U.jpg",
          "width":"79px"
+      },
+      "sujou":{  
+         "height":"88px",
+         "url":"https://i.imgur.com/hd29JPY.gif",
+         "width":"108px"
       },
       "empolgante":{  
          "height":"130px",
@@ -631,6 +666,11 @@
          "url":"https://i.imgur.com/jTncWAZ.png",
          "width":"28px",
          "height":"28px"
+      },
+      "aiai":{  
+         "url":"https://i.imgur.com/ET7tvuC.gif",
+         "width":"88px",
+         "height":"104px"
       },
       "vaicry":{  
          "url":"https://i.imgur.com/05uFYdE.png",
@@ -755,8 +795,8 @@
          "width":"104px",
          "height":"104px"
       },
-      "gozar":{  
-         "url":"https://i.imgur.com/wfWtmyq.png",
+      "Bam":{  
+         "url":"https://i.imgur.com/ckmKxPq.jpg",
          "width":"28px",
          "height":"28px"
       },
@@ -764,6 +804,11 @@
          "url":"https://i.imgur.com/1pIrVfq.png",
          "width":"28px",
          "height":"28px"
+      },
+      "monstrogif":{  
+         "url":"http://i.imgur.com/15hqUd0.gif",
+         "width":"104px",
+         "height":"88px"
       },
       "dança":{  
          "url":"https://i.imgur.com/E3dkL3t.gif",
@@ -774,6 +819,26 @@
          "url":"https://i.imgur.com/OgwkZzo.png",
          "width":"28px",
          "height":"28px"
+      },
+      "dlç2":{  
+         "url":"https://i.imgur.com/e445lXo.png",
+         "width":"123px",
+         "height":"75px"
+      },
+      "dlçgif":{  
+         "url":"https://i.imgur.com/1cU7mt3.gif",
+         "width":"104px",
+         "height":"80px"
+      },
+      "dragão":{  
+         "url":"http://i.imgur.com/b79bIsm.png",
+         "width":"107px",
+         "height":"86px"
+      },
+      "dinossauro":{  
+         "url":"https://i.imgur.com/T73QENt.png",
+         "width":"95px",
+         "height":"88px"
       },
       "oco":{  
          "url":"https://i.imgur.com/QSBygqu.png",
