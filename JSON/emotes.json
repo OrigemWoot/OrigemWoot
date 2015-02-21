@@ -285,6 +285,11 @@
          "width":"102px",
          "height":"90px"
       },
+      "jesuspalm":{  
+         "url":"https://i.imgur.com/tx0DZfO.jpg",
+         "width":"83px",
+         "height":"74px"
+      },
    "hitler":{
          "url":"https://dl.dropboxusercontent.com/s/51kbxw8lcbv69b2/hitler.gif",
          "width":"81px",
@@ -492,6 +497,11 @@
          "width":"108px",
          "height":"88px"
       },
+      "sim":{  
+         "url":"https://i.imgur.com/NL9o8ng.gif",
+         "width":"104px",
+         "height":"88px"
+      },
       "zoeira":{  
          "url":"https://i.imgur.com/zVFnkQU.png",
          "width":"90px",
@@ -567,10 +577,20 @@
          "url":"https://i.imgur.com/NAvDJFl.jpg",
          "width":"75px"
       },
+      "racalque":{  
+         "height":"90px",
+         "url":"https://i.imgur.com/BvOMvP9.gif",
+         "width":"118px"
+      },
       "putavida":{  
          "height":"88px",
          "url":"http://i.imgur.com/dhnwM5I.gif",
          "width":"104px"
+      },
+      "travadão2":{  
+         "height":"75px",
+         "url":"https://i.imgur.com/Li46Bhh.jpg",
+         "width":"85px"
       },
       "sefodeu":{  
          "height":"90px",
@@ -586,6 +606,16 @@
          "height":"88px",
          "url":"https://i.imgur.com/hzqgxR6.gif",
          "width":"102px"
+      },
+      "viadãobonito":{  
+         "height":"72px",
+         "url":"https://i.imgur.com/zkO4uuS.jpg",
+         "width":"95px"
+      },
+      "viadão":{  
+         "height":"80px",
+         "url":"https://i.imgur.com/t1YAxJp.jpg",
+         "width":"107px"
       },
       "mosh":{  
          "height":"100px",
