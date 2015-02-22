@@ -41,7 +41,6 @@
 			3423485,
 			3788214,
 			3764160,
-			4311237,
 			3983716,
 			5477951,
 			5458109,
@@ -52,6 +51,17 @@
 			 "icon" : "https://i.imgur.com/WBLfba1.png",
 			 "langkey": "titlevip",
 			 "color": "#FF7700"
+		}
+	},
+	"vip3" : {
+		"ids" : [
+			4311237
+		],
+		"rollover" : {
+			 "classteam" : "vip3",
+			 "icon" : "https://i.imgur.com/lOzPjIJ.png",
+			 "langkey": "titlevip",
+			 "color": "#FF69E1"
 		}
 	},
 	"divulgadores" : {
