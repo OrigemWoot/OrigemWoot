@@ -267,6 +267,11 @@
          "width":"104px",
          "height":"68px"
       },
+      "surprise":{
+         "url":"https://i.imgur.com/bdP6uzI.gif",
+         "width":"102px",
+         "height":"76px"
+      },
       "mosh":{  
          "height":"100px",
          "url":"https://i.imgur.com/UQiM8Bh.gif",
@@ -597,6 +602,26 @@
          "url":"https://i.imgur.com/Li46Bhh.jpg",
          "width":"85px"
       },
+      "viadagem":{  
+         "height":"89px",
+         "url":"https://i.imgur.com/wXmhCyx.png",
+         "width":"101px"
+      },
+      "costinha":{  
+         "height":"82px",
+         "url":"https://i.imgur.com/K4x7UqI.gif",
+         "width":"102px"
+      },
+      "rosque":{  
+         "height":"69px",
+         "url":"https://i.imgur.com/3bs2prg.jpg",
+         "width":"92px"
+      },
+      "yudi":{  
+         "height":"93px",
+         "url":"https://i.imgur.com/cIObhMl.jpg",
+         "width":"127px"
+      },
       "sefodeu":{  
          "height":"90px",
          "url":"https://i.imgur.com/S51VdIi.jpg",
@@ -682,6 +707,11 @@
          "width":"70px",
          "height":"48px"
       },
+      "nadar":{  
+         "url":"https://i.imgur.com/t3tpnOf.gif",
+         "width":"120px",
+         "height":"90px"
+      },
       "quente":{  
          "url":"https://i.imgur.com/VU5nU6H.jpg",
          "width":"100px",
@@ -691,6 +721,16 @@
          "url":"https://i.imgur.com/V4DsMxC.png",
          "width":"104px",
          "height":"78px"
+      },
+      "pesquisa":{  
+         "url":"https://i.imgur.com/hlOb17t.jpg",
+         "width":"261px",
+         "height":"62px"
+      },
+      "piruleta":{  
+         "url":"https://i.imgur.com/O9DIs16.gif",
+         "width":"160px",
+         "height":"90px"
       },
       "jooj":{  
          "url":"https://i.imgur.com/JP8UacY.gif",
@@ -899,6 +939,11 @@
          "url":"https://i.imgur.com/QSBygqu.png",
          "width":"28px",
          "height":"28px"
+      },
+      "pikachurusso":{  
+         "url":"https://i.imgur.com/hxhBmOG.jpg",
+         "width":"163px",
+         "height":"109px"
       },
       "drift":{  
          "url":"https://i.imgur.com/M7TtL53.gif",
