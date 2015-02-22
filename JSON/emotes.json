@@ -709,7 +709,22 @@
       },
       "nadar":{  
          "url":"https://i.imgur.com/t3tpnOf.gif",
-         "width":"120px",
+         "width":"102px",
+         "height":"90px"
+      },
+      "psg":{  
+         "url":"https://i.imgur.com/7DGHT1Z.jpg",
+         "width":"161px",
+         "height":"90px"
+      },
+      "fofão":{  
+         "url":"https://i.imgur.com/8Mq3tPR.gif",
+         "width":"1px",
+         "height":"90px"
+      },
+      "rei":{  
+         "url":"https://i.imgur.com/7Nyigun.jpg",
+         "width":"201px",
          "height":"90px"
       },
       "quente":{  
@@ -764,7 +779,7 @@
       },
       "aiai":{  
          "url":"https://i.imgur.com/ET7tvuC.gif",
-         "width":"80px",
+         "width":"88px",
          "height":"104px"
       },
       "vaicry":{  
