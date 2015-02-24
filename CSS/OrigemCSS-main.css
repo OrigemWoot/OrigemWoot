@@ -207,7 +207,7 @@ background-repeat: no-repeat !important;}
 .ow-vip1  > .msg > .from > .un, div[data-cid~="ow-vip1"]  > .msg > .from > .un { color: #FF69E1 !important; }
 .ow-vip2  > .msg > .from > .un, div[data-cid~="ow-vip2"]  > .msg > .from > .un { color: #FF7700 !important; }
 .ow-vip3  > .msg > .from > .un, div[data-cid~="ow-vip3"]  > .msg > .from > .un { color: #FF69E1 !important; }
-.ow-vip4  > .msg > .from > .un, div[data-cid~="ow-vip4"]  > .msg > .from > .un { color: #FF7700 !important; }
+.ow-vip4  > .msg > .from > .un, div[data-cid~="ow-vip4"]  > .msg > .from > .un { color: #00FFFF !important; }
 
 .ow-dev .bdg , div[data-cid~="ow-dev"] .bdg{ background-image: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1); background-size: cover; }
 .ow-helper .bdg, div[data-cid~="ow-helper"] .bdg { background-image: url(https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1); background-size: cover; }
