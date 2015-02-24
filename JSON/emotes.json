@@ -522,6 +522,16 @@
          "width":"108px",
          "height":"88px"
       },
+      "burraum":{  
+         "url":"https://i.imgur.com/gV9KPyI.gif",
+         "width":"106px",
+         "height":"86px"
+      },
+      "nentendi":{  
+         "url":"https://i.imgur.com/AcN6tOG.gif",
+         "width":"106px",
+         "height":"80px"
+      },
       "madruga":{  
          "url":"https://i.imgur.com/OvDq257.gif",
          "width":"108px",
@@ -617,10 +627,20 @@
          "url":"https://i.imgur.com/BvOMvP9.gif",
          "width":"118px"
       },
+      "negócio":{  
+         "height":"88px",
+         "url":"https://i.imgur.com/rPIhhjM.gif",
+         "width":"104px"
+      },
       "calmafera":{  
          "height":"95px",
          "url":"https://i.imgur.com/ZvPsaZ7.jpg",
          "width":"103px"
+      },
+      "ai":{  
+         "height":"95px",
+         "url":"https://i.imgur.com/9nPt2Dk.gif",
+         "width":"120px"
       },
       "naopodese":{  
          "height":"90px",
