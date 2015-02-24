@@ -65,6 +65,18 @@
 			 "color": "#FF69E1"
 		}
 	},
+	"vip4" : {
+		"ids" : [
+			5727438,
+			3426664
+		],
+		"rollover" : {
+			 "classteam" : "vip4",
+			 "icon" : "https://i.imgur.com/WBLfba1.png",
+			 "langkey": "titlevip",
+			 "color": "#FF7700"
+		}
+	},
 	"divulgadores" : {
 		"ids" : [
                         3971644,
