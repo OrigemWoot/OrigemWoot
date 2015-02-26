@@ -92,6 +92,11 @@
    }
  },
  "Miscellaneous" : {
+      "unclesam":{  
+         "height":"95px",
+         "url":"https://i.imgur.com/jkMm5YL.jpg",
+         "width":"70px"
+        },
       "Kappa":{  
          "height":"28px",
          "url":"https://i.imgur.com/HWTtoSD.png",
@@ -147,10 +152,20 @@
          "url":"https://i.imgur.com/BpQWgTs.gif",
          "width":"75px"
       },
+      "notsureif":{  
+         "height":"82px",
+         "url":"https://i.imgur.com/4jPyRG2.png",
+         "width":"81px"
+      },
       "lennygif":{  
          "height":"90px",
          "url":"https://i.imgur.com/OSdFEcj.gif",
          "width":"104px"
+      },
+      "gay":{  
+         "height":"80px",
+         "url":"https://i.imgur.com/zXpqTDT.gif",
+         "width":"120px"
       },
       "cage":{  
          "height":"70px",
@@ -216,6 +231,21 @@
          "height":"90px",
          "url":"https://i.imgur.com/hpViBhw.gif",
          "width":"143px"
+      },
+      "highguy":{
+         "height":"82px",
+         "url":"https://i.imgur.com/0XXi7aF.png",
+         "width":"91px"
+      },
+      "highguy2":{
+         "height":"86px",
+         "url":"https://i.imgur.com/B6wKunc.png",
+         "width":"105px"
+      },
+      "sexyhighguy":{
+         "height":"77px",
+         "url":"https://i.imgur.com/ZvpeZVv.png",
+         "width":"101px"
       },
       "ponny2":{  
          "height":"50px",
@@ -286,6 +316,11 @@
          "url":"https://i.imgur.com/bdP6uzI.gif",
          "width":"102px",
          "height":"76px"
+      },
+      "wonka":{
+         "url":"https://i.imgur.com/TfsmQ3Z.jpg",
+         "width":"145px",
+         "height":"87px"
       },
       "mosh":{  
          "height":"100px",
@@ -532,6 +567,11 @@
          "width":"106px",
          "height":"86px"
       },
+      "ibagens":{  
+         "url":"https://i.imgur.com/bl0tfBN.jpg",
+         "width":"135px",
+         "height":"90px"
+      },
       "nentendi":{  
          "url":"https://i.imgur.com/AcN6tOG.gif",
          "width":"106px",
@@ -676,6 +716,21 @@
          "height":"69px",
          "url":"https://i.imgur.com/3bs2prg.jpg",
          "width":"92px"
+      },
+      "sexo":{  
+         "height":"80px",
+         "url":"https://i.imgur.com/SXXcqnB.gif",
+         "width":"120px"
+      },
+      "hmm":{  
+         "height":"100px",
+         "url":"https://i.imgur.com/ofTagdg.gif",
+         "width":"120px"
+      },
+      "émermo":{  
+         "height":"90px",
+         "url":"https://i.imgur.com/Ps0U7pW.gif",
+         "width":"120px"
       },
       "yudi":{  
          "height":"93px",
