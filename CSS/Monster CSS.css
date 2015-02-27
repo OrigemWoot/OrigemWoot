@@ -150,7 +150,7 @@ box-shadow: 0 0 15px #12A9E0 !important; }
 #playback-controls .button.hd { background: linear-gradient(to bottom,rgba(68, 68, 68, 0.6) 0,rgba(226, 37, 0, 0.73) 100%);
 box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 /* Custom icons */
-.icon { background-image: url('https://i.imgur.com/cuayjU7.png'); } /* Só adicione ícones abaixo DESTE ! */
+.icon { background-image: url('https://i.imgur.com/XaLiXnX.png'); } /* Só adicione ícones abaixo DESTE ! */
 #your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/H3MZcOG.png'); top: 15px; }
 #user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 #footer-user .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
@@ -417,7 +417,7 @@ height: 500px;
 position: absolute;
 top: 54px;
 display: none;
-z-index: 12;
+z-index: 13;
 }
 .origem-menu-section {
 border-bottom: 1px solid #aaa;
