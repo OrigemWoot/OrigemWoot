@@ -75,7 +75,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-animation:fadein 0.6s;
 -ms-animation:fadein 0.6s;  -o-animation:fadein 0.6s; animation:fadein 0.6s; }
     
-/* Itens Relacionados ao Menu do Ìcone do plug! */
+/* Itens Relacionados ao Menu do √≠cone do plug! */
 
 #app-menu {max-width: 400px    !important;}
 #app-menu .list {max-width: 400px !important;}
@@ -128,7 +128,7 @@ box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 .communities .grid .cell  {border-radius: 30px; }
 .tab-menu button.selected { background: #12A9E0 !important; box-shadow: 0 0 15px #12A9E0 !important; border-radius: 30px; }
 
- /* Itens relacionados aos cÌrculos de status! */
+ /* Itens relacionados aos c√≠rculos de status! */
 
 .available  .thumb.medium, .available  .thumb.large { border: 2px solid #599d24; box-shadow: 0 0 10px 5px #599d24; }
 #user-rollover .meta.available .status i { border: 2px solid #599d24; box-shadow: 0 0 10px 5px #599d24; }
@@ -156,7 +156,7 @@ box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #user-rollover .meta.away { background: linear-gradient(to bottom,rgba(109, 92, 40, 0.5) 0,rgba(28, 31, 37, 1) 100%);  opacity: .85;}
 #footer-user .menu {background-color: rgba(0,0,0,0.85) !important; }
  #user-rollover .meta .joined {color: #eee;}
-/* Itens Relacionados ao mouse sobre o vÌdeo atual ! */
+/* Itens Relacionados ao mouse sobre o v√≠deo atual ! */
 
 /*#playback-controls .button.snooze { background: linear-gradient(to bottom,rgba(68, 68, 68, 0) 0,rgba(180, 71, 216, 0.73) 100%) !important;
 box-shadow: 0 0 10px #C41EC3 !important; }
@@ -171,14 +171,14 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }*/
 
 /* Custom icons */
 
-.icon { background-image: url('https://i.imgur.com/TEuRKEn.png'); } /* SÛ adicione Ìcones abaixo DESTE ! */
+.icon { background-image: url('https://i.imgur.com/vmEnSAZ.png'); } /* S√≥ adicione √≠cones abaixo DESTE ! */
 
 #your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/lyAmsZm.png'); top: 15px; }
 #user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 #footer-user .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 
 
-/* Evento do Ìcone do meh! */
+/* Evento do √≠cone do meh! */
 #user-lists .list { -webkit-animation:fadein 0.5s; -ms-animation:fadein 0.5s; animation:fadein 0.5; }
 #user-lists .list.room .user .icon-meh{ left:auto; right:8px; top:-1px }
 
@@ -205,7 +205,7 @@ border-radius: 10px 0px 10px 0px !important; background: #12A9E0; box-shadow: 0 
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 
-/* Room Info / OpÁıes no menu da sala e botıes! */
+/* Room Info / Op√ß√µes no menu da sala e bot√µes! */
 
 #room-info { opacity:  .90; }
 #room-info .button.disabled { background: linear-gradient(to bottom, #F46B40 0px, #6C3C14 100%)!important;
@@ -215,7 +215,7 @@ box-shadow: 0 0 15px #12A9E0 !important; }
 .app-header, .in-room, #room-info .edit { background: linear-gradient(to bottom,rgba(255, 255, 255, 0.05) 0,rgba(0, 0, 0, 0.75) 100%) !important; }
 #room-info .lock-toggle, #room-info .cycle-toggle { background: linear-gradient(to top,rgba(77, 77, 77, 1) 0,rgba(15, 15, 30, 1) 100%); }
 
-/* Botıes e menus de di·logo ! */
+/* Bot√µes e menus de di√°logo ! */
 
 
 .dialog-frame .button { background: rgba(24, 24, 24, 0.44); }
@@ -255,7 +255,7 @@ box-shadow: 0 0 10px #313131 !important; }
 #footer-user .back { background: linear-gradient(to top,rgba(77, 77, 77, 1) 0,rgba(15, 15, 30, 1) 100%) !important; }
 #footer { background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%) !important; }
 
-/* Botıes no menu superior que faltavam adicionar transparÍncia ! */
+/* Bot√µes no menu superior que faltavam adicionar transpar√™ncia ! */
 
 #history-button, #history-button .selected, .header-panel-button, #friends-button, #user-lists .list.staff .group 
 { background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0,rgba(0, 0, 0, 0) 100%) !important; }
@@ -266,7 +266,7 @@ box-shadow: 0 0 10px #313131 !important; }
 #user-view { background: linear-gradient(to right,rgba(0, 0, 0, 0.98) 0,rgba(0, 0, 0, 0.85) 100%) !important; }
 #user-friends .list .row { background: linear-gradient(to right,rgba(0, 0, 0, 0.17) 0,rgba(255, 255, 255, 0.09) 100%) !important; }
 
-/* Efeitos de sombras nos botıes esquerdos de DJ */
+/* Efeitos de sombras nos bot√µes esquerdos de DJ */
 
 #dj-button  { background: linear-gradient(to bottom,rgba(0, 0, 0, 0.37) 0,rgba(0, 0, 0, 0.44) 100%);  }
 #dj-button.is-locked .left, #dj-button.is-full .left { 
