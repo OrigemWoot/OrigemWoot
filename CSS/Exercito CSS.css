@@ -167,7 +167,7 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 
 /* Custom icons */
 
-.icon { background-image: url('https://i.imgur.com/cuayjU7.png'); } /* Só adicione ícones abaixo DESTE ! */
+.icon { background-image: url('https://i.imgur.com/XaLiXnX.png'); } /* Só adicione ícones abaixo DESTE ! */
 
 #your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/H3MZcOG.png'); top: 15px; }
 #user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
@@ -484,7 +484,7 @@ background: #4EE012;
 	position: absolute;
 	top: 54px;
 	display: none;
-	z-index: 12;
+	z-index: 13;
 }
 
 .origem-menu-section {
