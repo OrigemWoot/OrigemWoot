@@ -797,6 +797,16 @@
          "url":"https://i.imgur.com/t1YAxJp.jpg",
          "width":"107px"
       },
+      "parede":{  
+         "height":"90px",
+         "url":"https://i.imgur.com/deJHDnl.gif",
+         "width":"160px"
+      },
+      "pocaralho":{  
+         "height":"90px",
+         "url":"https://i.imgur.com/NVgxpMW.jpg",
+         "width":"110px"
+      },
       "émentira":{  
          "height":"80px",
          "url":"https://i.imgur.com/JQEmF2m.gif",
@@ -929,8 +939,8 @@
       },
       "aiai":{  
          "url":"https://i.imgur.com/ET7tvuC.gif",
-         "width":"88px",
-         "height":"104px"
+         "width":"104px",
+         "height":"88px"
       },
       "vaicry":{  
          "url":"https://i.imgur.com/05uFYdE.png",
