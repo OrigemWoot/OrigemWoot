@@ -172,6 +172,26 @@
          "url":"https://i.imgur.com/MRbkpXW.gif",
          "width":"128px"
       },
+      "gandalf":{
+      	"width":"140px",
+      	"height":"70px",
+      	"url":"https://i.imgur.com/QbVCQEa.gif"
+      },
+      "skate":{
+      	"width":"123px",
+      	"height":"92px",
+      	"url":"https://i.imgur.com/KL4bPJG.gif"
+      },
+      "legolas":{
+      	"width":"130px",
+      	"height":"97px",
+      	"url":"https://i.imgur.com/JokF01j.gif"
+      },
+      "sax":{
+      	"width":"123px",
+      	"height":"92px",
+      	"url":"https://i.imgur.com/FCrmC79.gif"
+      },
       "sanicgif":{  
          "height":"90px",
          "url":"https://i.imgur.com/52yzQ5I.gif",
@@ -642,6 +662,36 @@
          "url":"https://i.imgur.com/zVFnkQU.png",
          "width":"90px",
          "height":"80px"
+      },
+      "cachoeira":{
+      	"height":"89px",
+      	"url":"https://i.imgur.com/sb0U2a7.png",
+      	"width":"120px"
+      },
+      "popeye":{
+      	"width":"123px",
+      	"height":"92px",
+      	"url":"https://i.imgur.com/HvCD34r.gif"
+      },
+      "diney":{
+      	"width":"123px",
+      	"height":"92px",
+      	"url":"https://i.imgur.com/6IN6Pxu.gif"
+      },
+      "goku":{
+      	"width":"101px",
+      	"height":"75px",
+      	"url":"https://i.imgur.com/zW2T4Ly.png"
+      },
+      "coração":{
+      	"width":"90px",
+      	"height":"90px",
+      	"url":"https://i.imgur.com/stGYuBH.jpg"
+      },
+      "dribe4":{
+      	"width":"136px",
+      	"height":"90px",
+      	"url":"https://i.imgur.com/CjizyLK.jpg"
       },
       "ficouoh":{  
          "url":"https://i.imgur.com/h1ZFm2P.jpg",
