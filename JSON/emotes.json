@@ -232,6 +232,16 @@
          "url":"https://i.imgur.com/u1O9yyD.png",
          "width":"25px"
       },
+      "legolas":{  
+         "height":"97px",
+         "url":"https://i.imgur.com/oZcyeUz.gif",
+         "width":"130px"
+      },
+      "gandalf":{  
+         "height":"70px",
+         "url":"https://i.imgur.com/lnhZFB6.gif",
+         "width":"140px"
+      },
       "alpaca":{  
          "height":"50px",
          "url":"https://i.imgur.com/cLsx49C.gif",
@@ -677,6 +687,51 @@
          "height":"88px",
          "url":"https://i.imgur.com/RzY8ev4.gif",
          "width":"104px"
+      },
+      "saxguy":{  
+         "height":"92px",
+         "url":"https://i.imgur.com/86nV3Ms.gif",
+         "width":"123px"
+      },
+      "tapa":{  
+         "height":"75px",
+         "url":"http://i.imgur.com/p8bZveT.png",
+         "width":"101px"
+      },
+      "café":{  
+         "height":"81px",
+         "url":"https://i.imgur.com/lMWBD0j.png",
+         "width":"104px"
+      },
+      "diney":{  
+         "height":"92px",
+         "url":"https://i.imgur.com/wPY0bOk.gif",
+         "width":"123px"
+      },
+      "deselegante":{  
+         "height":"89px",
+         "url":"https://i.imgur.com/H8PJvmc.png",
+         "width":"118px"
+      },
+      "cu":{  
+         "height":"92px",
+         "url":"https://i.imgur.com/DGaDOyK.gif",
+         "width":"123px"
+      },
+      "cachoeira":{  
+         "height":"89px",
+         "url":"https://i.imgur.com/M0OKa03.png",
+         "width":"120px"
+      },
+      "picapau":{  
+         "height":"77px",
+         "url":"http://i.imgur.com/EpfCXRM.png",
+         "width":"102px"
+      },
+      "popeye":{  
+         "height":"92px",
+         "url":"https://i.imgur.com/O5nQ086.gif",
+         "width":"123px"
       },
       "faleceu":{  
          "height":"51px",
