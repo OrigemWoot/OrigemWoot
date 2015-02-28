@@ -15,6 +15,16 @@
          "url":"https://i.imgur.com/ecraLzk.png",
          "width":"31px"
       },
+      "elvis":{
+         "height":"100px",
+         "url":"https://i.imgur.com/xLwvbZB.png",
+         "width":"100px"
+      },
+      "waxy":{
+         "height":"63px",
+         "url":"https://i.imgur.com/18IR15W.jpg",
+         "width":"56px"
+      },
       "guxe":{  
          "url":"https://i.imgur.com/7WgOe8P.png",
          "width":"31px",
@@ -217,6 +227,11 @@
          "url":"https://i.imgur.com/bmmX86O.gif",
          "width":"50px"
       },
+      "nichi":{  
+         "height":"65px",
+         "url":"https://i.imgur.com/TguLQ6K.jpg",
+         "width":"57px"
+      },
       "bob":{  
          "height":"50px",
          "url":"https://i.imgur.com/yejRBgc.gif",
@@ -327,10 +342,40 @@
          "width":"70px",
          "height":"48px"
       },
+      "lastkill":{  
+         "url":"https://i.imgur.com/rUCzGSf.jpg",
+         "width":"136px",
+         "height":"89px"
+      },
+      "fishbang":{  
+         "url":"https://i.imgur.com/BC9F1qV.gif",
+         "width":"120px",
+         "height":"80px"
+      },
+      "feelsbad":{  
+         "url":"https://i.imgur.com/Io4Zvs3.jpg",
+         "width":"73px",
+         "height":"73px"
+      },
+      "fail":{  
+         "url":"https://i.imgur.com/94puraf.gif",
+         "width":"120px",
+         "height":"80px"
+      },
+      "doge":{  
+         "url":"https://i.imgur.com/9rQZdFj.jpg",
+         "width":"89px",
+         "height":"86px"
+      },
       "vibe":{  
          "url":"https://i.imgur.com/w0xUqkt.gif",
          "width":"70px",
          "height":"48px"
+      },
+      "bunchie":{  
+         "url":"https://i.imgur.com/6diM286.gif",
+         "width":"70px",
+         "height":"80px"
       },
       "oh":{  
          "url":"https://i.imgur.com/OZRWuwJ.gif",
@@ -773,6 +818,26 @@
          "url":"https://i.imgur.com/M0OKa03.png",
          "width":"120px"
       },
+      "vaifodase":{  
+         "height":"83px",
+         "url":"https://i.imgur.com/b3zJklr.jpg",
+         "width":"84px"
+      },
+      "poder":{  
+         "height":"60px",
+         "url":"https://i.imgur.com/DxHp6Ey.jpg",
+         "width":"133px"
+      },
+      "madrugada":{  
+         "height":"86px",
+         "url":"https://i.imgur.com/ABFs2gU.jpg",
+         "width":"92px"
+      },
+      "pergunto":{  
+         "height":"80px",
+         "url":"https://i.imgur.com/nz9q8oa.jpg",
+         "width":"112px"
+      },
       "picapau":{  
          "height":"77px",
          "url":"http://i.imgur.com/EpfCXRM.png",
@@ -913,10 +978,35 @@
          "url":"https://i.imgur.com/hzqgxR6.gif",
          "width":"102px"
       },
+      "rica":{  
+         "height":"86px",
+         "url":"https://i.imgur.com/ORjnzfn.jpg",
+         "width":"64px"
+      },
+      "demacol":{  
+         "height":"97px",
+         "url":"https://i.imgur.com/Bdi1ADi.jpg",
+         "width":"70px"
+      },
+      "chorei":{  
+         "height":"88px",
+         "url":"https://i.imgur.com/hFFM8Pn.jpg",
+         "width":"104px"
+      },
+      "brasil":{  
+         "height":"74px",
+         "url":"https://i.imgur.com/o43kLTx.jpg",
+         "width":"112px"
+      },
       "viadãobonito":{  
          "height":"72px",
          "url":"https://i.imgur.com/zkO4uuS.jpg",
          "width":"95px"
+      },
+      "bengay":{  
+         "height":"40px",
+         "url":"https://i.imgur.com/RbmI3ot.jpg",
+         "width":"97px"
       },
       "viadão":{  
          "height":"80px",
@@ -1093,11 +1183,6 @@
          "width":"120px",
          "height":"90px"
       },
-       "loko":{  
-         "url":"https://i.imgur.com/WgHIVeP.gif",
-         "width":"120px",
-         "height":"90px"
-      },
       "nigga":{  
          "url":"https://i.imgur.com/4OcxTYV.gif",
          "width":"54px",
@@ -1255,6 +1340,11 @@
          "url":"https://i.imgur.com/T73QENt.png",
          "width":"95px",
          "height":"88px"
+      },
+      "dinossauro2":{  
+         "url":"https://i.imgur.com/0nk9NBf.gif",
+         "width":"104px",
+         "height":"84px"
       },
       "oco":{  
          "url":"https://i.imgur.com/QSBygqu.png",
