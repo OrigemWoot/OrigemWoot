@@ -365,7 +365,18 @@
          "url":"https://i.imgur.com/jGyKtjc.png",
          "width":"160px",
          "height":"90px"
-      },"wtfgif":{
+      },
+      "hhoogif":{
+      	"url":"https://i.imgur.com/FOrMJt3.gif",
+      	"width":"120px",
+      	"height":"90px"
+      },
+      "feargif":{  
+      	"url":"https://i.imgur.com/w7uz0vw.gif",
+      	"width":"160px",
+      	"height":"90px"
+      },
+      "wtfgif":{
          "url":"https://dl.dropboxusercontent.com/s/ky65dm617j7nkv2/wtf.gif",
          "width":"160px",
          "height":"90px"
