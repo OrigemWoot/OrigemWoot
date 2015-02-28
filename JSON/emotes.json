@@ -177,11 +177,6 @@
       	"height":"70px",
       	"url":"https://i.imgur.com/QbVCQEa.gif"
       },
-      "skate":{
-      	"width":"123px",
-      	"height":"92px",
-      	"url":"https://i.imgur.com/KL4bPJG.gif"
-      },
       "legolas":{
       	"width":"130px",
       	"height":"97px",
@@ -682,6 +677,11 @@
       	"width":"101px",
       	"height":"75px",
       	"url":"https://i.imgur.com/zW2T4Ly.png"
+      },
+      "skate":{
+      	"width":"123px",
+      	"height":"92px",
+      	"url":"https://i.imgur.com/KL4bPJG.gif"
       },
       "coração":{
       	"width":"90px",
