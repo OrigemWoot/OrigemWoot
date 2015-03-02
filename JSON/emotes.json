@@ -192,6 +192,11 @@
       	"height":"92px",
       	"url":"https://i.imgur.com/FCrmC79.gif"
       },
+      "darkness":{
+      	"width":"187px",
+      	"height":"142px",
+      	"url":"http://i.imgur.com/xQLMoma.jpg"
+      },
       "sanicgif":{  
          "height":"90px",
          "url":"https://i.imgur.com/52yzQ5I.gif",
@@ -206,6 +211,11 @@
          "height":"75px",
          "url":"https://i.imgur.com/7pjGsQX.jpg",
          "width":"65px"
+      },
+      "feels2":{  
+         "height":"93px",
+         "url":"https://i.imgur.com/huHTzIU.jpg",
+         "width":"75px"
       },
       "popcorn":{
          "height":"90px",
@@ -823,6 +833,67 @@
          "url":"https://i.imgur.com/DxHp6Ey.jpg",
          "width":"133px"
       },
+      "cachorra":{  
+         "height":"87px",
+         "url":"https://i.imgur.com/MpFRqto.jpg",
+         "width":"81px"
+      },
+      "baforada":{  
+         "height":"92px",
+         "url":"https://i.imgur.com/1ROrlOJ.jpg",
+         "width":"141px"
+      },
+      "ronaldinho":{  
+         "height":"72px",
+         "url":"https://i.imgur.com/fitbnt9.jpg",
+         "width":"84px"
+      },
+      "dikarada":{  
+         "height":"88px",
+         "url":"https://i.imgur.com/cWOiX1V.jpg",
+         "width":"88px"
+      },
+      "espertalhão":{  
+         "height":"69px",
+         "url":"https://i.imgur.com/ToQAlgf.jpg",
+         "width":"82px"
+      },
+      "hipotenusa":{  
+         "height":"91px",
+         "url":"https://i.imgur.com/q8bjQQ0.jpg",
+         "width":"105px"
+      },
+      "lençóis":{  
+         "height":"115px",
+         "url":"https://i.imgur.com/E6TwxMO.jpg",
+         "width":"146px"
+      },
+      "mordida":{  
+         "height":"106px",
+         "url":"https://i.imgur.com/Xg3UCOz.jpg",
+         "width":"82px"
+      },
+      "naburo":{  
+         "height":"92px",
+         "url":"https://i.imgur.com/EFCv0C3.jpg",
+         "width":"103px"
+      },
+      "paladino":{  
+         "height":"102px",
+         "url":"https://i.imgur.com/qgxzYXU.jpg",
+         "width":"110px"
+      },
+      "piru":{  
+         "height":"96px",
+         "url":"https://i.imgur.com/Huuxz9x.jpg",
+         "width":"85px"
+      },
+      "bopiti":{  
+         "height":"86px",
+         "url":"https://i.imgur.com/DfoiG3t.jpg",
+         "width":"121px"
+      },
+   
       "madrugada":{  
          "height":"86px",
          "url":"https://i.imgur.com/ABFs2gU.jpg",
