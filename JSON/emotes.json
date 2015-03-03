@@ -571,10 +571,10 @@
          "url":"https://i.imgur.com/i0X4JGS.png;",
          "width":"134px"     
       },
-   "cj": {
-            "height": "48px",
-            "width": "38px",
-            "url": "https://i.imgur.com/32Nnqmc.png"
+      "cj": {
+        "height": "48px",
+        "width": "38px",
+        "url": "https://i.imgur.com/32Nnqmc.png"
         },
        "pei":{  
          "url":"https://i.imgur.com/PsxiB3u.gif",
@@ -831,6 +831,21 @@
       "vaifodase":{  
          "height":"83px",
          "url":"https://i.imgur.com/b3zJklr.jpg",
+         "width":"84px"
+      },
+      "100%":{  
+         "height":"84px",
+         "url":"https://i.imgur.com/Dk0yeEr.jpg",
+         "width":"309px"
+      },
+      "kiko":{  
+         "height":"90px",
+         "url":"https://i.imgur.com/yp0iKfs.gif",
+         "width":"144px"
+      },
+      "faustek":{  
+         "height":"89px",
+         "url":"https://i.imgur.com/Ciet3Lh.jpg",
          "width":"84px"
       },
       "poder":{  
