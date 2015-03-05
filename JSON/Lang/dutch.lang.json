@@ -41,6 +41,8 @@
     "chtImgs":            "Toon afbeeldingen",
     "afkResp":            "AFK Bericht",
 	"afkTextF":			  "AFK Bericht",
+	"aafk_title":		  "Anti-AFK msg",
+	"aafkTextF":		  "Anti-AFK message",
 	"bgTextF":			  "Afbeelding URL",
 	"default": 			  "Standaard",
 	"waitList":			  "Wachtlijst",
