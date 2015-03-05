@@ -255,6 +255,10 @@
 				"https://i.imgur.com/JKFzCE6.jpg",
 				"https://i.imgur.com/Q8bsy9d.jpg"
 			]
+		},
+		"salinha-da-nathy" : {
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Farofinha%20CSS.css",
+			"overridecss" : true
 		}
 	}
 }
