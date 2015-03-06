@@ -240,7 +240,7 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 /* Barra de EXP */
 .experience .xp .bar .progress {
 border-radius: 10px 0px 10px 0px !important; background: #F70000; box-shadow: 0 0 10px 5px #F70000; }
-#footer-user .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #F70000; box-shadow: 0 0 15px #F70000 !important; }
+#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #F70000; box-shadow: 0 0 15px #F70000 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 
