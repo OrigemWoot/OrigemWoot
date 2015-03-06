@@ -194,7 +194,7 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 .experience .xp .next-level, .app-right .friends .list .row .room { color: #FFFFFF !important; }
 
 /* Barra de EXP */
-#footer-user .bar .progress, .experience .xp .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #22C717; box-shadow: 0 0 15px #1FE012 !important; }
+#footer-user .info .bar .progress, .experience .xp .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #22C717; box-shadow: 0 0 15px #1FE012 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 
