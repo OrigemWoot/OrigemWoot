@@ -362,7 +362,7 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
                 }
                 .experience .xp .bar .progress {
 border-radius: 10px 0px 10px 0px !important; background: #00cf00; box-shadow: 0 0 10px 5px #00cf00; }
-#footer-user .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #00cf00; box-shadow: 0 0 15px #00cf00 !important; }
+#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #00cf00; box-shadow: 0 0 15px #00cf00 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
                 
