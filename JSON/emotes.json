@@ -16,9 +16,14 @@
          "width":"31px"
       },
       "elvis":{
-         "height":"100px",
-         "url":"https://i.imgur.com/xLwvbZB.png",
-         "width":"100px"
+         "height":"41px",
+         "url":"https://i.imgur.com/tN1LGVQ.jpg",
+         "width":"35px"
+      },
+      "blackwave":{
+         "height":"36px",
+         "url":"https://i.imgur.com/Op15E4Z.jpg",
+         "width":"45px"
       },
       "waxy":{
          "height":"63px",
@@ -116,6 +121,11 @@
          "url":"https://i.imgur.com/ImGltes.gif",
          "width":"40px",
          "height":"50px"
+      },
+      "dirp":{  
+         "url":"https://i.imgur.com/ZaC7iBS.jpg",
+         "width":"51px",
+         "height":"49px"
       },
       "Lenny":{  
          "height":"27px",
@@ -251,6 +261,16 @@
          "height":"93px",
          "url":"https://i.imgur.com/huHTzIU.jpg",
          "width":"75px"
+      },
+      "feels3":{  
+         "height":"43px",
+         "url":"https://i.imgur.com/MBaWCFE.jpg",
+         "width":"51px"
+      },
+      "feels3":{  
+         "height":"100px",
+         "url":"httpS://i.imgur.com/L883Rhz.gif",
+         "width":"135px"
       },
       "popcorn":{
          "height":"90px",
@@ -451,6 +471,11 @@
          "url":"https://dl.dropboxusercontent.com/s/zlqyshqmfnru8ko/michael.gif",
          "width":"104px",
          "height":"68px"
+      },
+      "will":{
+         "url":"https://i.imgur.com/666sGQo.gif",
+         "width":"130px",
+         "height":"70px"
       },
       "surprise":{
          "url":"https://i.imgur.com/bdP6uzI.gif",
@@ -828,10 +853,20 @@
          "url":"https://i.imgur.com/p8bZveT.png",
          "width":"101px"
       },
+      "zoeiro":{  
+         "height":"57px",
+         "url":"https://i.imgur.com/jBr1NaT.jpg",
+         "width":"58px"
+      },
       "café":{  
          "height":"81px",
          "url":"https://i.imgur.com/lMWBD0j.png",
          "width":"104px"
+      },
+      "deselegante2":{  
+         "height":"90px",
+         "url":"https://i.imgur.com/mvzHy3M.png",
+         "width":"88px"
       },
       "punheteiro":{  
        "url":"https://i.imgur.com/OVayNxL.png",
@@ -902,6 +937,11 @@
          "height":"72px",
          "url":"https://i.imgur.com/fitbnt9.jpg",
          "width":"84px"
+      },
+      "piruleta2":{  
+         "height":"90px",
+         "url":"https://i.imgur.com/BOZZemI.jpg",
+         "width":"78px"
       },
       "dikarada":{  
          "height":"88px",
