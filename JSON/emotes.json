@@ -10,11 +10,6 @@
          "url":"https://i.imgur.com/QgnQKom.png",
          "width":"31px"
       },
-       "vinny":{
-         "height":"65px",
-         "url":"https://i.imgur.com/AhOBaXj.png",
-         "width":"206px"
-      },
        "sweet":{
          "height":"35px",
          "url":"https://i.imgur.com/ecraLzk.png",
@@ -278,11 +273,16 @@
          "width":"75px"
       },
       "feels3":{  
-         "height":"43px",
-         "url":"https://i.imgur.com/MBaWCFE.jpg",
-         "width":"51px"
+         "height":"97px",
+         "url":"http://i.imgur.com/Px8fLIR.jpg",
+         "width":"94px"
       },
-      "feels3":{  
+      "feels4":{  
+         "height":"95px",
+         "url":"https://i.imgur.com/8nDfxyd.jpg",
+         "width":"82px"
+      },
+      "wank":{  
          "height":"100px",
          "url":"httpS://i.imgur.com/L883Rhz.gif",
          "width":"135px"
@@ -745,8 +745,13 @@
       },
       "pdp2":{  
          "url":"https://i.imgur.com/AVBHM0F.png",
-         "width":"132px",
+         "width":"231px",
          "height":"67px"
+      },
+      "vinny":{
+         "height":"65px",
+         "url":"https://i.imgur.com/AhOBaXj.png",
+         "width":"206px"
       },
       "toma":{  
          "url":"https://i.imgur.com/NFk9jbx.gif?1",
@@ -823,14 +828,19 @@
          "width":"79px",
          "height":"55px"
       },
-      "r10secret":{  
-         "height":"70px",
-         "url":"https://i.imgur.com/o0Ha07A.jpg",
-         "width":"128px"
+      "destruidora":{  
+         "url":"https://i.imgur.com/d6jxPLi.gif",
+         "width":"120px",
+         "height":"80px"
       },
       "r10":{  
          "height":"70px",
          "url":"https://i.imgur.com/yXY2KHX.jpg",
+         "width":"128px"
+      },
+      "r10secret":{  
+         "height":"70px",
+         "url":"https://i.imgur.com/o0Ha07A.jpg",
          "width":"128px"
       },
       "freestep":{  
