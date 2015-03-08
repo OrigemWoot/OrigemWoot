@@ -176,7 +176,7 @@
 			"title" : "Giraffas",
 			"msg" : "Bem Vindo(a) a Balada Do Giraffas!",
 			"background" : "https://i.imgur.com/o8U69An.jpg%3C",
-			"css" : "https://dl.dropboxusercontent.com/s/75ddqawnp12t85n/Amarelo.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Giraffas%20CSS.css",
 			"pbg" : "https://dl.dropboxusercontent.com/s/ysqeeqth13ekf19/4.png",
 			"overridecss" : true
 		},
