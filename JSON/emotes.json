@@ -1594,6 +1594,11 @@
          "width":"28px",
          "height":"28px"
       },
+      "oco":{  
+         "url":"https://i.imgur.com/xOX01k3.jpg",
+         "width":"72px",
+         "height":"70px"
+      },
       "pikachurusso":{  
          "url":"https://i.imgur.com/hxhBmOG.jpg",
          "width":"163px",
@@ -1604,10 +1609,10 @@
          "width":"80px",
          "height":"60px"
       },
-   "sai":{
- "url":"https://i.imgur.com/I80DvSW.png",
- "width":"104px",
-        "height":"50px"
+      "sai":{
+         "url":"https://i.imgur.com/I80DvSW.png",
+         "width":"104px",
+         "height":"50px"
    },
       "okne":{  
          "url":"https://i.imgur.com/VkktMNz.gif",
