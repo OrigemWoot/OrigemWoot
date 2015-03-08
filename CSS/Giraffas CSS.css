@@ -181,6 +181,21 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 	background-position: 0 0 !important;
 }
 
+.icon-chat-manager, .message.from-manager > .icon, .emote.from-manager > .icon, .mention.from-manager > .icon {
+	background-image: url("https://i.imgur.com/piKzO6X.png") !important;
+	background-position: 0 0 !important;
+}
+
+.icon-chat-bouncer, .message.from-bouncer > .icon, .emote.from-bouncer > .icon, .mention.from-bouncer > .icon {
+	background-image: url("https://i.imgur.com/VfZHzpW.png") !important;
+	background-position: 0 0 !important;
+}
+
+.icon-chat-dj, .message.from-residentdj > .icon, .emote.from-residentdj > .icon, .mention.from-residentdj > .icon {
+	background-image: url("https://i.imgur.com/5BA10ct.png") !important;
+	background-position: 0 0 !important;
+}
+
 #your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/R9sxgkg.png'); top: 15px; }
 #user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 #footer-user .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
