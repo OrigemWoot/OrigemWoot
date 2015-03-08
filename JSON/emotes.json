@@ -511,7 +511,8 @@
          "url":"https://dl.dropboxusercontent.com/s/imaxuzsen111y3j/aplauso.gif",
          "width":"104px",
          "height":"80px"
-      }, "hhoo":{
+      }, 
+      "hhoo":{
          "url":"https://i.imgur.com/jGyKtjc.png",
          "width":"160px",
          "height":"90px"
@@ -541,7 +542,7 @@
          "width":"83px",
          "height":"74px"
       },
-   "hitler":{
+      "hitler":{
          "url":"https://dl.dropboxusercontent.com/s/51kbxw8lcbv69b2/hitler.gif",
          "width":"81px",
          "height":"100px"
@@ -838,14 +839,29 @@
          "width":"79px",
          "height":"55px"
       },
-      "linteressa":{  
-         "url":"https://i.imgur.com/xhCO25z.gif",
-         "width":"147px",
+      "oxe":{  
+         "url":"https://i.imgur.com/6m4EzlB.gif",
+         "width":"150px",
+         "height":"70px"
+      },
+      "numsei":{  
+         "url":"https://i.imgur.com/Hh0RnJH.gif",
+         "width":"150px",
+         "height":"70px"
+      },
+      "numsei":{  
+         "url":"https://i.imgur.com/ocsGCQv.gif",
+         "width":"150px",
          "height":"70px"
       },
       "istudu":{  
          "url":"https://i.imgur.com/XuJbgWk.gif",
          "width":"150px",
+         "height":"70px"
+      },
+      "linteressa":{  
+         "url":"https://i.imgur.com/xhCO25z.gif",
+         "width":"147px",
          "height":"70px"
       },
       "destruidora":{  
