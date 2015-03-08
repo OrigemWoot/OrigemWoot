@@ -259,6 +259,9 @@
 		"salinha-da-nathy" : {
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Farofinha%20CSS.css",
 			"overridecss" : true
+		},
+		"cz-amp-sk-all" : {
+			"background" : "https://i.imgur.com/rGgTNBk.jpg",
 		}
 	}
 }
