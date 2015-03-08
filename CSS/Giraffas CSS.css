@@ -175,10 +175,10 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 
 .icon-join-waitlist-big
 { background: url(https://i.imgur.com/KjWaLnf.png); background-repeat: no-repeat; background-position: center; }
-#woot i {background: url(https:\/\/i.imgur.com\/nQdoZb2.png); }
-#meh i {background: url(https:\/\/i.imgur.com\/jJFmidH.png); }
-#grab i {background: url(https://i.imgur.com/vItB6nd.png); }
-#chat-messages .icon-grab { background: url(https://i.imgur.com/0b5VWQx.png); }
+#woot i {background: url(https:\/\/i.imgur.com\/nQdoZb2.png); background-repeat: no-repeat;}
+#meh i {background: url(https:\/\/i.imgur.com\/jJFmidH.png); background-repeat: no-repeat;}
+#grab i {background: url(https://i.imgur.com/vItB6nd.png); background-repeat: no-repeat;}
+#chat-messages .icon-grab { background: url(https://i.imgur.com/0b5VWQx.png); background-repeat: no-repeat;}
 
 .icon-chat-cohost, .icon-chat-host,
 .message.from-cohost > .icon,.message.from-host > .icon,
