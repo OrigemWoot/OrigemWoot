@@ -173,6 +173,14 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 
 .icon { background-image: url('https://i.imgur.com/nGsNEgz.png'); } /* amarelo */
 
+.icon-chat-cohost, .icon-chat-host,
+.message.from-cohost > .icon,.message.from-host > .icon,
+.emote.from-cohost > .icon, .emote.from-host > .icon,
+.mention.from-cohost > .icon,.mention.from-host > .icon {
+	background-image: url("https://i.imgur.com/oq58XUE.png") !important;
+	background-position: 0 0 !important;
+}
+
 #your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/R9sxgkg.png'); top: 15px; }
 #user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 #footer-user .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
