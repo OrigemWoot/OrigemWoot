@@ -8,8 +8,18 @@
 	},
 	"dev" : {
 		"ids" : [
-			3575887,
 			2853583
+		],
+		"rollover" : {
+			 "classteam" : "developer",
+			 "icon" : "https://i.imgur.com/7MHdeHw.png",
+			 "langkey": "titleDev",
+			 "color": "#db182e"
+		}
+	},
+	"dev-caipira" : {
+		"ids" : [
+			3575887
 		],
 		"rollover" : {
 			 "classteam" : "developer",
