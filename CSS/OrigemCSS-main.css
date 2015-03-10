@@ -228,7 +228,7 @@ background-repeat: no-repeat !important;}
 .ow-vip2 .un, div[data-cid~="ow-vip2"] .un,
 .ow-vip3 .un, div[data-cid~="ow-vip3"] .un,
 .ow-vip4 .un, div[data-cid~="ow-vip4"] .un{
-	margin-left: 21px;
+	margin-left: 16px;
 	position: relative;
 }
 .ow-dev .un::before, div[data-cid~="ow-dev"] .un::before,
@@ -245,7 +245,7 @@ background-repeat: no-repeat !important;}
 	background-repeat: no-repeat;
 	width: 15px; 
 	height: 15px; 
-	left: -21px;
+	left: -18px;
 }
 .ow-dev .un::before, div[data-cid~="ow-dev"] .un::before{
 	background: url(https://i.imgur.com/7MHdeHw.png);
