@@ -269,7 +269,9 @@
 			"background" : "https://i.imgur.com/IxjYwgt.jpg"
 		},
 		"free-run" : {
-			"title":"FR"
+			"title":"FR",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/FREE-RUN-CSS.css",
+			"overridecss" : false
 		}
 	}
 }
