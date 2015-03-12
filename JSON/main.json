@@ -142,6 +142,7 @@
 		},
 		"electro-brasil-19" : {
 			"title" : "Dark",
+			"background" : "https://i.imgur.com/PZHyEzI.png",
 			"pbg" : "https://i.imgur.com/LdM2EXn.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
@@ -271,6 +272,7 @@
 		},
 		"free-run" : {
 			"title":"FR",
+			"background" : "https://i.imgur.com/RuQukQ6.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/FREE-RUN-CSS.css",
 			"overridecss" : false
 		}
