@@ -50,7 +50,7 @@
 		],
 		"rollover" : {
 			 "classteam" : "vip2",
-			 "icon" : "https://i.imgur.com/WBLfba1.png",
+			 "icon" : "https://i.imgur.com/AOTw6Jh.png",
 			 "langkey": "titlevip",
 			 "color": "#FF7700"
 		}
@@ -63,7 +63,7 @@
 		],
 		"rollover" : {
 			 "classteam" : "vip3",
-			 "icon" : "https://i.imgur.com/lOzPjIJ.png",
+			 "icon" : "https://i.imgur.com/gEVo6kl.png",
 			 "langkey": "titlevip",
 			 "color": "#FF69E1"
 		}
