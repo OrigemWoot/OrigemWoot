@@ -181,7 +181,7 @@ box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 
 /* Itens relacionados ao menu do seu  perfil! */
 
-.user-content.profile .notifications .row, .dropdown dd .row:hover, #user-menu .item.selected { background: #49B613 !important; box-shadow: 0 0 15px #27E012 !important; }
+.user-content.profile .notifications .row, .dropdown dd .row:hover, #user-menu .item.selected { background-image: url('http://i.imgur.com/ZZm9niD.jpg') !important; box-shadow: 0 0 15px #27E012 !important; }
 .user-content.profile .notifications .row .timestamp { color: #eee; }
 #user-menu { background: rgba(28, 31, 37, 0.26) !important; }
 .dropdown dt { border-radius: 30px; background: #49B613 !important; box-shadow: 0 0 15px #49B613 !important; } 
