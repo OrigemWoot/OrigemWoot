@@ -227,6 +227,11 @@
        "width":"111px",
        "height":"80px"
       },
+      "frozen":{  
+       "url":"https://i.imgur.com/OrBbpKg.gif",
+       "width":"104px",
+       "height":"90px"
+      },
       "sad":{  
        "url":"https://i.imgur.com/z8wyK0s.gif",
        "width":"109px",
@@ -326,6 +331,11 @@
          "height":"96px",
          "url":"https://i.imgur.com/RKFaPo3.jpg",
          "width":"129px"
+      },
+      "god":{ 
+      	"url":"https://i.imgur.com/YfG5u6F.gif",
+      	"width":"120px",
+      	"height":"90px"
       },
       "nelson":{  
          "height":"90px",
@@ -451,6 +461,11 @@
          "url":"https://i.imgur.com/9rQZdFj.jpg",
          "width":"89px",
          "height":"86px"
+      },
+      "ivan":{  
+         "url":"https://i.imgur.com/vI9t0ZC.jpg",
+         "width":"96px",
+         "height":"71px"
       },
       "vibe":{  
          "url":"https://i.imgur.com/w0xUqkt.gif",
@@ -884,6 +899,16 @@
          "width":"147px",
          "height":"70px"
       },
+      "chola":{  
+         "url":"https://i.imgur.com/UqwOG4q.gif",
+         "width":"104px",
+         "height":"75px"
+      },
+      "emsm":{  
+         "url":"https://i.imgur.com/aDhjPXx.jpg",
+         "width":"59px",
+         "height":"80px"
+      },
       "destruidora":{  
          "url":"https://i.imgur.com/d6jxPLi.gif",
          "width":"120px",
@@ -1175,11 +1200,6 @@
          "url":"https://i.imgur.com/dhnwM5I.gif",
          "width":"104px"
       },
-      "god":{ 
-      	"url":"https://i.imgur.com/YfG5u6F.gif",
-      	"width":"120px",
-      	"height":"90px"
-      },
       "travadão2":{  
          "height":"75px",
          "url":"https://i.imgur.com/Li46Bhh.jpg",
@@ -1335,6 +1355,11 @@
          "url":"https://i.imgur.com/InUkCys.gif",
          "width":"95px"
       },
+      "gato":{  
+         "height":"70px",
+         "url":"https://i.imgur.com/wRI10nK.gif",
+         "width":"102px"
+      },
       "xablau":{  
          "url":"https://i.imgur.com/uEHQSrA.gif",
          "width":"70px",
@@ -1459,6 +1484,11 @@
          "url":"https://i.imgur.com/XfJNTVs.jpg",
          "width":"61px",
          "height":"71px"
+      },
+      "jailson4":{  
+         "url":"https://i.imgur.com/G08Oq6x.gif",
+         "width":"116px",
+         "height":"89px"
       },
       "cazalbe":{  
          "url":"https://dl.dropboxusercontent.com/s/cmdveivyf883e23/cazalbe.gif",
