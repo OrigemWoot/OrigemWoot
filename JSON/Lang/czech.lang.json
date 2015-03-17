@@ -142,7 +142,7 @@
 	"user_notfound":"Uživatel nebyl nalezen!",
 	"video":"Video",
 	"music":"Písnička",
-	"ml_exc_title":"Tato písnièka překračuje maximální délku!",
+	"ml_exc_title":"Tato písnička překračuje maximální délku!",
 	"ml_exc_msg":"Tato %%Type%% překračuje maximální nastavenou délku!",
 	"max_len":"Varování o délce písničky",
 	"max_length_valerr":"Nastavte hodnotu v sekundách mezi 0 a 600, nebo čas v minutách a sekundách mezi 00:00 a 10:00",
