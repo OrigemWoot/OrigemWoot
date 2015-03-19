@@ -125,11 +125,9 @@
 	"customRooms" : {
 		"baladadadp" : {
 			"title" : "DP-END",
-			"background" : "https://i.imgur.com/OUxUl5T.jpg",
-			"pbg" : "https://dl.dropboxusercontent.com/s/ysqeeqth13ekf19/4.png"
+			"background" : "https://i.imgur.com/OUxUl5T.jpg"
 		},
 		"nightcore-fanclub" : {
-			"pbg" : "https://i.imgur.com/byrawmF.png",
 			"blocked" : {
 				"autojoin" : true
 			}
@@ -138,13 +136,11 @@
 			"title" : "Night",
 			"background" : "https://i.imgur.com/8MyVHBu.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Nightcore%20CSS.css",
-			"pbg" : "https://i.imgur.com/uSzURQw.png",
 			"overridecss" : true
 		},
 		"electro-brasil-19" : {
 			"title" : "Dark",
 			"background" : "https://i.imgur.com/PZHyEzI.png",
-			"pbg" : "https://i.imgur.com/LdM2EXn.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
 		},
@@ -171,7 +167,6 @@
 			"msg" : "Bem Vindo(a) ao Monster Music Brazil, e muito obrigado por usar o OrigemWoot!",
 			"background" : "https://i.imgur.com/NqhDqqJ.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Monster%20CSS.css",
-			"pbg" : "https://i.imgur.com/4goDHHJ.png",
 			"overridecss" : true
 		},
 		"balada-do-giraffas" : {
@@ -179,13 +174,11 @@
 			"msg" : "Bem Vindo(a) a Balada Do Giraffas!",
 			"background" : "https://i.imgur.com/o8U69An.jpg%3C",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Giraffas%20CSS.css",
-			"pbg" : "https://dl.dropboxusercontent.com/s/ysqeeqth13ekf19/4.png",
 			"overridecss" : true
 		},
 		"latvianmusicroom" : {
 			"title" : "Latvian",
 			"background" : "https://i.imgur.com/aIpSoS1.jpg",
-			"pbg" : "https://i.imgur.com/sgCEcx3.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Latvian%20CSS.css",
 			"overridecss" : true
 		},
@@ -194,7 +187,6 @@
 			"msg" : "Obrigado por usar o delicioso Fodendo Woot, não irá se arrepender.",
 			"background" : "https://i.imgur.com/JKFzCE6.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Exercito%20CSS.css",
-			"pbg" : "https://i.imgur.com/4v1NxHG.png",
 			"overridecss" : true,
 			"temas" : [
 				"https://i.imgur.com/JKFzCE6.jpg",
@@ -229,19 +221,16 @@
 		"brazil-eletro-mus1c" : {
 			"title" : "BEM",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
-			"pbg" : "https://i.imgur.com/LdM2EXn.png",
 			"overridecss" : true
 		},
 		"rock-wins-10" : {
 			"title" : "RW",
 			"background" : "https://i.imgur.com/4KG1JZj.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
-			"pbg" : "https://i.imgur.com/4OIt8BW.png",
 			"overridecss" : true
 		},
 		"farofa-das-divas-pop" : {
 			"title" : "Farofinha",
-			"pbg" : "https://i.imgur.com/qZM9J0P.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Farofinha%20CSS.css",
 			"overridecss" : true
 		},
@@ -268,7 +257,6 @@
 		},
 		"um-monte-de-bosta" : {
 			"title":"Monte de Bosta",
-			"pbg" : "https://i.imgur.com/gdrTwGb.png",
 			"background" : "https://i.imgur.com/IxjYwgt.jpg"
 		},
 		"free-run" : {
