@@ -3,5 +3,5 @@
 #footer-user .buttons div.profile.button { display: none !important; }
 #footer-user .buttons div.store.button { display: none !important; }
 #footer-user .buttons .settings.button { float: right !important; width: 54px !important; }
-#footer #footer-user .info { display: block !important; z-index: -1 !important; width: 290px !important; top: 0px !important; background: none; }
+#footer #footer-user .info { display: block !important; z-index: -1 !important; width: 290px !important; top: 0px !important; background: none; box-shadow: inset 1px 0 0 0 #0a0a0a; }
 #footer-user .info .meta div.bar { width: 100px !important; }
