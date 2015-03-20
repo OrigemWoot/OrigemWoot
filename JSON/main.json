@@ -140,7 +140,6 @@
 		},
 		"electro-brasil-19" : {
 			"title" : "Dark",
-			"background" : "https://i.imgur.com/PZHyEzI.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
 		},
