@@ -266,7 +266,7 @@
 		},
 		"metal-infernus" : {
 			"title" : "CRM",
-			"css" : "https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/CSS/Casa%20Rock%20Metal.css",
+			"css" : "https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/CSS/Casa-Rock-Metal-CSS.css",
 			"overridecss" : true
 		}
 	}
