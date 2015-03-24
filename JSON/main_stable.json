@@ -262,6 +262,11 @@
 		},
 		"cz-amp-sk-all" : {
 			"background" : "https://i.imgur.com/rGgTNBk.jpg"
+		},
+		"metal-infernus" : {
+			"title" : "CRM",
+			"css" : "https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/CSS/Casa-Rock-Metal-CSS.css",
+			"overridecss" : true
 		}
 	}
 }
