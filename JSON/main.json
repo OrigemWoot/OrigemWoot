@@ -200,8 +200,9 @@
 			"overridecss" : true
 		},
 		"hudba-u-tomasa" : {
-			"title" : "MiE",
-			"css" : "https://dl.dropboxusercontent.com/s/i8k67qsu2rmnzcc/Rosa.css"
+			"title" : "HJV",
+			"css" : "https://dl.dropboxusercontent.com/s/i8k67qsu2rmnzcc/Rosa.css",
+			"background" : "https://i.imgur.com/VQrFnFF.jpg"
 		},
 		"assis" : {
 			"title" : "Assis",
