@@ -297,6 +297,7 @@ top: 8px !important; left: 15px !important;}
 	height: 54px;
 	position: absolute;
 	background-color: #282c35;
+	border-right: 1px solid #0a0a0a;
 	top: 0px;
 	left: 54px;
 	z-index: 20;
