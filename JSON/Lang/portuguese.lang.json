@@ -182,5 +182,22 @@
 	"delicia_sel":		  "Som delícia definido:",
 	"delicia_sndval":	  " som %%Snd%%",
 	"delicia_randval":	  " aleatório",
-	"user_l1":			  "O usuário nível 1 "
+	"user_l1":			  "O usuário nível 1 ",
+	"openpm" : "Abrir Chat Privado",
+	"closepm" : "Fechar",
+	"pm_clearchat" : "Apagar mensagens deste usuário",
+	"pm_remusr":"Remover usuário da lista de PM",
+	"pm_ignore":"Ignorar este usuário",
+	"pm_stpign":"Deixar de ignorar este usuário",
+	"pm_conn":"Conectado",
+	"pm_disc":"Desconectado!",
+	"pm_search":"Nick para procurar",
+	"pm_fyou":"Você em %%Time%%",
+	"pm_fuser":"%%User%% em %%Time%%",
+	"pm_unf":"Nenhum usuário encontrado.",
+	"serv_diffnick":"Seu nick é diferente do nick registrado em nosso servidor. Por favor, vá até nossa sala de cadastro para atualizar seu nick: https://plug.dj/6813306957241099586",
+	"serv_noreg":"Você não possui uma conta em nosso servidor. Se você deseja usar o chat privado, por favor, vá até nossa sala de cadastro para criar uma senha: https://plug.dj/6813306957241099586 Quando você entrar na sala, execute o script novamente. Aparecerá uma mensagem para você inserir uma nova senha.",
+	"serv_acc_created":"Sua senha foi criada/alterada. Você pode ir para outras salas agora. Volte aqui se você quiser mudar a senha.",
+	"serv_mewpass":"Insira uma nova senha se você não está registrado ou se você deseja mudar sua senha ou clique em cancelar para fechar esta mensagem.",
+	"serv_inspass":"Insira sua senha"
 }
