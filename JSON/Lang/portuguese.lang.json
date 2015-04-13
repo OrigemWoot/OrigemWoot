@@ -193,6 +193,7 @@
 	"pm_disc":"Desconectado!",
 	"pm_search":"Nick para procurar",
 	"pm_fyou":"Você em %%Time%%",
+	"pm_fyou":"Servidor do OrigemWoot em %%Time%%",
 	"pm_fuser":"%%User%% em %%Time%%",
 	"pm_unf":"Nenhum usuário encontrado.",
 	"serv_diffnick":"Seu nick é diferente do nick registrado em nosso servidor. Por favor, vá até nossa sala de cadastro para atualizar seu nick: https://plug.dj/6813306957241099586",
