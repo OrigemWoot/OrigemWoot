@@ -176,7 +176,7 @@
 	"openpm" : "Otevřít soukromý chat",
 	"closepm" : "Zavřít",
 	"pm_clearchat" : "Vymazat zprávy od tohoto uživatele",
-	"pm_remusr":"Vymyzat tohoto uživatele ze seznamu PM",
+	"pm_remusr":"Vymazat tohoto uživatele ze seznamu PM",
 	"pm_ignore":"Ignorovat tohoto uživatele",
 	"pm_stpign":"Zrušit ignorování tohoto uživatele",
 	"pm_conn":"Připojeno",
