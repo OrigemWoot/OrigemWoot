@@ -319,7 +319,7 @@ background-position: 0 0;
 				overflow: visible;
 			}
 			#room-name span:hover {
-				text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #F70000 , 0 0 70px #F70000 , 0 0 80px #F70000 , 0 0 100px #F70000 ;
+				text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #00F700 , 0 0 70px #00F700 , 0 0 80px #00F700 , 0 0 100px #00F700 ;
 			}
 
 			#room-name .bar-value  {
@@ -330,7 +330,7 @@ background-position: 0 0;
 				box-sizing: border-box;
 				/* padding: 10px; */
 				border: none;
-				color: rgba(255,255,255,1);
+				color: rgba(0,207,0,1);
 				text-decoration: normal;
 				/*text-align: center;*/
 				-o-text-overflow: clip;
