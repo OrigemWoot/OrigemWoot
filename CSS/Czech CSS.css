@@ -342,6 +342,8 @@ background-position: 0 0;
 				-o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
 				transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
 			}
+			
+.dark-label {color: #fff;}
 
 #chat .welcome {
     color: #00FF00;
