@@ -207,6 +207,14 @@ box-shadow: 0 0 10px #C41EC3 !important; }
 box-shadow: 0 0 15px #12A9E0 !important; }
 #playback-controls .button.hd { background: linear-gradient(to bottom,rgba(68, 68, 68, 0.6) 0,rgba(226, 37, 0, 0.73) 100%);
 box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
+#playback .background {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+visibility: hidden;
+}
 
 /* Custom icons */
 
