@@ -256,7 +256,7 @@
 			"title" : "TBM",
 			"background":"https://i.imgur.com/mu6DrYq.jpg",
 			"css" : "https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/CSS/TBM.css",
-			"overridecss" : true
+			"overridecss" : false
 		},
 		"cz-amp-sk-all" : {
 			"background" : "https://i.imgur.com/rGgTNBk.jpg"
