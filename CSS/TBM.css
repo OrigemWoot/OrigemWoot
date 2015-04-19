@@ -59,10 +59,10 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 body: {
         font-family: 'Allerta Stencil', sans-serif; }
     #chat-messages {
-        font-family: 'Berlin Sans FB', cursive;
+        font-family: 'Indie Flower', cursive;
         font-size: 13px;
     }
     #chat-input-field {
         font-size: 12px;
-        font-family: 'Berlin Sans FB', cursive;
+        font-family: 'Indie Flower', cursive;
     }
