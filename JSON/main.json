@@ -253,7 +253,8 @@
 			"overridecss" : true
 		},
 		"tbmcz" : {
-			"title" : "TBM"
+			"title" : "TBM",
+			"background":"https://i.imgur.com/mu6DrYq.jpg"
 		},
 		"cz-amp-sk-all" : {
 			"background" : "https://i.imgur.com/rGgTNBk.jpg"
