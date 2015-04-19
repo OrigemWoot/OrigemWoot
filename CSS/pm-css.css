@@ -24,7 +24,7 @@
         border-radius: 10px;
 }
 .pm-user-content{
-	width:147px;
+	width:auto;
 	height:45px;
 	overflow: hidden;
 	text-overflow: ellipsis;
@@ -57,7 +57,7 @@
 	color: #009cdd;
 }
 div[class^="pm-from-"] {
-	width: 250px;
+	width: auto;
 	word-wrap: break-word;
 	color: #7FFFD4;
 }
@@ -65,7 +65,7 @@ div[class^="pm-from-"] small {
 	color: #56BD9A;
 }
 .pm-me {
-	width: 250px;
+	width: auto;
 	word-wrap: break-word;
 	color: #FFD700;
 }
@@ -73,7 +73,7 @@ div[class^="pm-from-"] small {
 	color: #B0A64C;
 }
 .pm-system {
-	width: 250px;
+	width: auto;
 	word-wrap: break-word;
 	background-color: #FF0000;
 }
