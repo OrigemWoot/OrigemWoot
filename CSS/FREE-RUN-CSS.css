@@ -2,7 +2,7 @@
     overflow: visible;
 }
 #room-name  span:hover {
-    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #F70000 , 0 0 70px #F70000 , 0 0 80px #F70000 , 0 0 100px #F70000 ;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #810606 , 0 0 70px #810606 , 0 0 80px #810606 , 0 0 100px #810606 ;
 }
 
 #room-name .bar-value  {
@@ -20,13 +20,11 @@
     -o-text-overflow: clip;
     text-overflow: clip;
     white-space: pre;
-    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #D80A0A  , 0 0 70px #D80A0A  , 0 0 80px #D80A0A  , 0 0 100px #D80A0A ;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #810606  , 0 0 70px #810606  , 0 0 80px #810606  , 0 0 100px #810606 ;
     -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
     -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
     -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
     transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
 }
-
-.title-variant {  font-variant: small-caps;  vertical-align: sub; color: "#D80A0A"; }
 
 
