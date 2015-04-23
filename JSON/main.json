@@ -242,6 +242,7 @@
 		},
 		"the-rock-project" : {
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
+			"background":"https://i.imgur.com/5Qs9CXz.jpg",
 			"overridecss" : true
 		},
 		"sbn" : {
