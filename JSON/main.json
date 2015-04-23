@@ -240,6 +240,10 @@
 			"title" : "Roça",
 			"msg" : "Promoção do dia: balaio do milho é 50 rear e o pacote de giló ou quiabo é um rear"
 		},
+		"the-rock-project" : {
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
+			"overridecss" : true
+		},
 		"sbn" : {
 			"title" : "SBN",
 			"msg" : "A balada de sábado à noite está aqui!",
