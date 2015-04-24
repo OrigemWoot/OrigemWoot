@@ -272,6 +272,9 @@
 			"title":"Monte de Bosta",
 			"background" : "https://i.imgur.com/IxjYwgt.jpg"
 		},
+		"brs-top" : {
+			"background" : "https://i.imgur.com/N82wzhY.png"
+		},
 		"free-run" : {
 			"title":"Free-Run",
 			"background" : "https://i.imgur.com/RuQukQ6.jpg",
