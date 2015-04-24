@@ -197,8 +197,8 @@ div[class^="pm-from-"] small {
 .pm-status-online {
 	display: inline-block;
 	vertical-align: top;
-	background-image: url(https://i.imgur.com/6e4qZoK.png);
-	background-position: -84px -29px;
+	background-image: url(https://i.imgur.com/KpTVl8i.png);
+	background-position: -96px -22px;
 	background-repeat: no-repeat !important;
 	width: 15px;
 	height: 15px;
@@ -207,8 +207,8 @@ div[class^="pm-from-"] small {
 .pm-status-afk {
   display: inline-block;
   vertical-align: top;
-  background-image: url(https://i.imgur.com/6e4qZoK.png);
-  background-position: -63px -62px;
+  background-image: url(https://i.imgur.com/KpTVl8i.png);
+  background-position: -64px -22px;
   background-repeat: no-repeat !important;
   width: 15px;
   height: 15px;
@@ -217,8 +217,18 @@ div[class^="pm-from-"] small {
 .pm-status-busy {
   display: inline-block;
   vertical-align: top;
-  background-image: url(https://i.imgur.com/6e4qZoK.png);
-  background-position: -45px -30px;
+  background-image: url(https://i.imgur.com/KpTVl8i.png);
+  background-position: -18px -21px;
+  background-repeat: no-repeat !important;
+  width: 15px;
+  height: 15px;
+}
+
+.pm-status-offline {
+  display: inline-block;
+  vertical-align: top;
+  background-image: url(https://i.imgur.com/KpTVl8i.png);
+  background-position: -120px -22px;
   background-repeat: no-repeat !important;
   width: 15px;
   height: 15px;
