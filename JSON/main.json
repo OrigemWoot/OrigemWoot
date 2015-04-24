@@ -236,6 +236,11 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Farofinha%20CSS.css",
 			"overridecss" : true
 		},
+		"world-of-pop" : {
+			"title" : "Galaxy",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Farofinha%20CSS.css",
+			"overridecss" : true
+		},
 		"caipira-1" : {
 			"title" : "Roça",
 			"msg" : "Promoção do dia: balaio do milho é 50 rear e o pacote de giló ou quiabo é um rear"
