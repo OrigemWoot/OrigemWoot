@@ -1,9 +1,9 @@
-﻿{
-﻿	"sounds" : {
-﻿		"mention" : [
-﻿			"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/vimdone.mp3"
-﻿		],
-﻿		"pt" : [
+{
+	"sounds" : {
+		"mention" : [
+			"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/vimdone.mp3"
+		],
+		"pt" : [
 			"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som1.mp3",
 			"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som2.mp3",
 			"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som3.mp3",
@@ -40,7 +40,7 @@
 			"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som34.mp3",
 			"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som35.mp3"
 		]
-﻿	},
+	},
 	"zoeira" : [
 		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som1.mp3",
 		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som2.mp3",
