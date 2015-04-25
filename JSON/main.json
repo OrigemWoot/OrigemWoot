@@ -324,6 +324,7 @@
 		},
 		"free-run" : {
 			"title":"Free-Run",
+			"msg" : "Tato místnost má 1 pozadí, k zapnutí napište /theme x (x = císlo pozadí, které chcete použít)",
 			"background" : "http://i.imgur.com/PSEcKP7.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/FREE-RUN-CSS.css",
 			"overridecss" : false,
