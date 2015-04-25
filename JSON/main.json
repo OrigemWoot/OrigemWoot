@@ -324,14 +324,22 @@
 		},
 		"free-run" : {
 			"title":"Free-Run",
-			"background" : "https://i.imgur.com/RuQukQ6.jpg",
+			"msg" : "Tato místnost má 1 pozadí, k zapnutí napište /theme x (x = císlo pozadí, které chcete použít)",
+			"background" : "http://i.imgur.com/wlFKMtX.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/FREE-RUN-CSS.css",
-			"overridecss" : false
+			"overridecss" : false,
+			"temas" : [
+				"https://i.imgur.com/RuQukQ6.jpg",
+				"http://i.imgur.com/wlFKMtX.jpg"
+			]
 		},
 		"metal-infernus" : {
 			"title" : "CRM",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Casa-Rock-Metal-CSS.css",
 			"overridecss" : true
+		},
+		"czech-104" : {
+			"title" : "HPZ"
 		}
 	}
 }
