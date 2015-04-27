@@ -35,7 +35,7 @@
          "width":"31px",
          "height":"35px"
       },
-   "Mars": {
+      "Mars": {
             "height": "44px",
             "url": "https://i.imgur.com/oYkVuSJ.png",
             "width": "38px"
@@ -100,11 +100,21 @@
          "width":"70px",
          "height":"49px"
       },
-   "pdp":{
-  "url":"https://i.imgur.com/njLHW3I.png",
+      "pdp":{
+        "url":"https://i.imgur.com/njLHW3I.png",
          "width":"95px",
          "height":"90px"
-   }
+      },
+       "ddc1":{
+         "url":"https://i.imgur.com/W8KYioA.png",
+         "width":"80px",
+         "height":"90px"
+      },
+       "ddc2":{
+         "url":"https://i.imgur.com/PJinc6x.png",
+         "width":"281px",
+         "height":"58px"
+      }
  },
  "Miscellaneous" : {
       "unclesam":{  
