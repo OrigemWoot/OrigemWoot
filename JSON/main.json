@@ -41,43 +41,6 @@
 			"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som35.mp3"
 		]
 	},
-	"zoeira" : [
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som1.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som2.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som3.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som4.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som5.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som6.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som7.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som8.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som9.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som10.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som11.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som12.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som13.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som14.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som15.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som16.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som17.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som18.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som19.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som20.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som21.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som22.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som23.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som24.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som25.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som26.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som27.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som28.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som29.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som30.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som31.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som32.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som33.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som34.mp3",
-		"https://rawgit.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som35.mp3"
-	],
 	"bgs" : [
 		"https://cdn.plug.dj/_/static/images/community/background.892bc86f530eb3f7a53a2cc60f0c0be481798175.jpg",
 		"https://i.imgur.com/YpKcfg4.jpg",
@@ -324,14 +287,9 @@
 		},
 		"free-run" : {
 			"title":"Free Run",
-			"msg" : "Tato místnost má 1 pozadí, k zapnutí napište /theme x (x = císlo pozadí, které chcete použít)",
-			"background" : "http://i.imgur.com/CnMHyRe.jpg",
+			"background" : "http://i.imgur.com/DpJrfzQ.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/FREE-RUN-CSS.css",
-			"overridecss" : false,
-			"temas" : [
-				"https://i.imgur.com/RuQukQ6.jpg",
-				"http://i.imgur.com/CnMHyRe.jpg"
-			]
+			"overridecss" : false
 		},
 		"metal-infernus" : {
 			"title" : "CRM",
