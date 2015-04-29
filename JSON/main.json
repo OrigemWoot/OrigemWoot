@@ -285,6 +285,12 @@
 		"brs-top" : {
 			"background":"https://i.imgur.com/sG6TUIA.jpg"
 		},
+		"cz-sk-eng-1" : {
+			"title":"SCM",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
+			"overridecss" : true,
+			"background":"https://i.imgur.com/1Phy5cJ.jpg"
+		},
 		"free-run" : {
 			"title":"Free Run",
 			"background" : "http://i.imgur.com/DpJrfzQ.jpg",
