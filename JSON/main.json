@@ -143,8 +143,8 @@
 			"overridecss" : true
 		},
 		"kogamabr" : {
-			"msg" : "Toma cuidado com esse rabo.",
-			"css" : "https://dl.dropboxusercontent.com/s/75ddqawnp12t85n/Amarelo.css",
+			"title" : "Kogama"
+			"css": "https://dl.dropboxusercontent.com/s/wwy6l31fnuzxlka/Vermelho.css"
 			"overridecss" : true
 		},
 		"electro-brasil-19" : {
