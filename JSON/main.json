@@ -143,8 +143,8 @@
 			"overridecss" : true
 		},
 		"kogamabr" : {
-			"title" : "Kogama"
-			"css": "https://dl.dropboxusercontent.com/s/wwy6l31fnuzxlka/Vermelho.css"
+			"title" : "Kogama",
+			"css": "https://dl.dropboxusercontent.com/s/wwy6l31fnuzxlka/Vermelho.css",
 			"overridecss" : true
 		},
 		"electro-brasil-19" : {
