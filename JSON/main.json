@@ -142,6 +142,11 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Nightcore%20CSS.css",
 			"overridecss" : true
 		},
+		"kogamabr" : {
+			"msg" : "Toma cuidado com esse rabo.",
+			"css" : "https://dl.dropboxusercontent.com/s/75ddqawnp12t85n/Amarelo.css",
+			"overridecss" : true
+		},
 		"electro-brasil-19" : {
 			"title" : "Dark",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
