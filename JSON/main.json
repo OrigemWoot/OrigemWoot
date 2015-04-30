@@ -288,7 +288,8 @@
 			"background" : "https://i.imgur.com/IxjYwgt.jpg"
 		},
 		"brs-top" : {
-			"title":"Top",
+			"title":"TOP",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"background":"https://i.imgur.com/VQrFnFF.jpg"
 		},
 		"cz-sk-eng-1" : {
