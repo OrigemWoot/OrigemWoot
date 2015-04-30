@@ -69,6 +69,7 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 	height: 28px;
 	background: url(http://i.imgur.com/BE3MTsi.png);
 }
+.origem-menu-heading, .origem-menu-submenu .origem-submenu-heading { color: #0AFF0A !important; }
 
 
 
