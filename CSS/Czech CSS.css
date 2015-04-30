@@ -61,6 +61,14 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 .ow-img.high{ height:350px; width:auto }
 .ow-img-delete { position:absolute; top:25px; left:8px; background-color:#f04f30; padding:0 3px; cursor:pointer }
 .custom-emote { display:inline-block; vertical-align:top }
+.origem-menu-element input[type=checkbox]:checked + .origem-checkmark {
+	position: absolute;
+	top: -1px;
+	right: 0;
+	width: 33px;
+	height: 28px;
+	background: url(https://i.imgur.com/p4LC40q.png);
+}
 
 
 
