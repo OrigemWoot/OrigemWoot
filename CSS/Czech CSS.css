@@ -182,6 +182,16 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
         border-radius: 10px;
 }
 
+.pm-user-content{
+	width:auto;
+	height:45px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+        border-radius: 5px;
+        cursor: pointer;
+}
+
 .pm-user-content.selected{
 	background-color: #000000 !important;
         border: 3px solid #00FF00;
