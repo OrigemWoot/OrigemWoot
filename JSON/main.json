@@ -312,6 +312,10 @@
 		},
 		"czech-104" : {
 			"title" : "HPZ"
+		},
+		"herdyn" : {
+			"title" : "Herdyn",
+			"background" : "http://i.imgur.com/5jMmOjM.jpg"
 		}
 	}
 }
