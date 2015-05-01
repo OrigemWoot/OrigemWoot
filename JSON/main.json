@@ -315,7 +315,9 @@
 		},
 		"herdyn" : {
 			"title" : "Herdyn",
-			"background" : "http://i.imgur.com/5jMmOjM.jpg"
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Herdyn%20CSS.css",
+			"background" : "http://i.imgur.com/5jMmOjM.jpg",
+			"overridecss" : true
 		}
 	}
 }
