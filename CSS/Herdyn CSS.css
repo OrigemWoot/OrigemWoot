@@ -200,8 +200,8 @@ box-shadow: 0 0 15px #12A9E0, !important;}
 
 /* Barra de EXP */
 .experience .xp .bar .progress {
-border-radius: 10px 0px 10px 0px !important; background: #12A9E0; box-shadow: 0 0 10px 5px #12A9E0; }
-#footer-user .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #12A9E0; box-shadow: 0 0 15px #12A9E0 !important; }
+border-radius: 10px 0px 10px 0px !important; background: #005a38; box-shadow: 0 0 10px 5px #005a38; }
+#footer-user .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #005a38; box-shadow: 0 0 15px #005a38 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 
@@ -340,7 +340,7 @@ border-radius: 10px !important; }
 { top: 8px; height: 5px; background: #12A9E0; display: block; overflow: hidden; cursor: pointer; }
 
 #room-name {
-  color: #097a1e;
+  color: #ffffff;
 }
 
 #room-name .bar-value  {
@@ -352,7 +352,7 @@ border-radius: 10px !important; }
     /* padding: 10px; */
     border: none;
     font: normal 18px/normal "Warnes", Helvetica, sans-serif;
-    color: rgba(9,122,30);
+    color: rgba(255, 255, 255, 1);
     text-decoration: normal;
     /*text-align: center;*/
     -o-text-overflow: clip;
