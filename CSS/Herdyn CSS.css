@@ -213,6 +213,7 @@ border-radius: 10px 0px 10px 0px !important; background: #005a38; box-shadow: 0 
 #footer-user .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #005a38; box-shadow: 0 0 15px #005a38 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
+#footer-user .info .bar .progress {position: absolute;top: 0;left: 0;float: none;width: 0;height: 100%;background: #033e28;}
 
 /* Room Info / Opções no menu da sala e botões! */
 
