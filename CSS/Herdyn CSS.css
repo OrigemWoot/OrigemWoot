@@ -58,12 +58,21 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 
 /* Itens relacionados ao passar o mouse por cima! */ 
 
- #user-lists .list .user:hover, .media-list .actions, #user-rollover .actions .action:hover  { background-color: rgba(18, 169, 224, 0.1) !important; 
+ #user-lists .list .user:hover, .media-list .actions, #user-rollover .actions .action:hover  { background-color: rgba(0, 54, 40, o.1) !important; 
 background: linear-gradient(to right,rgba(18, 169, 224, 0.08) 0,rgba(6, 189, 255, 0.72) 100%) !important; }  
 #user-rollover { background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.75) 0, rgba(0, 0, 0, 0.75) 100%);
 background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 100%); }
 #user-rollover .info, #user-rollover .info .badge-box, #chat-messages .badge-box, .user-content.profile .meta .badge-box {background: none;}
 
+/* Itens relacionados aos botões do Footer User */
+
+#footer-user .buttons div.inventory.button:hover { background: linear-gradient(to bottom,#005a38 0,rgba(0, 71, 51, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.badge.button:hover { background: linear-gradient(to bottom,#005a38 0,rgba(0, 71, 51, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.profile.button:hover { background: linear-gradient(to bottom,#005a38 0,rgba(0, 71, 51, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.settings.button:hover { background: linear-gradient(to bottom,#005a38 0,rgba(0, 71, 51, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.store.button:hover { background: linear-gradient(to bottom,#005a38 0,rgba(0, 71, 51, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .info { background: linear-gradient(to bottom,#033e28 0,rgba(142, 75, 81, 1) 56%,#1A1A1A 73%,#39393A 100%); }
+  
   
 /* Itens Relacionados ao chat, delays e cores do /me */
 
