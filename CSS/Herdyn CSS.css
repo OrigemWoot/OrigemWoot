@@ -50,3 +50,5 @@ width: 100%;
 height: 100%;
 visibility: hidden;
 }
+
+.origem-menu-heading, .origem-menu-submenu .origem-submenu-heading { color: #0AFF0A !important; }
