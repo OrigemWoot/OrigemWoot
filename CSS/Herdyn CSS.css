@@ -61,3 +61,5 @@ visibility: hidden;
 	height: 28px;
 	background: url(http://i.imgur.com/BE3MTsi.png);
 }
+
+#chat { background: linear-gradient(to bottom,#000000 0,#000000 1%); }
