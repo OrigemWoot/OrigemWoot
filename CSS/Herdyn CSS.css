@@ -23,3 +23,15 @@
     -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
     transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
 }
+
+#playlist-button {
+background: linear-gradient(to bottom,#009d28 0,#009d28 100%); }
+
+.origem-menu-icon { background: url('https://i.imgur.com/7Lf7lZG.png');
+  background-size: 34px; background-repeat: no-repeat; background-position: 9px 9px; height: 100%; cursor: pointer; }
+
+.experience .xp .bar .progress {
+border-radius: 10px 0px 10px 0px !important; background: #00cf00; box-shadow: 0 0 10px 5px #00cf00; }
+#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #00cf00; box-shadow: 0 0 15px #00cf00 !important; }
+.experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
+#footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
