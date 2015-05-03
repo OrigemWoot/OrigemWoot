@@ -1,6 +1,5 @@
 #room-name {
-  color: ##00ff0b;
-}
+    overflow: visible;
 
 #room-name .bar-value  {
     display: inline-block;
