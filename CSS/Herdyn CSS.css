@@ -52,3 +52,12 @@ visibility: hidden;
 }
 
 .origem-menu-heading, .origem-menu-submenu .origem-submenu-heading { color: #0AFF0A !important; }
+
+.origem-menu-element input[type=checkbox]:checked + .origem-checkmark {
+	position: absolute;
+	top: -1px;
+	right: 0;
+	width: 33px;
+	height: 28px;
+	background: url(http://i.imgur.com/BE3MTsi.png);
+}
