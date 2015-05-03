@@ -224,6 +224,31 @@ div[class^="pm-from-"] small {
 	color: #00FF00;
 }
 
+#pm-user-search {
+	width: 150px;
+	height: 190px;
+	overflow-y: auto;
+	overflow-x:hidden;
+	background-color: #6B6B6B !important;
+	position: absolute;
+	left: 5px;
+	top: 185px;
+	border-radius: 5px;	
+}
+
+#pm-user-search div:nth-child(2n+1){
+	background-color: #6B6B6B;
+}
+
+.pm-msg-username {
+	width: 90px;
+	border-radius: 0px;
+	border: 3px solid #14ec0d;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;        
+} 
+
 /* Scroll Bar nova e personalizada */
 
 ::-webkit-scrollbar { 
