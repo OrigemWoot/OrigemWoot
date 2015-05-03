@@ -63,3 +63,5 @@ visibility: hidden;
 }
 
 #chat { background: rgba(0, 0, 0, 1)}
+
+#playlist-panel { background: rgba(17, 19, 23, 0.9); }
