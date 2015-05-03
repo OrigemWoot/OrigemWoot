@@ -223,6 +223,15 @@ div[class^="pm-from-"] small {
 	color: #00FF00;
 }
 
+.pm-me {
+	width: auto;
+	word-wrap: break-word;
+	color: #FFD700;
+}
+.pm-me small {
+	color: #B0A64C;
+}
+
 #pm-user-search {
 	width: 150px;
 	height: 190px;
