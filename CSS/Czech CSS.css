@@ -263,7 +263,7 @@ div[class^="pm-from-"] small {
 	position: relative;
 	width: 163px;
 	left: 5px;
-        border-radius: 10px;
+        border-radius: 5px;
         color: #FFFFFF;
         background-color: #000000;
         border: 1px solid #00FF00;
@@ -274,7 +274,7 @@ div[class^="pm-from-"] small {
 	left: 175px;
 	width: 265px;
 	position: absolute;
-        border-radius: 10px;
+        border-radius: 5px;
         color: #FFFFFF;
         background-color: #000000;
         border: 1px solid #00FF00;
