@@ -446,6 +446,8 @@ background-position: 0 0;
     background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #F70000 100%);
 }
 
+#grab {margin-left:-1px;}
+
 .win .bar-value {
     font-weight: 900;
 }
