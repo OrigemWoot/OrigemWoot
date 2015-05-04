@@ -211,7 +211,7 @@
 		},
 		"hudba-u-tomasa" : {
 			"title" : "HJV",
-			"css" : "https://raw.github.com/OrigemWoot/OrigemWoot/master/CSS/HJV.css",
+			"css" : "https://www.rawgit.com/OrigemWoot/OrigemWoot/master/CSS/HJV.css",
 			"background" : "http://i.imgur.com/V27WlaB.jpg",
 			"overridecss" : true
 		},
