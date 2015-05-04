@@ -211,7 +211,7 @@
 		},
 		"hudba-u-tomasa" : {
 			"title" : "HJV",
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
+			"css" : "https://raw.github.com/OrigemWoot/OrigemWoot/master/CSS/HJV.css",
 			"background" : "http://i.imgur.com/V27WlaB.jpg",
 			"overridecss" : true
 		},
@@ -317,7 +317,7 @@
 		"herdyn" : {
 			"title" : "Herdyn",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Herdyn%20CSS.css",
-			"background" : "http://i.imgur.com/4h1TXBj.jpg?1",
+			"background" : "http://i.imgur.com/4h1TXBj.jpg",
 			"overridecss" : true
 		}
 	}
