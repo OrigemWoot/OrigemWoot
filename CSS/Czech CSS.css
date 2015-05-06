@@ -135,11 +135,19 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 #chat-button {background: #000000;}
 
+#chat-button .selected {background: #111317;}
+
 #users-button {background: #000000;}
+
+#users-button .selected {background: #111317;}
 
 #waitlist-button {background: #000000;}
 
+#waitlist-button .selected {background: #111317;}
+
 #friends-button {background: #000000;}
+
+#friends-button .selected {background: #111317;}
 
 .dark-label {color: #FFFFFF;}
 
