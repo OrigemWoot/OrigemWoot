@@ -524,7 +524,7 @@ background-position: 0 0;
 #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome {
 background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-animation:fadein 0.6s;
 -ms-animation:fadein 0.6s;  -o-animation:fadein 0.6s; animation:fadein 0.6s; }
-#chat .emote.role-4.ow-dev {margin-left: -30px;}
+#chat .emote.role-4.ow-dev {width: 332px;}
                 .is-staff .name {
                     color: #ac76ff;
                 }
