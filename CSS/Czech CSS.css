@@ -135,19 +135,13 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 #chat-button {background: #000000;}
 
-#chat-button .selected {background: #111317;}
-
 #users-button {background: #000000;}
-
-#users-button .selected {background: #111317;}
 
 #waitlist-button {background: #000000;}
 
-#waitlist-button .selected {background: #111317;}
-
 #friends-button {background: #000000;}
 
-#friends-button .selected {background: #111317;}
+.header-panel-button.selected {background: #111317;}
 
 .dark-label {color: #FFFFFF;}
 
@@ -347,8 +341,6 @@ background: linear-gradient(to bottom,rgba(11, 12, 13, 1) 0,rgba(0, 0, 0, 1) 100
 #header { background: linear-gradient(to bottom,#000000 0,#000000 90%); }
 #store-button { background: linear-gradient(to bottom,#FF0000 0,#A00000 100%); }
 #plug-dj { background: linear-gradient(to bottom,#0268AC 0,#02225C 100%); }
-.header-panel-button.selected { background:linear-gradient(to bottom,rgba(255, 255, 255, 0.25) 0,
-rgba(255, 255, 255, 0.06) 100%); }
 #plug-menu { background: rgba(40, 44, 53, 0.94) !important; }
 #plug-menu .legal: { background: rgba(68, 74, 89, 0.46) !important; }
 #settings { background: rgba(10, 10, 10, 0.89) !important; }
