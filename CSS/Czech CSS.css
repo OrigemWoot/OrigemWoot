@@ -141,6 +141,14 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 #friends-button {background: #000000;}
 
+#chat-button.header-panel-button.selected {background: #191919;}
+
+#users-button.header-panel-button.selected {background: #191919;}
+
+#waitlist-button.header-panel-button.selected {background: #191919;}
+
+#friends-button.header-panel-button.selected {background: #191919;}
+
 .dark-label {color: #FFFFFF;}
 
 
@@ -345,8 +353,6 @@ background: linear-gradient(to bottom,rgba(11, 12, 13, 1) 0,rgba(0, 0, 0, 1) 100
 #settings .header { background: rgba(28, 31, 37, 0.78) !important; }
 #chat { background: linear-gradient(to bottom,#000000 0,#000000 90%); }
 #dj-button { background: rgba(40, 44, 53, 0.75) !important; }
-#chat-button.header-panel-button.selected { background:linear-gradient(to bottom,rgba(25, 25, 25, 1) 100%,
-rgba(25, 25, 25, 1) 100%); }
 #dj-button .left { background: linear-gradient(to bottom,rgba(0, 157, 40 , 0.6) 0,rgba(0, 157, 40 , 0.6) 100%); }
 #playlist-panel { background: rgba(17, 19, 23, 0.9); }
 #playlist-menu { background: rgba(28, 31, 37, 0.67); }
