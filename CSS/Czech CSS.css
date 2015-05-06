@@ -119,6 +119,8 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
   background: rgba(0,0,0,0) !important;
 }
 
+#footer-user .info.showing {background: #000000;}
+
 
 #playlist-menu .title {
 
