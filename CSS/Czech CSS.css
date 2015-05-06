@@ -151,6 +151,8 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 .dark-label {color: #FFFFFF;}
 
+.app-right .friends .header span {background: #000000;}
+
 
 #playlist-menu .title {
 
