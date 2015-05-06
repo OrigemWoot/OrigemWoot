@@ -123,6 +123,26 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 #footer-user .info .meta .label {color: #FFFFFF;}
 
+.origem-menu-opener {background: #000000;}
+
+#app-menu .button {background: #000000;}
+
+#now-playing-bar {background: #000000;}
+
+#room-bar {background: #000000;}
+
+#history-button {background: #000000;}
+
+#chat-button {background: #000000;}
+
+#users-button {background: #000000;}
+
+#waitlist-button {background: #000000;}
+
+#friends-button {background: #000000;}
+
+.dark-label {color: #FFFFFF;}
+
 
 #playlist-menu .title {
 
