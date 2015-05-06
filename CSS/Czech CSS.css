@@ -121,6 +121,8 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 #footer-user .info.showing {background: #000000;}
 
+#footer-user .info .meta .label {color: #FFFFFF;}
+
 
 #playlist-menu .title {
 
