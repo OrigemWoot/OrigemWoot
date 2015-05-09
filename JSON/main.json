@@ -331,6 +331,10 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Herdyn%20CSS.css",
 			"background" : "https://i.imgur.com/d5rBUGe.jpg",
 			"overridecss" : true
+		},
+		"only-chillout" : {
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
+			"overridecss" : true
 		}
 	}
 }
