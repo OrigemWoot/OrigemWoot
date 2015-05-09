@@ -308,7 +308,7 @@
 		},
 		"free-run" : {
 			"title":"Free Run",
-			"background" : "http://i.imgur.com/DpJrfzQ.jpg",
+			"background" : "https://i.imgur.com/DpJrfzQ.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"overridecss" : false
 		},
@@ -319,6 +319,12 @@
 		},
 		"czech-104" : {
 			"title" : "HPZ"
+		},
+		"girl1800" : {
+			"title" : "MCS",
+			"background" : "https://i.imgur.com/TbROyqK.jpg",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/MCS-CSS.css",
+			"overridecss" : true
 		},
 		"herdyn" : {
 			"title" : "Herdyn",
