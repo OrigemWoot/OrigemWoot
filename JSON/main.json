@@ -245,12 +245,12 @@
 		},
 		"rock-wins-10" : {
 			"title" : "RW",
-			"background" : "https://i.imgur.com/A43Okjz.jpg",
+			"background" : "https://i.imgur.com/4KG1JZj.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"overridecss" : true
 		},
 			"rock-de-garagem" : {
-			"background" : "https://i.imgur.com/4KG1JZj.png",
+			"background" : "https://i.imgur.com/A43Okjz.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"overridecss" : true
 		},
