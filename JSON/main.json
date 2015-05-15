@@ -159,6 +159,10 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
 		},
+		"s-wat" : {
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
+			"overridecss" : true
+		},
 		"panelinha-radioativa" : {
 			"title" : "Panelinha"
 		},
