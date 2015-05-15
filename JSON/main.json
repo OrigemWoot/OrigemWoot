@@ -344,6 +344,12 @@
 		"only-chillout" : {
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"overridecss" : true
+		},
+		"tedentertainment" : {
+			"title" : "TED",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
+			"msg" : "Obrigado por usar o TED Woot, e seja bem vindo a nossa sala!",
+			"overridecss" : true
 		}
 	}
 }
