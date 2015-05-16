@@ -759,10 +759,10 @@
          "url":"https://i.imgur.com/vjqoMNx.png",
          "width":"31px"
        },
-       "demente":{
-         "height":"63px",
+       "demente":{  
          "url":"https://i.imgur.com/hcFHm28.gif",
-         "width":"110px"
+         "width":"110px",
+         "height":"63px"
        },
        "huera":{
          "height":"100px",
