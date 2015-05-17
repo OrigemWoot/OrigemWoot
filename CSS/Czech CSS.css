@@ -325,8 +325,6 @@ div[class^="pm-from-"] small {
   text-shadow: -1px 1px 8px #0199DA, 1px -1px 8px #0199DA;
 }
 
-#chat .emote.role-4.ow-dev {margin-left: -10px;}
-
 /* Scroll Bar nova e personalizada */
 
 ::-webkit-scrollbar { 
@@ -571,6 +569,7 @@ border-radius: 10px 0px 10px 0px !important; background: #00cf00; box-shadow: 0 
     -moz-box-shadow: inset 0 0 30px rgb(129, 129, 129);
     box-shadow: inset 0 0 30px rgb(129, 129, 129);
     border-radius: 12px !important;
+    border-color: #00FF00;
 }
 
 #playlist-panel {
