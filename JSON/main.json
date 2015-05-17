@@ -319,7 +319,7 @@
 			"title":"Free Run",
 			"background" : "https://i.imgur.com/DpJrfzQ.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
-			"overridecss" : false
+			"overridecss" : true
 		},
 		"metal-infernus" : {
 			"title" : "CRM",
