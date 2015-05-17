@@ -574,19 +574,19 @@ border-radius: 10px 0px 10px 0px !important; background: #00cf00; box-shadow: 0 
 }
 
 ::-webkit-input-placeholder {
-	color: #FFFFFF;
+	color: #7F7F7F;
 }
 
 :-moz-placeholder {
-	color: #FFFFFF;
+	color: #7F7F7F;
 }
 
 ::-moz-placeholder {
-	color: #FFFFFF;
+	color: #7F7F7F;
 }
 
 -ms-input-placeholder {
-	color: #FFFFFF;
+	color: #7F7F7F;
 }
 
 #playlist-panel {
