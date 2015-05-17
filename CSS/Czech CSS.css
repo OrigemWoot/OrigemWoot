@@ -569,7 +569,10 @@ border-radius: 10px 0px 10px 0px !important; background: #00cf00; box-shadow: 0 
     -moz-box-shadow: inset 0 0 30px rgb(129, 129, 129);
     box-shadow: inset 0 0 30px rgb(129, 129, 129);
     border-radius: 12px !important;
-    border-color: #00FF00;
+}
+
+#chat-input .focused {
+	box-shadow: inset 0 0 0 1px #1EDD00 !important;
 }
 
 #playlist-panel {
