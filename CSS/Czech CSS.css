@@ -325,6 +325,8 @@ div[class^="pm-from-"] small {
   text-shadow: -1px 1px 8px #0199DA, 1px -1px 8px #0199DA;
 }
 
+#chat .emote.role-4.ow-dev {margin-left: -10px;}
+
 /* Scroll Bar nova e personalizada */
 
 ::-webkit-scrollbar { 
