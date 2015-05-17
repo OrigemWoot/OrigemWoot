@@ -314,6 +314,17 @@ div[class^="pm-from-"] small {
         border: 1px solid #00FF00;
 }
 
+#chat .text a:hover, a:focus, #origem-info:hover {
+  text-decoration: none;
+  color: #00DDDD;
+  -webkit-transition: 200ms linear 0s;
+  -moz-transition: 200ms linear 0s;
+  -o-transition: 200ms linear 0s;
+  transition: 200ms linear 0s;
+  outline: 0 none;
+  text-shadow: -1px 1px 8px #0199DA, 1px -1px 8px #0199DA;
+}
+
 /* Scroll Bar nova e personalizada */
 
 ::-webkit-scrollbar { 
