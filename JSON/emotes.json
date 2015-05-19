@@ -2020,6 +2020,26 @@
          "width":"107px",
          "height":"86px"
       },
+      "parabains":{  
+         "url":"https://i.imgur.com/biIoQe8.jpg",
+         "width":"120px",
+         "height":"100px"
+      },
+      "puto":{  
+         "url":"https://i.imgur.com/v9h01r1.png",
+         "width":"100px",
+         "height":"100px"
+      },
+      "numintendi":{  
+         "url":"https://i.imgur.com/pB51GvI.jpg",
+         "width":"120px",
+         "height":"110px"
+      },
+      "corre":{  
+         "url":"https://i.imgur.com/LrT4c1X.jpg",
+         "width":"120px",
+         "height":"120px"
+      },
       "dinossauro":{  
          "url":"https://i.imgur.com/T73QENt.png",
          "width":"95px",
@@ -2054,7 +2074,12 @@
          "url":"https://i.imgur.com/I80DvSW.png",
          "width":"104px",
          "height":"50px"
-   },
+      },
+      "ban":{
+         "url":"https://i.imgur.com/GqRd92T.jpg",
+         "width":"120px",
+         "height":"100px"
+      },
       "okne":{  
          "url":"https://i.imgur.com/VkktMNz.gif",
          "width":"68px",
