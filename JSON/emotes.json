@@ -749,13 +749,23 @@
       },
       "banger2":{  
          "url":"https://i.imgur.com/LwcEmSG.gif",
-         "width":"120px",
-         "height":"150px"
+         "width":"150px",
+         "height":"120px"
       },
       "banger3":{  
          "url":"https://i.imgur.com/5cezcWG.gif",
          "width":"120px",
          "height":"120px"
+      },
+       "banger4":{  
+         "url":"https://i.imgur.com/MrtbDUW.gif",
+         "width":"150px",
+         "height":"120px"
+      },
+       "banger5":{  
+         "url":"https://i.imgur.com/sQ9MBhG.gif",
+         "width":"120px",
+         "height":"150px"
       },
       "phantomWow":{  
          "url":"https://static-cdn.jtvnw.net/jtv_user_pictures/emoticon-12243-src-2b51c081d359cb74-28x28.jpeg",
