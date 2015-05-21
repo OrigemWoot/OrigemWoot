@@ -1404,6 +1404,11 @@
          "url":"https://i.imgur.com/b3zJklr.jpg",
          "width":"84px"
       },
+      "carsampley":{  
+         "height":"100px",
+         "url":"https://i.imgur.com/c1lqPLc.gif",
+         "width":"178px"
+      },
       "100%":{  
          "height":"49px",
          "url":"https://i.imgur.com/nhz07pH.jpg",
@@ -2010,7 +2015,7 @@
          "width":"185px",
          "height":"104px"
       },
-   "diva":{
+      "diva":{
          "url":"https://dl.dropboxusercontent.com/s/ordgqct09npvogd/diva.gif",
          "width":"104px",
          "height":"104px"
