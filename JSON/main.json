@@ -341,6 +341,10 @@
 			"background" : "https://i.imgur.com/d5rBUGe.jpg",
 			"overridecss" : true
 		},
+		"edm-community" : {
+			"css" : "https://rawgit.com/WiBla/Script/master/ressources/blue.css",
+			"overridecss" : true
+		},
 		"only-chillout" : {
 			"title" : "Village",
 			"msg" : "Bem Vindo(a) a Music Village e Obrigado por usar nosso VillageWoot.",
