@@ -373,6 +373,14 @@ margin: 0px -174px;
 padding: 0px 174px;
 } */
 
+#footer-user .buttons div.inventory.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.badge.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.profile.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.settings.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.store.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .info { background: linear-gradient(to bottom,#521114 0,rgba(142, 75, 81, 1) 56%,#1A1A1A 73%,#39393A 100%); }
+  
+
 /* Aleatoridades e frescuras novas */
 
 .focused{
