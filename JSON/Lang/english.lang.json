@@ -63,7 +63,7 @@
     "clrcht":             "Clear Chat",
     "bgcustom":           "Custom Backgrounds",
     "owlang":		  "Language",
-    "ar":		  "Autoreconnect",
+    "ar":		  "Auto reconnect",
     "ar_msg":		  "Reconnecting to site, wait a moment",
     "background":         "Background",
     "background_abbr":    "BG",
