@@ -206,8 +206,8 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
     width: 450px;
     height: 400px;
     z-index: 16;
-    background: linear-gradient(hsla(220, 10%, 10%, 0.9), hsla(220, 10%, 5%, 0.9));
-    border-radius: 15px;
+    background: #000000;
+    border-radius: 10px;
 }
 #pm-users-container {
     top: 50px;
@@ -228,24 +228,24 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 }
 .pm-user-content {
     width: auto;
-    height: 45px;
-    background: linear-gradient(hsl(220, 10%, 20%), hsl(220, 10%, 15%));
+    height: 22px;
+    background: linear-gradient(hsl(0, 0, 0.1), hsl(0, 0, 0.1));
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    border-radius: 5px;
+    border-radius: 0px;
     cursor: pointer;
 }
 .pm-user-content.selected {
-    border-radius: 5px;
-    box-shadow: inset 0 0 10px 2px hsl(200, 80%, 30%);
-    background: linear-gradient(hsl(200, 100%, 30%), hsl(200, 100%, 20%)) !important;
+    border-radius: 0px;
+    box-shadow: none;
+    background: linear-gradient rgba (25, 25, 25, 1) !important;
 }
 .pm-user-content.new {
     background-color: #FF5522 !important;
 }
 .pm-user-content:nth-child(2n+1) {
-    background: linear-gradient(#111, #000);
+    background: linear-gradient rgba (25, 25, 25, 1);
 }
 #pm-msg-content {
     position: absolute;
