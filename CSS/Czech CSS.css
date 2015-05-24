@@ -485,7 +485,7 @@ div[class^="pm-from-"] {
 	background: #00F700;
 }
 
-#special-vip3 { color: #00C204; }
+span.special-vip3 { color: rgb (0, 194, 4); }
 
 /* Scroll Bar nova e personalizada */
 
