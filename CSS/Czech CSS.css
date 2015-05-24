@@ -370,11 +370,11 @@ div[class^="pm-from-"] {
 }
 .pm-msg-username {
     width: 90px;
-    background: linear-gradient(hsl(200, 100%, 40%), hsl(200, 100%, 30%));
-    box-shadow: inset 1px 2px 20px hsl(200, 50%, 60%);
-    border-radius: 20px;
+    background: #000000;
+    box-shadow: none;
+    border-radius: 0px;
     padding: 3px;
-    font-weight: bold;
+    font-weight: normal;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
