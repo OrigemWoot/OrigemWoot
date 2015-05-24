@@ -302,7 +302,7 @@ div[class^="pm-from-"] {
     left: 175px;
     width: 265px;
     position: absolute;
-    border: 1px solid #00FF00;
+    border: 1px solid #00E700;
     border-radius: 0px;
 }
 #pm-input-user {
@@ -310,7 +310,7 @@ div[class^="pm-from-"] {
     position: relative;
     width: 160px;
     left: 5px;
-    border: 1px solid #00FF00;
+    border: 1px solid #00E700;
     border-radius: 0px;
 }
 #pm-close {
@@ -374,6 +374,7 @@ div[class^="pm-from-"] {
     width: 90px;
     background: #000000;
     box-shadow: none;
+    border: 1px solid #00E700;
     border-radius: 0px;
     padding: 3px;
     font-weight: normal;
