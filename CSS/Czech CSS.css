@@ -273,7 +273,7 @@ div[class^="pm-from-"] {
     word-wrap: break-word;
     color: #eee;
     text-align: left;
-    padding-right: 10px;
+    padding-right: 5px;
     margin-bottom: 2px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
 }
