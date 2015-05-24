@@ -231,7 +231,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 .pm-user-content {
     width: auto;
     height: 18px;
-    background: linear-gradient(hsl(220, 10%, 20%), hsl(220, 10%, 15%));
+    background: 191919;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -241,7 +241,8 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 .pm-user-content.selected {
     border-radius: 5px;
     border: 1px solid #14ec0d;
-    background-color: #000000 !important;  
+    background-color: #000000 !important;
+    box-shadow: none;
 }
 .pm-user-content.new {
     background-color: #FF5522 !important;
@@ -375,7 +376,7 @@ div[class^="pm-from-"] {
     border-radius: 0px;
     border: 1px solid #14EC0D;
     padding: 3px;
-    font-weight: normal;
+    font-weight: bold;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
