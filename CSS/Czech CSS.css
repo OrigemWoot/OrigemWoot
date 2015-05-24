@@ -216,31 +216,31 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	height: 325px;
 	overflow-y: auto;
 	overflow-x:hidden;
-	background-color: #212327 !important;
+	background-color: #191919 !important;
 	position: absolute;
 	left: 5px;
-        border-radius: 10px;
+        border-radius: 5px;
 }
 .pm-user-content{
 	width:auto;
-	height:45px;
+	height:24px;
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
-        border-radius: 5px;
+        border-radius: 0px;
         cursor: pointer;
 }
 
 .pm-user-content.selected{
-	background-color: #0F4f45 !important;
-        border: 3px solid #556B2F;
-        border-radius: 5px;
+	background-color: #191919 !important;
+        border: 1px solid #00E700;
+        border-radius: 0px;
 }
 .pm-user-content.new{
 	background-color: #FF5522 !important;
 }
 .pm-user-content:nth-child(2n+1){
-	background-color: #515357;
+	background-color: #191919;
 }
 #pm-msg-content {
 	position: absolute;
