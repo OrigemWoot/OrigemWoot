@@ -291,7 +291,7 @@ div[class^="pm-from-"] {
     background-color: #FF0000;
 }
 #pm-main input {
-    border: none;
+    border: 1px solid #00E700;
     padding: 3px;
     background: linear-gradient(hsl(220, 10%, 10%), hsl(220, 10%, 13%));
     box-shadow: inset 0 0 0 1px hsl(0, 0%, 20%);
