@@ -12,6 +12,7 @@
 div[class^="pm-from-"]{width:auto;word-wrap:break-word;padding-left:5px;margin-bottom:2px;margin-right:10px;background:linear-gradient(hsl(200,10%,30%), hsl(200,10%,25%));border-radius:0 10px 10px;}
 .pm-me{width:auto;word-wrap:break-word;color:#eee;padding-right:5px;margin-bottom:2px;text-align:right;margin-left:10px;background:linear-gradient(hsl(200,10%,20%), hsl(200,10%,15%));border-radius:10px 10px 0;}
 .pm-me small, div[class^="pm-from-"] small{color:#aaa;}
+.pm-me .emoji-glow{text-align: initial;}
 .pm-system{width:auto;word-wrap:break-word;background-color:#FF0000;}
 #pm-main input{border:none;padding:3px;background:linear-gradient(hsl(220,10%,10%), hsl(220,10%,13%));box-shadow:inset 0 0 0 1px hsl(0,0%,20%);color:#eee;}
 #pm-input-field{top:375px;left:175px;width:265px;position:absolute;border-radius:10px;}
