@@ -269,12 +269,13 @@ div[class^="pm-from-"] {
     background: linear-gradient(hsl(200, 10%, 30%), hsl(200, 10%, 25%));
 }
 .pm-me {
-    width: auto;
+    width: 270px;
     word-wrap: break-word;
     color: #fff;
     text-align: left;
     padding-right: 5px;
     margin-bottom: 2px;
+    margin-left: -10px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
 }
 .pm-me small, div[class^="pm-from-"] small {
