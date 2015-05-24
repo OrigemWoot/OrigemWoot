@@ -464,8 +464,8 @@ div[class^="pm-from-"] {
     border-radius: 10px;
     margin-right: 3px;
     padding: 0 4px;
-    background: #0bf;
-    box-shadow: 0 0 10px #0bf;
+    background: #191919;
+    box-shadow: none;
     position: relative;
     top: -3px;
 }
