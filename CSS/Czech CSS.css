@@ -267,6 +267,7 @@ div[class^="pm-from-"] {
     margin-bottom: 2px;
     margin-right: 10px;
     background: linear-gradient(hsl(200, 10%, 30%), hsl(200, 10%, 25%));
+    border-radius: 0px;
 }
 .pm-me {
     width: 270px;
@@ -277,6 +278,7 @@ div[class^="pm-from-"] {
     margin-bottom: 2px;
     margin-left: 0px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
+    border-radius: 0px;
 }
 .pm-me small, div[class^="pm-from-"] small {
 	color: #eee;
