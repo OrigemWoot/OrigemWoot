@@ -302,6 +302,7 @@ div[class^="pm-from-"] {
     left: 175px;
     width: 265px;
     position: absolute;
+    color: #FFF;
     border: 1px solid #00E700;
     border-radius: 0px;
 }
@@ -310,6 +311,7 @@ div[class^="pm-from-"] {
     position: relative;
     width: 160px;
     left: 5px;
+    color: #FFF;
     border: 1px solid #00E700;
     border-radius: 0px;
 }
