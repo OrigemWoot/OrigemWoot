@@ -269,7 +269,7 @@ div[class^="pm-from-"] {
     background: linear-gradient(hsl(200, 10%, 30%), hsl(200, 10%, 25%));
 }
 .pm-me {
-    width: autopx;
+    width: auto;
     word-wrap: break-word;
     color: #eee;
     text-align: left;
