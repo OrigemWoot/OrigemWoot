@@ -262,7 +262,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
     color: #00A100;
 }
 div[class^="pm-from-"] {
-    width: 260px;
+    width: 245px;
     word-wrap: break-word;
     padding-left: 5px;
     margin-bottom: 2px;
@@ -271,7 +271,7 @@ div[class^="pm-from-"] {
     border-radius: 0px;
 }
 .pm-me {
-    width: 260px;
+    width: 240px;
     word-wrap: break-word;
     color: #fff;
     text-align: left;
