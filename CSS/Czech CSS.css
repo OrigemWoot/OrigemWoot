@@ -273,9 +273,8 @@ div[class^="pm-from-"] {
     width: auto;
     word-wrap: break-word;
     color: #eee;
-    padding-right: 10px;
+    padding-right: 5px;
     margin-bottom: 2px;
-    text-align: left;
     margin-left: 10px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
     border-radius: 10px 10px 0;
