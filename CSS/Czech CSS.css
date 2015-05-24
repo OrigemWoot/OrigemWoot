@@ -223,7 +223,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 }
 .pm-user-content{
 	width:auto;
-	height:24px;
+	height:22px;
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
@@ -240,7 +240,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	background-color: #FF5522 !important;
 }
 .pm-user-content:nth-child(2n+1){
-	background-color: #191919;
+	background: linear-gradient (#000, #000);}
 }
 #pm-msg-content {
 	position: absolute;
