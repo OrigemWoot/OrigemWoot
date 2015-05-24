@@ -377,7 +377,7 @@ div[class^="pm-from-"] {
     border-radius: 0px;
     border: 1px solid #14EC0D;
     padding: 3px;
-    font-weight: bold;
+    font-weight: normal;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
