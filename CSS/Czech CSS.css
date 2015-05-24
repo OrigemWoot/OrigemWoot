@@ -379,6 +379,7 @@ div[class^="pm-from-"] {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    box-shadow: none;
 }
 .pm-msg-usericon {
     background-image: url('https://i.imgur.com/RE1eerj.png');
