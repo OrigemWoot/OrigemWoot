@@ -275,7 +275,7 @@ div[class^="pm-from-"] {
     text-align: left;
     padding-right: 5px;
     margin-bottom: 2px;
-    margin-left: -10px;
+    margin-left: 0px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
 }
 .pm-me small, div[class^="pm-from-"] small {
