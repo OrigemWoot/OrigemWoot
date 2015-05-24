@@ -485,6 +485,8 @@ div[class^="pm-from-"] {
 	background: #00F700;
 }
 
+.special-vip3 { color: #00C204; }
+
 /* Scroll Bar nova e personalizada */
 
 ::-webkit-scrollbar { 
