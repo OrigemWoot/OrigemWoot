@@ -269,7 +269,7 @@ div[class^="pm-from-"] {
     background: linear-gradient(hsl(200, 10%, 30%), hsl(200, 10%, 25%));
 }
 .pm-me {
-    width: 270px;
+    width: autopx;
     word-wrap: break-word;
     color: #eee;
     text-align: left;
@@ -277,12 +277,8 @@ div[class^="pm-from-"] {
     margin-bottom: 2px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
 }
-.pm-me small {
-	color: #eee;
-}
-
-div[class^="pm-from-"] small {
-    color: #fff;
+.pm-me small,div[class^="pm-from-"] small {
+	color: #fff;
 }
 
 .pm-system {
