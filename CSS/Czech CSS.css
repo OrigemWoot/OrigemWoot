@@ -278,11 +278,11 @@ div[class^="pm-from-"] {
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
 }
 .pm-me small {
-	#eee
+	color: #eee;
 }
 
 div[class^="pm-from-"] small {
-    color: #FFFFFF;
+    color: #fff;
 }
 
 .pm-system {
