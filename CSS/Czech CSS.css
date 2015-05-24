@@ -258,7 +258,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
     overflow-x: hidden;
 }
 #pm-msg-content a {
-    color: #00a100;
+    color: #00A100;
 }
 div[class^="pm-from-"] {
     width: auto;
@@ -273,7 +273,8 @@ div[class^="pm-from-"] {
     width: auto;
     word-wrap: break-word;
     color: #eee;
-    padding-right: 5px;
+    text-align: left;
+    padding-right: 10px;
     margin-bottom: 2px;
     margin-left: 10px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
