@@ -241,8 +241,9 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 .pm-user-content.selected {
     border-radius: 5px;
     border: 1px solid #14ec0d;
-    background-color: #000000 !important;
+    background-color: #191919;
     box-shadow: none;
+    
 }
 .pm-user-content.new {
     background-color: #FF5522 !important;
