@@ -273,9 +273,8 @@ div[class^="pm-from-"] {
     word-wrap: break-word;
     color: #eee;
     text-align: left;
-    padding-right: 5px;
+    padding-right: 10px;
     margin-bottom: 2px;
-    margin-left: 10px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
 }
 .pm-me small,div[class^="pm-from-"] small {
