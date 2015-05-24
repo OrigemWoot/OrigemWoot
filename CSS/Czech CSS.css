@@ -271,14 +271,14 @@ div[class^="pm-from-"] {
 .pm-me {
     width: auto;
     word-wrap: break-word;
-    color: #eee;
+    color: #fff;
     text-align: left;
     padding-right: 5px;
     margin-bottom: 2px;
     background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
 }
-.pm-me small,div[class^="pm-from-"] small {
-	color: #fff;
+.pm-me small, div[class^="pm-from-"] small {
+	color: #eee;
 }
 
 .pm-system {
