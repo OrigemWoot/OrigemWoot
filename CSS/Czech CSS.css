@@ -303,7 +303,7 @@ div[class^="pm-from-"] {
     width: 265px;
     position: absolute;
     color: #FFF;
-    border: 1px solid #00E700;
+    border: 1px solid #005C00;
     border-radius: 5px;
     background: #000000;
 }
@@ -313,7 +313,7 @@ div[class^="pm-from-"] {
     width: 160px;
     left: 5px;
     color: #FFF;
-    border: 1px solid #00E700;
+    border: 1px solid #005C00;
     border-radius: 5px;
     background: #000000;
 }
