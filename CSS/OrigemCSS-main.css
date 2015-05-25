@@ -395,7 +395,8 @@ top: 8px !important; left: 15px !important;}
 	display: inline-block;
 	padding-right: 5px;
 }
-.origem-menu-checkbox > label {
+.origem-menu-checkbox > label,
+.origem-menu-radio > label{
 	width: 160px;
 }
 .origem-menu-element > label {
