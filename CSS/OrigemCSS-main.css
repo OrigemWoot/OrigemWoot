@@ -402,7 +402,8 @@ top: 8px !important; left: 15px !important;}
 .origem-menu-element > label {
 	position: relative;
 }
-.origem-menu-element input[type=checkbox] {
+.origem-menu-element input[type=checkbox],
+.origem-menu-element input[type=radio]{
 	display: none;
 }
 .origem-menu-element input[type=checkbox]:checked + .origem-checkmark,
