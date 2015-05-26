@@ -688,7 +688,7 @@ background-position: 0 0;
 .user-content.profile .meta .link .url a:hover {
 	color: #0000 !important; 
 	text-decoration: underline;
-	text-shadow: 1px 2px 3px #12E012;
+	text-shadow: 0px 0px 10px #007300 ;
 }
 
 #chat .welcome {
