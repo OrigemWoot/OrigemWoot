@@ -321,7 +321,7 @@ div[class^="pm-from-"] {
     position: absolute;
     color: #FFF;
     border: 1px solid #005C00;
-    border-radius: 5px;
+    border-radius: 10px;
     background: #000000;
 }
 #pm-input-user {
@@ -331,7 +331,7 @@ div[class^="pm-from-"] {
     left: 5px;
     color: #FFF;
     border: 1px solid #005C00;
-    border-radius: 5px;
+    border-radius: 10px;
     background: #000000;
 }
 #pm-close {
