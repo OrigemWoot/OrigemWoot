@@ -219,10 +219,9 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Czech%20CSS.css",
 			"overridecss" : true
 		},
-		"hudba-u-tomasa" : {
+		"thømas-b-community" : {
 			"title" : "HJV",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/HJV.css",
-			"background" : "http://i.imgur.com/kQqtuaF.jpg",
 			"overridecss" : true
 		},
 		"nejlep%C5%A1%C3%AD-songy-cz-i-sk" : {
