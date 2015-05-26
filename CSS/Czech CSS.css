@@ -202,12 +202,12 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 }
 
 #user-menu .item .label .selected {
-	color:  #000000;
+	color:  #EEEEEE;
 }
 
 .tab-menu button.selected {
 	background: #00A100;
-	color: #000000;
+	color: #EEEEEE;
 }
 
 /* PM window */
@@ -682,7 +682,14 @@ background-position: 0 0;
     font-size: 20px;
 }
 
-.user-content.profile .meta .link .url a, .user-content.profile .meta .link .url a:visited, .user-content.profile .points .label { color: #12E012 !important; }
+.user-content.profile .meta .link .url a, .user-content.profile .points .label {
+	color: #12E012 !important; }
+	
+.user-content.profile .meta .link .url a:hover {
+	color: #0000 !important; 
+	text-decoration: underline;
+	text-shadow: 1px 2px 3px #12E012;
+}
 
 #chat .welcome {
     color: #00FF00;
