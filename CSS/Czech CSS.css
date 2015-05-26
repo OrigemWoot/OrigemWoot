@@ -121,7 +121,7 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 #footer-user .info.showing {background: #000000;}
 
-#footer-user .info .meta .label {color: #FFFFFF;}
+#footer-user .info .meta .dark {color: #FFFFFF;}
 
 .origem-menu-opener {background: #000000;}
 
@@ -150,6 +150,8 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 #friends-button.header-panel-button.selected {background: #191919;}
 
 .dark-label {color: #FFFFFF;}
+
+#user-rollover .info .level .label { color: #FFFFFF;}
 
 .app-right .friends .header span {background: #000000;}
 
