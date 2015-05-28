@@ -993,10 +993,10 @@
 }
 
 .pm-user-content.selected {
-    border-radius: 0px;
-    box-shadow: none;
-    background: #191919;
-    border: 1px solid #00E700;
+  border-radius: 0px;
+  box-shadow: none;
+  background: #191919;
+  border: 1px solid #00E700;
 }
 
 .pm-user-content.new {
