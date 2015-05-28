@@ -217,10 +217,6 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	background: #191919;
 }
 
-.tab-menu button:hover {
-	background: #191919;
-}
-
 #user-view .user-content {
 	background: #000000;
 }
@@ -347,6 +343,11 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 
 .communities .box {
 	background: #000000;
+}
+
+.communities .grid .cell .population .friends .divider {
+	background: #000000;
+	width: 2px;
 }
 
 #dashboard {
