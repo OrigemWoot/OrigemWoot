@@ -1708,10 +1708,6 @@ div[class^="pm-from-"] small {
     box-shadow: inset 0 0 30px rgba(51, 255, 0, 1);
 }
 
-#playlist-menu .menu .row .count {
-    color: #00CF00;
-}
-
 .media-list .row.now-playing {
     background: rgba(253, 6, 6, 0.48);
     border-bottom: rgba(255, 0, 0, 0.39) 2px solid;
