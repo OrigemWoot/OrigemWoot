@@ -284,6 +284,10 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	color: #FFFFFF;
 }
 
+#user-menu .item .count {
+	background: #00A100;
+}
+
 /* PM window */
 
 #pm-main {
