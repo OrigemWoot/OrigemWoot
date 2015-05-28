@@ -1679,10 +1679,6 @@ div[class^="pm-from-"] small {
     color: #7F7F7F;
 }
 
-#search {
-    box-shadow: inset 0 0 0 1px #1EDD00 !important;
-}
-
 .focused {
     box-shadow: inset 0 0 0 1px #1EDD00 !important;
 }
