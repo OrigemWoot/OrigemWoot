@@ -218,6 +218,18 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	background: #191919;
 }
 
+.user-content.profile .meta .link .label {
+	color: #FFFFFF;
+}
+
+.user-content.profile .meta .joined {
+	color: #FFFFFF;	
+}
+
+.user-content .header span {
+	color: #FFFFFF;
+}
+
 /* PM window */
 
 #pm-main {
