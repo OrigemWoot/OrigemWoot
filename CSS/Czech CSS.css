@@ -900,6 +900,10 @@
     background: #191919;
 }
 
+#user-store .grid .cell .top .expires span {
+    color: #00CF00;
+}
+
 /* App menu */
 
 #app-menu .list {
