@@ -306,6 +306,29 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 
 .communities .grid .cell {
 	border-radius: 10px;
+	background: #191919;
+}
+
+.communities .grid .cell .meta {
+	background: #191919;
+}
+
+.communities .grid .cell .bar {
+	background: #191919;
+}
+
+.communities .grid .cell .favorite {
+	background: #191919;
+}
+
+.communities .grid .cell .meta .divider {
+	background: #000000;
+	height: 2px;
+}
+
+.communities .grid .cell .meta .join {
+	border: 1px solid #00CF00;
+	background: #191919;
 }
 
 .communities .grid .cell .meta .room {
@@ -324,9 +347,9 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	background: #000000;
 }
 
-#dashboard .search input {
-	width: 1310px;
-	border
+#dashboard .search {
+	background: #000000;
+	box-shadow: inset 0 0 0 1px #1EDD00;
 }
 
 /* PM window */
