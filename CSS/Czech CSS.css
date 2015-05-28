@@ -210,7 +210,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	color: #EEEEEE;
 }
 
-#user-settings {
+#user-settings .container {
 	background: #000000;
 }
 
