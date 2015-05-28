@@ -255,6 +255,19 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	color: #FFFFFF;
 }
 
+.experience .levels .level .label i.icon-sunburst {
+	background: #000000;
+	border: 2px solid #00E700;
+	border-radius: 10px 10px 0px 0px;
+	width: 90px;
+}
+
+.experience .levels .level {
+	background: #000000;
+	border: 2px solid #00E700;
+	border-radius: 0px 0px 10px 10px;
+}
+
 /* PM window */
 
 #pm-main {
