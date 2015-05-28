@@ -904,6 +904,18 @@
     color: #00CF00;
 }
 
+#user-store .badges .grid .cell .top {
+    background: #191919;
+}
+
+#user-store .misc .grid .cell .title-bar {
+    background: #191919;
+}
+
+#user-store .misc .grid .cell .top {
+    background: #191919;
+}
+
 /* App menu */
 
 #app-menu .list {
@@ -1283,6 +1295,14 @@ div[class^="pm-from-"] small {
     box-shadow: none;
     position: relative;
     top: -3px;
+}
+
+#chat-suggestion {
+    background: #191919;
+}
+
+#chat-suggestion:hover {
+    background: #252525;
 }
 
 #chat .text a:hover,a:focus,#origem-info:hover {
