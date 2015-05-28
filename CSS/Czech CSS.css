@@ -915,8 +915,7 @@
     border: 1px solid #00CF00;
     border-radius: 20px 20px 0px 0px;
 }
-    
-}
+
 #user-friends .list .row .buttons button.positive:hover {
     background: #00CF00;
 }
@@ -927,8 +926,8 @@
     border-radius: 0px 0px 20px 20px;
 }
 
-#user-friends .list .row .buttons button.negative: hover {
-    background:#007C00;
+#user-friends .list .row .buttons button.negative:hover {
+    background: #007C00;
 }
 
 /* App menu */
