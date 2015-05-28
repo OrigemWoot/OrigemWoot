@@ -208,6 +208,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 .tab-menu button.selected {
 	background: #00CF00;
 	color: #EEEEEE;
+	border-radius: 10px;
 }
 
 #user-view .user-content {
@@ -291,6 +292,24 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 #user-menu .item .count {
 	background: #00CF00;
 	border: 2px solid #000000;
+}
+
+/* App menu */
+
+#app-menu .list {
+	background: #000000;
+}
+
+.communities .grid .cell {
+	border-radius: 10px;
+}
+
+.communities .grid .cell .meta .room {
+	text-align: center;
+}
+
+.communities .grid .cell .meta .host {
+	text-align: center;
 }
 
 /* PM window */
