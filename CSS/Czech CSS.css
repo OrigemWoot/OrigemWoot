@@ -928,6 +928,7 @@
 
 #user-friends .list .row .buttons button.negative:hover {
     background: #007C00;
+    border: 1px solid #00CF00;
 }
 
 /* App menu */
