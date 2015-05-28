@@ -1027,8 +1027,9 @@ div[class^="pm-from-"] {
     padding-left: 5px;
     margin-bottom: 2px;
     margin-right: 10px;
-    background: linear-gradient(hsl(200, 10%, 30%), hsl(200, 10%, 25%));
+    background: #000000;
     border-radius: 0px;
+    color: 00CF00;
 }
 
 .pm-me {
@@ -1039,13 +1040,16 @@ div[class^="pm-from-"] {
     padding-left: 5px;
     margin-bottom: 2px;
     margin-left: 0px;
-    background: linear-gradient(hsl(200, 10%, 20%), hsl(200, 10%, 15%));
+    background: #000000;
     border-radius: 0px;
 }
 
-.pm-me small,
-div[class^="pm-from-"] small {
+.pm-me small {
     color: #eee;
+}
+
+div[class^="pm-from-"] small {
+    color: #009000;
 }
 
 .pm-system {
