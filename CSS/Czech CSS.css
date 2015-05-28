@@ -217,10 +217,6 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 	background: #191919;
 }
 
-.tab-menu button:hover {
-	background: #191919;
-}
-
 #user-view .user-content {
 	background: #000000;
 }
@@ -307,6 +303,17 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 #user-friends .tab-menu button .count {
 	background: #00CF00;
 	border: 2px solid #000000;
+}
+
+#user-friends .list .row, #user-friends .list .row:nth-child(2n+1) {
+	background: #191919;
+	border-radius: 20px;
+}
+
+#user-friends .list .row .buttons button {
+	background: #191919;
+	border: 1px solid #00CF00;
+	border-radius: 20px;
 }
 
 /* App menu */
