@@ -550,6 +550,10 @@
     color: #FFFFFF;
 }
 
+#footer-user .back span {
+    background: #191919;
+}
+
 .origem-menu-opener {
     background: #000000;
 }
@@ -881,6 +885,20 @@
     background: #191919;
     border: 1px solid #00CF00;
     border-radius: 20px;
+}
+
+.user-content .grid .cell {
+    border-radius: 15px;
+    border: 1px inset #00CF00;
+    background: #191919;
+}
+
+.user-content .grid .cell .top {
+    background: #191919;
+}
+
+#user-store .grid .cell .top .expires {
+    background: #191919;
 }
 
 /* App menu */
