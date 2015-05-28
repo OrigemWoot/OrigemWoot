@@ -881,12 +881,6 @@
     border-radius: 20px;
 }
 
-#user-friends .list .row .buttons button {
-    background: #191919;
-    border: 1px solid #00CF00;
-    border-radius: 20px;
-}
-
 .user-content .grid .cell {
     border-radius: 15px;
     background: #191919;
@@ -914,6 +908,27 @@
 
 #user-store .misc .grid .cell .top {
     background: #191919;
+}
+
+#user-friends .list .row .buttons button.positive {
+    background: #191919;
+    border: 1px solid #00CF00;
+    border-radius: 20px 20px 0px 0px;
+}
+    
+}
+#user-friends .list .row .buttons button.positive:hover {
+    background: #00CF00;
+}
+
+#user-friends .list .row .buttons button.negative {
+    background: #191919;
+    border: 1px solid #00CF00;
+    border-radius: 0px 0px 20px 20px;
+}
+
+#user-friends .list .row .buttons button.negative: hover {
+    background:#007C00;
 }
 
 /* App menu */
