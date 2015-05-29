@@ -241,6 +241,10 @@
 			"title" : "Balkan",
 			"background" : "https://i.imgur.com/mL0fuwb.png"
 		},
+			"space-of-music" : {
+			"title" : "Space",
+			"background" : "https://i.imgur.com/EFXFnql.png"
+		},
 		"brazil-eletro-mus1c" : {
 			"title" : "BEM",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
