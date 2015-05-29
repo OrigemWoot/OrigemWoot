@@ -931,6 +931,15 @@
     border: 1px solid #00CF00;
 }
 
+#user-menu .avatar {
+    background: #191919;
+    box-shadow: 0px 2px 1px 2px #000000;
+}
+
+.user-content .grid .cell:hover>.top {
+    background: linear-gradient(to bottom, #1CAE1C 0, rgba(30, 179, 31, 0.33) 56%, #000 73%, #39393A 100%);
+}
+
 /* App menu */
 
 #app-menu .list {
