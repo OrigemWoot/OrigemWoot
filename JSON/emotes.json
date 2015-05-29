@@ -767,6 +767,16 @@
          "width":"120px",
          "height":"150px"
       },
+      "banger6":{  
+         "url":"https://i.imgur.com/kX8eV8y.gif",
+         "width":"130px",
+         "height":"120px"
+      },
+      "under":{  
+         "url":"https://i.imgur.com/7qMVolj.gif",
+         "width":"120px",
+         "height":"120px"
+      },
       "phantomWow":{  
          "url":"https://static-cdn.jtvnw.net/jtv_user_pictures/emoticon-12243-src-2b51c081d359cb74-28x28.jpeg",
          "width":"31px",
@@ -808,6 +818,16 @@
          "height":"80px",
          "url":"https://i.imgur.com/0EfQWMN.jpg",
          "width":"100px"
+       },
+       "sefoda":{
+         "height":"100px",
+         "url":"https://i.imgur.com/IDHE3Ve.gif",
+         "width":"120px"
+       },
+       "sefoda2":{
+         "height":"120px",
+         "url":"https://i.imgur.com/igDZYOt.gif",
+         "width":"120px"
        },
        "diploma":{
          "height":"90px",
@@ -914,6 +934,11 @@
          "url":"https://i.imgur.com/OnzQsC7.jpg",
          "width":"100px"
       },
+      "feelsbro":{
+         "height":"120px",
+         "url":"https://i.imgur.com/pWzA0Fi.gif",
+         "width":"150px"
+      },
       "pepe":{
          "height":"90px",
          "url":"https://i.imgur.com/ZNz8T3V.jpg",
@@ -953,6 +978,11 @@
          "height":"107px",
          "url":"https://i.imgur.com/uUNdVs7.gif",
          "width":"120px"
+      },
+      "relaxha":{
+         "height":"120px",
+         "url":"https://i.imgur.com/XkhbLVL.gif",
+         "width":"150px"
       },
       "pinto":{
          "height":"100px",
