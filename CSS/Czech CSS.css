@@ -937,7 +937,15 @@
 }
 
 .user-content .grid .cell:hover>.top {
-    background: linear-gradient(to bottom, #1CAE1C 0, rgba(30, 179, 31, 0.33) 56%, #000 73%, #39393A 100%);
+    background: #252525;
+}
+
+#user-store .badges .grid .cell:hover>.top {
+    background: #252525;
+}
+
+#user-store .misc .grid .cell:hover>.top {
+    background: #252525;
 }
 
 /* App menu */
