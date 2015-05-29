@@ -928,7 +928,7 @@
 
 #user-friends .list .row .buttons button.negative:hover {
     background: #007C00;
-    border: 1px solid #00CF00;
+    border: 1px solid #007C00;
 }
 
 #user-menu .avatar {
@@ -946,6 +946,11 @@
 
 #user-store .misc .grid .cell:hover>.top {
     background: #252525;
+}
+
+.thumb {
+    border: 2px solid #00CF00;
+    border-radius: 50%;
 }
 
 /* App menu */
