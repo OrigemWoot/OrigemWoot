@@ -178,9 +178,9 @@
 		],
 		"rollover" : {
 			 "classteam" : "designer",
-			 "icon" : "https://i.imgur.com/KuseBhO.png",
+			 "icon" : "https://i.imgur.com/sQaTPcv.png",
 			 "langkey": "titleDesigner",
-			 "color": "#E00000"
+			 "color": "#825AAE"
 		}
 	}
 }
