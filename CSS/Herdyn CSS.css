@@ -816,24 +816,3 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
     height: 0;
 	z-index: 1;
 }
-
-.ow-dev .un, div[data-cid~="ow-dev"] .un,
-.ow-helper .un, div[data-cid~="ow-helper"] .un,
-.ow-divulgadores .un , div[data-cid~="ow-divulgadores"] .un,
-.ow-designer .un , div[data-cid~="ow-designer"] .un,
-.ow-vip .un, div[data-cid~="ow-vip"] .un {
-	margin-left: 21px;
-	position: relative;
-}
-.ow-dev .un::before, div[data-cid~="ow-dev"] .un::before,
-.ow-helper .un::before, div[data-cid~="ow-helper"] .un::before,
-.ow-divulgadores .un::before, div[data-cid~="ow-divulgadores"] .un::before,
-.ow-designer .un::before, div[data-cid~="ow-designer"] .un::before,
-.ow-vip .un::before, div[data-cid~="ow-vip"] .un::before {
-	content: '';
-	position: absolute;
-	background-repeat: no-repeat;
-	width: 15px; 
-	height: 15px; 
-	left: -21px;
-}
