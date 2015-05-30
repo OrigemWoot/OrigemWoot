@@ -118,7 +118,7 @@
 			 "color": "#00FFFF"
 		}
 	},
-	"divulgadores" : {
+	"spreader" : {
 		"ids" : [
 			3604577,
 	 		4638030,
@@ -141,7 +141,7 @@
 			3825848
 		],
 		"rollover" : {
-			 "classteam" : "divulgador",
+			 "classteam" : "spreader",
 			 "icon" : "https://i.imgur.com/8C2lwaC.png",
 			 "langkey": "titleSpreader",
 			 "color": "#238341"
@@ -162,7 +162,7 @@
 			3438293
 		],
 		"rollover" : {
-			 "classteam" : "Helper",
+			 "classteam" : "helper",
 			 "icon" : "https://i.imgur.com/H7aiAN8.png",
 			 "langkey": "titleHelper",
 			 "color": "#00B3DB"
