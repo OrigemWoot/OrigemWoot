@@ -353,6 +353,12 @@
 		"limitless-vibes" : {
 			"title" : "Limitless",
 			"background" : "https://i.imgur.com/nZo7hrP.jpg"
+		},
+		"edm-forever-official" : {
+			"title" : "Ever",
+			"msg" : "Bem Vindo(a) a sala oficial da EDM Forever! Facebook: https://www.facebook.com/everedm",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
+			"overridecss" : true
 		}
 	}
 }
