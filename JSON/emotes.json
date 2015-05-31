@@ -132,7 +132,12 @@
       }
  },
  "Miscellaneous" : {
-      "unclesam":{  
+      "axl":{  
+         "height":"100px",
+         "url":"https://i.imgur.com/eaYZ3m7.gif",
+         "width":"120px"
+        },
+        "unclesam":{  
          "height":"95px",
          "url":"https://i.imgur.com/jkMm5YL.jpg",
          "width":"70px"
@@ -1419,6 +1424,11 @@
          "url":"https://i.imgur.com/bfDKHgM.gif",
          "width":"160px"
       },
+      "morrison":{  
+         "height":"120px",
+         "url":"https://i.imgur.com/6g3PA6d.gif",
+         "width":"120px"
+      },
       "burro":{  
          "height":"90px",
          "url":"https://i.imgur.com/qle8kwP.gif",
@@ -1469,10 +1479,25 @@
          "url":"https://i.imgur.com/mvzHy3M.png",
          "width":"88px"
       },
+      "brendan":{  
+         "height":"150px",
+         "url":"https://i.imgur.com/4GMdSLZ.gif",
+         "width":"100px"
+      },
       "punheteiro":{  
        "url":"https://i.imgur.com/OVayNxL.png",
        "width":"142px",
        "height":"80px"
+      },
+      "fodace":{  
+       "url":"https://i.imgur.com/mbHJvoR.gif",
+       "width":"120px",
+       "height":"120px"
+      },
+      "dopado":{  
+       "url":"https://i.imgur.com/DQI1o7D.gif",
+       "width":"120px",
+       "height":"120px"
       },
       "observo":{  
        "url":"https://i.imgur.com/XgDXpu5.gif",
