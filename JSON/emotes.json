@@ -292,15 +292,20 @@
          "url":"https://i.imgur.com/52yzQ5I.gif",
          "width":"161px"
       },
-      "haha":{  
+      "haha":{
          "height":"71px",
          "url":"https://i.imgur.com/yl2fr1z.gif",
          "width":"128px"
       },
-      "weed":{  
+      "weed":{
          "height":"94px",
          "url":"https://i.imgur.com/OwunEuJ.gif",
          "width":"125px"
+      },
+      "damn":{
+         "height":"90px",
+         "url":"https://i.imgur.com/muNvl6b.gif",
+         "width":"160px"
       },
       "feels":{  
          "height":"75px",
