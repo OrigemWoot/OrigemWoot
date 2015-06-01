@@ -139,9 +139,8 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 /* Itens relacionados a playlist! */
 
 .media-list .row.now-playing, #playlist-button, .media-list .selected .actions, .media-list .row.selected, 
-.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: inear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important;} 
-.media-list.history .row.selected, .media-list.history .selected .actions {  background:inear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; !important; 
-box-shadow: 0 0 10px #E01212 !important; }
+.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important;} 
+.media-list.history .row.selected, .media-list.history .selected .actions {  background: linear-gradient(to bottom, #C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; }
 .media-list.history .score .grabs span {   color: #D87F0E; }
 #playlist-create:hover { box-shadow: 0 0 10px #186696 !important; background: linear-gradient(to bottom, #1C92D0 0px, #0E3556 100%) !important; }
 #playlist-import:hover { box-shadow: 0 0 10px #6E186D !important; background: linear-gradient(to bottom, #A91CD0 0px, #4F0E56 100%)!important; }
