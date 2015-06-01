@@ -138,8 +138,8 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 /* Itens relacionados a playlist! */
 
 .media-list .row.now-playing, #playlist-button, .media-list .selected .actions, .media-list .row.selected, 
-.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #A11D20 0px, #560E0F 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
-.media-list.history .row.selected, .media-list.history .selected .actions {  background:#E01212 !important; 
+.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: inear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important;} 
+.media-list.history .row.selected, .media-list.history .selected .actions {  background:inear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; !important; 
 box-shadow: 0 0 10px #E01212 !important; }
 .media-list.history .score .grabs span {   color: #D87F0E; }
 #playlist-create:hover { box-shadow: 0 0 10px #186696 !important; background: linear-gradient(to bottom, #1C92D0 0px, #0E3556 100%) !important; }
@@ -235,7 +235,7 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 .user-content.profile .notifications .row, .dropdown dd .row:hover, #user-menu .item.selected {background:linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%) !important }
 .user-content.profile .notifications .row .timestamp { color: #eee; }
 #user-menu { background: rgba(28, 31, 37, 0.26) !important; }
-.dropdown dt { border-radius: 30px; background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%) !important; box-shadow: 0 0 15px #FF0000 !important; } 
+.dropdown dt { border-radius: 30px; background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%) !important; } 
 .dropdown, #user-settings .tab-menu button:first-child { border-radius: 50px; } 
 .user-content .header span, .user-content.profile .meta .badge span, .user-content.profile .meta .joined { color: #eee;} 
 #user-friends .list .row { border-radius: 300px; }
@@ -328,9 +328,9 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 #user-inventory .avatars .grid .cell { border-radius: 3000px; 
 background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; }
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
-background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; }
+background: inear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; }
 #user-menu .avatar { background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
-.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
+.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background:inear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; }
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 
