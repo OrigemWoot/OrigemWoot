@@ -3,12 +3,12 @@ padding: 10px; z-index: 12; font-family: "helvetica"; font-size: 1.0em; border-r
 #ow-painel-main, #ow-painel-background { cursor: move; }
 #origemscript p { text-align: left; margin: 0 auto; width: 80px; display: inline-block; padding-right: 5px; }
 #origemscript a { font-size: 1.0em; color: #fff }
-#origemscript h3 { font-size: 20px; text-align: center; color: #F70000; }
-#origemscript h4 { font-size: 15px; text-align: right; color: #F70000; }
+#origemscript h3 { font-size: 20px; text-align: center; color: #C38616; }
+#origemscript h4 { font-size: 15px; text-align: right; color: #C38616; }
 #origemscript .version { font-style: italic; font-size: 0.8em; text-align: center; margin-bottom: 20px; width:100%; }
 #origemscript .disclaimer { font-style: italic; font-size: 0.7em; text-align: center; padding-top: 10px; }
 .owLinks { width: 100%; text-align: center; margin-bottom: 10px; cursor: pointer; }
-.owLinks:hover{ color: #F70000; }
+.owLinks:hover{ color: #C38616; }
 .disabled1 { display: none; }
 .disabled2 { z-index: 2000; }
 .orange-bg { background: rgba(244, 107, 64, 0.29) !important; }
@@ -20,7 +20,7 @@ padding: 10px; z-index: 12; font-family: "helvetica"; font-size: 1.0em; border-r
 .onoffswitch-inner { width: 200%; margin-left: -100%; transition: margin 0.3s ease-in 0s; }
 .onoffswitch-inner:before, .onoffswitch-inner:after { float: left; width: 50%; height: 5px; padding: 0; line-height: 5px;
 font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold; box-sizing: border-box; }
-.onoffswitch-inner:before { content: ""; padding-left: 10px; background-color: #F70000; color: #FFFFFF; }
+.onoffswitch-inner:before { content: ""; padding-left: 10px; background-color: #C38616; color: #FFFFFF; }
 .onoffswitch-inner:after { content: ""; padding-right: 10px; background-color: #EEEEEE; color: #999999; text-align: right; }
 .onoffswitch-switch { width: 9px; margin: -2px; background: #FFFFFF; border: 2px solid #999999; border-radius: 20px;
 position: absolute; top: 0; bottom: 0; right: 31px; transition: all 0.3s ease-in 0s;  }
@@ -34,7 +34,7 @@ font-size: 1.0em; -moz-border-radius: 0 0 35px 35px !important; -webkit-border-r
 border-radius: 0 0 35px 35px !important; color: #FFF;  }
 #origemscriptOther p { text-align: center; margin: 0 auto; display: inline-block; padding-right: 5px; }
 #origemscriptOther a {  font-size: 1.0em; color: #fff }
-#origemscriptOther h3 {  font-size: 20px;    text-align: center; color: #F70000; }
+#origemscriptOther h3 {  font-size: 20px;    text-align: center; color: #C38616; }
 #origemscriptOther .version { font-style: italic; font-size: 0.8em;   text-align: center; margin-bottom: 20px; width:100%; }
 #origemscriptOther .disclaimer { font-style: italic; font-size: 0.7em; text-align: center;  padding-top: 10px; }
 .slideout-menu { position: fixed; top: 0; left: -250px; width: 250px; height: 100%; background: #333; z-index: 100; }
@@ -248,7 +248,7 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 /* Barra de EXP */
 .experience .xp .bar .progress {
 border-radius: 10px 0px 10px 0px !important; background: #C38616; box-shadow: 0 0 10px 5px #C38616; }
-#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #C38616; box-shadow: 0 0 15px #F70000 !important; }
+#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #C38616; box-shadow: 0 0 15px #C38616 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 
@@ -360,8 +360,8 @@ background: linear-gradient(to bottom,rgba(102, 102, 102, 0) 0,rgba(31, 255, 0, 
 #grab .bottom, #grab.selected {
 background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #eec81b 100%); }
 #meh .bottom, #meh.selected {
-background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #F70000 100%); }
-.pop-menu li:hover { background: #F70000 !important; box-shadow: 0 0 15px #F70000 !important; }
+background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #C38616 100%); }
+.pop-menu li:hover { background: #C38616 !important; box-shadow: 0 0 15px #C38616 !important; }
 .pop-menu { opacity: .85; border-radius: 30px 30px 0 0; } 
 .pop-menu .bar { background: linear-gradient(to top,rgba(77, 77, 77, 0.6) 0,rgba(15, 15, 30, 1) 100%); border-radius: 30px 30px 0 0; }
 .pop-menu ul { background: linear-gradient(to bottom,rgba(15, 15, 15, 0.5) 0,rgba(0, 0, 0, 0) 100%); } 
@@ -487,8 +487,8 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
 	transform : rotate(360deg); }
 
 #tooltip span{ background:#C38616 }
-#tooltip .corner{ border-top: 10px solid #F70000; border-left: 10px solid #C38616; }
-#tooltip.right .corner{ border-top:10px solid #F70000; border-right:10px solid #C38616; }
+#tooltip .corner{ border-top: 10px solid #C38616; border-left: 10px solid #C38616; }
+#tooltip.right .corner{ border-top:10px solid #C38616; border-right:10px solid #C38616; }
 
 /* Itens relacionados ao novo menu*/
 
