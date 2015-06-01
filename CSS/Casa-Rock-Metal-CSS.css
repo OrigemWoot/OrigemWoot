@@ -384,16 +384,16 @@ padding: 0px 174px;
 /* Aleatoridades e frescuras novas */
 
 .focused{
-  -moz-box-shadow: inset 0 0 0 0.2em #F70000 !important;
-  -webkit-box-shadow: inset 0 0 0 0.2em #F70000 !important;
-  box-shadow: inset 0 0 0 0.1em #F70000 !important;
+  -moz-box-shadow: inset 0 0 0 0.2em #C38616 !important;
+  -webkit-box-shadow: inset 0 0 0 0.2em #C38616 !important;
+  box-shadow: inset 0 0 0 0.1em #C38616 !important;
 }
-.user-content.profile .meta .blurb input { box-shadow: inset 0 0 0 2px #FC0030 !important; }
+.user-content.profile .meta .blurb input { box-shadow: inset 0 0 0 2px #C38616 !important; }
 
 #volume .slider .line, #user-settings .container .cap .slider .bar {
     top: 8px;
     height: 5px;
-    background: #F70000;
+    background: #C38616;
     display: block;
     overflow: hidden;
     cursor: pointer;
@@ -437,7 +437,7 @@ padding: 0px 174px;
 }
 
 
-#origem-info { color: #DD8E02 !important; }
+#origem-info { color: #C38616 !important; }
 #info_dialog > .dialog-frame .button.submit { background: linear-gradient(to bottom,rgba(221, 142, 2, 1) 0,rgba(221, 142, 2, 1) 100%);
   box-shadow: 0 0 10px rgba(164, 107, 6, 1) !important; }
 .media-list .row.now-playing { border-bottom: #FC2457 2px solid !important; }
@@ -468,9 +468,8 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
 
 #history-button  { background: linear-gradient(to bottom, #961D88 0, #41073C 100%); }
 #history-button i.icon.icon-history-white  {
-				-moz-transition-duration : 0.75s;
-				-moz-transition-property : -moz-transform;
-				-ms-transition-duration : 0.75s;
+	-moz-transition-duration : 0.75s;
+	-ms-transition-duration : 0.75s;
 				-ms-transition-property : -ms-transform;
 				-o-transition-duration : 0.75s;
 				-o-transition-property : -o-transform;
@@ -485,16 +484,15 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
 				-ms-transform : rotate(360deg);
 				-o-transform : rotate(360deg);
 				-webkit-transform : rotate(360deg);
-				transform : rotate(360deg);
-			}
+	transform : rotate(360deg); }
 
-#tooltip span{ background:#F70000 }
-#tooltip .corner{ border-top: 10px solid #F70000; border-left: 10px solid #F70000; }
-#tooltip.right .corner{ border-top:10px solid #F70000; border-right:10px solid #F70000 }
+#tooltip span{ background:#C38616 }
+#tooltip .corner{ border-top: 10px solid #F70000; border-left: 10px solid #C38616; }
+#tooltip.right .corner{ border-top:10px solid #F70000; border-right:10px solid #C38616; }
 
 /* Itens relacionados ao novo menu*/
 
-.origem-menu-heading, .origem-menu-submenu .origem-submenu-heading { color: #D9960F!important; }
+.origem-menu-heading, .origem-menu-submenu .origem-submenu-heading { color: #C38616	!important; }
 
 .origem-menu-icon {
 background: url('https://i.imgur.com/SxZV8Uf.png');
