@@ -91,11 +91,10 @@ outline: none; z-index: 11; overflow-y: auto; overflow-x: hidden; }
 .row:hover, #user-lists .list .user:hover, .media-list .actions {
 text-decoration: none;
 background-color: rgba(255,165,0, 0.22) !important;
-background: linear-gradient(to right,rgba(255,165,0, 0.05) 0,rgba(255,165,0, 0.49) 100%) !important;
+background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%) !important;
 -webkit-transition: 200ms linear 0s;
--moz-transition: 200ms linear 0s; -o-transition: 200ms linear 0s; transition: 300ms linear 0,1s; outline: 0 none;
-text-shadow: -1px 1px 8px #DA0111, 1px -1px 8px #DA0153; }
-#user-rollover .actions .action:hover   {  background-color: rgba(213, 28, 28, 0.22) } /* Ache uma cor melhor assis */
+-moz-transition: 200ms linear 0s; -o-transition: 200ms linear 0s; transition: 300ms linear 0,1s; outline: 0 none; }
+#user-rollover .actions .action:hover   {  background-color: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%) } /* Ache uma cor melhor assis */
 #user-rollover { background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.75) 0, rgba(0, 0, 0, 0.75) 100%);
 background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 100%); }
 #user-rollover .info, #user-rollover .info .badge-box, #chat-messages .badge-box, .user-content.profile .meta .badge-box {background: none;}
@@ -107,7 +106,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 #footer-user .buttons div.profile.button:hover { background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
 #footer-user .buttons div.settings.button:hover { background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
 #footer-user .info { background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
-  
+#footer-user .buttons .button.store:hover { background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
 /* Itens Relacionados ao chat, delays e cores do /me */
 
 #chat .emote { border-left: rgba(174, 69, 189, 1) 3px solid !important; background-color: rgba(190, 28, 213, 0.22) 
@@ -151,7 +150,7 @@ box-shadow: 0 0 10px #E01212 !important; }
 #playlist-shuffle-button:hover { background: linear-gradient(to bottom, #7F63B3 0px, #321A5E 100%); } 
 #playlist-delete-button { background: linear-gradient(to top, #571515 0px, #442609 100%); } 
 #playlist-activate-button span, #playlist-menu .menu .row .count, .media-list.history .meta .timestamp { color: #FFFFFF; }
-#playlist-menu .title { color: #E01212; }
+#playlist-menu .title { color: #C38616; }
 #playlist-delete-button:hover { background: linear-gradient(to bottom,rgba(68, 68, 68, 0.6) 0,rgba(226, 37, 0, 0.73) 100%);
 box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #playlist-shuffle-button:hover { background: linear-gradient(to bottom, #6541A1 0px, #3A1B76 100%); box-shadow: 0 0 10px #6541A1 !important; }
@@ -198,6 +197,7 @@ box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #user-rollover .meta.away { background: linear-gradient(to bottom,rgba(109, 92, 40, 0.5) 0,rgba(28, 31, 37, 1) 100%);  opacity: .85;}
 #footer-user .menu {background-color: rgba(0,0,0,0.85) !important; }
  #user-rollover .meta .joined {color: #eee;}
+
 /* Itens Relacionados ao mouse sobre o vídeo atual ! */
 
 #playback-controls .button.snooze { background: linear-gradient(to bottom,rgba(68, 68, 68, 0) 0,rgba(180, 71, 216, 0.73) 100%) !important;
@@ -232,10 +232,10 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 /* Itens relacionados ao menu do seu  perfil! */
 
-.user-content.profile .notifications .row, .dropdown dd .row:hover, #user-menu .item.selected {background: #B72122 !important; }
+.user-content.profile .notifications .row, .dropdown dd .row:hover, #user-menu .item.selected {background:linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%) !important }
 .user-content.profile .notifications .row .timestamp { color: #eee; }
 #user-menu { background: rgba(28, 31, 37, 0.26) !important; }
-.dropdown dt { border-radius: 30px; background: linear-gradient(to bottom,rgba(205, 27, 27, 0.8) 0,rgba(190, 34, 34, 1) 100%) !important; box-shadow: 0 0 15px #FF0000 !important; } 
+.dropdown dt { border-radius: 30px; background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%) !important; box-shadow: 0 0 15px #FF0000 !important; } 
 .dropdown, #user-settings .tab-menu button:first-child { border-radius: 50px; } 
 .user-content .header span, .user-content.profile .meta .badge span, .user-content.profile .meta .joined { color: #eee;} 
 #user-friends .list .row { border-radius: 300px; }
@@ -247,8 +247,8 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 
 /* Barra de EXP */
 .experience .xp .bar .progress {
-border-radius: 10px 0px 10px 0px !important; background: #DD8E02; box-shadow: 0 0 10px 5px #F5B646; }
-#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #F70000; box-shadow: 0 0 15px #F70000 !important; }
+border-radius: 10px 0px 10px 0px !important; background: #C38616; box-shadow: 0 0 10px 5px #C38616; }
+#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #C38616; box-shadow: 0 0 15px #F70000 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 
@@ -326,10 +326,10 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 
 /* Avatares */
 #user-inventory .avatars .grid .cell { border-radius: 3000px; 
-background: linear-gradient(to bottom,#12A9E0 0,#0D607E 56%,#000 73%,#39393A 100%)  !important; }
+background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; }
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
 background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; }
-#user-menu .avatar { background: linear-gradient(to bottom,#CF9223 0,rgba(210, 147, 35, 0.65) 56%,#000 73%,#39393A 100%); }
+#user-menu .avatar { background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
 .user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
