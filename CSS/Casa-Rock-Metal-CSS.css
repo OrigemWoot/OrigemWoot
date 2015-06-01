@@ -329,7 +329,7 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; }
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
 background: inear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; }
-#user-menu .avatar { background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
+#user-menu .avatar { background: linear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%) !important; }
 .user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background:inear-gradient(to bottom,#C38616 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%)  !important; }
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
