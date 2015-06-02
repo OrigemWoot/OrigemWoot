@@ -1224,6 +1224,16 @@
          "url":"https://i.imgur.com/bCYVoEx.jpg",
          "width":"126px"
       },
+      "close1":{
+         "height":"120px",
+         "url":"https://i.imgur.com/SGzBFTp.gif",
+         "width":"120px"
+      },
+      "close2":{
+         "height":"150px",
+         "url":"https://i.imgur.com/Laq6SCL.gif",
+         "width":"150px"
+      },
       "palhaço":{  
          "url":"https://i.imgur.com/k6D8MdT.png",
          "width":"28px",
@@ -2234,6 +2244,16 @@
          "url":"https://i.imgur.com/0nk9NBf.gif",
          "width":"104px",
          "height":"84px"
+      },
+      "dinossauro3":{  
+         "url":"https://i.imgur.com/jD2sDdm.gif",
+         "width":"136px",
+         "height":"122px"
+      },
+      "fafa":{  
+         "url":"https://i.imgur.com/m8ZopBV.gif",
+         "width":"136px",
+         "height":"141px"
       },
       "oco":{  
          "url":"https://i.imgur.com/QSBygqu.png",
