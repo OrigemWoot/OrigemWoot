@@ -322,7 +322,7 @@ background: linear-gradient(to bottom,#12A9E0 0,#0D607E 56%,#000 73%,#39393A 100
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
 background: linear-gradient(to bottom,#AE1CA7 0,rgba(182, 30, 157, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; }
 #user-menu .avatar { background: linear-gradient(to bottom,#AE1C90 0,rgba(179, 30, 160, 0.33) 56%,#000 73%,#39393A 100%) !important; }
-.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
+.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom, #AE1CA7 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 
