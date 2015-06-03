@@ -73,7 +73,7 @@
 	"bkp_set_info":	  "Záloha OW nastavení v serveru",
 	"bkp_set_save":	  "Uložit Nastavení",
 	"bkp_set_load":	  "Načíst Nastavení",
-	"ce_show_msg" : "Ukazovat vlastní emote",
+	"ce_show_msg" : "Ukazovat emote",
 	"ce_max" : 	"Max emote ve zprávě",
 	"ccs_title" : 	"Rychlost (zpráv/sec)",
 	"rank":"Staff Ranking",
