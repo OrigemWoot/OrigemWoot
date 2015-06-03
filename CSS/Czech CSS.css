@@ -373,10 +373,19 @@
     vertical-align: top
 }
 
+.origem-menu-element input[type=radio]:checked + .origem-checkmark {
+    position: absolute;
+    top: -1px;
+    right: 0px;
+    width: 33px;
+    height: 28px;
+    background: url(http://i.imgur.com/BE3MTsi.png);
+}
+
 .origem-menu-element input[type=checkbox]:checked + .origem-checkmark {
     position: absolute;
     top: -1px;
-    right: 0;
+    right: 0px;
     width: 33px;
     height: 28px;
     background: url(http://i.imgur.com/BE3MTsi.png);
