@@ -201,8 +201,9 @@ background-repeat: no-repeat !important;}
 
 /* Origem Woot Team */
 
-/*
+
 .ow-dev  > .msg > .from > .un, div[data-cid~="ow-dev"]   > .msg > .from > .un{	color: #db182e !important; }
+/*
 .ow-helper  > .msg > .from > .un, div[data-cid~="ow-helper"]  > .msg > .from > .un { color: #00B3DB !important; }
 .ow-spreader  > .msg > .from > .un, div[data-cid~="ow-spreader"]  > .msg > .from > .un { color: #238341 !important; }
 .ow-designer  > .msg > .from > .un, div[data-cid~="ow-designer"]  > .msg > .from > .un { color: #E00000 !important; }
