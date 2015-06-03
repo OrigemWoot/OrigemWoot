@@ -27,7 +27,7 @@ box-shadow:0 0 10px 1px #afd99a !important;
 border:1px; }
 
 
-#pm-close.new { background:linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #00C700 100%);
+#pm-close.new:hover { background:linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #00C700 100%);
 box-shadow:0 0 10px 1px #00C700 !important;
 border:1px; }
 
