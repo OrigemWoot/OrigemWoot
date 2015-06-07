@@ -194,7 +194,7 @@
 	"pm_conn":"Verbinding",
 	"pm_disc":"Geen verbinding!",
 	"pm_search":"Naam van gebruiker zoeken",
-	"pm_fyou":"Je bent in %%Time%%",
+	"pm_fyou":"Om %%Time%%",
 	"pm_fserv":"OrigemWoot Server in %%Time%%",
 	"pm_fuser":"%%User%% in %%Time%%",
 	"pm_unf":"Geen gebruiker(s) gevonden.", 
