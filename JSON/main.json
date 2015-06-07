@@ -354,6 +354,9 @@
 			"title" : "Limitless",
 			"background" : "https://i.imgur.com/nZo7hrP.jpg"
 		},
+		"hud-ba" : {
+			"background" : "http://e-posta.eu/torrent/obrazky/files/Ajushe/background.jpg"
+		},
 		"edm-forever-official" : {
 			"title" : "Ever",
 			"msg" : "Bem Vindo(a) a sala oficial da EDM Forever!",
