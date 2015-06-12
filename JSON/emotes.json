@@ -182,6 +182,11 @@
          "url":"https://i.imgur.com/zGMdKSM.png",
          "width":"31px"
       },
+      "varg":{
+         "height":"100px",
+         "url":"https://i.imgur.com/MR59IZ9.png",
+         "width":"100px"
+      },
       "ui":{
          "height":"35px",
          "url":"https://i.imgur.com/se9HkCG.png",
@@ -226,6 +231,11 @@
          "height":"70px",
          "url":"https://i.imgur.com/MRbkpXW.gif",
          "width":"128px"
+      },
+      "mehmute":{  
+         "height":"100px",
+         "url":"https://i.imgur.com/t6SN0IE.png",
+         "width":"120px"
       },
       "gandalf":{
       	"width":"140px",
@@ -1459,6 +1469,11 @@
          "url":"https://i.imgur.com/qle8kwP.gif",
          "width":"120px"
       },
+      "dlc":{  
+         "height":"100px",
+         "url":"https://i.imgur.com/GIfMPSz.jpg",
+         "width":"100px"
+      },
       "caetano":{  
          "height":"90px",
          "url":"https://i.imgur.com/4zuh99t.gif",
@@ -1493,6 +1508,11 @@
          "height":"57px",
          "url":"https://i.imgur.com/jBr1NaT.jpg",
          "width":"58px"
+      },
+      "graça":{  
+         "height":"100px",
+         "url":"https://i.imgur.com/4f7LR3B.jpg",
+         "width":"120px"
       },
       "café":{  
          "height":"81px",
