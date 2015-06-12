@@ -227,6 +227,11 @@
          "url":"https://i.imgur.com/zXpqTDT.gif",
          "width":"120px"
       },
+      "facepalmgif":{  
+         "height":"130px",
+         "url":"https://i.imgur.com/Jovv7R6.gif",
+         "width":"92px"
+      },
       "cage":{  
          "height":"70px",
          "url":"https://i.imgur.com/MRbkpXW.gif",
@@ -541,6 +546,11 @@
          "url":"https://i.imgur.com/BC9F1qV.gif",
          "width":"120px",
          "height":"80px"
+      },
+      "beavis":{  
+         "url":"https://i.imgur.com/2j9HTyt.gif",
+         "width":"130px",
+         "height":"96px"
       },
       "fail":{  
          "url":"https://i.imgur.com/94puraf.gif",
@@ -1509,10 +1519,20 @@
          "url":"https://i.imgur.com/jBr1NaT.jpg",
          "width":"58px"
       },
+      ".v.":{  
+         "height":"64px",
+         "url":"https://i.imgur.com/C79uctl.gif",
+         "width":"120px"
+      },
       "graça":{  
          "height":"100px",
          "url":"https://i.imgur.com/4f7LR3B.jpg",
          "width":"120px"
+      },
+      "bravo":{  
+         "height":"120px",
+         "url":"https://i.imgur.com/H37xWtB.gif",
+         "width":"90px"
       },
       "café":{  
          "height":"81px",
@@ -1548,6 +1568,11 @@
        "url":"https://i.imgur.com/XgDXpu5.gif",
        "width":"153px",
        "height":"80px"
+      },
+      "chega":{  
+       "url":"https://i.imgur.com/chizmUF.gif",
+       "width":"130px",
+       "height":"56px"
       },
       "diney":{  
          "height":"92px",
