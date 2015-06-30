@@ -365,6 +365,12 @@
 			"msg" : "Bem Vindo(a) a sala oficial da EDM Forever!",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
+		},
+		"yahoo-musics" : {
+			"title" : "Grunge",
+			"msg" : "Bem Vindo(a) a sala Grunge, Metal Rock's e obrigado por usar o nosso GrungeWoot.",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
+			"overridecss" : true
 		}
 	}
 }
