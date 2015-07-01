@@ -921,7 +921,7 @@
 
 #user-friends .list .row .buttons button.positive {
     background: #191919;
-    border: 1px solid #000000;
+    border: 2px solid #000000;
     border-radius: 20px 20px 0px 0px;
 }
 
@@ -931,13 +931,12 @@
 
 #user-friends .list .row .buttons button.negative {
     background: #191919;
-    border: 1px solid #000000;
+    border: 2px solid #000000;
     border-radius: 0px 0px 20px 20px;
 }
 
 #user-friends .list .row .buttons button.negative:hover {
     background: #000000;
-    border: 1px solid #007C00;
 }
 
 #user-menu .avatar {
