@@ -213,6 +213,8 @@
 			]
 		},
 		"elite-brazilian" : {
+			"title" : "Elite",
+			"background" : "https://i.imgur.com/RHVeAWv.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Exercito%20CSS.css",
 			"overridecss" : true
 		},
