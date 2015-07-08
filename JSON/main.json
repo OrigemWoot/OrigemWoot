@@ -247,7 +247,7 @@
 			"title" : "Balkan",
 			"background" : "https://i.imgur.com/mL0fuwb.png"
 		},
-			"space-of-music" : {
+		"space-of-music" : {
 			"title" : "Space",
 			"background" : "https://i.imgur.com/EFXFnql.png"
 		},
@@ -300,7 +300,7 @@
 		},
 		"tbmcz" : {
 			"title" : "TBM",
-			"background":"https://i.imgur.com/PKpI4bu.jpg",
+			"background":"https://i.imgur.com/uTMkkwF.jpg",
 			"css" : "https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/CSS/TBM.css",
 			"overridecss" : false
 		},
