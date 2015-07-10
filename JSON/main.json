@@ -96,7 +96,7 @@
 	"socket" : "wss://owsocket3-caipira.rhcloud.com:8443/socket/websocket",
 	"lng": {
 		"en" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/english.lang.json",
+			"url" : "https://dl.dropboxusercontent.com/s/ysgres7021yu9xx/english.lang.json",
 			"name" : "English"
 		},
 		"pt" : {
