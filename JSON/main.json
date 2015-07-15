@@ -214,8 +214,8 @@
 		},
 		"elite-brazilian" : {
 			"title" : "Elite",
-			"msg" : "Obrigado por usar o nosso lindo AutoWoot e obrigado por entrar na sala!",
-			"background" : "https://i.imgur.com/RHVeAWv.jpg",
+			"msg" : "Olá, Bem-vindo(a), Obrigado por usar nosso EliteWoot",
+			"background" : "https://i.imgur.com/f7JX1TZ.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Exercito%20CSS.css",
 			"overridecss" : true
 		},
