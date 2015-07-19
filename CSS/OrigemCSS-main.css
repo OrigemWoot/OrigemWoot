@@ -199,6 +199,38 @@ background-repeat: no-repeat !important;}
 #user-store .grid .cell .icon-locked-grey {right: 25px !important;bottom: 4px !important;}
 .chat-header-button { width: 29px; }
 
+.popout .pop-menu.vote .bar{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:48px;
+	background:#323742;
+}
+.popout .pop-menu.vote{
+	position:absolute;
+	z-index:500;
+	width:205px;
+	height:48px;
+	background:#111317;
+	color:#eee;
+}
+.popout .pop-menu.vote .bar .bar-divider{
+	top:0;
+	left:47px;
+	width:1px;
+	height:48px;
+	background:#111317;
+} 
+.popout .bar-divider { 
+	position: relative; 
+	top: 13px; 
+	left: 0; 
+	width: 1px; 
+	height: 28px;
+	background: #323742;
+}
+
 /* Origem Woot Team */
 
 
