@@ -92,8 +92,7 @@
 			4372285,
 			3781692,
 			3437401,
-			4732821,
-			5494760
+			4732821
 		],
 		"rollover" : {
 			 "classteam" : "vip3",
@@ -117,6 +116,17 @@
 			 "icon" : "https://i.imgur.com/BXdbDyv.png",
 			 "langkey": "titlevip",
 			 "color": "#00FFFF"
+		}
+	},
+	"vip6" : {
+		"ids" : [
+			5494760
+		],
+		"rollover" : {
+			 "classteam" : "vip6",
+			 "icon" : "https://i.imgur.com/6ye0Rt2.png",
+			 "langkey": "titlevip",
+			 "color": "#FF69E1"
 		}
 	},
 	"spreader" : {
