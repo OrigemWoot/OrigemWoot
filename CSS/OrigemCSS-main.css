@@ -262,7 +262,8 @@ background-repeat: no-repeat !important;}
 .ow-vip2 .un, div[data-cid~="ow-vip2"] .un,
 .ow-vip3 .un, div[data-cid~="ow-vip3"] .un,
 .ow-vip4 .un, div[data-cid~="ow-vip4"] .un,
-.ow-vip5 .un, div[data-cid~="ow-vip5"] .un{
+.ow-vip5 .un, div[data-cid~="ow-vip5"] .un,
+.ow-vip6 .un, div[data-cid~="ow-vip6"] .un{
 	margin-left: 16px;
 	position: relative;
 }
@@ -275,7 +276,8 @@ background-repeat: no-repeat !important;}
 .ow-vip2 .un::before, div[data-cid~="ow-vip2"] .un::before,
 .ow-vip3 .un::before, div[data-cid~="ow-vip3"] .un::before,
 .ow-vip4 .un::before, div[data-cid~="ow-vip4"] .un::before,
-.ow-vip5 .un::before, div[data-cid~="ow-vip5"] .un::before{
+.ow-vip5 .un::before, div[data-cid~="ow-vip5"] .un::before,
+.ow-vip6 .un::before, div[data-cid~="ow-vip6"] .un::before{
 	content: '';
 	position: absolute;
 	background-repeat: no-repeat;
@@ -314,6 +316,9 @@ background-repeat: no-repeat !important;}
 	  background: url('https://cdn.plug.dj/_/static/images/emoji.a207cf6164153362e6327e4884c795617291da2c.png') top left no-repeat;
 	  background-position: 0 -1921px;
 }
+.ow-vip6 .un::before, div[data-cid~="ow-vip6"] .un::before{
+	background: url(https://i.imgur.com/6ye0Rt2.png);
+}
 
 .origem-dev-badge ,
 .origem-dev-caipira-badge { background: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1) } 
@@ -324,6 +329,7 @@ background-repeat: no-repeat !important;}
 .origem-vip3-badge { background: url(https://i.imgur.com/RqihnJk.png) }
 .origem-vip4-badge { background: url(https://i.imgur.com/JrqEFri.png) }
 .origem-vip5-badge { background: url(https://www.dropbox.com/s/4yqjnsjn77bhdsg/VIPBADGE30px.png?raw=1) }
+.origem-vip6-badge { background: url(https://i.imgur.com/56V0Hph.png) }
 .origem-designer-badge { background: url(https://www.dropbox.com/s/fxz4ztvy0hz2kju/DESBADGE30px.png?raw=1) } 
 .origem-translator-badge { background: url(https://i.imgur.com/3epe8Vp.png) } 
 
