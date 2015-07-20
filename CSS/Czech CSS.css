@@ -1032,6 +1032,28 @@
     box-shadow: inset 0 0 0 1px #1EDD00;
 }
 
+/* staff menu */
+
+.dialog-frame .button.cancel {
+    background: #282c35;
+    color: #FFFFFF;
+}
+
+.dialog-frame .button.cancel:hover {
+    background: #191919;
+    color: #FFFFFF;
+}
+
+.dialog-frame .button.submit {
+    background: #282c35;
+    color: #FFFFFF;
+}
+
+.dialog-frame .button.submit:hover {
+    background: #191919;
+    color: #FFFFFF;
+}
+
 /* PM window */
 
 #pm-main {
