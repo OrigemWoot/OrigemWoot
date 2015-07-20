@@ -961,6 +961,14 @@
     border-radius: 50%;
 }
 
+.user-content.communities button {
+    background: #191919;
+}
+
+.user-content.communities button:hover {
+    background: #2F2F2F;
+}
+
 /* App menu */
 
 #app-menu .list {
@@ -1791,7 +1799,11 @@ div[class^="pm-from-"] small {
 }
 
 .media-list.history .row.selected {
-    background: rgba(51, 255, 0, 1);
+    background: rgba(51, 255, 0, 0.4);
+}
+
+.media-list.history .meta .timestamp {
+    color: #FFFFFF;
 }
 
 .media-list .row.now-playing {
