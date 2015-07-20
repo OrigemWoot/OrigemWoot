@@ -969,6 +969,10 @@
     background: #2F2F2F;
 }
 
+#user-settings .container button:hover {
+    background: #4F4F4F;
+}
+
 /* App menu */
 
 #app-menu .list {
