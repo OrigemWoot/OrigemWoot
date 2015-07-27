@@ -552,3 +552,17 @@ background-position: 9px 9px;
   background: url('http://i.imgur.com/9B4HpH7.jpg') !important;
   background-position: 0px 0px;
 }
+
+/*  HOST */
+
+#user-panel:not(.is-none) .user > .icon-chat-host + .name,#user-lists .user > .icon-chat-host + .name,.message.from-host > .from,.emote.from-host > .from,.mention.from-host > .from {
+    color: #00cf00 !important;
+}
+
+.icon-chat-host,.message.from-host > .icon,.emote.from-host > .icon,.mention.from-host > .icon {
+    background-image: url("http://i.imgur.com/JdvNWXk.png") !important;
+    background-position: 0 0;
+}
+
+.icon-chat-host ~ .text > .name,.icon-chat-host ~ .from,.icon-chat-host ~ span {
+    color: #00cf00 !important;
