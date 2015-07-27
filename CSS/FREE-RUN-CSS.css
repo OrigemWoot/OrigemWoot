@@ -528,21 +528,7 @@ background-position: 9px 9px;
 #origem-menu-close .icon {
 	left: 8px;
 	top: 10px;
-}
-#chat { background: rgba(0, 0, 0, 1)}
-}
-#chat [data-cid^="5017102-"] .bdg {
-  background: url('http://i.imgur.com/FOjPv6T.png') !important;
-  background-position: 0px 0px;
-}    
-#chat [data-cid^="6971756-"] .bdg {
-  background: url('http://i.imgur.com/dxPseA8.png') !important;
-  background-position: 0px 0px;
-}
-#chat [data-cid^="5237037-"] .bdg {
-  background: url('http://i.imgur.com/9B4HpH7.jpg') !important;
-  background-position: 0px 0px;
-}
+
 [data-cid^="5017102-"] .msg .from .un {
     position: relative;
     left:-5px;
