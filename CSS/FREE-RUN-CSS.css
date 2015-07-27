@@ -546,6 +546,21 @@ background-position: 9px 9px;
 .icon-chat-host ~ .text > .name,.icon-chat-host ~ .from,.icon-chat-host ~ span {
     color: #ff00e1 !important;
 }
+
+/*  Manager */
+
+.icon-chat-manager ~ .text > .name,.icon-chat-manager ~ .from,.icon-chat-manager ~ span {
+    color: #FF0000 !important;
+}
+
+#user-panel:not(.is-none) .user > .icon-chat-manager + .name,#user-lists .user > .icon-chat-manager + .name,.message.from-manager > .from,.emote.from-manager > .from,.mention.from-manager > .from {
+    color: #FF0000 !important;
+}
+
+.icon-chat-manager,.message.from-manager > .icon,.emote.from-manager > .icon,.mention.from-manager > .icon {
+    background-image: url("http://s1.postimg.org/fvi0ismwr/i_OFrz0i.gif") !important;
+    background-position: 0 0;
+}
 #chat [data-cid^="5017102-"] .bdg {
   background: url('http://s17.postimg.org/p5dqj24vv/misaki.png') !important;
   background-position: 0px 0px;
