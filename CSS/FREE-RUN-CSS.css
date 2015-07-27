@@ -532,7 +532,7 @@ background-position: 9px 9px;
 #chat { background: rgba(0, 0, 0, 1)}
 }
 #chat [data-cid^="5017102-"] .bdg {
-  background: url('http://i.imgur.com/dvAvGJs.png') !important;
+  background: url(http://i.imgur.com/dvAvGJs.png);
   background-position: 0px 0px;
 }    
 #chat [data-cid^="6971756"] .bdg {
@@ -561,4 +561,3 @@ background-position: 9px 9px;
     background-position: 2px center;
     background-size: 15px auto;
 }    
-}
