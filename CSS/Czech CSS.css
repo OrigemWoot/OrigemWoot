@@ -1217,8 +1217,7 @@ div[class^="pm-from-"] small {
     background: #000000;
     box-shadow: none;
     padding: 3px;
-    border: none;
-    box-shadow: outset 5px #00FF00;
+    border: 1px outset #00FF00;
 }
 
 #pm-close:hover {
