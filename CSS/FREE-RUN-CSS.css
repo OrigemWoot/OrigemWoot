@@ -544,3 +544,13 @@ background-position: 9px 9px;
 #chat [data-cid^="5017102-"] .bdg {
   background: url('http://i.imgur.com/dvAvGJs.png') !important;
   background-position: 0px 0px;
+}
+[data-cid^="5017102-"] .msg .from .un {
+    position: relative;
+    left:-5px;
+    padding-left:21px;
+    background-image: url(http://i.imgur.com/FSTeuAg.gif);
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+}    
