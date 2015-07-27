@@ -561,6 +561,21 @@ background-position: 9px 9px;
     background-image: url("http://s3.postimg.org/8dxg9uyq7/stiahnu_3.png") !important;
     background-position: 0 0;
 }
+
+/*  Bouncer */
+
+#user-panel:not(.is-none) .user > .icon-chat-bouncer + .name,#user-lists .user > .icon-chat-bouncer + .name,.message.from-bouncer > .from,.emote.from-bouncer > .from,.mention.from-bouncer > .from {
+    color: #00ffea !important;
+}
+
+.icon-chat-bouncer,.message.from-bouncer > .icon,.emote.from-bouncer > .icon,.mention.from-bouncer > .icon {
+    background-image: url("http://s2.postimg.org/vl1tfs0mt/stiahnu.png") !important;
+    background-position: 0 0;
+}
+
+.icon-chat-bouncer ~ .text > .name,.icon-chat-bouncer ~ .from,.icon-chat-bouncer ~ span {
+    color: #00ffea !important;
+}    
 [data-cid^="5237037-"] .msg .from .un {
     position: relative;
     left:-5px;
