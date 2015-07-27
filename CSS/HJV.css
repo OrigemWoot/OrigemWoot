@@ -531,23 +531,3 @@ background-position: 9px 9px;
 }
 
 #chat { background: rgba(0, 0, 0, 1)}
-}
-#woot i {
-  background: url('http://i.imgur.com/5eU6OHQ.png'); 
-}
-#meh i {
-  background: url('http://i.imgur.com/3uSXauE.png');
-}
-[data-cid^="3959882-"] .msg .from .un {
-    position: relative;
-    left:-5px;
-    padding-left:21px;
-    background-image: url(http://i.imgur.com/pqe1WNc.gif);
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 15px auto
-}  
-}
-#grab i {
-  background: url('http://i.imgur.com/9DCOayJ.png');
-}
