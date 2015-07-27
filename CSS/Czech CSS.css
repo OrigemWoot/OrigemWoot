@@ -1221,6 +1221,8 @@ div[class^="pm-from-"] small {
 
 #pm-close:hover {
     background: #2f2f2f;
+    box-shadow: none;
+    border: none;
 }
 
 #pm-close.new {
