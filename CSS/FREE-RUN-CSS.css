@@ -539,7 +539,7 @@ background-position: 9px 9px;
     background-image: url(http://i.imgur.com/ooRRRh3.png);
     background-repeat: no-repeat;
     background-position: 2px center;
-    background-size: 15px auto
+    background-size: 15px auto;
 }
 #chat [data-cid^="5017102-"] .bdg {
   background: url('http://i.imgur.com/dvAvGJs.png') !important;
