@@ -591,3 +591,13 @@ background-position: 9px 9px;
     background-position: 2px center;
     background-size: 15px auto;
 }
+[data-cid^="3959882-"] .msg .from .un {
+    position: relative;
+    left:-5px;
+    padding-left:21px;
+    background-image: url(http://s2.postimg.org/5citrjs1h/Door_icon.png);
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+}    
+}
