@@ -531,15 +531,6 @@ background-position: 9px 9px;
 }
 #chat { background: rgba(0, 0, 0, 1)}
 }
-[data-cid^="5237037-"] .msg .from .un {
-    position: relative;
-    left:-5px;
-    padding-left:21px;
-    background-image: url(http://i.imgur.com/ooRRRh3.png);
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 15px auto;
-}
 #chat [data-cid^="5017102-"] .bdg {
   background: url('http://i.imgur.com/FOjPv6T.png') !important;
   background-position: 0px 0px;
