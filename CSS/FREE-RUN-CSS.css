@@ -552,6 +552,10 @@ background-position: 9px 9px;
   background: url('http://i.imgur.com/9B4HpH7.jpg') !important;
   background-position: 0px 0px;
 }
+#chat [data-cid^="5223615-"] .bdg {
+  background: url('http://i.imgur.com/ImghfNX.jpg') !important;
+  background-position: 0px 0px;
+}
 
 /*  HOST */
 
