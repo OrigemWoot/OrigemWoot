@@ -32,19 +32,6 @@
 #grab i {
   background: url('http://i.imgur.com/9DCOayJ.png');
 }
-#vote .crowd-response .top i {
-  position: relative;
-  display: inline-block;
-  margin: 0 -1px 0 -1px;
-  top: 7px;
-  background-repeat: no-repeat;
-}
-#vote .crowd-response .top .label {
-  position: relative;
-  display: inline-block;
-  top: -6px;
-  margin-left: -5px;
-}
 #dashboard .icon-grab {  
   background: url('http://i.imgur.com/w6lnbq3.png');
 }
