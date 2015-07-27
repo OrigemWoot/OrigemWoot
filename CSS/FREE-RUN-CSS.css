@@ -23,3 +23,30 @@
     -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
     transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
 }
+#woot i {
+  background: url('http://i.imgur.com/5eU6OHQ.png'); 
+}
+#meh i {
+  background: url('http://i.imgur.com/3uSXauE.png');
+}
+#grab i {
+  background: url('http://i.imgur.com/9DCOayJ.png');
+}
+#vote .crowd-response .top i {
+  position: relative;
+  display: inline-block;
+  margin: 0 -1px 0 -1px;
+  top: 7px;
+  background-repeat: no-repeat;
+}
+#vote .crowd-response .top .label {
+  position: relative;
+  display: inline-block;
+  top: -6px;
+  margin-left: -5px;
+}
+#dashboard .icon-grab {  
+  background: url('http://i.imgur.com/w6lnbq3.png');
+}
+#room-bar .icon-room{
+  background: url(http://i.imgur.com/Q8toT6o.png) no-repeat;
