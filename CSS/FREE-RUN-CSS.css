@@ -608,6 +608,15 @@ background-position: 9px 9px;
     background-position: 2px center;
     background-size: 15px auto;
 }
+[data-cid^="6971756-"] .msg .from .un {
+    position: relative;
+    left:-5px;
+    padding-left:21px;
+    background-image: url(http://s21.postimg.org/3mo23yy2r/naruto_chibi_by_kirin_48_d5ku8vp.png);
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+}    
 #chat [data-cid^="5017102-"] .bdg {
   background: url('http://s17.postimg.org/p5dqj24vv/misaki.png') !important;
   background-position: 0px 0px;
