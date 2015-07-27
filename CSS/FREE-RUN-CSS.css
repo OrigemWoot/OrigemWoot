@@ -558,7 +558,7 @@ background-position: 9px 9px;
 }
 
 .icon-chat-manager,.message.from-manager > .icon,.emote.from-manager > .icon,.mention.from-manager > .icon {
-    background-image: url("http://s10.postimg.org/qjkhbv3jp/s_Mu_O5_Cp.png") !important;
+    background-image: url("http://s3.postimg.org/8dxg9uyq7/stiahnu_3.png") !important;
     background-position: 0 0;
 }
 [data-cid^="5237037-"] .msg .from .un {
@@ -601,3 +601,12 @@ background-position: 9px 9px;
 }
 #room-bar .icon-room{
     background: url(http://s10.postimg.org/mj0gx56t1/Free_Run.png) no-repeat;
+}
+#grab i {
+  background: url('http://s11.postimg.org/qbcrpsulb/stiahnu.png');
+}
+#meh i {
+  background: url('http://s30.postimg.org/59b6fd9r1/stiahnu_2.png');  
+}
+#woot i {
+  background: url('http://s2.postimg.org/gr3v9b1h1/stiahnu_1.png');  
