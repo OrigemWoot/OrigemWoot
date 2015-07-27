@@ -22,12 +22,3 @@
   -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
   transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
 }
-#woot i {
-  background: url('http://i.imgur.com/5eU6OHQ.png'); 
-}
-#meh i {
-  background: url('http://i.imgur.com/3uSXauE.png');
-}
-#grab i {
-  background: url('http://i.imgur.com/9DCOayJ.png');
-}
