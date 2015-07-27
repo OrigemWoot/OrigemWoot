@@ -637,6 +637,10 @@
     color: #00cf00;
 }
 
+#playlist-activate-button span {
+    color: #029602;
+}
+
 .available .thumb.medium,.available .thumb.large {
     border: 2px solid #599d24;
     box-shadow: 0 0 10px 5px #599d24;
