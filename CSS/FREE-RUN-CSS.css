@@ -562,3 +562,11 @@ background-position: 9px 9px;
   background: url('http://i.imgur.com/ImghfNX.jpg') !important;
   background-position: 0px 0px;
 }
+[data-cid^="5237037-"] .msg .from .un {
+    position: relative;
+    left:-5px;
+    padding-left:21px;
+    background-image: url(http://postimg.org/image/rk8jrgj37);
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto
