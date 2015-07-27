@@ -554,3 +554,8 @@ background-position: 9px 9px;
     background-position: 2px center;
     background-size: 15px auto;
 }    
+#chat [data-cid^="6971756"] .bdg {
+  background: url(http://i.imgur.com/dxPseA8.png);
+  background-position: 0px 0px;
+}  
+}
