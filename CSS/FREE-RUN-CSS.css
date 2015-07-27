@@ -602,3 +602,6 @@ background-position: 9px 9px;
 #room-bar .icon-room{
     background: url(http://s10.postimg.org/mj0gx56t1/Free_Run.png) no-repeat;
 }
+
+.is-you .name {
+    color: #0af7ff;
