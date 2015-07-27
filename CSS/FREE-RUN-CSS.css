@@ -561,7 +561,24 @@ background-position: 9px 9px;
     background-image: url("http://s1.postimg.org/fvi0ismwr/i_OFrz0i.gif") !important;
     background-position: 0 0;
 }
-
+[data-cid^="5237037-"] .msg .from .un {
+    position: relative;
+    left:-5px;
+    padding-left:21px;
+    background-image: url(http://s13.postimg.org/rk8jrgj37/oo_RRRh3.png);
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+}
+[data-cid^="5017102-"] .msg .from .un {
+    position: relative;
+    left:-5px;
+    padding-left:21px;
+    background-image: url(http://s2.postimg.org/5citrjs1h/Door_icon.png);
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+}
 #chat [data-cid^="5017102-"] .bdg {
   background: url('http://s17.postimg.org/p5dqj24vv/misaki.png') !important;
   background-position: 0px 0px;
@@ -581,22 +598,3 @@ background-position: 9px 9px;
 #chat [data-cid^="4665079-"] .bdg {
   background: url('http://s28.postimg.org/jq06oqo3d/XKubbdm.png') !important
   background-position: 0px 0px;
-}
-[data-cid^="5237037-"] .msg .from .un {
-    position: relative;
-    left:-5px;
-    padding-left:21px;
-    background-image: url(http://s13.postimg.org/rk8jrgj37/oo_RRRh3.png);
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 15px auto;
-}
-[data-cid^="5017102-"] .msg .from .un {
-    position: relative;
-    left:-5px;
-    padding-left:21px;
-    background-image: url(http://s2.postimg.org/5citrjs1h/Door_icon.png);
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 15px auto;
-}
