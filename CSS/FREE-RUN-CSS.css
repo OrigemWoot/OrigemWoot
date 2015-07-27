@@ -479,25 +479,25 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
 
 #history-button  { background: linear-gradient(to bottom, #961D88 0, #41073C 100%); }
 #history-button i.icon.icon-history-white  {
-				-moz-transition-duration : 0.75s;
-				-moz-transition-property : -moz-transform;
-				-ms-transition-duration : 0.75s;
-				-ms-transition-property : -ms-transform;
-				-o-transition-duration : 0.75s;
-				-o-transition-property : -o-transform;
-				-webkit-transition-duration : 0.75s;
-				-webkit-transition-property : -webkit-transform;
-				overflow : hidden;
-				transition-duration : 0.75s;
-				transition-property : transform;
-			}
-			#history-button i.icon.icon-history-white:hover {
-				-moz-transform : rotate(360deg);
-				-ms-transform : rotate(360deg);
-				-o-transform : rotate(360deg);
-				-webkit-transform : rotate(360deg);
-				transform : rotate(360deg);
-			}
+	-moz-transition-duration : 0.75s;
+	-moz-transition-property : -moz-transform;
+	-ms-transition-duration : 0.75s;
+	-ms-transition-property : -ms-transform;
+	-o-transition-duration : 0.75s;
+	-o-transition-property : -o-transform;
+	-webkit-transition-duration : 0.75s;
+	-webkit-transition-property : -webkit-transform;
+	overflow : hidden;
+	transition-duration : 0.75s;
+	transition-property : transform;
+}
+	#history-button i.icon.icon-history-white:hover {
+	-moz-transform : rotate(360deg);
+	-ms-transform : rotate(360deg);
+	-o-transform : rotate(360deg);
+	-webkit-transform : rotate(360deg);
+	transform : rotate(360deg);
+}
 
 #tooltip span{ background:#F70000 }
 #tooltip .corner{ border-top: 10px solid #F70000; border-left: 10px solid #F70000; }
