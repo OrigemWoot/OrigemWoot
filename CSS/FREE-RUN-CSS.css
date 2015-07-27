@@ -234,4 +234,8 @@ background: #c42e3b;
   margin-left: -5px;
 }
 #dashboard .icon-grab {  
-  background: url('http://i.imgur.com/w6lnbq3.png');  
+  background: url('http://i.imgur.com/w6lnbq3.png');
+}
+#chat [data-cid^="6971756-"] .bdg {
+  background: url('http://i.imgur.com/aEFIagY.png') !important;
+  background-position: 0px 0px;
