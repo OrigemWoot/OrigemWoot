@@ -3,6 +3,11 @@
 }
 .origem-menu-icon {
   background: url('http://i.imgur.com/E1p0cGj.png');
+  background-size: 34px;
+  background-repeat: no-repeat;
+  background-position: 9px 9px;
+  height: 100%;
+  cursor: pointer;
 }
 .ow-helper .un::before, div[data-cid~="ow-helper"] .un::before {
   background: url('http://i.imgur.com/MzIau7o.png');
