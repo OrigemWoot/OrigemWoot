@@ -226,6 +226,12 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Czech%20CSS.css",
 			"overridecss" : true
 		},
+		"m-f-e": {
+			"title": "ΜFΣ",
+			"background": "http://i.imgur.com/2IX8D3q.jpg",
+			"css": "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/mfe.css",
+			"overridecss": true
+		},
 		"thømas-b-community" : {
 			"title" : "HJV",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/HJV.css",
