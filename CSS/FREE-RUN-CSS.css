@@ -547,7 +547,7 @@ background-position: 9px 9px;
 }
 
 .icon-chat-cohost ~ .text > .name,.icon-chat-cohost ~ .from,.icon-chat-cohost ~ span {
-    color: #FFFF00!important;
+    color: #FFFF00 !important;
 
 }    
 
