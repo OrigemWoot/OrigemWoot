@@ -549,6 +549,21 @@ background-position: 9px 9px;
 .icon-chat-host ~ .text > .name,.icon-chat-host ~ .from,.icon-chat-host ~ span {
     color: #ff00e1 !important;
 }
+/*  CO-HOST */
+
+#chat-messages:not(.is-none) .user > .icon-chat-cohost + .name,#user-lists .user > .icon-chat-cohost + .name,.message.from-cohost > .from,.emote.from-cohost > .from,.mention.from-cohost > .from {
+    color: #15ff00 !important;
+}
+
+.icon-chat-cohost,.message.from-cohost > .icon,.emote.from-cohost > .icon,.mention.from-cohost > .icon {
+    background-image: url("http://s2.postimg.org/id0aw1ztx/stiahnu.png") !important;
+    background-position: 0 0;
+}
+
+.icon-chat-cohost ~ .text > .name,.icon-chat-cohost ~ .from,.icon-chat-cohost ~ span {
+    color: #15ff00 !important;
+
+}
 
 /*  Manager */
 
