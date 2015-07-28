@@ -506,10 +506,10 @@
 [data-cid^="4317189-"] .msg .from .un {
     position: relative;
     left:-1px;
-    padding-left:21px;
+    padding-left: 18px;
     background-image: url(https://i.imgur.com/Etxov1v.png);
     background-repeat: no-repeat;
-    background-position: 2px center;
+    background-position: -1px center;
     background-size: 15px auto;
 }
 
