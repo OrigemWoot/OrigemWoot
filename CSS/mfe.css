@@ -5,7 +5,7 @@
   background: url('http://i.imgur.com/E1p0cGj.png');
 }
 .ow-helper .un::before, div[data-cid~="ow-helper"] .un::before {
-  background: url(http://i.imgur.com/MzIau7o.png);
+  background: url('http://i.imgur.com/MzIau7o.png');
 }
 #your-active-playlist > .icon-check-purple{ 
   background: url('http://i.imgur.com/RuRvnpQ.png') !important; 
