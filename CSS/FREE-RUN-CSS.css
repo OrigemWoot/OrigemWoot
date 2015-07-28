@@ -233,7 +233,6 @@ background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !i
 #your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/RpYlWSk.png') !important; top: 15px; }
 #user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 #footer-user .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
-#room-bar .icon-room { background-image: url('https://i.imgur.com/0lCzmzC.png');  }
 
 /* Evento do ícone do meh! */
 #user-lists .list { -webkit-animation:fadein 0.5s; -ms-animation:fadein 0.5s; animation:fadein 0.5; }
@@ -665,5 +664,5 @@ background-position: 9px 9px;
   background-position: 0px 0px;
 }  
 #room-bar .icon-room{
-    background: url(http://s10.postimg.org/mj0gx56t1/Free_Run.png) no-repeat;
+    background: url(http://i.imgur.com/MtOAM5P.png) no-repeat;
 }
