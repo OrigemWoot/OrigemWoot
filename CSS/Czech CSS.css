@@ -497,12 +497,11 @@
 .ul-user {
     color: white;
 }
-/*
-#chat [data-cid^="4105532-"] .bdg {
-  background: url('http://i.imgur.com/fuDu0ZS.jpg') !important;
+
+#chat [data-cid^="4317189-"] .bdg {
+  background: url('http://i.imgur.com/SGpXMkW.png') !important;
   background-position: 0px 0px;
 }
-*/
 
 .userlj {
     background: url(https://cdn.plug.dj/_/static/images/icons.d8b5eb442b3acb5ccfbbe2541b9db0756e45beba.png) 314px -349px;
