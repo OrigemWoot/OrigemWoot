@@ -660,6 +660,10 @@ background-position: 9px 9px;
 #chat [data-cid^="1234840-"] .bdg {
   background: url('http://s11.postimg.org/d1kaaij0f/enhanced_buzz_20051_1381169413_19.jpg') !important;
   background-position: 0px 0px;
+} 
+#chat [data-cid^=" 5052186-"] .bdg {
+  background: url('http://s21.postimg.org/j688u2av7/WALL_E_24.png') !important;
+  background-position: 0px 0px;
 }  
 #room-bar .icon-room{
     background: url(http://s10.postimg.org/mj0gx56t1/Free_Run.png) no-repeat;
