@@ -597,7 +597,7 @@ background-position: 9px 9px;
 /* RDJ */
 
 #user-panel:not(.is-none) .user > .icon-chat-dj + .name,#user-lists .user > .icon-chat-dj + .name,.message.from-residentdj > .from,.emote.from-residentdj > .from,.mention.from-residentdj > .from {
-    color: #ff8100 !important;
+    color: #00ff00 !important;
 }
 
 .icon-chat-dj,.message.from-residentdj > .icon,.emote.from-residentdj > .icon,.mention.from-residentdj > .icon {
@@ -606,26 +606,9 @@ background-position: 9px 9px;
 }
 
 .icon-chat-dj ~ .text > .name,.icon-chat-dj ~ .from,.icon-chat-dj ~ span {
-    color: #ff8100 !important;
-}
-
-/*  subscriber */
-
-#user-panel:not(.is-none) .user > .icon-chat-sub + .name,#user-lists .user > .icon-chat-sub + .name,.message.from-subscriber > .from,.emote.from-subscriber > .from,.mention.from-subscriber > .from {
     color: #00ff00 !important;
-
 }
 
-.icon-chat-dj,.message.from-subscriber > .icon,.emote.from-subscriber > .icon,.mention.from-subscriber > .icon {
-    background-image: url("http://s7.postimg.org/s4t7g3uyf/stiahnu_1.png") !important;
-    background-position: 0 0;
-
-}
-
-.icon-chat-sub ~ .text > .name,.icon-chat-sub ~ .from,.icon-chat-sub ~ span {
-    color: #00ff00 !important;
-    
-}    
 [data-cid^="5237037-"] .msg .from .un {
     position: relative;
     left:-1px;
