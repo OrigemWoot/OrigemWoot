@@ -611,7 +611,7 @@ background-position: 9px 9px;
 
 /*  subscriber */
 
-#user-panel:not(.is-none) .user > .icon-chat-subs + .name,#user-lists .user > .icon-chat-subs + .name,.message.from-subscriber > .from,.emote.from-subscriber > .from,.mention.from-subscriber > .from {
+#user-panel:not(.is-none) .user > .icon-chat-sub + .name,#user-lists .user > .icon-chat-sub + .name,.message.from-subscriber > .from,.emote.from-subscriber > .from,.mention.from-subscriber > .from {
     color: #00ff00 !important;
 
 }
@@ -622,7 +622,7 @@ background-position: 9px 9px;
 
 }
 
-.icon-chat-subs ~ .text > .name,.icon-chat-subs ~ .from,.icon-chat-subs ~ span {
+.icon-chat-sub ~ .text > .name,.icon-chat-sub ~ .from,.icon-chat-sub ~ span {
     color: #00ff00 !important;
     
 }    
