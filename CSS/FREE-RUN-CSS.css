@@ -644,3 +644,8 @@ background-position: 9px 9px;
 #room-bar .icon-room{
     background: url(http://s10.postimg.org/mj0gx56t1/Free_Run.png) no-repeat;
 }
+#playback .background img {
+background: url('https://i.imgur.com/OEmp9Y4.png') no-repeat left bottom, url('https://i.imgur.com/QjIwqkr.png') no-repeat right bottom;
+margin: 0px -174px;
+padding: 0px 174px;
+}
