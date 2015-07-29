@@ -118,6 +118,17 @@
 			 "color": "#00FFFF"
 		}
 	},
+	"vip5" : {
+		"ids" : [
+			4060996
+		],
+		"rollover" : {
+			 "classteam" : "vip5",
+			 "icon" : "http://i.imgur.com/8FRKQpJ.gif",
+			 "langkey": "titlevip",
+			 "color": "#E6CCFF"
+		}
+	},
 	"vip6" : {
 		"ids" : [
 			5494760
