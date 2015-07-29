@@ -1020,7 +1020,7 @@
 }
 
 .communities .grid .cell .meta {
-    background: #191919;
+    background: #191919 !important;
 }
 
 .communities .grid .cell .bar {
