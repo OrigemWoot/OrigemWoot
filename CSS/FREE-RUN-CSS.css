@@ -612,7 +612,7 @@ background-position: 9px 9px;
 .icon-chat-dj ~ .text > .name,.icon-chat-dj ~ .from,.icon-chat-dj ~ span {
     color: #84ff00 !important;
 }
-
+/* Yami no Haitake */
 [data-cid^="5237037-"] .msg .from .un {
     position: relative;
     left:-1px;
@@ -622,6 +622,7 @@ background-position: 9px 9px;
     background-position: 2px center;
     background-size: 15px auto;
 }
+/* Kanashii Yoshi */
 [data-cid^="5017102-"] .msg .from .un {
     position: relative;
     left:-1px;
@@ -631,30 +632,37 @@ background-position: 9px 9px;
     background-position: 2px center;
     background-size: 15px auto;
 }
+/* Kanashii Yoshi */
 #chat [data-cid^="5017102-"] .bdg {
   background: url('http://s17.postimg.org/p5dqj24vv/misaki.png') !important;
   background-position: 0px 0px;
-}    
+}
+/* ™ℕãℜưŦƙỔ ♆  */
 #chat [data-cid^="6971756-"] .bdg {
   background: url('http://s13.postimg.org/r9gx0z60z/SZWAMw_D.jpg') !important;
   background-position: 0px 0px;
 }
+/* Yami no Haitake */
 #chat [data-cid^="5237037-"] .bdg {
   background: url('http://i.imgur.com/9B4HpH7.jpg') !important;
   background-position: 0px 0px;
 }
+/* Foxxiček */
 #chat [data-cid^="5223615-"] .bdg {
   background: url('http://i.imgur.com/ImghfNX.jpg') !important;
   background-position: 0px 0px;
 }
+/* HellSynthetika */
 #chat [data-cid^="4665079-"] .bdg {
   background: url('http://s28.postimg.org/jq06oqo3d/XKubbdm.png') !important;
   background-position: 0px 0px;
 }
+/* Sataniath */
 #chat [data-cid^="1234840-"] .bdg {
   background: url('http://s11.postimg.org/d1kaaij0f/enhanced_buzz_20051_1381169413_19.jpg') !important;
   background-position: 0px 0px;
-} 
+}
+/* Free Run Bot */
 #chat [data-cid^="5052186-"] .bdg {
   background: url('http://s21.postimg.org/j688u2av7/WALL_E_24.png') !important;
   background-position: 0px 0px;
@@ -686,4 +694,9 @@ background-position: 9px 9px;
 }
 #dashboard .icon-grab {  
   background: url('http://i.imgur.com/w6lnbq3.png');
+}
+/* Foxxiček */
+#chat .cm[data-cid^="5223615"] .un {
+  color: #fd5fee;
 }  
+
