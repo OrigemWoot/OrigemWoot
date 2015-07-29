@@ -572,11 +572,11 @@ background-position: 9px 9px;
 /*  Manager */
 
 .icon-chat-manager ~ .text > .name,.icon-chat-manager ~ .from,.icon-chat-manager ~ span {
-    color: #ff00e1 !important;
+    color: #ffff00 !important;
 }
 
 #user-panel:not(.is-none) .user > .icon-chat-manager + .name,#user-lists .user > .icon-chat-manager + .name,.message.from-manager > .from,.emote.from-manager > .from,.mention.from-manager > .from {
-    color: #ff00e1 !important;
+    color: #ffff00 !important;
 }
 
 .icon-chat-manager,.message.from-manager > .icon,.emote.from-manager > .icon,.mention.from-manager > .icon {
