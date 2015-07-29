@@ -822,7 +822,7 @@
 
 .tab-menu button.selected {
     background: #00CF00;
-    color: #EEEEEE;
+    color: #000000;
     border-radius: 10px;
     z-index: 1;
 }
