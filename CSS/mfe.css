@@ -222,7 +222,7 @@
 }
 #chat .mention.is-dj, 
 #chat .mention.is-staff {
-  background: linear-gradient(135deg,#0A65D2 0,#0a0a0a 13%,#0a0a0a 100%);
+  background: linear-gradient(135deg,#0A65D2 0,#0a0a0a 13%,#0a0a0a 100%)!important;
 }
 #user-rollover.is-staff .info .role span {
   font-weight: bold;
