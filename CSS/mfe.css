@@ -255,6 +255,12 @@
 #user-friends .tab-menu button .count {
   background: #0A65D2;
 }
+.media-list.history .score .grabs span {
+  color: #016CFA;
+}
+#footer-user .info .bar .progress {
+  background: #0A65D2;
+}
 
 
 /*     STAFF     */
@@ -284,6 +290,12 @@
 	background-position: 2px center;
 	background-size: 15px auto
 }
+/*Weriinka*/
+[data-cid^="3959882-"] .badge-box .bdg {
+    background: url('https://i.imgur.com/RqihnJk.png')!important;
+    background-position: 0 0;
+}
+
 /*     VIP     */
 
 /*SiesBicho*/
