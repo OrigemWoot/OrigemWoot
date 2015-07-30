@@ -285,6 +285,12 @@
   background: linear-gradient(to bottom,rgba(0, 32, 255, 0.1) 0px, #2832DB 100%);
   box-shadow: 0 0 10px 1px #0D17E2 !important;
 }
+.media-list .row.selected {
+  background: #003171;
+}
+.media-list .selected .actions {
+  background: #003171;
+}
 
 
 /*     STAFF     */
