@@ -1868,7 +1868,7 @@ div[class^="pm-from-"] small {
 
 .media-list .row.now-playing {
     background: rgba(253, 6, 6, 0.48) !important;
-    border-bottom: rgba(255, 0, 0, 0.39) 2px solid;
+    border-bottom: none;
     border-radius: 10px;
     border-left: red 4px solid;
     -webkit-box-shadow: inset 0 0 30px rgba(255, 0, 0, 1);
