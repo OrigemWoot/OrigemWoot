@@ -263,7 +263,8 @@ background-repeat: no-repeat !important;}
 .ow-vip3 .un, div[data-cid~="ow-vip3"] .un,
 .ow-vip4 .un, div[data-cid~="ow-vip4"] .un,
 .ow-vip5 .un, div[data-cid~="ow-vip5"] .un,
-.ow-vip6 .un, div[data-cid~="ow-vip6"] .un{
+.ow-vip6 .un, div[data-cid~="ow-vip6"] .un,
+.ow-vip7 .un, div[data-cid~="ow-vip7"] .un{
 	margin-left: 16px;
 	position: relative;
 }
@@ -277,7 +278,8 @@ background-repeat: no-repeat !important;}
 .ow-vip3 .un::before, div[data-cid~="ow-vip3"] .un::before,
 .ow-vip4 .un::before, div[data-cid~="ow-vip4"] .un::before,
 .ow-vip5 .un::before, div[data-cid~="ow-vip5"] .un::before,
-.ow-vip6 .un::before, div[data-cid~="ow-vip6"] .un::before{
+.ow-vip6 .un::before, div[data-cid~="ow-vip6"] .un::before,
+.ow-vip7 .un::before, div[data-cid~="ow-vip7"] .un::before{
 	content: '';
 	position: absolute;
 	background-repeat: no-repeat;
