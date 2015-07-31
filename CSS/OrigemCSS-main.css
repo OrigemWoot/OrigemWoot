@@ -320,6 +320,9 @@ background-repeat: no-repeat !important;}
 .ow-vip6 .un::before, div[data-cid~="ow-vip6"] .un::before{
 	background: url(https://i.imgur.com/6ye0Rt2.png);
 }
+.ow-vip7 .un::before, div[data-cid~="ow-vip7"] .un::before{
+	background: url(https://i.imgur.com/S328sSe.png);
+}
 
 .origem-dev-badge ,
 .origem-dev-caipira-badge { background: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1) } 
@@ -331,6 +334,7 @@ background-repeat: no-repeat !important;}
 .origem-vip4-badge { background: url(https://i.imgur.com/JrqEFri.png) }
 .origem-vip5-badge { background: url(https://i.imgur.com/RqihnJk.png) }
 .origem-vip6-badge { background: url(https://i.imgur.com/56V0Hph.png) }
+.origem-vip7-badge { background: url(https://i.imgur.com/D8IcEta.png) }
 .origem-designer-badge { background: url(https://www.dropbox.com/s/fxz4ztvy0hz2kju/DESBADGE30px.png?raw=1) } 
 .origem-translator-badge { background: url(https://i.imgur.com/3epe8Vp.png) } 
 
