@@ -253,6 +253,8 @@ background-repeat: no-repeat !important;}
 .ow-vip3 .bdg, div[data-cid~="ow-vip3"] .bdg { background-image: url(https://i.imgur.com/RqihnJk.png); background-size: cover; }
 .ow-vip4 .bdg, div[data-cid~="ow-vip4"] .bdg { background-image: url(https://i.imgur.com/JrqEFri.png); background-size: cover; }
 */
+
+/*
 .ow-dev .un, div[data-cid~="ow-dev"] .un,
 .ow-dev-caipira .un, div[data-cid~="ow-dev-caipira"] .un,
 .ow-helper .un, div[data-cid~="ow-helper"] .un,
@@ -265,9 +267,12 @@ background-repeat: no-repeat !important;}
 .ow-vip5 .un, div[data-cid~="ow-vip5"] .un,
 .ow-vip6 .un, div[data-cid~="ow-vip6"] .un,
 .ow-vip7 .un, div[data-cid~="ow-vip7"] .un{
+*/
+div[class*="ow-"] .un{
 	margin-left: 16px;
 	position: relative;
 }
+/*
 .ow-dev .un::before, div[data-cid~="ow-dev"] .un::before,
 .ow-dev-caipira .un::before, div[data-cid~="ow-dev-caipira"] .un::before,
 .ow-helper .un::before, div[data-cid~="ow-helper"] .un::before,
@@ -280,6 +285,8 @@ background-repeat: no-repeat !important;}
 .ow-vip5 .un::before, div[data-cid~="ow-vip5"] .un::before,
 .ow-vip6 .un::before, div[data-cid~="ow-vip6"] .un::before,
 .ow-vip7 .un::before, div[data-cid~="ow-vip7"] .un::before{
+*/
+div[class*="ow-"] .un::before{
 	content: '';
 	position: absolute;
 	background-repeat: no-repeat;
