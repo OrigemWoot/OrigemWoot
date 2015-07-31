@@ -47,48 +47,15 @@
 .owLinks:hover {
   color: #0A65D2;
 }
-.origem-color-dj, 
-#chat .cm .icon-chat-dj + .un, 
-#user-lists .group.dj ~ .user, 
-#user-lists .list.room .user .icon-chat-dj + .name, 
-#list-users .ul-dj, 
-#user-rollover.is-staff .info .role .icon-chat-dj + span, 
-#dialog-user-role .role-menu .selected .icon-chat-dj + span, 
-#dialog-user-role .role-menu .menu .dj span {
-  color: #9bffda;
-  font-weight: bold;
-}
-.origem-color-bouncer, 
-#chat .cm .icon-chat-bouncer + .un, 
-#user-lists .group.bouncer ~ .user, 
-#user-lists .list.room .user .icon-chat-bouncer + .name, 
-#list-users .ul-bouncer, 
-#user-rollover.is-staff .info .role .icon-chat-bouncer + span, 
-#dialog-user-role .role-menu .selected .icon-chat-bouncer + span, 
-#dialog-user-role .role-menu .menu .bouncer span {
-  color: #89efff;
-  font-weight: bold;
-}
-.origem-color-manager, 
-#chat .cm .icon-chat-manager + .un, 
-#user-lists .group.manager ~ .user, 
-#user-lists .list.room .user .icon-chat-manager + .name, 
-#list-users .ul-manager, 
-#user-rollover.is-staff .info .role .icon-chat-manager + span, 
-#dialog-user-role .role-menu .selected .icon-chat-manager + span, 
-#dialog-user-role .role-menu .menu .manager span {
-  color: #00c7ff;
-  font-weight: bold;
-}
 .origem-color-host, 
 #chat .cm .icon-chat-host + .un, 
 #user-lists .group.host ~ .user, 
 #user-lists .list.room .user .icon-chat-host + .name, 
-#list-users .ul-host, 
+#list-users .ul-host,
 #user-rollover.is-staff .info .role .icon-chat-host + span, 
 #dialog-user-role .role-menu .selected .icon-chat-host + span, 
 #dialog-user-role .role-menu .menu .host span {
-  color: #006eff;
+  color: #888888;
   font-weight: bold;
 }
 .icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span {
@@ -370,7 +337,12 @@
 }
 #playlist-import:hover,
 #playlist-create:hover {
-  background: linear-gradient(to bottom,#0003FF 0,#000286 100%);
+  background: linear-gradient(to bottom,#0003FF 0,#000286 100%)!important;
+}
+#room-settings .general-settings .option button.off {
+  margin-left: 10px;
+  background: #000BDD;
+  color: #eee;
 }
 
 
