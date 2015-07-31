@@ -666,7 +666,12 @@ background-position: 9px 9px;
 #chat [data-cid^="5052186-"] .bdg {
   background: url('http://s21.postimg.org/j688u2av7/WALL_E_24.png') !important;
   background-position: 0px 0px;
-}  
+}
+/* #Pesos69 */
+#chat [data-cid^="5052784-"] .bdg {
+  background: url('http://i.imgur.com/G5IOw5n.png') !important;
+  background-position: 0px 0px;
+}
 #room-bar .icon-room{
     background: url(http://i.imgur.com/428IcrB.png) no-repeat;
 }
