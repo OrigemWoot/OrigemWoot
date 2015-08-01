@@ -47,16 +47,6 @@
 .owLinks:hover {
   color: #0A65D2;
 }
-.origem-color-host, 
-#chat .cm .icon-chat-host + .un, 
-#user-lists .group.host ~ .user, 
-#user-lists .list.room .user .icon-chat-host + .name, 
-#list-users .ul-host,
-#user-rollover.is-staff .info .role .icon-chat-host + span, 
-#dialog-user-role .role-menu .selected .icon-chat-host + span, 
-#dialog-user-role .role-menu .menu .host span {
-  color: #888888;
-}
 .origem-color-bouncer, 
 .origem-color-manager, 
 .origem-color-cohost,
