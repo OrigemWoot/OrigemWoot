@@ -309,9 +309,6 @@
 #chat .welcome {
   color: #006FFF;
   font-weight: bold;
-  background: rgba(0, 0, 255, 0.34);
-  border-radius: 10px;
-  border: 4px solid;
 }
 .is-dj .name, .is-staff .name {
   color: #0A65D2;
