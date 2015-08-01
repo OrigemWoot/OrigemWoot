@@ -56,7 +56,6 @@
 #dialog-user-role .role-menu .selected .icon-chat-host + span, 
 #dialog-user-role .role-menu .menu .host span {
   color: #888888;
-  font-weight: bold;
 }
 .icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span {
   color: #00c7ff !important;
