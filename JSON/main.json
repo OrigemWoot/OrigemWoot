@@ -389,11 +389,6 @@
 			"msg" : "Bem Vindo(a) a sala Grunge, Metal Rock's e obrigado por usar o nosso GrungeWoot.",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"overridecss" : true
-		},
-		"wedrásek" : {
-			"title" : "Wedrásek",
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Wedr%C3%A1sek%20CSS.css",
-			"overridecss" : true
 		}
 	}
 }
