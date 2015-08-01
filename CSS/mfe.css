@@ -57,6 +57,12 @@
 #dialog-user-role .role-menu .menu .host span {
   color: #888888;
 }
+.origem-color-bouncer, 
+.origem-color-manager, 
+.origem-color-cohost,
+.origem-color-dj{ 
+  color: #888888;
+}
 .icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span {
   color: #00c7ff !important;
   font-weight: bold;
