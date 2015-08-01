@@ -387,12 +387,12 @@ background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #F70000 100%);
 ::-webkit-scrollbar-track { -webkit-box-shadow: inset 0 0 6px rgba(207, 207, 207, 0.6) !important;
 -moz-box-shadow: inset 0 0 6px rgba(207, 207, 207, 0.6) !important; box-shadow: inset 0 0 6px rgba(207, 207, 207, 0.6) !important;
 border-radius: 10px !important; }
-
-/* #playback .background img {
+}
+#playback .background img {
 background: url('https://i.imgur.com/OEmp9Y4.png') no-repeat left bottom, url('https://i.imgur.com/QjIwqkr.png') no-repeat right bottom;
 margin: 0px -174px;
 padding: 0px 174px;
-} */
+} 
 
 /* Aleatoridades e frescuras novas */
 
