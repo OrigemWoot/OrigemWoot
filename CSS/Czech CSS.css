@@ -1585,6 +1585,11 @@ div[class^="pm-from-"] small {
     color: #00E700 !important;
 }
 
+.icon-chat-cohost,.message.from-cohost > .icon,.emote.from-cohost > .icon,.mention.from-cohost > .icon {		
+    background-image: url("http://i.imgur.com/4bij1tJ.png") !important;		
+    background-position: 0 0;		
+}
+
 .icon-chat-cohost ~ .text > .name,.icon-chat-cohost ~ .from,.icon-chat-cohost ~ span {
     color: #00E700 !important;
 }
