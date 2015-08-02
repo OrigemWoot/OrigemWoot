@@ -73,7 +73,7 @@
   background: rgba(47, 47, 47, 0.47);
 }
 div[class^="pm-from-"] {
-  display: inline-block
+  display: inline-block;
   max-width: 220px !important;
 }  
 .pm-me {
