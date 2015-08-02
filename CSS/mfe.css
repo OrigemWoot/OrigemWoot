@@ -57,7 +57,7 @@
   background: linear-gradient(#111, #000) !important;
 }
 .pm-user-content.selected {
-  background: linear-gradient(hsl(220, 10%, 20%), hsl(220,10%,15%));
+  background: linear-gradient(hsl(220, 10%, 20%), hsl(220,10%,15%)) !important;
   box-shadow: inset 0 0 10px 2px hsl(239, 100%, 50%) !important;
 }
 .pm-user-content {
