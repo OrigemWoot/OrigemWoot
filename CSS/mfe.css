@@ -81,6 +81,7 @@ div[class^="pm-from-"] {
   padding-left: 5px;
   max-width: 220px;
   display: inline-block
+  text-align: left;
 }
 ::-webkit-scrollbar-thumb {
   border-radius: 10px !important;
