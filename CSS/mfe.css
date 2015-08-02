@@ -53,24 +53,43 @@
 .origem-color-dj{ 
   color: #888888;
 }
+.pm-user-content.selected:nth-child(2n+1) {
+  background: linear-gradient(#111, #000) !important;
+}
 .pm-user-content.selected {
-  border-radius: 5px;
-  box-shadow: inset 0 0 10px 2px hsl(223, 100%, 50%) !important;
-  background: linear-gradient(hsl(0, 0%, 0%), hsl(0, 0%, 0%)) !important;
+  background: linear-gradient(hsl(220, 10%, 20%), hsl(220,10%,15%));
+}
+.pm-user-content {
+  padding-left: 5px;
 }
 .pm-msg-username {
   background: linear-gradient(hsla(0, 0%, 23%, 1), hsla(0, 0%, 13%, 1)) !important;
   border: 2px rgb(0, 0, 0) solid;
   border-radius: 5px;
+  box-shadow: inset 1px 2px 20px hsla(200, 50%, 60%, 0);
 }
 #pm-users-container {
   background: rgba(47, 47, 47, 0.47);
 }
 .pm-me, div[class^="pm-from-"] {
   display: inline-block
+  max-width: 220px;
 }  
 .pm-me {
 float: right;
+padding-left: 5px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px !important;
+  box-shadow: inset 0 0 10px rgba(16, 0, 255, 1) !important;
+}
+::-webkit-scrollbar {
+  width: 13px !important;
+  background: rgba(0, 0, 0, 0.72) !important;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.62) !important;
+  border-radius: 10px !important;
 }
 .icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span {
   color: #00c7ff !important;
@@ -354,7 +373,80 @@ float: right;
   background: #000BDD;
   color: #eee;
 }
-
+#chat .text a:hover, a:focus, 
+.origem-menu-heading:focus {
+  text-decoration: none;
+  color: #006eff;
+  transition: 300ms linear 0,1s;
+  outline: 0 none;
+}
+#chat .emote .text {
+  font-style: normal;
+  font-weight: bold;
+  color: #00B2FF;
+}
+#chat .emote {
+  border-left: rgba(55, 0, 255, 1) 3px solid !important;
+  background-color: rgba(0, 101, 255, 0.19) !important;
+}
+#chat .moderation, 
+#chat .moderation .from {
+  color: #0084ff;
+}
+.dialog.destructive .button.submit {
+  background: linear-gradient(to bottom,#000DFF 0,#000B7B 100%);
+}
+.dialog-frame .button.submit {
+  background: linear-gradient(to bottom,#006EFF 0,#0028A5 100%);
+}
+#user-lists .header .button.room i, #user-lists .header .button.staff i {
+  top: 8px;
+  left: 7px;
+} 
+#user-lists .header .button.room.selected {
+  background: linear-gradient(to bottom,#0A65D2 0,#011471 100%);
+}
+#user-lists .header .button.bans.selected, 
+#user-lists .header .button.ignored.selected, 
+#user-lists .header .button.mutes.selected {
+  border-bottom: 0px solid #ac76ff;
+  background: linear-gradient(to bottom,#D00000 0,#4D0000 100%);
+}
+#user-lists .header .button.room.selected {
+  border-bottom: 0px solid #808691;
+}
+#user-lists .header .button {
+  position: relative;
+  top: 0px;
+  float: left;
+  width: 42px;
+  height: 46px;
+  cursor: pointer;
+}
+#user-lists .header .button.staff.selected {
+  border-bottom: 0px solid #ac76ff;
+  background: linear-gradient(to bottom,#9300D0 0,#33004C 100%);
+}
+#user-lists .header .button.trolls span {
+  position: absolute;
+  top: 7px;
+  left: 4px;
+}
+#user-lists .header .button.ignored i {
+  top: 7px;
+  left: 5px;
+}
+#user-lists .header .button.mutes i {
+  top: 7px;
+  left: 6px;
+}
+#footer-user .buttons .button:hover {
+  background: rgba(50, 55, 66, 0);
+}
+#user-lists .header .button.bans i {
+  top: 7px;
+  left: 8px;
+}
 
 /*     STAFF     */
 
