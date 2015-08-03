@@ -623,16 +623,6 @@ background-position: 9px 9px;
     background-position: 2px center;
     background-size: 15px auto;
 }
-/* Kanashii Yoshi */
-[data-cid^="5017102-"] .msg .from .un {
-    position: relative;
-    left:-1px;
-    padding-left:21px;
-    background-image: url(http://s2.postimg.org/guaz20mg5/sad.png);
-    background-repeat: no-repeat;
-    background-position: 2px center;
-    background-size: 15px auto;
-}
 /* Foxxiček */
 [data-cid^="5223615-"] .msg .from .un {
     position: relative;
@@ -643,16 +633,6 @@ background-position: 9px 9px;
     background-position: 2px center;
     background-size: 15px auto;
 }    
-/* Kanashii Yoshi */
-#chat [data-cid^="5017102-"] .bdg {
-  background: url('http://s17.postimg.org/p5dqj24vv/misaki.png') !important;
-  background-position: 0px 0px;
-}
-/* ™ℕãℜưŦƙỔ ♆  */
-#chat [data-cid^="6971756-"] .bdg {
-  background: url('http://s13.postimg.org/r9gx0z60z/SZWAMw_D.jpg') !important;
-  background-position: 0px 0px;
-}
 /* Yami no Haitake */
 #chat [data-cid^="5237037-"] .bdg {
   background: url('http://i.imgur.com/9B4HpH7.jpg') !important;
@@ -666,11 +646,6 @@ background-position: 9px 9px;
 /* HellSynthetika */
 #chat [data-cid^="4665079-"] .bdg {
   background: url('http://s28.postimg.org/jq06oqo3d/XKubbdm.png') !important;
-  background-position: 0px 0px;
-}
-/* Sataniath */
-#chat [data-cid^="1234840-"] .bdg {
-  background: url('http://s11.postimg.org/d1kaaij0f/enhanced_buzz_20051_1381169413_19.jpg') !important;
   background-position: 0px 0px;
 }
 /* Free Run Bot */
