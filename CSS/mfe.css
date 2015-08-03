@@ -385,9 +385,9 @@ div[class^="pm-from-"] {
   outline: 0 none;
 }
 #chat .emote .text {
-  font-style: normal;
-  font-weight: bold;
-  color: #00B2FF;
+    font-style: normal;
+    font-weight: bold;
+    color: #00B2FF;
 }
 #chat .emote {
   border-left: rgba(55, 0, 255, 1) 3px solid !important;
