@@ -689,11 +689,4 @@ background-position: 9px 9px;
 /* Foxxiček */
 #chat .cm[data-cid^="5223615"] .un {
   color: #fd5fee;
-}  
-#room-bar .icon-room {
-  background: url('http://s23.postimg.org/whwytmgyf/428_Icr_B.png');
-}
-.icon-site-logo {
-  background: url('http://s29.postimg.org/cte3efclv/image.png') repeat scroll 0% 0% transparent;
-  background-position: 0px 0px;
-} 	
+}	
