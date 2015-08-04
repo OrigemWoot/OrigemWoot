@@ -552,7 +552,24 @@ background-position: 9px 9px;
     color: #AC76FF!important;
     
 }
+
+/*  CO-HOST */
+
+#chat-messages:not(.is-none) .user > .icon-chat-cohost + .name,#user-lists .user > .icon-chat-cohost + .name,.message.from-cohost > .from,.emote.from-cohost > .from,.mention.from-cohost > .from {
+   color: #AC76FF !important;
     
+}
+
+.icon-chat-cohost,.message.from-cohost > .icon,.emote.from-cohost > .icon,.mention.from-cohost > .icon {
+    background-image: url("http://s3.postimg.org/cjfv3xlen/JOlq_Rg9.png") !important;
+    background-position: 0 0;
+    
+}
+
+.icon-chat-cohost ~ .text > .name,.icon-chat-cohost ~ .from,.icon-chat-cohost ~ span {
+   color: #AC76FF !important;
+} 
+
 /*  Manager */
 
 .icon-chat-manager ~ .text > .name,.icon-chat-manager ~ .from,.icon-chat-manager ~ span {
@@ -674,7 +691,7 @@ background-position: 9px 9px;
   color: #fd5fee;
 }	
 .icon-site-logo {
-  background: url('http://s29.postimg.org/cte3efclv/image.png');
+  background: url('http://s7.postimg.org/lc2iu6n7r/image.png');
   repeat scroll 0% 0% transparent;
   background-position: 0px 0px;
 }
