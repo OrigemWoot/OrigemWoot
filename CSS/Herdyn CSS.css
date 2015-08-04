@@ -140,9 +140,9 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 /* Items related to playlist! */
 
 .media-list .row.now-playing, #playlist-button, .media-list .selected .actions, .media-list .row.selected, 
-.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #A11D20 0px, #560E0F 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
-.media-list.history .row.selected, .media-list.history .selected .actions {  background:#E01212 !important; 
-box-shadow: 0 0 10px #E01212 !important; }
+.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, ##A11D20 0px, #23560e 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
+.media-list.history .row.selected, .media-list.history .selected .actions {  background:#23e012 !important; 
+box-shadow: 0 0 10px #23e012 !important; }
 .media-list.history .score .grabs span {   color: #D87F0E; }
 #playlist-create:hover { box-shadow: 0 0 10px #186696 !important; background: linear-gradient(to bottom, #1C92D0 0px, #0E3556 100%) !important; }
 #playlist-import:hover { box-shadow: 0 0 10px #6E186D !important; background: linear-gradient(to bottom, #A91CD0 0px, #4F0E56 100%)!important; }
@@ -345,9 +345,9 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 #user-inventory .avatars .grid .cell { border-radius: 3000px; 
 background: linear-gradient(to bottom,#12A9E0 0,#0D607E 56%,#000 73%,#39393A 100%)  !important; }
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
-background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; }
-#user-menu .avatar { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
-.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
+background: linear-gradient(to bottom,#39ae1c 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; }
+#user-menu .avatar { background: linear-gradient(to bottom,#39ae1c 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
+.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#39ae1c 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 
