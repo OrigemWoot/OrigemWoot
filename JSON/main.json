@@ -216,7 +216,7 @@
 			"title" : "Elite",
 			"msg" : "Olá, Bem-vindo(a), Obrigado por usar nosso EliteWoot",
 			"background" : "https://i.imgur.com/TAp8KYK.jpg",
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/MCS-CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/mfe.css",
 			"overridecss" : true
 		},
 		"hitparada-borivoje" : {
