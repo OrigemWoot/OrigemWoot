@@ -540,78 +540,61 @@ background-position: 9px 9px;
 /*  HOST */
 
 #user-panel:not(.is-none) .user > .icon-chat-host + .name,#user-lists .user > .icon-chat-host + .name,.message.from-host > .from,.emote.from-host > .from,.mention.from-host > .from {
-    color: #ff0000 !important;
+    color: #AC76FF !important;
 }
 
 .icon-chat-host,.message.from-host > .icon,.emote.from-host > .icon,.mention.from-host > .icon {
-    background-image: url("http://s12.postimg.org/a3ablnsih/h_Gpv5pv.png") !important;
+    background-image: url("http://s3.postimg.org/cjfv3xlen/JOlq_Rg9.png") !important;
     background-position: 0 0;
 }
 
 .icon-chat-host ~ .text > .name,.icon-chat-host ~ .from,.icon-chat-host ~ span {
-    color: #ff0000 !important;
+    color: #AC76FF!important;
     
-}
-
-/*  CO-HOST */
-
-#chat-messages:not(.is-none) .user > .icon-chat-cohost + .name,#user-lists .user > .icon-chat-cohost + .name,.message.from-cohost > .from,.emote.from-cohost > .from,.mention.from-cohost > .from {
-    color: #0015ff !important;
-    
-}
-
-.icon-chat-cohost,.message.from-cohost > .icon,.emote.from-cohost > .icon,.mention.from-cohost > .icon {
-    background-image: url("http://s2.postimg.org/id0aw1ztx/stiahnu.png") !important;
-    background-position: 0 0;
-    
-}
-
-.icon-chat-cohost ~ .text > .name,.icon-chat-cohost ~ .from,.icon-chat-cohost ~ span {
-    color: #0015ff !important;
 }
     
 /*  Manager */
 
 .icon-chat-manager ~ .text > .name,.icon-chat-manager ~ .from,.icon-chat-manager ~ span {
-    color: #ffff00 !important;
+    color: #AC76FF !important;
 }
 
 #user-panel:not(.is-none) .user > .icon-chat-manager + .name,#user-lists .user > .icon-chat-manager + .name,.message.from-manager > .from,.emote.from-manager > .from,.mention.from-manager > .from {
-    color: #ffff00 !important;
+    color: #AC76FF !important;
 }
 
 .icon-chat-manager,.message.from-manager > .icon,.emote.from-manager > .icon,.mention.from-manager > .icon {
-    background-image: url("http://s3.postimg.org/8dxg9uyq7/stiahnu_3.png") !important;
+    background-image: url("http://s30.postimg.org/xtzgaqz8t/beb_Mb8k.png") !important;
     background-position: 0 0;
 }
 
 /*  Bouncer */
 
 #user-panel:not(.is-none) .user > .icon-chat-bouncer + .name,#user-lists .user > .icon-chat-bouncer + .name,.message.from-bouncer > .from,.emote.from-bouncer > .from,.mention.from-bouncer > .from {
-    color: #00ccff !important;
+    color: #AC76FF !important;
 }
 
 .icon-chat-bouncer,.message.from-bouncer > .icon,.emote.from-bouncer > .icon,.mention.from-bouncer > .icon {
-    background-image: url("http://s13.postimg.org/jq7mrjxoj/stiahnu.png") !important;
+    background-image: url("http://s13.postimg.org/7eux28qer/j_A7_CGAX.png") !important;
     background-position: 0 0;
 }
 
 .icon-chat-bouncer ~ .text > .name,.icon-chat-bouncer ~ .from,.icon-chat-bouncer ~ span {
-    color: #00ccff !important;
+    color: #AC76FF !important;
 }
 /* RDJ */
 
 #user-panel:not(.is-none) .user > .icon-chat-dj + .name,#user-lists .user > .icon-chat-dj + .name,.message.from-residentdj > .from,.emote.from-residentdj > .from,.mention.from-residentdj > .from {
-    color: #84ff00 !important;
+    color: #AC76FF !important;
 }
 
 .icon-chat-dj,.message.from-residentdj > .icon,.emote.from-residentdj > .icon,.mention.from-residentdj > .icon {
-    background-image: url("http://s7.postimg.org/5afuqd3tz/stiahnu_1.png") !important;
+    background-image: url("http://s17.postimg.org/syk2qvsbv/EBEFOAY.png") !important;
     background-position: 0 0;
 }
 
 .icon-chat-dj ~ .text > .name,.icon-chat-dj ~ .from,.icon-chat-dj ~ span {
-    color: #84ff00 !important;
+    color: #AC76FF !important;
 }
 /* Yami no Haitake */
 [data-cid^="5237037-"] .msg .from .un {
