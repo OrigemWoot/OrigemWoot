@@ -695,3 +695,21 @@ background-position: 9px 9px;
   repeat scroll 0% 0% transparent;
   background-position: 0px 0px;
 }
+.loading-box .connecting{
+  display: none !Important;
+}
+
+.loading-box .logo{
+  background-image: url('http://s8.postimg.org/fbm58gsxh/FR_load.png') !important;
+  background-size: 640px 362px !Important;
+  height: 362px !Important;
+}
+
+.loading-box .content{
+  top: -12px !important;
+  height: 413px !Important;
+}
+
+.loading-box .spinner{
+  margin-top: 23px !Important;
+}
