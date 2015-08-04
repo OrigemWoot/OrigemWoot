@@ -9,6 +9,15 @@
   height: 100%;
   cursor: pointer;
 }
+.origem-menu-opener {
+  width: 53px;
+  height: 52px;
+  position: absolute;
+  background-color: #1C1F25;
+  border-right: 1px solid #0a0a0a;
+  top: 0px;
+  z-index: 20;
+}
 .ow-helper .un::before, div[data-cid~="ow-helper"] .un::before {
   background: url('http://i.imgur.com/MzIau7o.png');
 }
