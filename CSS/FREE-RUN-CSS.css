@@ -658,6 +658,11 @@ background-position: 9px 9px;
   background: url('http://i.imgur.com/G5IOw5n.png') !important;
   background-position: 0px 0px;
 }
+/* Narutko */
+#chat [data-cid^="6971756-"] .bdg {
+  background: url('http://s7.postimg.org/wta712hvr/Fire_Skull.png') !important;
+  background-position: 0px 0px;
+}  
 #room-bar .icon-room{
     background: url(http://i.imgur.com/428IcrB.png) no-repeat;
 }
