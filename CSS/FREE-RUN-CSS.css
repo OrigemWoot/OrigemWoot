@@ -645,7 +645,8 @@ background-position: 9px 9px;
 }
 /*Takové to označení, když to pípne*/
 
-#chat .mention.is-dj, #chat .mention.is-staff {
+#chat .mention.is-dj, 
+#chat .mention.is-staff {
   background: linear-gradient(135deg,#cf0000 0,#000000 13%,#0a0a0a 100%) !important;
 }
 /*Barva označené pro staff, když se někdo nudí nebo chce otravovat a označí je*/
@@ -655,7 +656,7 @@ background-position: 9px 9px;
 }
 /*Zcucnutí*/
 
-#meh;
+#meh,
 #grab {
   margin-left: -1px;
 }
