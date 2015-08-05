@@ -659,6 +659,22 @@ background-position: 9px 9px;
 #grab {
   margin-left: -1px;
 }
+/*Staff ukazuje svou "moc"*/
+
+#chat .from.dj .un, 
+#chat .from.staff .un,
+#chat .moderation, 
+#chat .moderation .from {
+  color: #cf0000;
+}
+
+/*čudlík*/
+
+#dj-button.is-wait, 
+#dj-button.is-wait .left {
+  background: linear-gradient(to bottom,rgba(123, 16, 16, 0.6) 0,rgba(226, 0, 0, 0.73) 100%);
+  box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important;
+}
 /* Yami no Haitake */
 [data-cid^="5237037-"] .msg .from .un {
     position: relative;
