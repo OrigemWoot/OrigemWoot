@@ -3,12 +3,12 @@ padding: 10px; z-index: 12; font-family: "helvetica"; font-size: 1.0em; border-r
 #ow-painel-main, #ow-painel-background { cursor: move; }
 #origemscript p { text-align: left; margin: 0 auto; width: 80px; display: inline-block; padding-right: 5px; }
 #origemscript a { font-size: 1.0em; color: #fff }
-#origemscript h3 { font-size: 20px; text-align: center; color: #00FF00; }
-#origemscript h4 { font-size: 15px; text-align: right; color: #00FF00; }
+#origemscript h3 { font-size: 20px; text-align: center; color: #F70000; }
+#origemscript h4 { font-size: 15px; text-align: right; color: #F70000; }
 #origemscript .version { font-style: italic; font-size: 0.8em; text-align: center; margin-bottom: 20px; width:100%; }
 #origemscript .disclaimer { font-style: italic; font-size: 0.7em; text-align: center; padding-top: 10px; }
 .owLinks { width: 100%; text-align: center; margin-bottom: 10px; cursor: pointer; }
-.owLinks:hover{ color: #00FF00; }
+.owLinks:hover{ color: #F70000; }
 .disabled1 { display: none; }
 .disabled2 { z-index: 2000; }
 .orange-bg { background: rgba(244, 107, 64, 0.29) !important; }
@@ -20,7 +20,7 @@ padding: 10px; z-index: 12; font-family: "helvetica"; font-size: 1.0em; border-r
 .onoffswitch-inner { width: 200%; margin-left: -100%; transition: margin 0.3s ease-in 0s; }
 .onoffswitch-inner:before, .onoffswitch-inner:after { float: left; width: 50%; height: 5px; padding: 0; line-height: 5px;
 font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold; box-sizing: border-box; }
-.onoffswitch-inner:before { content: ""; padding-left: 10px; background-color: #00FF00; color: #FFFFFF; }
+.onoffswitch-inner:before { content: ""; padding-left: 10px; background-color: #F70000; color: #FFFFFF; }
 .onoffswitch-inner:after { content: ""; padding-right: 10px; background-color: #EEEEEE; color: #999999; text-align: right; }
 .onoffswitch-switch { width: 9px; margin: -2px; background: #FFFFFF; border: 2px solid #999999; border-radius: 20px;
 position: absolute; top: 0; bottom: 0; right: 31px; transition: all 0.3s ease-in 0s;  }
@@ -34,7 +34,7 @@ font-size: 1.0em; -moz-border-radius: 0 0 35px 35px !important; -webkit-border-r
 border-radius: 0 0 35px 35px !important; color: #FFF;  }
 #origemscriptOther p { text-align: center; margin: 0 auto; display: inline-block; padding-right: 5px; }
 #origemscriptOther a {  font-size: 1.0em; color: #fff }
-#origemscriptOther h3 {  font-size: 20px;    text-align: center; color: #00FF00; }
+#origemscriptOther h3 {  font-size: 20px;    text-align: center; color: #F70000; }
 #origemscriptOther .version { font-style: italic; font-size: 0.8em;   text-align: center; margin-bottom: 20px; width:100%; }
 #origemscriptOther .disclaimer { font-style: italic; font-size: 0.7em; text-align: center;  padding-top: 10px; }
 .slideout-menu { position: fixed; top: 0; left: -250px; width: 250px; height: 100%; background: #333; z-index: 100; }
@@ -60,7 +60,7 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 .ow-img-delete { position:absolute; top:25px; left:8px; background-color:#f04f30; padding:0 3px; cursor:pointer }
 .custom-emote { display:inline-block; vertical-align:top }
 
-/* Put it in silence, none of your business */
+/* Larga isto quieto, não é da sua conta */
 
 .userInfo.dj .votedBackgroundColor { background-color: #0A4380; font-weight: bold; }
 .userInfo.woot .votedBackgroundColor { background-color: #407D42; }
@@ -69,14 +69,14 @@ right: 6px !important; background: rgb(0, 156, 221); border-radius: 10px; cursor
 outline: none; z-index: 11; overflow-y: auto; overflow-x: hidden; }
 #nwootCreator { margin-bottom: 0 px; width: 220px;  height: auto; cursor: move }
 .ulh1 { background-color: #052736; border-bottom:1px solid #444; border-collapse: collapse; }
-.ulh2 { font-size:22px; background: rgb(37,141,200); 
-    background: -moz-linear-gradient(top, rgba(37,141,200,1) 0%, rgba(37,141,200,1) 100%);  
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(37,141,200,1)), color-stop(100%,rgba(37,141,200,1)));  
-    background: -webkit-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); 
-    background: -o-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); 
-    background: -ms-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%);  
-    background: linear-gradient(to bottom,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); 
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#258dc8', endColorstr='#258dc8',GradientType=0 );  }
+.ulh2 { font-size:22px; background: rgb(37,141,200); /* Old browsers */ 
+    background: -moz-linear-gradient(top, rgba(37,141,200,1) 0%, rgba(37,141,200,1) 100%); /* FF3.6+ */ 
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(37,141,200,1)), color-stop(100%,rgba(37,141,200,1))); /* Chrome,Safari4+ */ 
+    background: -webkit-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); /* Chrome10+,Safari5.1+ */ 
+    background: -o-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); /* Opera 11.10+ */ 
+    background: -ms-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); /* IE10+ */ 
+    background: linear-gradient(to bottom,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%); /* W3C */ 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#258dc8', endColorstr='#258dc8',GradientType=0 ); /* IE6-9 */ }
 .ulh3 { text-decoration:none; font-weight:bold; cursor:pointer; color:rgb(37,141,200); font-size:13px; }
 .ul-admin { color: #42A5DC; }
 .ul-ambassador{ color: #89be6c; }
@@ -86,7 +86,7 @@ outline: none; z-index: 11; overflow-y: auto; overflow-x: hidden; }
  background: url(https://cdn.plug.dj/_/static/images/icons.704234c7dc6818d8d01262d56bc8177b8ce6cd7d.png) 314px -349px;
  position: absolute; width: 15px; height: 15px; top: 7px;  left: 7px; }
 
-/* Items related to hover over! */
+/* Itens relacionados ao passar o mouse por cima! */ 
 
 .row:hover, #user-lists .list .user:hover, .media-list .actions {
 text-decoration: none;
@@ -95,21 +95,21 @@ background: linear-gradient(to right,rgba(255, 118, 118, 0.05) 0,rgba(255, 0, 0,
 -webkit-transition: 200ms linear 0s;
 -moz-transition: 200ms linear 0s; -o-transition: 200ms linear 0s; transition: 300ms linear 0,1s; outline: 0 none;
 text-shadow: -1px 1px 8px #DA0111, 1px -1px 8px #DA0153; }
-#user-rollover .actions .action:hover   {  background-color: rgba(213, 28, 28, 0.22) } 
+#user-rollover .actions .action:hover   {  background-color: rgba(213, 28, 28, 0.22) } /* Ache uma cor melhor assis */
 #user-rollover { background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.75) 0, rgba(0, 0, 0, 0.75) 100%);
 background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 100%); }
 #user-rollover .info, #user-rollover .info .badge-box, #chat-messages .badge-box, .user-content.profile .meta .badge-box {background: none;}
   
-/* Items related to the Footer User buttons */
+/* Itens relacionados aos botões do Footer User */
 
-#footer-user .buttons div.inventory.button:hover { background: linear-gradient(to bottom,#069906 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
-#footer-user .buttons div.badge.button:hover { background: linear-gradient(to bottom,#069906 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
-#footer-user .buttons div.profile.button:hover { background: linear-gradient(to bottom,#069906 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
-#footer-user .buttons div.settings.button:hover { background: linear-gradient(to bottom,#069906 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
-#footer-user .buttons div.store.button:hover { background: linear-gradient(to bottom,#069906 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
-#footer-user .info { background: linear-gradient(to bottom,#205211 0,rgba(142, 75, 81, 1) 56%,#1A1A1A 73%,#39393A 100%); }
+#footer-user .buttons div.inventory.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.badge.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.profile.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.settings.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .buttons div.store.button:hover { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
+#footer-user .info { background: linear-gradient(to bottom,#521114 0,rgba(142, 75, 81, 1) 56%,#1A1A1A 73%,#39393A 100%); }
   
-/* Related Items to chat, delays and colors /me */
+/* Itens Relacionados ao chat, delays e cores do /me */
 
 #chat .emote { border-left: rgba(174, 69, 189, 1) 3px solid !important; background-color: rgba(190, 28, 213, 0.22) 
 !important; background: linear-gradient(to right,rgba(255, 118, 118, 0.05) 0,rgba(255, 0, 194, 0.27) 100%) !important; }
@@ -119,7 +119,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-animation:fadein 0.6s;
 -ms-animation:fadein 0.6s;  -o-animation:fadein 0.6s; animation:fadein 0.6s; }
     
-/* Related Items to plug icon menu! */
+/* Itens Relacionados ao Menu do ícone do plug! */
 
 #app-menu {max-width: 400px    !important;}
 #app-menu .list {max-width: 400px !important;}
@@ -137,41 +137,41 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 #app-menu .item:hover  { background: #000 !important; box-shadow: 0 0 15px #fff !important; }
 .dark-label {color: #fff;}
 
-/* Items related to playlist! */
+/* Itens relacionados a playlist! */
 
 .media-list .row.now-playing, #playlist-button, .media-list .selected .actions, .media-list .row.selected, 
-.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #00ff92 0px, #3fff55 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
-.media-list.history .row.selected, .media-list.history .selected .actions {  background:#12e12a !important; 
-box-shadow: 0 0 10px #32763a !important; }
-.media-list.history .score .grabs span {   color: #32763a; }
-#playlist-create:hover { box-shadow: 0 0 10px #23e012 !important; background: linear-gradient(to bottom, #23e012 0px, #23e012 100%) !important; }
-#playlist-import:hover { box-shadow: 0 0 10px #23e012 !important; background: linear-gradient(to bottom, #23e012 0px, #23e012 100%)!important; }
+.media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #A11D20 0px, #560E0F 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
+.media-list.history .row.selected, .media-list.history .selected .actions {  background:#E01212 !important; 
+box-shadow: 0 0 10px #E01212 !important; }
+.media-list.history .score .grabs span {   color: #D87F0E; }
+#playlist-create:hover { box-shadow: 0 0 10px #186696 !important; background: linear-gradient(to bottom, #1C92D0 0px, #0E3556 100%) !important; }
+#playlist-import:hover { box-shadow: 0 0 10px #6E186D !important; background: linear-gradient(to bottom, #A91CD0 0px, #4F0E56 100%)!important; }
 #playlist-edit-button { background: linear-gradient(to bottom, #2F5286 0px, #091036 100%); } 
 #playlist-edit-button:hover { background: linear-gradient(to bottom, #5290EC 0px, #142580 100%); } 
 #playlist-shuffle-button { background: linear-gradient(to bottom, #473861 0px, #140A27 100%); } 
 #playlist-shuffle-button:hover { background: linear-gradient(to bottom, #7F63B3 0px, #321A5E 100%); } 
 #playlist-delete-button { background: linear-gradient(to top, #571515 0px, #442609 100%); } 
 #playlist-activate-button span, #playlist-menu .menu .row .count, .media-list.history .meta .timestamp { color: #FFFFFF; }
-#playlist-menu .title { color: #32763a; }
+#playlist-menu .title { color: #E01212; }
 #playlist-delete-button:hover { background: linear-gradient(to bottom,rgba(68, 68, 68, 0.6) 0,rgba(226, 37, 0, 0.73) 100%);
 box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #playlist-shuffle-button:hover { background: linear-gradient(to bottom, #6541A1 0px, #3A1B76 100%); box-shadow: 0 0 10px #6541A1 !important; }
  #playlist-panel, #history-panel  { background : black-transparent; opacity: 0.9;  text-shadow: 1px -1px #000; } 
 #playlist-menu {    background: none;  } 
- #playlist-activate-button { background: linear-gradient(to bottom, #2ca11d 0px, #560E0F 100%) !important; border-radius: 20px 0px 0px 20px !important; } 
+ #playlist-activate-button { background: linear-gradient(to bottom, #A11D20 0px, #560E0F 100%) !important; border-radius: 20px 0px 0px 20px !important; } 
 #search {background: #000 !important;  }
 
 
-/* Menu items related to the community! */
+/* Itens relacionados ao Menu de comunidades! */
 
-#dashboard .icon-grab {  background: url('http://s13.postimg.org/by0jcos2b/ol_Bhy_Jn.png');  }
-#room-bar .favorite .icon-grab {  background: url('http://s13.postimg.org/by0jcos2b/ol_Bhy_Jn.png');  }
+#dashboard .icon-grab {  background: url('https://i.imgur.com/olBhyJn.png');  }
+#room-bar .favorite .icon-grab {  background: url('https://i.imgur.com/olBhyJn.png');  }
 #dashboard .search { border-radius: 20px; background:  #282c35; }
 #dashboard { background-color: rgba(0, 0, 0, 0.89) !important;  }
 .communities .grid .cell {border-radius: 30px; }
 .tab-menu button.selected { background: linear-gradient(to bottom,rgba(205, 27, 27, 0.8) 0,rgba(190, 34, 34, 1) 100%) !important; border-radius: 30px; }
 
-/* Items related to the status of circles! */
+ /* Itens relacionados aos círculos de status! */
 
 .available  .thumb.medium, .available  .thumb.large { border: 2px solid #599d24; box-shadow: 0 0 10px 5px #599d24; }
 #user-rollover .meta.available .status i { border: 2px solid #599d24; box-shadow: 0 0 10px 5px #599d24; }
@@ -185,11 +185,11 @@ box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #user-rollover .meta.gaming .status span { color: #0088cb; }
 #footer-user .menu.status .item.gaming i { border: 2px solid #0088cb; box-shadow: 0 0 10px 5px #0088cb; }
 #user-rollover .meta.gaming { background: linear-gradient(to bottom,rgba(0,0,128, 0.4) 0,rgba(28, 31, 37, 1) 100%); opacity: .85;   } 
-.working .thumb.large, .working .thumb.medium { border: 2px solid #4ce52d; box-shadow: 0 0 10px 5px #4ce52d; }
-.working .thumb.small { border: 2px solid #4aff32; }
-#user-rollover .meta.working .status i { border: 2px solid #4ce52d; box-shadow: 0 0 10px 5px #4ce52d; }
-#user-rollover .meta.working .status span { color: #4ce52d; }
-#footer-user .menu.status .item.working i { border: 2px solid #4aff32; box-shadow: 0 0 10px 5px #4aff32; }
+.working .thumb.large, .working .thumb.medium { border: 2px solid #e52d2d; box-shadow: 0 0 10px 5px #e52d2d; }
+.working .thumb.small { border: 2px solid #ff3232; }
+#user-rollover .meta.working .status i { border: 2px solid #e52d2d; box-shadow: 0 0 10px 5px #e52d2d; }
+#user-rollover .meta.working .status span { color: #e52d2d; }
+#footer-user .menu.status .item.working i { border: 2px solid #ff3232; box-shadow: 0 0 10px 5px #ff3232; }
 #user-rollover .meta.working { background: linear-gradient(to bottom,rgba(132, 41, 25, 0.7) 0,rgba(28, 31, 37, 1) 100%); opacity: .85; }
 .away .thumb.large, .away .thumb.medium { border: 2px solid #b29600; box-shadow: 0 0 10px 5px #b29600; }
 .away .thumb.small { border: 2px solid #b29600; }
@@ -199,8 +199,7 @@ box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #user-rollover .meta.away { background: linear-gradient(to bottom,rgba(109, 92, 40, 0.5) 0,rgba(28, 31, 37, 1) 100%);  opacity: .85;}
 #footer-user .menu {background-color: rgba(0,0,0,0.85) !important; }
  #user-rollover .meta .joined {color: #eee;}
- 
-/* Related Items the mouse over the current video! */
+/* Itens Relacionados ao mouse sobre o vídeo atual ! */
 
 #playback-controls .button.snooze { background: linear-gradient(to bottom,rgba(68, 68, 68, 0) 0,rgba(180, 71, 216, 0.73) 100%) !important;
 box-shadow: 0 0 10px #C41EC3 !important; }
@@ -219,50 +218,49 @@ visibility: hidden;
 
 /* Custom icons */
 
-.icon { background-image: url('http://i.imgur.com/V9zvBvC.png'); } /* narutko */
+.icon { background-image: url('https://i.imgur.com/mEHKySY.png'); } /* vermelho */
 
-.icon.icon-chat-songlink { background: url('https://i.imgur.com/4ySq2jE.png') !important;
+.icon.icon-chat-songlink { background: url(https://i.imgur.com/4ySq2jE.png) !important;
 background-repeat: no-repeat !important;  top: 8px !important; left: 28px !important; }
-.icon.icon-chat-imagelink { background: url('https://i.imgur.com/h56ipwJ.png') !important;
+.icon.icon-chat-imagelink { background: url(https://i.imgur.com/h56ipwJ.png) !important;
 background-repeat: no-repeat !important; top: 8px !important; left: 28px !important; }
-.icon.icon-chat-privatemessage { background: url('https://i.imgur.com/D8PrBz8.png') !important;
+.icon.icon-chat-privatemessage { background: url(https://i.imgur.com/D8PrBz8.png) !important;
 background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !important; }
-.icon.icon-chat-privatemessageall { background: url('https://i.imgur.com/AkyEedW.png') !important; 
+.icon.icon-chat-privatemessageall { background: url(https://i.imgur.com/AkyEedW.png) !important; 
 background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !important; }
-.icon-origeminfo { background: url('http://s12.postimg.org/b3fyueu6x/3_Net_Vj_N.png'); width: 30px; height: 30px; }
-.icon-origem-active { background: url('http://s1.postimg.org/6crevd98b/b8_RLPOx.png'); }
+.icon-origeminfo { background: url('https://i.imgur.com/MDYBtAf.png'); width: 30px; height: 30px; }
+.icon-origem-active { background: url('https://i.imgur.com/ATr0Z24.png'); }
 #your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/RpYlWSk.png') !important; top: 15px; }
-#user-menu .item > .icon-history-white { background: url('http://s3.postimg.org/4i7a97jgv/Ed_Pg_Ewe.png') !important; top: 12px; }
-#footer-user .item > .icon-history-white { background: url('http://s3.postimg.org/4i7a97jgv/Ed_Pg_Ewe.png') !important; top: 12px; }
+#user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
+#footer-user .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 
-/* Meh icon Event! */
-
+/* Evento do ícone do meh! */
 #user-lists .list { -webkit-animation:fadein 0.5s; -ms-animation:fadein 0.5s; animation:fadein 0.5; }
 #user-lists .list.room .user .icon-meh{ left:auto; right:8px; top:-1px }
 
-/* Items related to the profile menu! */
+/* Itens relacionados ao menu do seu  perfil! */
 
 .user-content.profile .notifications .row, .dropdown dd .row:hover, #user-menu .item.selected {background: #B72122 !important; }
 .user-content.profile .notifications .row .timestamp { color: #eee; }
 #user-menu { background: rgba(28, 31, 37, 0.26) !important; }
-.dropdown dt { border-radius: 30px; background: linear-gradient(to bottom,rgba(205, 27, 27, 0.8) 0,rgba(190, 34, 34, 1) 100%) !important; box-shadow: 0 0 15px #00FF00 !important; } 
+.dropdown dt { border-radius: 30px; background: linear-gradient(to bottom,rgba(205, 27, 27, 0.8) 0,rgba(190, 34, 34, 1) 100%) !important; box-shadow: 0 0 15px #FF0000 !important; } 
 .dropdown, #user-settings .tab-menu button:first-child { border-radius: 50px; } 
 .user-content .header span, .user-content.profile .meta .badge span, .user-content.profile .meta .joined { color: #eee;} 
 #user-friends .list .row { border-radius: 300px; }
-.user-content.profile .meta .link .url a, .user-content.profile .meta .link .url a:visited, .user-content.profile .points .label { color: #00FF00 !important; }
+.user-content.profile .meta .link .url a, .user-content.profile .meta .link .url a:visited, .user-content.profile .points .label { color: #E01212 !important; }
 .user-content.profile .points .label { color: #12A9E0; text-transform: uppercase; }
 .dropdown dd .row { background: rgba(0,0,0,0.5) !important; }
 #user-menu .item .label { top: 7px !important; } 
 .experience .xp .next-level, .app-right .friends .list .row .room { color: #FFFFFF !important; }
 
-/* Bar and EXP */
+/* Barra de EXP */
 .experience .xp .bar .progress {
-border-radius: 10px 0px 10px 0px !important; background: #00FF00; box-shadow: 0 0 10px 5px #00FF00; }
-#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #00FF00; box-shadow: 0 0 15px #00FF00 !important; }
+border-radius: 10px 0px 10px 0px !important; background: #F70000; box-shadow: 0 0 10px 5px #F70000; }
+#footer-user .info .bar .progress { border-radius: 10px 0px 10px 0px !important; background: #F70000; box-shadow: 0 0 15px #F70000 !important; }
 .experience .xp .bar, #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 #footer-user .meta div.bar { border-radius: 10px 0px 10px 0px !important; }
 
-/* Room Info/Options menu in the room and buttons! */
+/* Room Info / Opções no menu da sala e botões! */
 
 #room-info { opacity:  .90; }
 #room-info .button.disabled { background: linear-gradient(to bottom,rgba(98, 27, 16, 1) 0,rgba(226, 37, 0, 0.73) 100%);
@@ -278,7 +276,7 @@ background: linear-gradient(to right,rgba(255, 118, 118, 0.05) 0,rgba(255, 0, 0,
 #room-settings-menu { width: 220px;height: 100%;background: black; }
 #room-settings-menu .title { position: relative;margin: 10px 10px 15px;width: 200px;color: #FFFFFF;font-size: 28px; }
 
-/* Buttons and dialog menu! */
+/* Botões e menus de diálogo ! */
 
 .dialog-frame .button { background: rgba(24, 24, 24, 0.44); }
 .dialog-frame .button.cancel { background: linear-gradient(to top,rgba(77, 77, 77, 1) 0,rgba(15, 15, 30, 1) 100%) !important;
@@ -307,15 +305,14 @@ box-shadow: 0 0 10px #313131 !important; }
 { background: rgba(0, 0, 0, 0.89); box-shadow: inset 0 0px 50px #777777; }
 #dialog-preview .dialog-body .message {background: 000;}
 
-/* Menu by clicking on his name! */
-
+/* Menu ao clicar no seu nome ! */
 #footer-user .menu .item:hover { background: #000 !important; box-shadow: 0 0 15px #fff !important;}
 #footer-user .menu .item:first-child:hover { background: #000 !important; box-shadow: 0 0 15px #fff !important;}
 #footer-user.open-status .image, #footer-user.open-user .info{ background: rgba(0,0,0,0) !important; }
 #footer-user .back { background: linear-gradient(to top,rgba(77, 77, 77, 1) 0,rgba(15, 15, 30, 1) 100%) !important; }
 #footer { background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%) !important; }
 
-/* Buttons on the top menu missing add transparency! */
+/* Botões no menu superior que faltavam adicionar transparência ! */
 
 #history-button, #history-button .selected, .header-panel-button, #friends-button, #user-lists .list.staff .group 
 { background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0,rgba(0, 0, 0, 0) 100%) !important; }
@@ -326,7 +323,7 @@ box-shadow: 0 0 10px #313131 !important; }
 #user-view { background: linear-gradient(to right,rgba(0, 0, 0, 0.98) 0,rgba(0, 0, 0, 0.85) 100%) !important; }
 #user-friends .list .row { background: linear-gradient(to right,rgba(0, 0, 0, 0.17) 0,rgba(255, 255, 255, 0.09) 100%) !important; }
 
-/* Shadows Effects buttons on the left of DJ */
+/* Efeitos de sombras nos botões esquerdos de DJ */
 
 #dj-button  { background: linear-gradient(to bottom,rgba(0, 0, 0, 0.37) 0,rgba(0, 0, 0, 0.44) 100%);  }
 #dj-button.is-locked .left, #dj-button.is-full .left { 
@@ -340,19 +337,18 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 #dj-button.is-quit {  box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;  }
 #dj-button.is-locked .left, #dj-button.is-full .left {  box-shadow: #000 !important;  }
 
-/* Avatars */
-
+/* Avatares */
 #user-inventory .avatars .grid .cell { border-radius: 3000px; 
 background: linear-gradient(to bottom,#12A9E0 0,#0D607E 56%,#000 73%,#39393A 100%)  !important; }
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
-background: linear-gradient(to bottom,#39ae1c 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; }
-#user-menu .avatar { background: linear-gradient(to bottom,#39ae1c 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
-.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#39ae1c 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
+background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; }
+#user-menu .avatar { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
+.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 
 
-/* Shadow of dialog boxes and round edges! */
+/* Sombra das caixas de dialogo e bordas redondas ! */
 
  #chat-input, .dialog-input-background, .input-background, #room-info .input-background, #input-room-name , 
  #user-friends .list .row .buttons button, #user-avatars .tab-menu button, #user-friends .search, 
@@ -362,7 +358,7 @@ background: linear-gradient(to bottom,#39ae1c 0,rgba(182, 30, 30, 0.68) 56%,rgba
 .app-right .friends .list-header .input-background { border-radius: 30px;   background: #282c35; } 
 #search-bar , #filter-bar { border-radius: 30px; background: #000; }
 
-/* Woot / Meh / Grab / off! */
+/* Woot / Meh / Grab /  desativados! */
 
 #vote .crowd-response.disabled .bottom, #vote .crowd-response.disabled, #vote .crowd-response
  { background: #222224; }
@@ -377,13 +373,13 @@ background: linear-gradient(to bottom,rgba(102, 102, 102, 0) 0,rgba(31, 255, 0, 
 #grab .bottom, #grab.selected {
 background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #eec81b 100%); }
 #meh .bottom, #meh.selected {
-background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, F70000 100%); }
-.pop-menu li:hover { background: #00FF00 !important; box-shadow: 0 0 15px #00FF00 !important; }
+background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #F70000 100%); }
+.pop-menu li:hover { background: #F70000 !important; box-shadow: 0 0 15px #F70000 !important; }
 .pop-menu { opacity: .85; border-radius: 30px 30px 0 0; } 
 .pop-menu .bar { background: linear-gradient(to top,rgba(77, 77, 77, 0.6) 0,rgba(15, 15, 30, 1) 100%); border-radius: 30px 30px 0 0; }
 .pop-menu ul { background: linear-gradient(to bottom,rgba(15, 15, 15, 0.5) 0,rgba(0, 0, 0, 0) 100%); } 
 
-/* Scroll Bar and custom new */
+/* Scroll Bar nova e personalizada */
 
 ::-webkit-scrollbar { width: 13px !important; background: rgba(0, 0, 0, 0.72) !important; }
 ::-webkit-scrollbar-thumb { border-radius: 10px !important; -webkit-box-shadow: inset 0 0 10px rgba(255, 0, 0, 1) !important;
@@ -399,19 +395,19 @@ margin: 0px -174px;
 padding: 0px 174px; */
 } 
 
-/* New randomness and frills */
+/* Aleatoridades e frescuras novas */
 
 .focused{
-  -moz-box-shadow: inset 0 0 0 0.2em #00FF00 !important;
-  -webkit-box-shadow: inset 0 0 0 0.2em #00FF00 !important;
-  box-shadow: inset 0 0 0 0.1em ##00FF00 !important;
+  -moz-box-shadow: inset 0 0 0 0.2em #F70000 !important;
+  -webkit-box-shadow: inset 0 0 0 0.2em #F70000 !important;
+  box-shadow: inset 0 0 0 0.1em #F70000 !important;
 }
 .user-content.profile .meta .blurb input { box-shadow: inset 0 0 0 2px #FC0030 !important; }
 
 #volume .slider .line, #user-settings .container .cap .slider .bar {
     top: 8px;
     height: 5px;
-    background: #00FF00;
+    background: #F70000;
     display: block;
     overflow: hidden;
     cursor: pointer;
@@ -422,7 +418,7 @@ padding: 0px 174px; */
     overflow: visible;
 }
 #room-name  span:hover {
-    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px ##00FF00 , 0 0 70px ##00FF00 , 0 0 80px ##00FF00 , 0 0 100px #00FF00 ;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #F70000 , 0 0 70px #F70000 , 0 0 80px #F70000 , 0 0 100px #F70000 ;
 }
 
 #room-name .bar-value  {
@@ -440,7 +436,7 @@ padding: 0px 174px; */
     -o-text-overflow: clip;
     text-overflow: clip;
     white-space: pre;
-    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #00FF00  , 0 0 70px #00FF00 , 0 0 80px #00FF00  , 0 0 100px #00FF00 ;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #F70000  , 0 0 70px #F70000  , 0 0 80px #F70000  , 0 0 100px #F70000 ;
     -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
     -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
     -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
@@ -455,7 +451,7 @@ padding: 0px 174px; */
 }
 
 
-#origem-info { color: #00FF00 !important; }
+#origem-info { color: #F70000 !important; }
 #info_dialog > .dialog-frame .button.submit { background: linear-gradient(to bottom,rgba(205, 27, 27, 0.8) 0,rgba(190, 34, 34, 1) 100%);
 box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 .media-list .row.now-playing { border-bottom: #FC2457 2px solid !important; }
@@ -506,16 +502,16 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
 	transform : rotate(360deg);
 }
 
-#tooltip span{ background:#00FF00 }
-#tooltip .corner{ border-top: 10px solid #00FF00; border-left: 10px solid #00FF00; }
-#tooltip.right .corner{ border-top:10px solid #00FF00; border-right:10px solid #00FF00 }
+#tooltip span{ background:#F70000 }
+#tooltip .corner{ border-top: 10px solid #F70000; border-left: 10px solid #F70000; }
+#tooltip.right .corner{ border-top:10px solid #F70000; border-right:10px solid #F70000 }
 
 /* Itens relacionados ao novo menu*/
 
 .origem-menu-heading, .origem-menu-submenu .origem-submenu-heading { color: #FF0A0A !important; }
 
 .origem-menu-icon {
-background: url('http://s12.postimg.org/b3fyueu6x/3_Net_Vj_N.png');
+background: url('https://i.imgur.com/3NetVjN.png');
 background-size: 34px;
 background-repeat: no-repeat;
 background-position: 9px 9px;
@@ -527,7 +523,7 @@ background-position: 9px 9px;
 	right: 0;
 	width: 33px;
 	height: 28px;
-	background: url('http://s1.postimg.org/6crevd98b/b8_RLPOx.png');
+	background: url(https://i.imgur.com/b8RLPOx.png);
 }
 .origem-menu-opener {
     background-color: transparent;
@@ -535,6 +531,9 @@ background-position: 9px 9px;
 #origem-menu-close .icon {
 	left: 8px;
 	top: 10px;
+}
+
+#chat { background: rgba(0, 0, 0, 1)}
 }	
 #woot i {
   background: url('http://s11.postimg.org/65quzp4kf/stiahnu_2.png'); 
