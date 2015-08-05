@@ -20,7 +20,7 @@ padding: 10px; z-index: 12; font-family: "helvetica"; font-size: 1.0em; border-r
 .onoffswitch-inner { width: 200%; margin-left: -100%; transition: margin 0.3s ease-in 0s; }
 .onoffswitch-inner:before, .onoffswitch-inner:after { float: left; width: 50%; height: 5px; padding: 0; line-height: 5px;
 font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold; box-sizing: border-box; }
-.onoffswitch-inner:before { content: ""; padding-left: 10px; background-color: #F70000; color: #FFFFFF; }
+.onoffswitch-inner:before { content: ""; padding-left: 10px; background-color: #00FF00; color: #FFFFFF; }
 .onoffswitch-inner:after { content: ""; padding-right: 10px; background-color: #EEEEEE; color: #999999; text-align: right; }
 .onoffswitch-switch { width: 9px; margin: -2px; background: #FFFFFF; border: 2px solid #999999; border-radius: 20px;
 position: absolute; top: 0; bottom: 0; right: 31px; transition: all 0.3s ease-in 0s;  }
@@ -34,7 +34,7 @@ font-size: 1.0em; -moz-border-radius: 0 0 35px 35px !important; -webkit-border-r
 border-radius: 0 0 35px 35px !important; color: #FFF;  }
 #origemscriptOther p { text-align: center; margin: 0 auto; display: inline-block; padding-right: 5px; }
 #origemscriptOther a {  font-size: 1.0em; color: #fff }
-#origemscriptOther h3 {  font-size: 20px;    text-align: center; color: #F70000; }
+#origemscriptOther h3 {  font-size: 20px;    text-align: center; color: #00FF00; }
 #origemscriptOther .version { font-style: italic; font-size: 0.8em;   text-align: center; margin-bottom: 20px; width:100%; }
 #origemscriptOther .disclaimer { font-style: italic; font-size: 0.7em; text-align: center;  padding-top: 10px; }
 .slideout-menu { position: fixed; top: 0; left: -250px; width: 250px; height: 100%; background: #333; z-index: 100; }
