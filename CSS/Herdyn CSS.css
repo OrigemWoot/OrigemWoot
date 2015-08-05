@@ -219,7 +219,7 @@ visibility: hidden;
 
 /* Custom icons */
 
-.icon { background-image: url('https://i.imgur.com/mEHKySY.png'); } /* vermelho */
+.icon { background-image: url('http://i.imgur.com/E4IUSdh.png'); } /* vermelho */
 
 .icon.icon-chat-songlink { background: url(https://i.imgur.com/4ySq2jE.png) !important;
 background-repeat: no-repeat !important;  top: 8px !important; left: 28px !important; }
@@ -229,9 +229,9 @@ background-repeat: no-repeat !important; top: 8px !important; left: 28px !import
 background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !important; }
 .icon.icon-chat-privatemessageall { background: url(https://i.imgur.com/AkyEedW.png) !important; 
 background-repeat: no-repeat !important; width: 30px; height: 30px; left: 4px !important; }
-.icon-origeminfo { background: url('https://i.imgur.com/MDYBtAf.png'); width: 30px; height: 30px; }
+.icon-origeminfo { background: url('http://i.imgur.com/TaOAlJV.png'); width: 30px; height: 30px; }
 .icon-origem-active { background: url('https://i.imgur.com/ATr0Z24.png'); }
-#your-active-playlist > .icon-check-purple{ background: url('https://i.imgur.com/RpYlWSk.png') !important; top: 15px; }
+#your-active-playlist > .icon-check-purple{ background: url('http://i.imgur.com/4dUm2Ld.png') !important; top: 15px; }
 #user-menu .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 #footer-user .item > .icon-history-white { background: url('https://i.imgur.com/EdPgEwe.png') !important; top: 12px; }
 
@@ -514,7 +514,7 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
 .origem-menu-heading, .origem-menu-submenu .origem-submenu-heading { color: #FF0A0A !important; }
 
 .origem-menu-icon {
-background: url('https://i.imgur.com/3NetVjN.png');
+background: url('http://i.imgur.com/0ssqC8B.png');
 background-size: 34px;
 background-repeat: no-repeat;
 background-position: 9px 9px;
@@ -526,7 +526,7 @@ background-position: 9px 9px;
 	right: 0;
 	width: 33px;
 	height: 28px;
-	background: url(https://i.imgur.com/b8RLPOx.png);
+	background: url('http://i.imgur.com/GcUJLO0.png');
 }
 .origem-menu-opener {
     background-color: transparent;
