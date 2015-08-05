@@ -653,7 +653,12 @@ background-position: 9px 9px;
 .is-dj .name, .is-staff .name {
   color: #cf0000;
 }
+/*Zcucnutí*/
 
+#meh;
+#grab {
+  margin-left: -1px;
+}
 /* Yami no Haitake */
 [data-cid^="5237037-"] .msg .from .un {
     position: relative;
