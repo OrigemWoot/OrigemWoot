@@ -107,7 +107,7 @@ background: linear-gradient(to bottom,rgba(0, 0, 0, 0.75) 0,rgba(0, 0, 0, 0.75) 
 #footer-user .buttons div.profile.button:hover { background: linear-gradient(to bottom,#069906 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
 #footer-user .buttons div.settings.button:hover { background: linear-gradient(to bottom,#069906 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
 #footer-user .buttons div.store.button:hover { background: linear-gradient(to bottom,#069906 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%);  }
-#footer-user .info { background: linear-gradient(to bottom,#521114 0,rgba(142, 75, 81, 1) 56%,#1A1A1A 73%,#39393A 100%); }
+#footer-user .info { background: linear-gradient(to bottom,#205211 0,rgba(142, 75, 81, 1) 56%,#1A1A1A 73%,#39393A 100%); }
   
 /* Related Items to chat, delays and colors /me */
 
@@ -158,7 +158,7 @@ box-shadow:  0 0 10px rgba(158, 30, 11, 1)     !important; }
 #playlist-shuffle-button:hover { background: linear-gradient(to bottom, #6541A1 0px, #3A1B76 100%); box-shadow: 0 0 10px #6541A1 !important; }
  #playlist-panel, #history-panel  { background : black-transparent; opacity: 0.9;  text-shadow: 1px -1px #000; } 
 #playlist-menu {    background: none;  } 
- #playlist-activate-button { background: linear-gradient(to bottom, #A11D20 0px, #560E0F 100%) !important; border-radius: 20px 0px 0px 20px !important; } 
+ #playlist-activate-button { background: linear-gradient(to bottom, #2ca11d 0px, #560E0F 100%) !important; border-radius: 20px 0px 0px 20px !important; } 
 #search {background: #000 !important;  }
 
 
