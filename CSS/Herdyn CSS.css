@@ -3,8 +3,8 @@ padding: 10px; z-index: 12; font-family: "helvetica"; font-size: 1.0em; border-r
 #ow-painel-main, #ow-painel-background { cursor: move; }
 #origemscript p { text-align: left; margin: 0 auto; width: 80px; display: inline-block; padding-right: 5px; }
 #origemscript a { font-size: 1.0em; color: #fff }
-#origemscript h3 { font-size: 20px; text-align: center; color: #F70000; }
-#origemscript h4 { font-size: 15px; text-align: right; color: #F70000; }
+#origemscript h3 { font-size: 20px; text-align: center; color: #00FF00; }
+#origemscript h4 { font-size: 15px; text-align: right; color: #00FF00; }
 #origemscript .version { font-style: italic; font-size: 0.8em; text-align: center; margin-bottom: 20px; width:100%; }
 #origemscript .disclaimer { font-style: italic; font-size: 0.7em; text-align: center; padding-top: 10px; }
 .owLinks { width: 100%; text-align: center; margin-bottom: 10px; cursor: pointer; }
