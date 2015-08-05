@@ -703,3 +703,6 @@ background-position: 9px 9px;
 .ow-helper .un::before, div[data-cid~="ow-helper"] 
 .un::before { background: url('https://i.imgur.com/H7aiAN8.png');
 }
+#chat-input { 
+  border: 3px solid rgb(165, 0, 0);
+}  
