@@ -143,7 +143,6 @@ background-color: rgba(17, 19, 23, 0.32); -webkit-animation:fadein 0.6s;  -moz-a
 .media-list .row.now-playing .actions, #playlist-menu .menu .row.selected {  background: linear-gradient(to bottom, #A11D20 0px, #560E0F 100%) !important; box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;} 
 .media-list.history .row.selected, .media-list.history .selected .actions {  background:#E01212 !important; 
 box-shadow: 0 0 10px #E01212 !important; }
-.media-list.history .score .grabs span {   color: #D87F0E; }
 #playlist-create:hover { box-shadow: 0 0 10px #186696 !important; background: linear-gradient(to bottom, #1C92D0 0px, #0E3556 100%) !important; }
 #playlist-import:hover { box-shadow: 0 0 10px #6E186D !important; background: linear-gradient(to bottom, #A91CD0 0px, #4F0E56 100%)!important; }
 #playlist-edit-button { background: linear-gradient(to bottom, #2F5286 0px, #091036 100%); } 
@@ -338,8 +337,6 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 #dj-button.is-locked .left, #dj-button.is-full .left {  box-shadow: #000 !important;  }
 
 /* Avatares */
-#user-inventory .avatars .grid .cell { border-radius: 3000px; 
-background: linear-gradient(to bottom,#12A9E0 0,#0D607E 56%,#000 73%,#39393A 100%)  !important; }
 #user-inventory .avatars .grid .cell:hover>.top, #user-avatars .my-avatars .grid .cell.selected .top {
 background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; }
 #user-menu .avatar { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
@@ -540,7 +537,7 @@ background-position: 9px 9px;
 /*  HOST */
 
 #user-panel:not(.is-none) .user > .icon-chat-host + .name,#user-lists .user > .icon-chat-host + .name,.message.from-host > .from,.emote.from-host > .from,.mention.from-host > .from {
-    color: #AC76FF !important;
+    color: #cf0000 !important;
 }
 
 .icon-chat-host,.message.from-host > .icon,.emote.from-host > .icon,.mention.from-host > .icon {
@@ -549,14 +546,14 @@ background-position: 9px 9px;
 }
 
 .icon-chat-host ~ .text > .name,.icon-chat-host ~ .from,.icon-chat-host ~ span {
-    color: #AC76FF!important;
+    color: #cf0000!important;
     
 }
 
 /*  CO-HOST */
 
 #chat-messages:not(.is-none) .user > .icon-chat-cohost + .name,#user-lists .user > .icon-chat-cohost + .name,.message.from-cohost > .from,.emote.from-cohost > .from,.mention.from-cohost > .from {
-   color: #AC76FF !important;
+   color: #cf0000 !important;
     
 }
 
@@ -567,17 +564,17 @@ background-position: 9px 9px;
 }
 
 .icon-chat-cohost ~ .text > .name,.icon-chat-cohost ~ .from,.icon-chat-cohost ~ span {
-   color: #AC76FF !important;
+   color: #cf0000 !important;
 } 
 
 /*  Manager */
 
 .icon-chat-manager ~ .text > .name,.icon-chat-manager ~ .from,.icon-chat-manager ~ span {
-    color: #AC76FF !important;
+    color: #cf0000 !important;
 }
 
 #user-panel:not(.is-none) .user > .icon-chat-manager + .name,#user-lists .user > .icon-chat-manager + .name,.message.from-manager > .from,.emote.from-manager > .from,.mention.from-manager > .from {
-    color: #AC76FF !important;
+    color: #cf0000 !important;
 }
 
 .icon-chat-manager,.message.from-manager > .icon,.emote.from-manager > .icon,.mention.from-manager > .icon {
@@ -588,7 +585,7 @@ background-position: 9px 9px;
 /*  Bouncer */
 
 #user-panel:not(.is-none) .user > .icon-chat-bouncer + .name,#user-lists .user > .icon-chat-bouncer + .name,.message.from-bouncer > .from,.emote.from-bouncer > .from,.mention.from-bouncer > .from {
-    color: #AC76FF !important;
+    color: #cf0000 !important;
 }
 
 .icon-chat-bouncer,.message.from-bouncer > .icon,.emote.from-bouncer > .icon,.mention.from-bouncer > .icon {
@@ -597,22 +594,66 @@ background-position: 9px 9px;
 }
 
 .icon-chat-bouncer ~ .text > .name,.icon-chat-bouncer ~ .from,.icon-chat-bouncer ~ span {
-    color: #AC76FF !important;
+    color: #cf0000 !important;
 }
 /* RDJ */
 
 #user-panel:not(.is-none) .user > .icon-chat-dj + .name,#user-lists .user > .icon-chat-dj + .name,.message.from-residentdj > .from,.emote.from-residentdj > .from,.mention.from-residentdj > .from {
-    color: #AC76FF !important;
+    color: #cf0000 !important;
 }
-
 .icon-chat-dj,.message.from-residentdj > .icon,.emote.from-residentdj > .icon,.mention.from-residentdj > .icon {
     background-image: url("http://i.imgur.com/cdT3nHP.png") !important;
     background-position: 0 0;
 }
 
 .icon-chat-dj ~ .text > .name,.icon-chat-dj ~ .from,.icon-chat-dj ~ span {
-    color: #AC76FF !important;
+    color: #cf0000 !important;
 }
+/*Nevím jak to nazvat*/
+
+.origem-color-cohost,
+.origem-color-manager,
+.origem-color-bouncer,
+.origem-color-dj{ 
+  color: #cf0000;
+}
+
+/*Nevím jak to nazvat #2*/
+
+#search-bar, 
+#user-lists .list-header .input-background,
+.app-right .friends .list-header .input-background,
+#user-friends .search,
+#filter-bar {
+  border: 2px solid #cf0000;
+}
+/*Úplně nádherný sexy kruh*/
+
+.thumb {
+  border: 2px solid #cf0000;
+  border-radius: 50%;
+}
+/*Sračka co se hejbe*/
+
+#user-settings .container .cap .slider .circle {
+  top: 3px;
+}
+/*Sračka co se hejbe #2*/
+
+#volume .slider .circle {
+  top: 3px;
+}
+/*Takové to označení, když to pípne*/
+
+#chat .mention.is-dj, #chat .mention.is-staff {
+  background: linear-gradient(135deg,#cf0000 0,#000000 13%,#0a0a0a 100%) !important;
+}
+/*Barva označené pro staff, když se někdo nudí nebo chce otravovat a označí je*/
+
+.is-dj .name, .is-staff .name {
+  color: #cf0000;
+}
+
 /* Yami no Haitake */
 [data-cid^="5237037-"] .msg .from .un {
     position: relative;
