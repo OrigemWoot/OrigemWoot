@@ -609,7 +609,7 @@ background-position: 9px 9px;
 .origem-color-manager,
 .origem-color-bouncer,
 .origem-color-dj{ 
-  color: #cf0000;
+  color: #cf0000 !important;
 }
 
 /*Nevím jak to nazvat #2*/
