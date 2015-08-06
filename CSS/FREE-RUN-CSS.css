@@ -570,11 +570,11 @@ background-position: 9px 9px;
 /*  Manager */
 
 .icon-chat-manager ~ .text > .name,.icon-chat-manager ~ .from,.icon-chat-manager ~ span {
-    color: #cf0000 !important;
+    color: #ff69b4 !important;
 }
 
 #user-panel:not(.is-none) .user > .icon-chat-manager + .name,#user-lists .user > .icon-chat-manager + .name,.message.from-manager > .from,.emote.from-manager > .from,.mention.from-manager > .from {
-    color: #cf0000 !important;
+    color: #ff69b4 !important;
 }
 
 .icon-chat-manager,.message.from-manager > .icon,.emote.from-manager > .icon,.mention.from-manager > .icon {
@@ -615,7 +615,7 @@ background-position: 9px 9px;
 .origem-color-manager,
 .origem-color-bouncer,
 .origem-color-dj{ 
-  color: #cf0000;
+  color: #ff69b4;
 }
 
 /*Nevím jak to nazvat #2*/
@@ -625,12 +625,12 @@ background-position: 9px 9px;
 .app-right .friends .list-header .input-background,
 #user-friends .search,
 #filter-bar {
-  border: 2px solid #cf0000;
+  border: 2px solid #ff69b4;
 }
 /*Úplně nádherný sexy kruh*/
 
 .thumb {
-  border: 2px solid #cf0000;
+  border: 2px solid #ff69b4;
   border-radius: 50%;
 }
 /*Sračka co se hejbe*/
@@ -647,12 +647,12 @@ background-position: 9px 9px;
 
 #chat .mention.is-dj, 
 #chat .mention.is-staff {
-  background: linear-gradient(135deg,#cf0000 0,#000000 13%,#0a0a0a 100%) !important;
+  background: linear-gradient(135deg,#ff69b4 0,#000000 13%,#0a0a0a 100%) !important;
 }
 /*Barva označené pro staff, když se někdo nudí nebo chce otravovat a označí je*/
 
 .is-dj .name, .is-staff .name {
-  color: #cf0000;
+  color: #ff69b4;
 }
 /*Zcucnutí*/
 
@@ -666,7 +666,7 @@ background-position: 9px 9px;
 #chat .from.staff .un,
 #chat .moderation, 
 #chat .moderation .from {
-  color: #cf0000;
+  color: #ff69b4;
 }
 
 /* Yami no Haitake */
