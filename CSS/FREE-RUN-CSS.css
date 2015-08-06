@@ -333,7 +333,7 @@ background: linear-gradient(to bottom,rgba(123, 16, 16, 0.6) 0,rgba(226, 0, 0, 0
 box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 #dj-button.is-wait, #dj-button.is-wait .left  {  box-shadow: 0 0 10px #12A9E0 !important;  }
 #dj-button.is-leave {  box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
-#dj-button.is-quit {  box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;  }
+#dj-button.is-quit, #dj-button.is-join {  box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;  }
 #dj-button.is-locked .left, #dj-button.is-full .left {  box-shadow: #000 !important;  }
 
 /* Avatares */
