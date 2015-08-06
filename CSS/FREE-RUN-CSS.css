@@ -331,7 +331,7 @@ border-radius: 8px; border-left-width: 4px; }
 #dj-button.is-quit .left, #dj-button.is-leave .left, #dj-button .left, #playlist-delete-button:hover {
 background: linear-gradient(to bottom,rgba(123, 16, 16, 0.6) 0,rgba(226, 0, 0, 0.73) 100%);
 box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
-#dj-button.is-wait, #dj-button.is-wait .left  {  box-shadow: 0 0 10px #12A9E0 !important;  }
+#dj-button.is-wait, #dj-button.is-wait .left  {  box-shadow: 0 0 10px #B20000 !important;  }
 #dj-button.is-leave {  box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 #dj-button.is-quit, #dj-button.is-join {  box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;  }
 #dj-button.is-locked .left, #dj-button.is-full .left {  box-shadow: #000 !important;  }
@@ -762,13 +762,11 @@ background-position: 9px 9px;
   box-shadow: 0 0 10px 1px #E03A3A !important;
   border: 1px;
 }
-
-#pm-close.new {
-  background: linear-gradient(to bottom,rgba(255, 255, 255, 0) 0px, #CB4646 100%);
-  box-shadow: 0 0 10px 1px #E03A3A !important;
-  border: 1px;
+#pm-close.new:hover {
+    background: transparent linear-gradient(to bottom, rgba(255, 255, 255, 0) 0px, #00C700 100%) repeat scroll 0% 0%;
+    box-shadow: 0px 0px 10px 1px #C70000 !important;
+    border: 1px none;
 }
-
 .pm-user-content.selected {
   border-radius: 5px;
   box-shadow: inset 0 0 10px 2px hsl(0, 80%, 30%) !important;
@@ -797,4 +795,26 @@ background-position: 9px 9px;
   left: 5px;
   background: rgba(136, 136, 136, 0.07);
 }
-
+ .focused {
+   box-shadow: 0px 0px 0px 1px rgba(221, 0, 0, 0) inset !important
+ }
+ prvek {
+    width: 1106px;
+}
+#search-bar, #user-lists .list-header .input-background, .app-right .friends .list-header .input-background, #user-friends .search, #filter-bar {
+    border: 2px solid #CF0000;
+}
+#search-bar, #filter-bar {
+    border-radius: 30px;
+    background: #000 none repeat scroll 0% 0%;
+}
+#filter-bar, #search-bar {
+    position: absolute;
+}
+#search-bar, 
+#user-lists .list-header .input-background, 
+.app-right .friends .list-header .input-background, 
+#user-friends .search, 
+#filter-bar {
+    box-shadow: 0px 0px 0px 1px rgba(255, 0, 0, 0) inset !important;
+}
