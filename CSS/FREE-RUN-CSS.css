@@ -748,8 +748,8 @@ background-position: 9px 9px;
   background: url('http://s29.postimg.org/ubukqe3o3/stiahnut.png');
 }
 /* Foxxiček */
-#chat .cm[data-cid^="5223615"] .un {
-  color: #fd5fee;
+#chat .cm[data-cid^="5223615-"] .un {
+  color: #ff69b4;
 }	
 .icon-site-logo {
   background: url('http://s7.postimg.org/lc2iu6n7r/image.png');
