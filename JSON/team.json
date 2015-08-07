@@ -79,7 +79,6 @@
 	"vip3" : {
 		"ids" : [
 			4311237,
-			3788214,
 			3423485,
 			4064206,
 			3989017,
@@ -145,10 +144,21 @@
 			4732821
 		],
 		"rollover" : {
-			 "classteam" : "vip7",
+			 "classteam" : "vip8",
 			 "icon" : "https://i.imgur.com/S328sSe.png",
 			 "langkey": "titlevip",
 			 "color": "#FF69E1"
+		}
+	},
+	"vip8" : {
+		"ids" : [
+			3788214
+		],
+		"rollover" : {
+			 "classteam" : "vip8",
+			 "icon" : "https://i.imgur.com/IUoJYRf.png",
+			 "langkey": "titlevip",
+			 "color": "#EEC900"
 		}
 	},
 	"spreader" : {
