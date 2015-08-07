@@ -254,38 +254,10 @@ background-repeat: no-repeat !important;}
 .ow-vip4 .bdg, div[data-cid~="ow-vip4"] .bdg { background-image: url(https://i.imgur.com/JrqEFri.png); background-size: cover; }
 */
 
-/*
-.ow-dev .un, div[data-cid~="ow-dev"] .un,
-.ow-dev-caipira .un, div[data-cid~="ow-dev-caipira"] .un,
-.ow-helper .un, div[data-cid~="ow-helper"] .un,
-.ow-spreader .un , div[data-cid~="ow-spreader"] .un,
-.ow-designer .un , div[data-cid~="ow-designer"] .un,
-.ow-vip1 .un, div[data-cid~="ow-vip1"] .un,
-.ow-vip2 .un, div[data-cid~="ow-vip2"] .un,
-.ow-vip3 .un, div[data-cid~="ow-vip3"] .un,
-.ow-vip4 .un, div[data-cid~="ow-vip4"] .un,
-.ow-vip5 .un, div[data-cid~="ow-vip5"] .un,
-.ow-vip6 .un, div[data-cid~="ow-vip6"] .un,
-.ow-vip7 .un, div[data-cid~="ow-vip7"] .un{
-*/
 div[class*="ow-"] .un{
 	margin-left: 16px;
 	position: relative;
 }
-/*
-.ow-dev .un::before, div[data-cid~="ow-dev"] .un::before,
-.ow-dev-caipira .un::before, div[data-cid~="ow-dev-caipira"] .un::before,
-.ow-helper .un::before, div[data-cid~="ow-helper"] .un::before,
-.ow-spreader .un::before, div[data-cid~="ow-spreader"] .un::before,
-.ow-designer .un::before, div[data-cid~="ow-designer"] .un::before,
-.ow-vip1 .un::before, div[data-cid~="ow-vip1"] .un::before,
-.ow-vip2 .un::before, div[data-cid~="ow-vip2"] .un::before,
-.ow-vip3 .un::before, div[data-cid~="ow-vip3"] .un::before,
-.ow-vip4 .un::before, div[data-cid~="ow-vip4"] .un::before,
-.ow-vip5 .un::before, div[data-cid~="ow-vip5"] .un::before,
-.ow-vip6 .un::before, div[data-cid~="ow-vip6"] .un::before,
-.ow-vip7 .un::before, div[data-cid~="ow-vip7"] .un::before{
-*/
 div[class*="ow-"] .un::before{
 	content: '';
 	position: absolute;
@@ -294,6 +266,7 @@ div[class*="ow-"] .un::before{
 	height: 15px; 
 	left: -18px;
 }
+
 .ow-dev .un::before, div[data-cid~="ow-dev"] .un::before{
 	background: url(https://i.imgur.com/7MHdeHw.png);
 }
@@ -330,6 +303,9 @@ div[class*="ow-"] .un::before{
 .ow-vip7 .un::before, div[data-cid~="ow-vip7"] .un::before{
 	background: url(https://i.imgur.com/S328sSe.png);
 }
+.ow-vip8 .un::before, div[data-cid~="ow-vip8"] .un::before{
+	background: url(https://i.imgur.com/IUoJYRf.png);
+}
 
 .origem-dev-badge ,
 .origem-dev-caipira-badge { background: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1) } 
@@ -342,6 +318,7 @@ div[class*="ow-"] .un::before{
 .origem-vip5-badge { background: url(https://i.imgur.com/RqihnJk.png) }
 .origem-vip6-badge { background: url(https://i.imgur.com/56V0Hph.png) }
 .origem-vip7-badge { background: url(https://i.imgur.com/D8IcEta.png) }
+.origem-vip8-badge { background: url(https://i.imgur.com/s1tzDFQ.png) }
 .origem-designer-badge { background: url(https://www.dropbox.com/s/fxz4ztvy0hz2kju/DESBADGE30px.png?raw=1) } 
 .origem-translator-badge { background: url(https://i.imgur.com/3epe8Vp.png) } 
 
