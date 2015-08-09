@@ -281,6 +281,10 @@ div[class^="pm-from-"] {
 }
 .experience .xp .bar .progress {
   background: rgba(2, 109, 228, 1);
+  border-radius: 1px 2pc;
+}
+.experience .xp .bar {
+    border-radius: 1px 2pc;
 }
 #chat .text a: hover {
   color: #0071FF;
@@ -330,7 +334,11 @@ div[class^="pm-from-"] {
   color: #016CFA;
 }
 #footer-user .info .bar .progress {
-  background: #0A65D2;
+    background: #0A65D2;
+    border-radius: 1px 2pc;
+}
+#footer-user .info .meta div.bar {
+    border-radius: 1px 2pc;
 }
 .pop-menu li:hover {
   background: #00014F;
@@ -505,7 +513,9 @@ div[class^="pm-from-"] {
   width: 286px;
   border-bottom: 1px solid #0A0A0A !important;
 }
-
+#user-inventory .avatars .grid .cell.selected .top {
+    background: linear-gradient(to bottom,#0022B7 0,#0D0D58 56%,#1a1a1a 73%,#73716d 100%);
+}
 
 
 /*     STAFF     */
