@@ -313,7 +313,7 @@
 		"tbmcz" : {
 			"title" : "TBM",
 			"background":"http://jyxo.info/uploads/81/81a4c617b10b71b52040f64547241d8079e66bbf.png",
-			"css" : "https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/CSS/TBM.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/TBM.css",
 			"overridecss" : true
 		},
 		"cz-amp-sk-all" : {
