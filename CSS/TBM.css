@@ -1,25 +1,129 @@
-#room-name {
-  color: #FF00F4;
+.origem-menu-opener {
+    width: 53px;
+    height: 52px;
 }
- 
-#room-name .bar-value  {
-    display: inline-block;
-    /* top: -10px; */
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    /* padding: 10px; */
-    border: none;
-    font: normal 18px/normal "Warnes", Helvetica, sans-serif;
-    color: rgba(255,255,255,1);
-    text-decoration: normal;
-    /*text-align: center;*/
-    -o-text-overflow: clip;
-    text-overflow: clip;
-    white-space: pre;
-    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #FF00F4  , 0 0 70px #FF00F4  , 0 0 80px #FF00F4  , 0 0 100px #FF00F4 ;
-    -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-    -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-    -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
-    transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+
+.origem-menu-icon {
+    background: url('http://i.imgur.com/mhfnRqC.png');
+    background-size: 34px;
+    background-repeat: no-repeat;
+    background-position: 9px 9px;
+    height: 100%;
+    cursor: pointer;
+}
+
+.origem-menu-heading,
+.origem-menu-submenu .origem-submenu-heading {
+    color: #16A200;
+}
+
+.owLinks:hover {
+    color: #16A200;
+}
+
+.ow-helper .un::before, div[data-cid~="ow-helper"] .un::before {
+    background: url('https://i.imgur.com/H7aiAN8.png');
+}
+
+.origem-color-cohost{ 
+  color: #D80000;
+}
+
+.origem-color-manager{ 
+  color: #DCCD00;
+}
+
+.origem-color-bouncer{ 
+  color: #0A9600;
+}
+
+.origem-color-dj{ 
+  color: #76A3FF;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    background: url('http://i.imgur.com/Wv006Jp.png');
+}
+
+#your-active-playlist > .icon-check-purple{ 
+  background: url('http://i.imgur.com/UOvY6M7.png') !important; 
+  top: 15px; 
+}
+#user-menu .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#footer-user .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#room-bar .icon-room { 
+  background-image: url('http://i.imgur.com/5CUnz01.png');  
+  top: 11px;
+  left: 6px;
+}
+#dashboard .icon-grab {  
+  background: url('http://i.imgur.com/nDwxwkR.png');  
+}
+
+.icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span {
+  color: #DCCD00 !important;
+  font-weight: bold;
+}
+.icon-chat-cohost ~ .text > .name, .icon-chat-cohost ~ .from, .icon-chat-cohost ~ span {
+  color: #D80000 !important;
+  font-weight: bold;
+}
+.icon-chat-host ~ .text > .name, .icon-chat-host ~ .from, .icon-chat-host ~ span {
+  color: #D80000 !important;
+  font-weight: bold;
+}
+.icon-chat-bouncer ~ .text > .name, .icon-chat-bouncer ~ .from, .icon-chat-bouncer ~ span {
+  color: #0A9600 !important;
+  font-weight: bold;
+}
+.icon-chat-dj ~ .text > .name, .icon-chat-dj ~ .from, .icon-chat-dj ~ span {
+  color: #76A3FF !important;
+  font-weight: bold;
+}
+
+#footer-user .buttons .button.store:hover,
+#playlist-button {
+    background: linear-gradient(to bottom,#069C00 0,#0B6300 100%);
+}
+
+
+
+
+/* Ikonky a odznaky na přání */
+
+[data-cid^="3467882-"] .badge-box .bdg {
+    background: url('http://i379.photobucket.com/albums/oo232/slotime/loading.gif')!important;
+    background-position: 0 0;
+}
+[data-cid^="3467882-"] .msg .from .un {
+	position: relative;
+	left:-1px;
+	padding-left:21px;
+	background-image: url('http://i.imgur.com/c2xEN7U.gif')!important;
+	background-repeat: no-repeat;
+	background-position: 2px center;
+	background-size: 15px auto
+}
+
+[data-cid^="4175662-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/4DQXz85.png')!important;
+    background-position: 0 0;
+}
+
+[data-cid^="5477951-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/rOt2ZJ2.png')!important;
+    background-position: 0 0;
+}
+
+[data-cid^="3585498-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/kqwUaRr.png')!important;
+    background-position: 0 0;
 }
