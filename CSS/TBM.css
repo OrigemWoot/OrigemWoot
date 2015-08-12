@@ -106,6 +106,17 @@
    margin-right: -1px;
 }
 
+#vote .crowd-response {
+    position: relative;
+    float: left;
+    margin-right: -1px;
+    width: 84px;
+    height: 61px;
+    background: #282c35;
+    text-align: center;
+    cursor: pointer;
+}
+
 #playlist-activate-button span {
     position: relative!important;
     display: inline-block;
