@@ -41,30 +41,6 @@
   color: #76A3FF;
 }
 
-.icon {
-  background: url('http://i.imgur.com/Wv006Jp.png');
-}
-
-#your-active-playlist > .icon-check-purple{ 
-  background: url('http://i.imgur.com/UOvY6M7.png') !important; 
-  top: 15px; 
-}
-#user-menu .item > .icon-history-white { 
-  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
-  top: 12px; 
-}
-#footer-user .item > .icon-history-white { 
-  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
-  top: 12px; 
-}
-#room-bar .icon-room { 
-  background-image: url('http://i.imgur.com/5CUnz01.png');  
-  top: 11px;
-  left: 6px;
-}
-#dashboard .icon-grab {  
-  background: url('http://i.imgur.com/iwhrV7i.png');  
-}
 .icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span {
   color: #DCCD00 !important;
   font-weight: bold;
