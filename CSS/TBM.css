@@ -146,8 +146,7 @@
 }
 
 .thumb {
-    border: 2px solid #16A200 !important;
-    border-radius: 50%;
+    border: #16A200;
 }
 
 .experience .xp .bar .progress {
