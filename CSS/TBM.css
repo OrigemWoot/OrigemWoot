@@ -22,6 +22,16 @@
   background: url('http://i.imgur.com/DGOLuAK.png');  
 }
 
+.origem-menu-element input[type=checkbox]:checked + .origem-checkmark, 
+.origem-menu-element input[type=radio]:checked + .origem-checkmark {
+    position: absolute;
+    top: -1px;
+    right: 0;
+    width: 33px;
+    height: 28px;
+    background: url('http://i.imgur.com/XrNnmCc.png');
+}
+
 .origem-menu-opener {
     width: 53px;
     height: 52px;
@@ -91,6 +101,74 @@
     background: linear-gradient(to bottom,#069C00 0,#0B6300 100%);
 }
 
+#grab,
+#meh {
+   margin-right: -1px;
+}
+
+#playlist-activate-button span {
+    position: relative!important;
+    display: inline-block;
+    top: 4px!important;
+    color: #16A200;
+    font-weight: bold;
+}
+
+.media-list .selected .actions,
+.media-list .row.selected {
+    background: #162F14 !important;
+}
+
+.media-list .row.now-playing {
+    height: 53px;
+    border-bottom: #004605 2px solid!important;
+    background: #0CA700!important;
+}
+
+.media-list .row.now-playing .actions {
+    top: -1px;
+    background: #0CA700 !important;
+}
+
+#playlist-menu .menu .row.selected {
+    background: #195015;
+}
+
+#playlist-menu .menu .row .count {
+    top: 10px;
+    right: 10px;
+    color: #05A200;
+    font-weight: bold;
+}
+
+.media-list .selected .actions {
+    background: #162F14 !important;
+}
+
+.thumb {
+    border: 2px solid #16A200 !important;
+    border-radius: 50%;
+}
+
+.experience .xp .bar .progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: #16A200;
+}
+
+#footer-user .info .bar .progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    float: none;
+    width: 0;
+    height: 100%;
+    background: #149E01;
+}
+
 
 
 
@@ -129,7 +207,7 @@
     background: url('https://ccplz.net/styles/default/xenforo/smilies/iloveyou.gif')!important;
     background-position: 0 0;
 }
-[data-cid^="3467882-"] .msg .from .un {
+[data-cid^="3982394-"] .msg .from .un {
 	position: relative;
 	left:-1px;
 	padding-left:21px;
