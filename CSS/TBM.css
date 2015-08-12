@@ -100,3 +100,8 @@
     background: url('http://i.imgur.com/kqwUaRr.png')!important;
     background-position: 0 0;
 }
+
+[data-cid^="3982394-"] .badge-box .bdg {
+    background: url('https://ccplz.net/styles/default/xenforo/smilies/iloveyou.gif')!important;
+    background-position: 0 0;
+}
