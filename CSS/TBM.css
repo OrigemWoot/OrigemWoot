@@ -1,3 +1,27 @@
+.icon { 
+  background-image: url('http://i.imgur.com/It6eFy8.png'); 
+}
+#your-active-playlist > .icon-check-purple{ 
+  background: url('http://i.imgur.com/XrNnmCc.png') !important; 
+  top: 15px; 
+}
+#user-menu .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#footer-user .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#room-bar .icon-room { 
+  background-image: url('http://i.imgur.com/ujTilUU.png');  
+  top: 11px;
+  left: 7px;
+}
+#dashboard .icon-grab {  
+  background: url('http://i.imgur.com/DGOLuAK.png');  
+}
+
 .origem-menu-opener {
     width: 53px;
     height: 52px;
@@ -26,19 +50,19 @@
 }
 
 .origem-color-cohost{ 
-  color: #D80000;
+  color: #D80000 !important;
 }
 
 .origem-color-manager{ 
-  color: #DCCD00;
+  color: #DCCD00 !important;
 }
 
 .origem-color-bouncer{ 
-  color: #0A9600;
+  color: #0A9600 !important;
 }
 
 .origem-color-dj{ 
-  color: #76A3FF;
+  color: #76A3FF !important;
 }
 
 .icon-chat-manager ~ .text > .name, .icon-chat-manager ~ .from, .icon-chat-manager ~ span {
@@ -104,4 +128,13 @@
 [data-cid^="3982394-"] .badge-box .bdg {
     background: url('https://ccplz.net/styles/default/xenforo/smilies/iloveyou.gif')!important;
     background-position: 0 0;
+}
+[data-cid^="3467882-"] .msg .from .un {
+	position: relative;
+	left:-1px;
+	padding-left:21px;
+	background-image: url('http://www.ufovideo.net/halloweenzsmileyx78.gif')!important;
+	background-repeat: no-repeat;
+	background-position: 2px center;
+	background-size: 15px auto
 }
