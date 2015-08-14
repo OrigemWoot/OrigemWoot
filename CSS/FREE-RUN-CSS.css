@@ -722,9 +722,19 @@
   color: #599d24; 
 }
 
-#user-rollover .meta.available { background: linear-gradient(to bottom,rgba(76, 122, 50, 0.7) 0,rgba(28, 31, 37, 1) 100%); opacity: .85; } 
-.gaming .thumb.medium, .gaming .thumb.large  { border: 2px solid #0088cb; box-shadow: 0 0 10px 5px #0088cb; }
-.gaming .thumb.small  { border: 2px solid #0088cb; }
+#user-rollover .meta.available { 
+    background: linear-gradient(to bottom,rgba(76, 122, 50, 0.7) 0,rgba(28, 31, 37, 1) 100%); opacity: .85; 
+} 
+
+.gaming .thumb.medium, 
+.gaming .thumb.large  { 
+    border: 2px solid #0088cb; box-shadow: 0 0 10px 5px #0088cb; 
+}
+
+.gaming .thumb.small  { 
+    border: 2px solid #0088cb;
+}
+
 #user-rollover .meta.gaming .status i { border: 2px solid #0088cb; box-shadow: 0 0 10px 5px #0088cb; }
 #user-rollover .meta.gaming .status span { color: #0088cb; }
 #footer-user .menu.status .item.gaming i { border: 2px solid #0088cb; box-shadow: 0 0 10px 5px #0088cb; }
@@ -743,7 +753,7 @@
 #user-rollover .meta.away { background: linear-gradient(to bottom,rgba(109, 92, 40, 0.5) 0,rgba(28, 31, 37, 1) 100%);  opacity: .85;}
 #footer-user .menu {background-color: rgba(0,0,0,0.85) !important; }
  #user-rollover .meta .joined {color: #eee;}
-/* Itens Relacionados ao mouse sobre o vídeo atual ! */
+
 
 #playback-controls .button.snooze { background: linear-gradient(to bottom,rgba(68, 68, 68, 0) 0,rgba(180, 71, 216, 0.73) 100%) !important;
 box-shadow: 0 0 10px #C41EC3 !important; }
@@ -883,11 +893,18 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 
 #user-inventory .avatars .grid .cell:hover>.top, 
 #user-avatars .my-avatars .grid .cell.selected .top {
-  background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; 
+    background: linear-gradient(to bottom,#AE1C1C 0,rgba(182, 30, 30, 0.68) 56%,rgba(0, 0, 0, 0.42) 73%,rgba(57, 57, 58, 0.75) 100%) !important; 
 }
 
-#user-menu .avatar { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
-.user-content .grid .cell:hover>.top, #user-inventory .avatars .grid .cell.selected .top { background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); }
+#user-menu .avatar { 
+    background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); 
+}
+
+.user-content .grid .cell:hover>.top, 
+#user-inventory .avatars .grid .cell.selected .top { 
+    background: linear-gradient(to bottom,#AE1C1C 0,rgba(179, 30, 31, 0.33) 56%,#000 73%,#39393A 100%); 
+}
+
 #user-menu .icon .icon-locked-grey {
     bottom: 99px;  float: right; }
 
