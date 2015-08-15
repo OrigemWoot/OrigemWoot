@@ -219,9 +219,9 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/mfe.css",
 			"overridecss" : true
 		},
-		"hitparada-borivoje" : {
-			"title" : "HVD",
-			"msg" : "Made by ҒИC ᗯᖇᗴᔕT for Hudba Všeho Druhu CZ/SK ",
+		"powerofmusic" : {
+			"title" : "POM",
+			"msg" : "Made by ҒИC ᗯᖇᗴᔕT for The Power of Music",
 			"background" : "http://i.imgur.com/hz3znV9.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Czech%20CSS.css",
 			"overridecss" : true
