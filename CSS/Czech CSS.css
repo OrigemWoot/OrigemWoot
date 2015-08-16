@@ -1588,11 +1588,11 @@ div[class^="pm-from-"] small {
 /*  CO-HOST */
 
 #chat-messages:not(.is-none) .user > .icon-chat-cohost + .name,#user-lists .user > .icon-chat-cohost + .name,.message.from-cohost > .from,.emote.from-cohost > .from,.mention.from-cohost > .from {
-    color: #00E700 !important;
+    color: #db182e !important;
 }
 
 .icon-chat-cohost ~ .text > .name,.icon-chat-cohost ~ .from,.icon-chat-cohost ~ span {
-    color: #00E700 !important;
+    color: #db182e !important;
 }
 
 /*  Manager */
