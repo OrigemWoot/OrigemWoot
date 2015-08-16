@@ -19,7 +19,7 @@
   left: 7px;
 }
 #dashboard .icon-grab {  
-  background: url('http://i.imgur.com/ZZOTAg5.png');  
+  background: url('http://i.imgur.com/DGOLuAK.png');  
 }
 
 .origem-menu-element input[type=checkbox]:checked + .origem-checkmark, 
@@ -188,9 +188,6 @@
     background: #103510;
     text-align: center;
     border-radius: 30px 0 0 30px;
-}
-.favorite.selected i {
-    background-image: url('http://i.imgur.com/ZZOTAg5.png');
 }
 
 
