@@ -182,6 +182,14 @@
 #woot.selected {
     background: #90ad2f !important;
 }
+#grab .bottom, 
+#grab.selected {
+    background: #aa74ff !important;
+}
+#meh .bottom, 
+#meh.selected {
+    background: #c42e3b !important;
+}
 #playlist-activate-button {
     right: 162px;
     padding: 0 16px 0 8px;
