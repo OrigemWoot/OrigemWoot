@@ -19,7 +19,7 @@
   left: 7px;
 }
 #dashboard .icon-grab {  
-  background: url('http://i.imgur.com/DGOLuAK.png');  
+  background: url('http://i.imgur.com/ZZOTAg5.png');  
 }
 
 .origem-menu-element input[type=checkbox]:checked + .origem-checkmark, 
@@ -182,6 +182,17 @@
 #woot.selected {
     background: #90ad2f !important;
 }
+#playlist-activate-button {
+    right: 162px;
+    padding: 0 16px 0 8px;
+    background: #103510;
+    text-align: center;
+    border-radius: 30px 0 0 30px;
+}
+.favorite.selected i {
+    background-image: url('http://i.imgur.com/ZZOTAg5.png');
+}
+
 
 
 
@@ -229,4 +240,19 @@
 	background-repeat: no-repeat;
 	background-position: 2px center;
 	background-size: 15px auto
+}
+
+div[data-cid^="3438293-"] .badge-box {
+    width:35px !important;
+    height:35px !important;
+    margin: 5px !important;
+}
+div[data-cid^="3438293-"] .badge-box i {
+    background: url('http://i.imgur.com/wIUoeZ8.png') !important;
+    width:35px !important;
+    height:35px !important;
+}
+
+div[data-cid^=" 3432002-"] .badge-box i {
+    background: url('http://i.imgur.com/HvRSdHN.png') !important;
 }
