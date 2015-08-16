@@ -157,7 +157,7 @@
 }
 
 .thumb {
-    border: #16A200;
+    border: 3px solid #16A200 !important;
 }
 
 .experience .xp .bar .progress {
