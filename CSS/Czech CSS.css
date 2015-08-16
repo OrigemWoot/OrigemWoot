@@ -1573,11 +1573,11 @@ div[class^="pm-from-"] small {
 /*  HOST */
 
 #user-panel:not(.is-none) .user > .icon-chat-host + .name,#user-lists .user > .icon-chat-host + .name,.message.from-host > .from,.emote.from-host > .from,.mention.from-host > .from {
-    color: #00cf00 !important;
+    color: #db182e !important;
 }
 
 .icon-chat-host ~ .text > .name,.icon-chat-host ~ .from,.icon-chat-host ~ span {
-    color: #00cf00 !important;
+    color: #db182e !important;
 }
 
 .icon-chat-host, .message.from-host > .icon,.emote.from-host > .icon, .mention.from-host > .icon {		
