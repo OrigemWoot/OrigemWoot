@@ -223,9 +223,13 @@
     background-position: 0 0;
 }
 
-[data-cid^="5477951-"] .badge-box .bdg {
+[data-cid^="9827407-"] .badge-box .bdg {
     background: url('https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1')!important;
     background-position: 0 0;
+}
+#chat .cm[data-cid^="9827407"] .un {
+    color: #007EF7;
+    font-weight: bolder;
 }
 
 [data-cid^="3585498-"] .badge-box .bdg {
