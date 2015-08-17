@@ -380,7 +380,7 @@
     right: 0px;
     width: 33px;
     height: 28px;
-    background: url(http://i.imgur.com/BE3MTsi.png);
+    background: url(https://i.imgur.com/BE3MTsi.png);
 }
 
 .origem-menu-element input[type=checkbox]:checked + .origem-checkmark {
@@ -389,7 +389,7 @@
     right: 0px;
     width: 33px;
     height: 28px;
-    background: url(http://i.imgur.com/BE3MTsi.png);
+    background: url(https://i.imgur.com/BE3MTsi.png);
 }
 
 .origem-menu-heading,.origem-menu-submenu .origem-submenu-heading {
@@ -500,7 +500,7 @@
 }
 
 #chat [data-cid^="4317189-"] .bdg {
-  background: url('http://i.imgur.com/SGpXMkW.png') !important;
+  background: url('https://i.imgur.com/SGpXMkW.png') !important;
   background-position: 0px 0px;
 }
 
@@ -1603,7 +1603,7 @@ div[class^="pm-from-"] small {
 }
 
 .icon-chat-host, .message.from-host > .icon,.emote.from-host > .icon, .mention.from-host > .icon {		
-    background-image: url('http://i.imgur.com/Q0cVbpD.png') !important;		
+    background-image: url('https://i.imgur.com/Q0cVbpD.png') !important;		
     background-position: center;		
 }
 
@@ -1618,7 +1618,7 @@ div[class^="pm-from-"] small {
 }
 
 .icon-chat-cohost, .message.from-cohost > .icon,.emote.from-cohost > .icon, .mention.from-cohost > .icon {		
-    background-image: url('http://i.imgur.com/Q0cVbpD.png') !important;		
+    background-image: url('https://i.imgur.com/Q0cVbpD.png') !important;		
     background-position: center;		
 }
 
@@ -1631,14 +1631,6 @@ div[class^="pm-from-"] small {
 #user-panel:not(.is-none) .user > .icon-chat-manager + .name,#user-lists .user > .icon-chat-manager + .name,.message.from-manager > .from,.emote.from-manager > .from,.mention.from-manager > .from {
     color: #00a100 !important;
 }
-
-/*
-.icon-chat-manager,.message.from-manager > .icon,.emote.from-manager > .icon,.mention.from-manager > .icon {
-    background-image: url("https://i.imgur.com/Etxov1v.png") !important;
-    background-position: 0 0;
-}
-
-*/
 
 /*  Bouncer */
 
@@ -2263,7 +2255,7 @@ body: {
 }
 
 .icon {
-    background-image: url('http://i.imgur.com/hSjxFXM.png');
+    background-image: url('https://i.imgur.com/hSjxFXM.png');
 }
 
 .origem-menu-icon {
@@ -2296,7 +2288,7 @@ body: {
 }
 
 .favorite.selected i {
-    background-image: url('http://i.imgur.com/OyRGyrm.png');
+    background-image: url('https://i.imgur.com/OyRGyrm.png');
     background-repeat: no-repeat;
     background-position: center;
 }
