@@ -59,6 +59,10 @@
     background: url('https://i.imgur.com/H7aiAN8.png');
 }
 
+.origem-color-host{ 
+  color: #D80000 !important;
+}
+
 .origem-color-cohost{ 
   color: #D80000 !important;
 }
