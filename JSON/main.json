@@ -222,13 +222,13 @@
 		"powerofmusic" : {
 			"title" : "POWER",
 			"msg" : "Made by ҒИC ᗯᖇᗴᔕT for The Power of Music",
-			"background" : "http://i.imgur.com/dgGszke.png",
+			"background" : "https://i.imgur.com/dgGszke.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Czech%20CSS.css",
 			"overridecss" : true
 		},
 		"m-f-e": {
 			"title": "ΜFΣ",
-			"background": "http://i.imgur.com/2IX8D3q.jpg",
+			"background": "https://i.imgur.com/2IX8D3q.jpg",
 			"css": "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/mfe.css",
 			"overridecss": true
 		},
@@ -268,7 +268,7 @@
 			"background" : "https://i.imgur.com/fLYWygq.jpg"
 		},
 		"rock-de-garagem" : {
-			"background" : "http://i.imgur.com/XVvPp2w.jpg",
+			"background" : "https://i.imgur.com/XVvPp2w.jpg",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"overridecss" : true
 		},
@@ -357,7 +357,7 @@
 		"herdyn" : {
 			"title" : "Herdyn",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Herdyn%20CSS.css",
-			"background" : "http://i.imgur.com/8jxYWeQ.jpg",
+			"background" : "https://i.imgur.com/8jxYWeQ.jpg",
 			"overridecss" : true
 		},
 		"only-chillout" : {
