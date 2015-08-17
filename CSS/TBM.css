@@ -264,4 +264,10 @@ div[data-cid^="3438293-"] .badge-box i {
 
 div[data-cid^="3432002-"] .badge-box i {
     background: url('http://i.imgur.com/HvRSdHN.png') !important;
+    background-position: 0 0;
+}
+
+div[data-cid^="3375791-"] .badge-box i {
+    background: url('http://i.imgur.com/zZqmtJ4.png') !important;
+    background-position: 0 0;
 }
