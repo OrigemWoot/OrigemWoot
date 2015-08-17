@@ -1109,6 +1109,7 @@
 
 #dialog-user-role .role-menu {
     background: #202020;
+    cursor: pointer;
 }
 
 #dialog-user-role .role-menu .menu li {
