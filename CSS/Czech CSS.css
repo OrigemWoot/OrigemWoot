@@ -1081,18 +1081,30 @@
 }
 
 .dialog-frame .button.cancel:hover {
-    background: #191919;
+    background: #202020;
     color: #FFFFFF;
 }
 
 .dialog-frame .button.submit {
-    background: #282c35;
+    background: #202020;
     color: #FFFFFF;
 }
 
 .dialog-frame .button.submit:hover {
     background: #191919;
     color: #FFFFFF;
+}
+
+.dialog-body {
+    background: #191919;
+}
+
+.dialog-frame {
+    background: #191919;
+}
+
+.name {
+    color: #FFF;
 }
 
 /* PM window */
