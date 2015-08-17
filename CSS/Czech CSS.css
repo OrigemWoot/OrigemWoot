@@ -1107,6 +1107,15 @@
     color: #FFF;
 }
 
+#dialog-user-role .role-menu {
+    background: #202020;
+}
+
+#dialog-user-role .role-menu .menu li {
+    background: #202020;
+    border-top: 1px solid #000000;
+}
+
 /* PM window */
 
 #pm-main {
