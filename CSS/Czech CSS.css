@@ -936,6 +936,10 @@
     background: #191919;
 }
 
+.user-content.communities .grid .cell {
+    background: #191919;
+}
+
 .user-content .grid .cell .top {
     background: #191919;
 }
