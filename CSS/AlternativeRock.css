@@ -41,3 +41,7 @@
 .icon-chat-dj ~ .text > .name,.icon-chat-dj ~ .from,.icon-chat-dj ~ span {
     color: #2175d9 !important;
 }
+
+.bar-value {
+    color: #2175d9;
+}
