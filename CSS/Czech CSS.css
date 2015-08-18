@@ -392,6 +392,10 @@
     background: url(https://i.imgur.com/BE3MTsi.png);
 }
 
+.origem-menu-element {
+    border-bottom: 5px solid #191919;
+}
+
 .origem-menu-heading,.origem-menu-submenu .origem-submenu-heading {
     color: #0AFF0A !important;
 }
