@@ -48,6 +48,7 @@
 
 .origem-menu-icon {
     background: url('http://i.imgur.com/x3SebJi.png');
+    background-repeat: no-repeat;
 }
 
 #playlist-button {
