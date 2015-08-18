@@ -241,7 +241,9 @@
 			"title" : "NSCs"
 		},
 		"alternative-rock-official" : {
-			"background" : "https://i.imgur.com/SE4KFST.jpg"
+			"background" : "https://i.imgur.com/SE4KFST.jpg",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/AlternativeRock.css",
+			"overridecss" : true
 		},
 		"assis" : {
 			"title" : "Assis",
