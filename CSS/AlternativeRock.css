@@ -53,3 +53,19 @@
 #playlist-button {
     background: #202020;
 }
+
+.dark-label {
+    color: #2175d9;
+}
+
+#room-host {
+    color: #2175d9;
+}
+
+#now-playing-dj {
+    color: #2175d9;
+}
+
+#dj-button.is-leave .left, #dj-button.is-quit .left {
+    background: #202020;
+}
