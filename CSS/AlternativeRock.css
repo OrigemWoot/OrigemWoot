@@ -69,3 +69,326 @@
 #dj-button.is-leave .left, #dj-button.is-quit .left {
     background: #202020;
 }
+
+/* private chat */
+
+#pm-main {
+    position: absolute;
+    right: 350px;
+    top: 55px;
+    width: 450px;
+}
+
+#pm-content {
+    position: relative;
+    width: 450px;
+    height: 400px;
+    z-index: 16;
+    background: #000000;
+    border-radius: 10px;
+}
+
+#pm-users-container {
+    top: 50px;
+    width: 165px;
+    height: 320px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: absolute;
+    left: 5px;
+    background: #191919;
+}
+
+#pm-users-options .pm-remove-users,#pm-users-options #pm-status-change {
+    display: inline-block;
+}
+
+#pm-users-options #pm-status-change {
+    position: relative;
+    top: -13px;
+    left: 5px;
+}
+
+.pm-user-content {
+    width: auto;
+    height: 22px;
+    background: #202020;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-radius: 0px;
+    cursor: pointer;
+    color: #2175d9;
+}
+
+.pm-user-content.selected {
+  border-radius: 0px;
+  box-shadow: none;
+  background: #202020 !important;
+  border: 1px solid #2175d9;
+}
+
+.pm-user-content.new {
+    background-color: #4b0000 !important;
+}
+
+.pm-user-content:nth-child(2n+1) {
+    background: #202020;
+}
+
+#pm-msg-content {
+    position: absolute;
+    top: 50px;
+    left: 175px;
+    width: 270px;
+    height: 325px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#pm-msg-content a {
+    color: #00A100;
+}
+
+div[class^="pm-from-"] {
+    width: 245px;
+    word-wrap: break-word;
+    padding-left: 5px;
+    margin-bottom: 2px;
+    margin-right: 10px;
+    background: #202020;
+    border-radius: 0px 10px 10px 10px;
+    color: #c0c0c0;
+}
+
+.pm-me {
+    width: 240px;
+    word-wrap: break-word;
+    color: #fff;
+    text-align: left;
+    padding-left: 5px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    background: #202020;
+    border-radius: 10px 10px 0px 10px;
+}
+
+.pm-me small {
+    color: #aaa;
+}
+
+div[class^="pm-from-"] small {
+    color: #aaa;
+}
+
+.pm-system {
+    width: auto;
+    word-wrap: break-word;
+    background-color: #FF0000;
+}
+
+#pm-main input {
+    border: none;
+    padding: 3px;
+    background: #202020;
+    box-shadow: inset 0 0 0 1px hsl(0,0%,20%); 
+    color: #aaa;
+    border-radius: 7px;
+}
+
+#pm-input-field {
+    top: 374px;
+    left: 175px;
+    width: 265px;
+    position: absolute;
+    color: #c0c0c0;
+    border-radius: 7px;
+    background: #202020;
+}
+
+#pm-input-user {
+    top: 321px;
+    position: relative;
+    width: 157px;
+    left: 5px;
+    color: #c0c0c0;
+    border-radius: 7px;
+    background: #202020;
+}
+
+#pm-close {
+    top: 0px;
+    position: relative;
+    right: 0px;
+    float: right;
+    z-index: 17;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #202020;
+    box-shadow: none;
+    padding: 3px;
+    border: 1px solid #2175d9;
+}
+
+#pm-close:hover {
+    background: #2175d9;
+    box-shadow: none;
+    border: 1px solid #2175d9;
+}
+
+#pm-close.new {
+    background: linear-gradient(hsl(30, 100%, 30%), hsl(30, 100%, 20%));
+    box-shadow: 0 0 10px 1px hsl(30, 100%, 30%);
+    border: 1px outset hsl(30, 100%, 30%);
+}
+
+#pm-close.new:hover {
+    background: linear-gradient(hsl(30, 100%, 40%), hsl(30, 100%, 30%));
+    box-shadow: 0 0 10px 1px hsl(30, 100%, 40%);
+    border: 1px outset hsl(30, 100%, 40%);
+}
+
+#pm-user-search {
+    width: 165px;
+    height: 190px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: hsl(220, 10%, 10%) !important;
+    position: absolute;
+    left: 5px;
+    top: 185px;
+    border-radius: 5px;
+}
+
+#pm-user-search div:nth-child(2n+1) {
+    background-color: hsl(220, 10%, 20%);
+}
+
+.user-search-found {
+    cursor: pointer;
+}
+
+.pm-user-close {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    cursor: pointer;
+}
+
+#pm-msg-options {
+    position: absolute;
+    left: 175px;
+    top: 20px;
+}
+
+.pm-msg-username {
+    width: 90px;
+    background: #202020;
+    box-shadow: none;
+    border-radius: 0px;
+    padding: 3px;
+    font-weight: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.pm-msg-usericon {
+    background-image: url('https://i.imgur.com/RE1eerj.png');
+    width: 30px;
+    height: 30px;
+}
+
+.pm-msg-clear {
+    top: 0px;
+    position: absolute;
+    left: 110px;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    background-image: url('https://i.imgur.com/rZYMvnX.png');
+}
+
+.pm-user-remove {
+    position: absolute;
+    top: 0px;
+    left: 150px;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    background-image: url('https://i.imgur.com/eOiy9Ws.png');
+    background-size: 26px 26px;
+    background-repeat: no-repeat;
+}
+
+.pm-remove-users {
+    position: relative;
+    left: 8px;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    background-image: url('https://i.imgur.com/eOiy9Ws.png');
+    background-size: 26px 26px;
+    background-repeat: no-repeat;
+}
+
+.pm-user-mute {
+    position: absolute;
+    left: 187px;
+    top: 0px;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+
+.pm-user-mute.mute {
+    background-image: url('https://i.imgur.com/gUnMXI9.png');
+}
+
+.pm-user-mute.unmute {
+    background-image: url('https://i.imgur.com/T4LOVW4.png');
+}
+
+.pm-status-online,.pm-status-afk,.pm-status-busy,.pm-status-offline {
+    display: inline-block;
+    vertical-align: top;
+    background-image: none !important;
+    border-radius: 10px;
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    margin-right: 2px;
+}
+
+.pm-status-online {
+    background: radial-gradient(hsl(120, 100%, 50%), hsl(120, 100%, 40%)) !important;
+    box-shadow: 0 0 10px hsl(120, 100%, 50%);
+}
+
+.pm-status-afk {
+    background: radial-gradient(hsl(12, 100%, 50%), hsl(12, 100%, 40%)) !important;
+    box-shadow: 0 0 10px hsl(12, 100%, 50%);
+}
+
+.pm-status-busy {
+    background: radial-gradient(hsl(0, 80%, 50%), hsl(0, 80%, 40%)) !important;
+    box-shadow: 0 0 10px hsl(0, 80%, 50%);
+}
+
+.pm-status-offline {
+    background: radial-gradient(hsl(0, 0%, 90%), hsl(0, 0%, 80%)) !important;
+}
+
+.nr {
+    color: #2175d9;
+    font-weight: bold;
+    font-size: 9px;
+    border-radius: 10px;
+    margin-right: 3px;
+    padding: 0 4px;
+    background: #191919;
+    box-shadow: none;
+    position: relative;
+    top: -3px;
+}
