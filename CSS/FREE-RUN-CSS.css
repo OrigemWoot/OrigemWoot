@@ -586,6 +586,10 @@
   box-shadow: 0 0 15px #fff !important; 
 }
 
+#footer {
+	background: #000;
+}
+
 .dark-label {
   color: #fff;
 }
