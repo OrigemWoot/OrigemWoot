@@ -694,6 +694,14 @@
   background-color: rgba(0, 0, 0, 0.89) !important;  
 }
 
+#waitlist .list {
+	background: #000;
+}
+
+#waitlist .list .user, .app-right .friends, .app-right .friends.has-requests .header, #chat-header {
+	background: #000;
+}
+
 .communities .grid .cell {
   border-radius: 30px; 
 }
