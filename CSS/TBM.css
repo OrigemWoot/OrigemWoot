@@ -235,6 +235,13 @@
     color: #00c7ff;
     font-weight: bolder;
 }
+#chat-input-field, 
+#chat-messages {
+    font-family: osifont,sans-serif;
+}
+
+
+/* Blbosti na přání*/
 
 [data-cid^="3585498-"] .badge-box .bdg {
     background: url('http://i.imgur.com/kqwUaRr.png')!important;
