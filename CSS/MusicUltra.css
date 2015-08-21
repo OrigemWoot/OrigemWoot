@@ -97,3 +97,7 @@
 #meh .bottom, #meh.selected {
   background: #a50000;
 }
+
+#chat .message:nth-child(2n+1) {
+  background-color: #000000;
+}
