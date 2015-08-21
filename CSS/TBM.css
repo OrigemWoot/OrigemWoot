@@ -222,15 +222,6 @@
 	background-size: 15px auto
 }
 
-[data-cid^="4175662-"] .badge-box .bdg {
-    background: url('http://i.imgur.com/4DQXz85.png')!important;
-    background-position: 0 0;
-}
-
-[data-cid^="9827407-"] .badge-box .bdg {
-    background: url('https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1')!important;
-    background-position: 0 0;
-}
 #chat .cm[data-cid^="9827407"] .un {
     color: #00c7ff;
     font-weight: bolder;
@@ -243,6 +234,16 @@
 
 /* Blbosti na přání*/
 
+[data-cid^="4175662-"] .badge-box .bdg {
+    background: url('http://i.imgur.com/TsUHlqO.png')!important;
+    background-position: 0 0;
+}
+
+[data-cid^="9827407-"] .badge-box .bdg {
+    background: url('https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1')!important;
+    background-position: 0 0;
+}
+
 [data-cid^="3585498-"] .badge-box .bdg {
     background: url('http://i.imgur.com/kqwUaRr.png')!important;
     background-position: 0 0;
@@ -252,6 +253,7 @@
     background: url('https://ccplz.net/styles/default/xenforo/smilies/iloveyou.gif')!important;
     background-position: 0 0;
 }
+
 [data-cid^="3982394-"] .msg .from .un {
 	position: relative;
 	left:-1px;
@@ -267,6 +269,7 @@ div[data-cid^="3438293-"] .badge-box {
     height:35px !important;
     margin: 5px !important;
 }
+
 div[data-cid^="3438293-"] .badge-box i {
     background: url('http://i.imgur.com/wIUoeZ8.png') !important;
     width:35px !important;
@@ -282,14 +285,17 @@ div[data-cid^="3375791-"] .badge-box i {
     background: url('http://i.imgur.com/zZqmtJ4.png') !important;
     background-position: 0 0;
 }
+
 div[data-cid^="3976272-"] .badge-box i {
     background: url('http://i.imgur.com/6dylK4Q.png') !important; 
     background-position: 0 0;
 }
+
 div[data-cid^="3682605-"] .badge-box i {
     background: url('http://i.imgur.com/AjcGpYU.png') !important; 
     background-position: 0 0;
 }
+
 div[data-cid^="5976562-"] .badge-box i {
     background: url('http://i.imgur.com/uBTHjHh.png') !important; 
     background-position: 0 0;
