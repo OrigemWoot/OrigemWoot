@@ -1747,9 +1747,7 @@ div[class^="pm-from-"] small {
     -moz-transition: 100ms linear 50ms;
     -o-transition: 100ms linear 50ms;
     transition: 100ms linear 50ms;
-    border-left: #ac76ff 4px solid;
     background: rgba(88, 1, 88, 0.79);
-    border-right: #ac76ff 4px solid;
     border-radius: 12px;
     -webkit-box-shadow: inset 0 0 30px rgb(173, 0, 255);
     -moz-box-shadow: inset 0 0 30px rgb(173, 0, 255);
