@@ -1,1 +1,24 @@
+#footer {
+  background: #000000;
+}
 
+.app-header, .in-room, #room-info .edit {
+  background: #000000;
+}
+
+#playlist-button {
+  background: #0d9600;
+}
+
+.icon {
+    background-image: url('https://i.imgur.com/hSjxFXM.png');
+}
+
+.origem-menu-icon {
+    background: url('https://i.imgur.com/7Lf7lZG.png');
+    background-size: 34px;
+    background-repeat: no-repeat;
+    background-position: 9px 9px;
+    height: 100%;
+    cursor: pointer;
+}
