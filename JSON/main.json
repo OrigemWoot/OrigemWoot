@@ -389,6 +389,11 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
 		},
+		"music-ultra" : {
+			"title" : "Ultra",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/MusicUltra.css"
+			"overridecss" : true
+		},
 		"yahoo-musics" : {
 			"title" : "Grunge",
 			"msg" : "Bem Vindo(a) a sala Grunge, Metal Rock's e obrigado por usar o nosso GrungeWoot.",
@@ -400,11 +405,6 @@
 			"msg" : "Bem Vindo(a) a Club EDM Brazil.",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
-		},
-		"music-ultra" : {
-			"title" : "Ultra",
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/MusicUltra.css"
-			"overridecss" : true
-		},
+		}
 	}
 }
