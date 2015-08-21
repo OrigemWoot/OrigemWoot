@@ -400,6 +400,11 @@
 			"msg" : "Bem Vindo(a) a Club EDM Brazil.",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
+		},
+		"music-ultra" : {
+			"title" : "Ultra",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/MusicUltra.css"
+			"overridecss" : true
 		}
 	}
 }
