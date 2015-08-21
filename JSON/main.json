@@ -237,6 +237,11 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/HJV.css",
 			"overridecss" : true
 		},
+		"music-ultra" : {
+			"title" : "Ultra",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/MusicUltra.css",
+			"overridecss" : true
+		},
 		"nejlep%C5%A1%C3%AD-songy-cz-i-sk" : {
 			"title" : "NSCs"
 		},
