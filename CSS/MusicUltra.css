@@ -19,6 +19,45 @@
     background-size: 34px;
     background-repeat: no-repeat;
     background-position: 9px 9px;
+    background-color: #000000;
     height: 100%;
     cursor: pointer;
+}
+
+#app-menu .button {
+  background-color: #000000;
+}
+
+#history-button {
+  background-color: #000000;
+}
+
+#chat .msg, #chat-messages {
+  background-color: #000000;
+}
+
+.origem-menu-heading {
+  color: #00FF00;
+}
+
+.origem-menu-submenu .origem-submenu-heading {
+  color: #00FF00;
+}
+
+.origem-menu-element input[type=radio]:checked + .origem-checkmark {
+    position: absolute;
+    top: -1px;
+    right: 0px;
+    width: 33px;
+    height: 28px;
+    background: url(https://i.imgur.com/BE3MTsi.png);
+}
+
+.origem-menu-element input[type=checkbox]:checked + .origem-checkmark {
+    position: absolute;
+    top: -1px;
+    right: 0px;
+    width: 33px;
+    height: 28px;
+    background: url(https://i.imgur.com/BE3MTsi.png);
 }
