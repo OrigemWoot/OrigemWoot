@@ -1888,13 +1888,18 @@ div[class^="pm-from-"] small {
 }
 
 .media-list .row.now-playing {
-    background: rgba(253, 6, 6, 0.48) !important;
+    background: rgba(0, 255, 0, 0.32) !important;
     border-bottom: none;
     border-radius: 10px;
-    border-left: red 4px solid;
-    -webkit-box-shadow: inset 0 0 30px rgba(255, 0, 0, 1);
-    -moz-box-shadow: inset 0 0 30px rgba(255, 0, 0, 1);
-    box-shadow: inset 0 0 30px rgba(255, 0, 0, 1);
+    border-left: lime 4px solid;
+    -webkit-transition: 100ms linear 50ms;
+    -moz-transition: 100ms linear 50ms;
+    -o-transition: 100ms linear 50ms;
+    transition: 100ms linear 50ms;
+    border-left: lime 4px solid;
+    -webkit-box-shadow: inset 0 0 30px rgba(51, 255, 0, 1);
+    -moz-box-shadow: inset 0 0 30px rgba(51, 255, 0, 1);
+    box-shadow: inset 0 0 30px rgba(51, 255, 0, 1);
 }
 
 .media-list .row.now-playing .actions {
@@ -2189,7 +2194,7 @@ div[class^="pm-from-"] small {
     -webkit-box-shadow: inset 0 0 30px rgba(0, 69, 0, 1);
     -moz-box-shadow: inset 0 0 30px rgba(0, 69, 0, 1);
     box-shadow: inset 0 0 30px rgba(0, 69, 0, 1);
-    padding-top: 15px
+    padding-top: 15px;
     padding-bottom: 15px;
 }
 
