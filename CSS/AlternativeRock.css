@@ -1,5 +1,5 @@
 .icon {
-    background-image: url('http://i.imgur.com/q33sDvR.png');
+    background-image: url('http://i.imgur.com/014v4an.png');
 }
 
 .icon-chat-manager ~ .text > .name,.icon-chat-manager ~ .from,.icon-chat-manager ~ span {
@@ -448,4 +448,8 @@ div[class^="pm-from-"] small {
 
 .experience .xp .bar .progress {
     background: #045577
+}
+
+#footer-user .buttons .button.store:hover {
+    background: #323742;
 }
