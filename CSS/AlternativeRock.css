@@ -397,3 +397,19 @@ div[class^="pm-from-"] small {
     position: relative;
     top: -3px;
 }
+
+.media-list .row.selected {
+    background: rgba(33, 117, 217, 0.37);
+}
+
+.media-list .selected .actions {
+    background: rgba(33, 117, 217, 0.37);
+}
+
+#playlist-menu .menu .row.selected {
+    background: rgba(33, 117, 217, 0.37);
+}
+
+#playlist-menu .menu .row .count {
+    color: white;
+}
