@@ -440,6 +440,11 @@ div[class^="pm-from-"] small {
 #playlist-activate-button span {
     color: white;
 }
+
 #user-menu .item.selected {
     background: rgba(33, 117, 217, 0.37)
-    }
+}
+
+.experience .xp .bar .progress {
+    background: #045577
+}
