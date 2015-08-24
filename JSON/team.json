@@ -154,13 +154,23 @@
 	},
 	"vip8" : {
 		"ids" : [
-			3788214,
+			3788214
+		],
+		"rollover" : {
+			 "classteam" : "vip8",
+			 "icon" : "https://i.imgur.com/FiX5ifr.gif",
+			 "langkey": "titlevip",
+			 "color": "#EEC900"
+		}
+	},
+	"vip9" : {
+		"ids" : [
 			5306861,
 			8826756
 		],
 		"rollover" : {
 			 "classteam" : "vip8",
-			 "icon" : "https://i.imgur.com/FiX5ifr.gif",
+			 "icon" : "http://i.imgur.com/9n3RBYG.gif",
 			 "langkey": "titlevip",
 			 "color": "#EEC900"
 		}
