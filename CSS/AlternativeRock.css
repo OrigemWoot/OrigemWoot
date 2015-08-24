@@ -424,3 +424,7 @@ div[class^="pm-from-"] small {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+#footer-user .info .bar .progress {
+    background: #045577;
+}
