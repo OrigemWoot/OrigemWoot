@@ -1788,13 +1788,12 @@ div[class^="pm-from-"] small {
 #chat .emote {
     color: #00E700;
     background-color: rgba(0, 69, 0, 0.29) !important;
-    border-left: green 4px solid;
-    border-right: green 4px solid;
     border-radius: 12px;
     -webkit-box-shadow: inset 0 0 30px rgba(0, 69, 0, 1);
     -moz-box-shadow: inset 0 0 30px rgba(0, 69, 0, 1);
     box-shadow: inset 0 0 30px rgba(0, 69, 0, 1);
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #chat .message:nth-child(2n+1),#chat .mention:nth-child(2n+1),#chat .skip:nth-child(2n+1),#chat .moderation:nth-child(2n+1),#chat .emote:nth-child(2n+1),#chat .update:nth-child(2n+1),#chat .welcome:nth-child(2n+1) #chat .emote,#chat .mention,#chat .message,#chat .moderation,#chat .skip,#chat .system,#chat .update,#chat .welcome {
