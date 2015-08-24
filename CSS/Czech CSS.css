@@ -1117,6 +1117,16 @@
     border-top: 1px solid #000000;
 }
 
+.dialog.destructive .button.submit {
+    background: #202020 !important;
+    color: white;
+}
+
+.dialog.destructive .button.submit:hover {
+    background: #191919;
+    color: white;
+}
+
 /* PM window */
 
 #pm-main {
