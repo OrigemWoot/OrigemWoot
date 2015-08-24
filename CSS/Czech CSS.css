@@ -1080,12 +1080,12 @@
 /* staff menu */
 
 .dialog-frame .button.cancel {
-    background: #282c35;
+    background: #202020;
     color: #FFFFFF;
 }
 
 .dialog-frame .button.cancel:hover {
-    background: #202020;
+    background: #191919;
     color: #FFFFFF;
 }
 
