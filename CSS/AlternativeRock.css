@@ -427,6 +427,7 @@ div[class^="pm-from-"] small {
 
 #footer-user .info .bar .progress {
     background: #045577;
+    box-shadow: 0 0 15px #045577 !important
 }
 
 .tab-menu button.selected {
