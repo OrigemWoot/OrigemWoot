@@ -1332,7 +1332,7 @@ div[class^="pm-from-"] small {
     height: 190px;
     overflow-y: auto;
     overflow-x: hidden;
-    background-color: hsl(220, 10%, 10%) !important;
+    background-color: #252525 !important;
     position: absolute;
     left: 5px;
     top: 185px;
@@ -1340,7 +1340,7 @@ div[class^="pm-from-"] small {
 }
 
 #pm-user-search div:nth-child(2n+1) {
-    background-color: hsl(220, 10%, 20%);
+    background-color: #252525
 }
 
 .user-search-found {
