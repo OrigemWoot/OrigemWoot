@@ -428,3 +428,15 @@ div[class^="pm-from-"] small {
 #footer-user .info .bar .progress {
     background: #045577;
 }
+
+.tab-menu button.selected {
+    background: #164E90;
+}
+
+#playlist-activate-button {
+    background: rgba(124, 124, 124, 0.15);
+}
+
+#playlist-activate-button span {
+    color: white;
+}
