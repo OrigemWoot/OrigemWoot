@@ -2,6 +2,10 @@
     background-image: url('http://i.imgur.com/014v4an.png');
 }
 
+#user-lists .group.host ~ .user, #user-lists .group.manager ~ .user, #user-lists .group.bouncer ~ .user, #user-lists .group.dj ~ .user {
+    color: #6093C6 !important;
+}
+
 .icon-chat-manager ~ .text > .name,.icon-chat-manager ~ .from,.icon-chat-manager ~ span {
     color: #6093C6 !important;
 }
