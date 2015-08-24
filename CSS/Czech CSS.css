@@ -2362,3 +2362,6 @@ body: {
 #playlist-menu .menu .row .count {
     color: white;
 }
+.ow-vip3 .un::before, div[data-cid~="ow-vip3"] .un::before {
+    background: url(https://i.imgur.com/gEVo6kl.png);
+}
