@@ -2458,4 +2458,20 @@
          "height":"35px"
       }
   }
+  "Music" : {
+     "afrojack":{
+        "url":"http://i.imgur.com/ZTL9rtk.png",
+        "width":"75px",
+        "height":"12px"
+     },
+     "arminvanbuuren":{
+        "url":"http://i.imgur.com/1gi73aE.png",
+        "width":"74px",
+        "height":"12px"
+     },
+     "avicii":{
+        "url":"http://i.imgur.com/Y7jwkMz.png"
+        "width":"75px",
+        "heigth":"34px"
+     },
 }
