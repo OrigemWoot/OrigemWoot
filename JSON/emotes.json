@@ -2488,6 +2488,31 @@
          "url":"http://i.imgur.com/pM3id2o.png",
          "width":"48px",
          "height":"35px"
+      },
+      "dondiablo":{
+         "url":"http://i.imgur.com/ks45L1M.png",
+         "width":"75px",
+         "height":"31px"
+      },
+      "edmcity":{
+         "url":"http://i.imgur.com/xeppKAf.png",
+         "width":"75px",
+         "height":"33px"
+      },
+      "hardwell":{
+         "url":"http://i.imgur.com/vbovXXJ.png",
+         "width":"74px",
+         "height":"15px"
+      },
+      "kdrew":{
+         "url":"http://i.imgur.com/aNq3yFr.png",
+         "width":"75px",
+         "height":"18px"
+      },
+      "knifeparty":{
+         "url":"http://i.imgur.com/XTiGAbN.png",
+         "width":"36px",
+         "height":"35px"
       }
   }
 }
