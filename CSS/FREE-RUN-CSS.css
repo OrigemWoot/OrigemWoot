@@ -443,7 +443,6 @@
   background: linear-gradient(to right,rgba(255, 118, 118, 0.05) 0,rgba(255, 0, 0, 0.49) 100%) !important;
   -webkit-transition: 200ms linear 0s;
   -moz-transition: 200ms linear 0s; -o-transition: 200ms linear 0s; transition: 300ms linear 0,1s; outline: 0 none;
-  text-shadow: -1px 1px 8px #DA0111, 1px -1px 8px #DA0153; 
 }
 
 #user-rollover .actions .action:hover {  
@@ -982,8 +981,8 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 }
 
 .pop-menu li:hover { 
-  background: #F70000 !important; 
-  box-shadow: 0 0 15px #F70000 !important; 
+  background: rgba(247, 0, 0, 0.2) !important; 
+  box-shadow: 0 0 15px rgba(247, 0, 0, 0.2) !important; 
 }
 
 .pop-menu { 
@@ -1528,4 +1527,8 @@ background-position: 9px 9px;
 #chat [data-cid^="5052784-"] .bdg {
   background: url('http://i.imgur.com/G5IOw5n.png') !important;
   background-position: 0px 0px;
+}
+
+#user-lists .group.host ~ .user, #user-lists .group.manager ~ .user, #user-lists .group.bouncer ~ .user, #user-lists .group.dj ~ .user {
+	color: #cf0000;
 }
