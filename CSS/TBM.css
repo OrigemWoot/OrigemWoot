@@ -230,6 +230,20 @@
 #chat-messages {
     font-family: osifont,sans-serif;
 }
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.62) !important;
+    border-radius: 10px !important;
+}
+Pseudo ::-webkit-scrollbar element
+::-webkit-scrollbar {
+    width: 13px !important;
+    background: rgba(0, 0, 0, 0.72) !important;
+}
+Pseudo ::-webkit-scrollbar-thumb element
+::-webkit-scrollbar-thumb {
+    border-radius: 10px !important;
+    box-shadow: inset 0 0 15px rgb(12, 132, 2) !important;
+}
 
 
 /* Blbosti na přání*/
