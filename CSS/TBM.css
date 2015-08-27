@@ -314,12 +314,3 @@ div[data-cid^="5976562-"] .badge-box i {
     background: url('http://i.imgur.com/uBTHjHh.png') !important; 
     background-position: 0 0;
 }
-[data-cid^="4672580-"] .msg .from .un {
-	position: relative;
-	left:-1px;
-	padding-left:21px;
-	background-image: url('http://i.imgur.com/s7YTm3A.gif')!important;
-	background-repeat: no-repeat;
-	background-position: 2px center;
-	background-size: 15px auto
-}
