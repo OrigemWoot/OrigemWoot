@@ -176,6 +176,17 @@
 			 "color": "#00a100"
 		}
 	},
+	"vip10" : {
+		"ids" : [
+			
+		],
+		"rollover" : {
+			"classteam" : "vip10",
+			"icon" : "http://i.imgur.com/vO5O5nc.png",
+			"langkey": "titlevip",
+			"color": "#fbbc05"
+		}
+	},
 	"spreader" : {
 		"ids" : [
 			3604577,
