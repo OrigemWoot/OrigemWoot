@@ -278,6 +278,8 @@
 		"rock-wins-10" : {
 			"title" : "RW",
 			"background" : "https://i.imgur.com/fLYWygq.jpg"
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/rockwins10.css",
+			"overridecss" : false
 		},
 		"rock-de-garagem" : {
 			"background" : "https://i.imgur.com/XVvPp2w.jpg",
