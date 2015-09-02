@@ -309,6 +309,9 @@ div[class*="ow-"] .un::before{
 .ow-vip9 .un::before, div[data-cid~="ow-vip9"] .un::before{
 	background: url(http://i.imgur.com/9n3RBYG.gif);
 }
+.ow-vip10 .un::before, div[data-cid~="ow-vip10"] .un::before{
+	background: url(http://i.imgur.com/vO5O5nc.png);
+}
 
 .origem-dev-badge ,
 .origem-dev-caipira-badge { background: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1) } 
@@ -323,6 +326,7 @@ div[class*="ow-"] .un::before{
 .origem-vip7-badge { background: url(https://i.imgur.com/D8IcEta.png) }
 .origem-vip8-badge { background: url(https://i.imgur.com/s1tzDFQ.png) }
 .origem-vip9-badge { background: url(http://i.imgur.com/TMe8NG9.png) }
+.origem-vip10-badge { background: url(http://i.imgur.com/sLplXry.png) }
 .origem-designer-badge { background: url(https://www.dropbox.com/s/fxz4ztvy0hz2kju/DESBADGE30px.png?raw=1) } 
 .origem-translator-badge { background: url(https://i.imgur.com/3epe8Vp.png) } 
 
