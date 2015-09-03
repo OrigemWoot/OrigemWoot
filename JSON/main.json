@@ -143,17 +143,6 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Nightcore%20CSS.css",
 			"overridecss" : true
 		},
-		"udba-u-erika" : {
-			"title" : "MusicEveryDay",
-			"background" : "https://i.imgur.com/331T6Ot.jpg?1",
-			"css": "https://dl.dropboxusercontent.com/s/wwy6l31fnuzxlka/Vermelho.css",
-			"overridecss" : true
-		},
-		"kogamabr" : {
-			"title" : "Kogama",
-			"css": "https://dl.dropboxusercontent.com/s/wwy6l31fnuzxlka/Vermelho.css",
-			"overridecss" : true
-		},
 		"electro-brasil-19" : {
 			"title" : "Dark",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
@@ -180,13 +169,6 @@
 			"title" : "Dubstep",
 			"msg" : "Bem Vindo(a) à Dubstep Eletro Music |BR|, muito obrigado pela preferência, divirta-se!",
 			"css": "https://dl.dropboxusercontent.com/s/wwy6l31fnuzxlka/Vermelho.css"
-		},
-		"monster-music-brasil" : {
-			"title" : "Monster",
-			"msg" : "Bem Vindo(a) ao Monster Music Brazil, e muito obrigado por usar o OrigemWoot!",
-			"background" : "https://i.imgur.com/NqhDqqJ.jpg",
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Monster%20CSS.css",
-			"overridecss" : true
 		},
 		"balada-do-giraffas" : {
 			"title" : "Giraffas",
@@ -310,32 +292,11 @@
 			"background":"https://i.imgur.com/5Qs9CXz.jpg",
 			"overridecss" : true
 		},
-		"sbn" : {
-			"title" : "SBN",
-			"msg" : "A balada de sábado à noite está aqui!",
-			"background" : "https://i.imgur.com/CuQQati.jpg",
-			"temas" : [
-				"https://i.imgur.com/JKFzCE6.jpg",
-				"https://i.imgur.com/Q8bsy9d.jpg"
-			]
-		},
-		"salinha-da-nathy" : {
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Farofinha%20CSS.css",
-			"background":"https://i.imgur.com/HI0j60S.png",
-			"overridecss" : true
-		},
 		"tbmcz" : {
 			"title" : "TBM",
 			"background":"http://jyxo.info/uploads/81/81a4c617b10b71b52040f64547241d8079e66bbf.png",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/TBM.css",
 			"overridecss" : true
-		},
-		"cz-amp-sk-all" : {
-			"background" : "https://i.imgur.com/rGgTNBk.jpg"
-		},
-		"um-monte-de-bosta" : {
-			"title":"Monte de Bosta",
-			"background" : "https://i.imgur.com/IxjYwgt.jpg"
 		},
 		"brs-top" : {
 			"title":"TOP",
@@ -359,9 +320,6 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
 		},
-		"czech-104" : {
-			"title" : "HPZ"
-		},
 		"girl1800" : {
 			"title" : "MCS",
 			"background" : "https://i.imgur.com/1Alm0bI.jpg",
@@ -380,23 +338,9 @@
 			"css"  : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/Rock%20Wins%20CSS.css",
 			"overridecss" : true
 		},
-		"limitless-vibes" : {
-			"title" : "Limitless",
-			"background" : "https://i.imgur.com/nZo7hrP.jpg"
-		},
-		"lcshost" : {
-			"title" : "LCS-Hosting",
-			"background" : "https://i.imgur.com/yOKMjoF.jpg"
-		},
 		"hud-ba" : {
 			"title" : "Beat",
 			"background" : "http://e-posta.eu/torrent/obrazky/files/Ajushe/summer%20beat%20.png"
-		},
-		"edm-forever-official" : {
-			"title" : "Ever",
-			"msg" : "Bem Vindo(a) a sala oficial da EDM Forever!",
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
-			"overridecss" : true
 		},
 		"yahoo-musics" : {
 			"title" : "Grunge",
