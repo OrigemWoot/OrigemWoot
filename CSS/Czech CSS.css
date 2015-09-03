@@ -2362,8 +2362,13 @@ body: {
 #playlist-menu .menu .row .count {
     color: white;
 }
+
 div[class*="ow-vip8"] .un::before {
     background: url('http://i.imgur.com/9n3RBYG.gif') !important;
+}
+
+#chat .user-action {
+    color: #777f92;
 }
 
 /* Wrestík */
