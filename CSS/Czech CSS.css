@@ -2371,6 +2371,10 @@ div[class*="ow-vip8"] .un::before {
     color: #777f92;
 }
 
+#chat .user-action:nth-child(2n+1) {
+    background: #000000;
+}
+
 /* Wrestík */
 #chat [data-cid^="4105532-"] .bdg {
   background: url('http://i.imgur.com/KM2Xa8E.png') !important;
