@@ -172,7 +172,7 @@
 		"rollover" : {
 			 "classteam" : "vip9",
 			 "icon" : "http://i.imgur.com/9n3RBYG.gif",
-			 "langkey": "titlevip",
+			 "langkey": "titlepomvip",
 			 "color": "#00a100"
 		}
 	},
