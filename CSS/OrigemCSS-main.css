@@ -111,6 +111,9 @@ outline: none; z-index: 11 !important; overflow-y: auto; overflow-x: hidden; }
 .userlj{
  background: url(https://cdn.plug.dj/_/static/images/icons.d8b5eb442b3acb5ccfbbe2541b9db0756e45beba.png) 314px -349px;
  position: absolute; width: 15px; height: 15px; top: 7px;  left: 7px; }
+div[class^="nick ul"] {
+    width: 125px;
+}
 
 /* Custom icons */
 
