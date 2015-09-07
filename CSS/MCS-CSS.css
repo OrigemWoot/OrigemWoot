@@ -17,3 +17,18 @@
     height: 100%;
     cursor: pointer;
 }
+.origem-menu-element input[type=checkbox]:checked + .origem-checkmark, 
+.origem-menu-element input[type=radio]:checked + .origem-checkmark {
+    position: absolute;
+    top: -1px;
+    right: 0;
+    width: 33px;
+    height: 28px;
+    background: url('http://i.imgur.com/n9Qkieu.png');
+}
+.origem-menu-heading {
+    color: #F00 !important;
+}
+.origem-menu-submenu .origem-submenu-heading {
+    color: #f00 !important;
+}
