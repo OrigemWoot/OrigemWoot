@@ -2370,6 +2370,10 @@ div[class*="ow-vip8"] .un::before {
     background: #000000;
 }
 
+#chat .from.you .un {
+    color: #777F92;
+}
+
 /* Wrestík */
 #chat [data-cid^="4105532-"] .bdg {
   background: url('http://i.imgur.com/KM2Xa8E.png') !important;
