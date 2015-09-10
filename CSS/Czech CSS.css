@@ -499,11 +499,6 @@
     color: white;
 }
 
-#chat [data-cid^="4317189-"] .bdg {
-  background: url('https://i.imgur.com/SGpXMkW.png') !important;
-  background-position: 0px 0px;
-}
-
 [data-cid^="4317189-"] .msg .from .un {
     position: relative;
     left:-1px;
@@ -2378,6 +2373,12 @@ div[class*="ow-vip8"] .un::before {
 /* Wrestík */
 #chat [data-cid^="4105532-"] .bdg {
   background: url('http://i.imgur.com/KM2Xa8E.png') !important;
+  background-position: 0px 0px;
+}
+
+/* Kiwinka */
+#chat [data-cid^="4317189-"] .bdg {
+  background: url('https://i.imgur.com/SGpXMkW.png') !important;
   background-position: 0px 0px;
 }
 
