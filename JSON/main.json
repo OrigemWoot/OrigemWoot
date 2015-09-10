@@ -226,6 +226,9 @@
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/MusicUltra.css",
 			"overridecss" : true
 		},
+		"move-it" : {
+			"background" : "http://i.imgur.com/tsnnUrC.gif"
+		},
 		"nejlep%C5%A1%C3%AD-songy-cz-i-sk" : {
 			"title" : "NSCs"
 		},
