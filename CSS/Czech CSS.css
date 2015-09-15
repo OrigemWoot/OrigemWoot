@@ -2403,3 +2403,9 @@ div[class*="ow-vip8"] .un::before {
     background: url('http://i.imgur.com/TMe8NG9.png') !important;
     background-position: 0px 0px;
 }
+
+/* tommyncze */
+#chat [data-cid^="6077593-"] .bdg {
+    background: url('http://i.imgur.com/TMe8NG9.png') !important;
+    background-position: 0px 0px;
+}
