@@ -90,8 +90,7 @@
 	        "https://i.imgur.com/VQrFnFF.jpg",
 	        "https://i.imgur.com/DiGEBvZ.jpg",
 	        "https://i.imgur.com/q8EEUif.jpg",
-	        "https://i.imgur.com/LeXuIc0.jpg",
-	        "https://i.imgur.com/brE5jtH.jpg"
+	        "https://i.imgur.com/LeXuIc0.jpg"
 	],
 	"socket" : "wss://owsocket3-caipira.rhcloud.com:8443/socket/websocket",
 	"lng": {
