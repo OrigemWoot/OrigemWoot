@@ -355,6 +355,11 @@
 			"msg" : "Bem Vindo(a) a Club EDM Brazil.",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
 			"overridecss" : true
-		}
+		},
+                "edtentertainment" : {
+                        "title" : "EDT",
+                        "msg" : "Bem Vindo(a) a Maior e Melhor sala de todos os tempos do Plug.DJ! #EDT4EVER #AdeusPlug"
+                }
+                        
 	}
 }
