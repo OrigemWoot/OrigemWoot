@@ -358,7 +358,8 @@
 		},
                 "edtentertainment" : {
                         "title" : "EDT",
-                        "msg" : "Bem Vindo(a) a Maior e Melhor sala de todos os tempos do Plug.DJ! #EDT4EVER #AdeusPlug"
+                        "msg" : "Bem Vindo(a) a Maior e Melhor sala de todos os tempos do Plug.DJ! #EDT4EVER #AdeusPlug",
+                        "background" : "https://dl.dropboxusercontent.com/s/95tsg5l7uxjlarv/background1.jpeg"
                 }
                         
 	}
