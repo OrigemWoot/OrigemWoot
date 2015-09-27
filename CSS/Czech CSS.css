@@ -1082,10 +1082,24 @@
 
 #dialog-ban-user .duration .toggle.selected, #dialog-mute-user .duration .toggle.selected {
     box-shadow: inset 1px 1px 12px 0px lime;
+    background: green;
+}
+
+#dialog-ban-user .duration .toggle.selected:hover, #dialog-mute-user .duration .toggle.selected:hover {
+    background: green;
 }
 
 #dialog-ban-user .duration .toggle, #dialog-mute-user .duration .toggle {
     background: #202020;
+}
+
+#dialog-ban-user .duration .toggle:hover, #dialog-mute-user .duration .toggle:hover {
+    background: #202020;
+    box-shadow: inset 1px 1px 12px 0px lime;
+}
+
+#dialog-ban-user .username, #dialog-mute-user .username {
+    color: lime;
 }
 
 .dialog.choice .divider {
