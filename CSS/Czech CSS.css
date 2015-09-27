@@ -815,6 +815,8 @@
 
 #user-menu .item.selected {
     background: #00CF00;
+    color: black;
+    font-weight: bold;
 }
 
 #user-menu .item .label .selected {
@@ -2374,6 +2376,30 @@ div[class*="ow-vip8"] .un::before {
     color: #777F92;
 }
 
+#room-settings-menu {
+    background: #000000;
+}
+
+#room-settings-menu .item.selected {
+    background: #191919;
+}
+
+#room-settings .general-settings {
+    background: #000000;
+}
+
+#room-settings .general-settings .option button.off {
+    background: #404040;
+}
+
+#room-settings .general-settings .option button {
+    background: #191919;
+}
+
+#room-settings .general-settings a, #room-settings .general-settings a:visited {
+    color: #808691;
+}
+
 /* Wrestík */
 #chat [data-cid^="4105532-"] .bdg {
   background: url('http://i.imgur.com/KM2Xa8E.png') !important;
@@ -2400,12 +2426,6 @@ div[class*="ow-vip8"] .un::before {
 
 /* WhyName */
 #chat [data-cid^="4728690-"] .bdg {
-    background: url('http://i.imgur.com/TMe8NG9.png') !important;
-    background-position: 0px 0px;
-}
-
-/* tommyncze */
-#chat [data-cid^="6077593-"] .bdg {
     background: url('http://i.imgur.com/TMe8NG9.png') !important;
     background-position: 0px 0px;
 }
