@@ -819,6 +819,10 @@
     font-weight: bold;
 }
 
+#user-menu .item {
+    font-weight: bold;
+}
+
 #user-menu .item .label .selected {
     color: #EEEEEE;
 }
