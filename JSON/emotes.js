@@ -1,4 +1,4 @@
-{
+window.ow_emotes = {
    "Team":{
        "assis":{
          "height":"35px",
@@ -2620,4 +2620,4 @@
          "height":"20px"
       }
    }
-}
+};
