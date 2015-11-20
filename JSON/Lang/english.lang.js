@@ -1,4 +1,4 @@
-{
+window.ow_lang = {
 	"ow_loaded":		  "For a list of commands use /cmd, check out our site!",
 	"ow_site":			  "http://origem-woot.com/",
     "titleDev":           "Origem Woot Dev",
@@ -206,4 +206,4 @@
 	"serv_acc_created":"Your password has been created/changed. You can go to others rooms now. Back here if you want change the pass.",
 	"serv_mewpass":"Insert a new password if you are not registered or want change the pass or click in cancel to close this message.",
 	"serv_inspass":"Insert your password"
-}
+};
