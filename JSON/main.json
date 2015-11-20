@@ -1,4 +1,4 @@
-{
+window.ow_main = {
 	"sounds" : {
 		"mention" : [
 			"https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/Sounds/vimdone.mp3"
@@ -366,4 +366,4 @@
                 }
                         
 	}
-}
+};
