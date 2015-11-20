@@ -1,4 +1,4 @@
-{
+window.ow_lang = {
 	"ow_loaded":		  "Para ver a lista de comandos, use /cmd. Visite nosso site!",
 	"ow_site":			  "http://origem-woot.com/",
     "titleDev":           "Criador do Origem Woot",
@@ -216,4 +216,4 @@
 	"serv_acc_created":"Sua senha foi criada/alterada. Você pode ir para outras salas agora. Volte aqui se você quiser mudar a senha.",
 	"serv_mewpass":"Insira uma nova senha se você não está registrado ou se você deseja mudar sua senha ou clique em cancelar para fechar esta mensagem.",
 	"serv_inspass":"Insira sua senha"
-}
+};
