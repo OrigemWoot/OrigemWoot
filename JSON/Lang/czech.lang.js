@@ -1,4 +1,4 @@
-﻿{
+window.ow_lang = {
 	"ow_loaded":"Pro seznam příkazů použijte /cmd, nezapomeňte navštívit naší stránku!",
 	"ow_site":"http://origem-woot.com/",
 	"titleDev":"Origem Woot Dev",
@@ -205,4 +205,4 @@
 	"serv_acc_created":"Vaše heslo bylo vytvořeno/změněno. Nyní můžete jít do ostatních místností. Přijďte zpátky sem, pokud si chcete změnit heslo.",
 	"serv_mewpass":"Vložte nové heslo, pokud nejste registrovaný nebo si ho chcete změnit nebo klikněte na zrušit k zavření této zprávy.",
 	"serv_inspass":"Vložte vaše heslo"
-}
+};
