@@ -1,4 +1,4 @@
-{
+window.ow_lang = {
 	"ow_loaded":		  "Voor een lijst van mogelijke commands, typ /cmd, bekijk zeker onze site!",
 	"ow_site":			  "http://origem-woot.com/",
     "titleDev":           "Origem Woot Dev",
@@ -205,5 +205,4 @@
 	"serv_acc_created":"Je wachtwoord is aangemaakr/veranderd. Je kan naar andere rooms gaan. In deze room kan je het wachtwoord veranderen.",
 	"serv_mewpass":"Voer je wachtwoord in als je je nog geregistreerd hebt of je wachtwoord wilt veranderen of klik annuleer om dit bericht te sluiten.",
 	"serv_inspass":"Voer je wachtwoord in"
-	
-}
+};
