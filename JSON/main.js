@@ -95,35 +95,35 @@ window.ow_main = {
 	"socket" : "wss://owsocket3-caipira.rhcloud.com:8443/socket/websocket",
 	"lng": {
 		"en" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/english.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/english.lang.js",
 			"name" : "English"
 		},
 		"pt" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/portuguese.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/portuguese.lang.js",
 			"name" : "Português"
 		},
 		"fr" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/french.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/french.lang.js",
 			"name" : "Français"
 		},
 		"sb" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/serbian.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/serbian.lang.js",
 			"name" : "српски"
 		},
 		"cs" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/czech.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/czech.lang.js",
 			"name" : "Čeština"
 		},
 		"nl" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/dutch.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/dutch.lang.js",
 			"name" : "Nederlands"
 		},
 		"es" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/spanish.lang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/spanish.lang.js",
 			"name" : "Español"
 		},
 		"sk" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/sklang.json",
+			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/sklang.js",
 			"name" : "Slovenština"
 		}
 	},
