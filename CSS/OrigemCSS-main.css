@@ -437,7 +437,7 @@ top: 8px !important; left: 15px !important;}
 }
 .origem-menu-checkbox > label,
 .origem-menu-radio > label{
-	width: 160px;
+	width: 175px;
 }
 .origem-menu-element > label {
 	position: relative;
@@ -558,7 +558,7 @@ top: 8px !important; left: 15px !important;}
 	border-left-color: #282c35;
     border-left-width: 10px;
 	top: 10px;
-	left: 170px;
+	left: 185px;
     width: 0;
     height: 0;
 }
@@ -567,7 +567,7 @@ top: 8px !important; left: 15px !important;}
     border-width: 8px;
 	border-right-color: #282c35;
     border-right-width: 10px;
-    left: 160px;
+    left: 175px;
 }
 
 .origem-menu-submenu .origem-submenu-heading {
