@@ -70,9 +70,7 @@ background-repeat: no-repeat !important;width:15px;height:15px;}
 .pop-menu.vote .bar .icon { top: 9px; left: 9px; }
 .pop-menu.vote .menu ul li .icon { top: 7px; left: 12px; }
 
-.eta-time{
-	font-size: small;
-}
+#main_player .eta{font-size:30px;position: relative;top: 5px;float: right;right: 15px;height: 30px;}
 
 /*
 .christmas{
