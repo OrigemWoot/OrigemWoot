@@ -1,4 +1,4 @@
-{
+window.ow_lang = {
         "ow_loaded":              "Za listu komandi koristi /cmd, takodje proveri nas sajt!",
         "ow_site":                        "http://origem-woot.com/",
     "titleDev":           "Origem Woot Programer",
@@ -206,4 +206,4 @@
         "serv_acc_created":"Vaša šifra je kreirana/promenjena. Možete ići u drugo sobe sada. Vratite se ovde ukoliko želite da promenite šifru.",
         "serv_mewpass":"Unesite novu šifru ukoliko niste registrovani ili želite da promenie šifru ili kliknite izađi da isključite ovu poruku.",
         "serv_inspass":"Unesite Vašu šifru"
-}
+};
