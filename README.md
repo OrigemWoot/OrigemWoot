@@ -34,8 +34,6 @@ javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/27y8jr4s
 Features
 ---
 
-* We have our own API
-
 - Autovote
 - AFK Autorespond
 - Emotes
