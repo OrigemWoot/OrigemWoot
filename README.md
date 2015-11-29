@@ -16,18 +16,18 @@ IMPORTANT
 
 __Updates (Version 1.0.0.2)__
 
-- API changes and added Chat Emotes
+- Fixed the issue that prevents the user vote Dub Down.
 
 -----------------
 Usage
 ---
 
-* Drag the Icon below to favorites:
+* Drag the icon below to favorites:
 
-[Origem Woot](javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/27y8jr4skqwb5p7/OrigemScript.js');}());)
+[Origem Script](javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/lh17j1v0yne3uwd/OrigemScript_dub - dev.js');}());) 
 
 ```
-javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/27y8jr4skqwb5p7/OrigemScript.js');}());
+javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/lh17j1v0yne3uwd/OrigemScript_dub - dev.js');}());
 ```
 
 -----------------
