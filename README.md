@@ -16,7 +16,7 @@ IMPORTANT
 
 __Updates (Version 1.0.0.2)__
 
-- Fixed the issue that prevents the user vote Dub Down.
+- API changes and added Chat Emotes
 
 -----------------
 Usage
@@ -33,6 +33,8 @@ javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/27y8jr4s
 -----------------
 Features
 ---
+
+* We have our own API
 
 - Autovote
 - AFK Autorespond
