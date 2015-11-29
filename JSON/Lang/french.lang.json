@@ -1,4 +1,4 @@
-{
+window.ow_lang = {
 	"ow_loaded":"Pour une liste des commandes , utilisez /cmd , visitez notre site",
 	"ow_site":"http://origem-woot.com/",
 	"titleDev":"Développeur Origem Woot",
@@ -205,4 +205,4 @@
 	"serv_acc_created":"Votre mot de passe a bien été créé/changé. Vous pouvez maintenant vous rendre sur les autres salles. Revenez ici si vous souhaitez changer de mot de passe",
 	"serv_mewpass":"Entrez un nouveau mot de passe si vous n'êtes pas encore enregistré ou si vous voulez changer de mot de passe, ou cliquez sur Annulez pour fermer ce message ",
 	"serv_inspass":"Entrez votre mot de passe"
-}
+};
