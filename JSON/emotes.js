@@ -1230,7 +1230,7 @@ window.ow_emotes = {
          "width":"71px"
       },
       "penes2"{
-         "height":"225px,
+         "height":"225px",
          "url":"https://i.imgur.com/b3Vv0RI.png",
          "width":"105"
       },
