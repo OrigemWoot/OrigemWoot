@@ -16,7 +16,7 @@ IMPORTANT
 
 __Updates (Version 1.0.0.2)__
 
-- Fixed the issue that prevents the user vote Dub Down.
+- Changes made in our API and added custom chat emotes
 
 -----------------
 Usage
