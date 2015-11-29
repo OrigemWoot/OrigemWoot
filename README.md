@@ -22,12 +22,12 @@ __Updates (Version 1.0.0.2)__
 Usage
 ---
 
-* Drag the icon below to favorites:
+* Drag the Icon below to favorites:
 
-[javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/lh17j1v0yne3uwd/OrigemScript_dub - dev.js');}());](https://i.imgur.com/hAFKXly.png)
+[Origem Woot](javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/27y8jr4skqwb5p7/OrigemScript.js');}());)
 
 ```
-javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/lh17j1v0yne3uwd/OrigemScript_dub - dev.js');}());
+javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/27y8jr4skqwb5p7/OrigemScript.js');}());
 ```
 
 -----------------
