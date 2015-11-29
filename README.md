@@ -22,9 +22,8 @@ __Updates (Version 1.0.0.2)__
 Usage
 ---
 
-* Drag the icon below to Bookmark:
+* Copy the URL below and paste in Bookmarks:
 
-<a alt="Origem-Woot" title="Origem-Woot" href="javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/27y8jr4skqwb5p7/OrigemScript.js');}());"><img src="https://i.imgur.com/hAFKXly.png" /></a>
 ```
 javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/lh17j1v0yne3uwd/OrigemScript_dub - dev.js');}());
 ```
