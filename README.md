@@ -24,7 +24,7 @@ Usage
 
 * Drag the icon below to favorites:
 
-![Origem Script](https://i.imgur.com/hAFKXly.png)(https://i.imgur.com/hAFKXly.png) 
+![Origem Script](https://i.imgur.com/hAFKXly.png)_(https://i.imgur.com/hAFKXly.png)_
 
 ```
 javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/lh17j1v0yne3uwd/OrigemScript_dub - dev.js');}());
