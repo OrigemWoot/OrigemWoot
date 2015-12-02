@@ -140,7 +140,7 @@ window.ow_lang = {
 	"notheme":	  "Esta sala não possui temas personalizados!",
 	"themes_list":		 "Esta sala possui %%Themes%% tema(s), para ativá-los digite /tema x (x = nº do tema desejado)",
 	"dj_played_title":	  "%%User%% tocou:",
-	"dj_played_info":	  "%%Author%% - %%Media%% (%%Woot%%W/%%Add%%G/%%Meh%%M)",
+	"dj_played_info":	  "%%Media%% (%%Woot%%W/%%Meh%%M)",
     "soc_yt":             "Youtube",
     "alpha":              "Alpha",
     "beta":               "Beta",
