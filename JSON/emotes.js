@@ -75,11 +75,6 @@ window.ow_emotes = {
          "width":"28px",
          "height":"28px"
       },
-      "igorce9":{  
-         "height":"100px",
-         "url":"https://i.imgur.com/r0Ft9fg.jpg",
-         "width":"100px"
-      },
       "kodek":{
          "height":"90px",
          "url":"https://i.imgur.com/nCAoked.png",
