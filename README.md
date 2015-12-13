@@ -18,8 +18,7 @@ __Updates (Version 1.0.0.4)__
 
 - Bugs fixed
 - LockSkip and Clear Chat (staff functions)
- 
----
+
 
 __Updates (Version 1.0.0.2)__
 
