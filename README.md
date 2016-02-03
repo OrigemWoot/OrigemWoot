@@ -14,6 +14,11 @@ Our Team
 IMPORTANT
 ---
 
+__Updates (Version 1.0.0.6)__
+
+- Auto Join
+
+
 __Updates (Version 1.0.0.4)__
 
 - Bugs fixed
