@@ -36,7 +36,7 @@ Usage
 * Copy the URL below and paste in Bookmarks:
 
 ```
-javascript:(function(){$.getScript('https://dl.dropboxusercontent.com/s/lh17j1v0yne3uwd/OrigemScript_dub - dev.js');}());
+javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/OrigemScript.js');}());
 ```
 
 -----------------
