@@ -432,8 +432,8 @@
 			urlemotes : []
 		},
 		tmp : {
-			version: "1.0.0.4 alpha",
-			script : 'https://dl.dropboxusercontent.com/s/27y8jr4skqwb5p7/OrigemScript.js',
+			version: "1.0.0.6 alpha",
+			script : 'https://rawgit.com/OrigemWoot/OrigemWoot/master/OrigemScript.js',
 			css : 'https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/OrigemCSS.css',
 			emotes : {},
 			url : document.location.pathname.substring(1),
