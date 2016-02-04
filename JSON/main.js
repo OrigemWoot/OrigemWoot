@@ -79,7 +79,7 @@ window.ow_main = {
 	"customRooms" : {
 		"electro-brasil" : {
 			"title" : "Dark",
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/BEM%20CSS.css",
+			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/EB%20CSS.css",
 			"overridecss" : true
 		}
 	}
