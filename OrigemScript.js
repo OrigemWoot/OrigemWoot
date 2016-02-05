@@ -433,7 +433,7 @@
 		},
 		tmp : {
 			version: "1.0.0.6 alpha",
-			script : 'https://rawgit.com/OrigemWoot/OrigemWoot/master/OrigemScript.js',
+			script : 'https://dl.dropboxusercontent.com/s/bjsdgjh3b2au077/OrigemScript.js',
 			css : 'https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/OrigemCSS.css',
 			emotes : {},
 			url : document.location.pathname.substring(1),
@@ -855,7 +855,7 @@
 					.addCheckboxMenuItem('visuals', ow.util.chat.parseLang('eta'), 'eta', ow.attr.eta.on)
 
 					.addButtonMenuItem('staff', ow.util.chat.parseLang('ls'), 'lockskip')
-//					.addButtonMenuItem('staff', ow.util.chat.parseLang('skpdj'), 'skipdj')
+					.addButtonMenuItem('staff', ow.util.chat.parseLang('skpdj'), 'skipdj')
 //					.addButtonMenuItem('staff', ow.util.chat.parseLang('remdj'), 'remdj')
 //					.addMenuSeperator('staff')
 					.addButtonMenuItem('staff', ow.util.chat.parseLang('clrcht'), 'clearchat')
@@ -1540,6 +1540,9 @@
 					if (!user)	return;
 					API.API.moderateSkip(function(){API.moderateMoveDJ(user.userid,1);});
 				},
+				skipdj : function(){
+					API.moderateSkip();
+				},
 				clearChat : function(){
 					$('.chatDelete').click();
 				}
@@ -1851,7 +1854,7 @@
 			loadItems : function(){
 				ow.tmp.url = document.location.pathname.substring(1);
 							
-				API.chatLog(ow.util.chat.parseLang('owload', { Version : ow.tmp.version }), ow.util.chat.parseLang('owtitle'), 'https://i.imgur.com/hAFKXly.png');
+				API.chatLog('Alpha V' + ow.tmp.version + ' Loaded', ow.util.chat.parseLang('owtitle'), 'https://i.imgur.com/hAFKXly.png');
 
 				if ( ow.attr.aw )
 					ow.util.autoWoot();
@@ -1905,7 +1908,7 @@
 				$('#lockskip').on('click', ow.util.staff.lockskip);
 				$('#clearchat').on('click', ow.util.staff.clearChat);
 				
-//				$('#skipdj').on('click', ow.util.staff.apiSkipDJ);
+				$('#skipdj').on('click', ow.util.staff.skipdj);
 //				$('#remdj').on('click',  ow.util.staff.removeDJ);
 
 				$('#owReload').on('click', ow.main.reload);
