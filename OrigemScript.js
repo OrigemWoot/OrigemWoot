@@ -395,7 +395,8 @@
 			sm : false, //show meh
 			uuj : false, //user join
 			uul : false, //user leave
-			mbg: false, //menu background
+			mbg : false, //menu background
+			cbg : false, //CUstom BG 
 			ci : false, //chat image
 			id : false, //info dj
 			ag : {
@@ -433,8 +434,9 @@
 		},
 		tmp : {
 			version: "1.0.0.6 alpha",
-			script : 'https://dl.dropboxusercontent.com/s/bjsdgjh3b2au077/OrigemScript.js',
+			script : 'https://rawgit.com/OrigemWoot/OrigemWoot/master/OrigemScript.js',
 			css : 'https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/OrigemCSS.css',
+			background : $(".backstrech img").attr("src"),
 			emotes : {},
 			url : document.location.pathname.substring(1),
 			pl : [],
@@ -517,6 +519,11 @@
 					ow.attr.aj = $(this).prop('checked');
 
 					API.djJoin();
+					ow.storage.save();
+				},
+				cbg: function(){
+					ow.attr.cbg = $(this).prop('checked');
+					ow.util.changeBG();
 					ow.storage.save();
 				},
 				sm : function(){
@@ -851,6 +858,8 @@
 //					.addCheckboxMenuItem('visuals', ow.util.chat.parseLang('chtImgs'), 'chatimg', ow.attr.ci)
 //					.addCheckboxMenuItem('visuals', ow.util.chat.parseLang('ct'), 'customTheme', ow.attr.ct.on)
 //					.addCheckboxMenuItem('visuals', ow.util.chat.parseLang('cr'), 'customRoom', ow.attr.ct.cr)
+					.addCheckboxMenuItem('visuals', 'Custom Background', 'bgchange', ow.attr.cbg)
+					.addTextMenuItem('visuals', 'bbgchange', 'Background URL')
 					.addCheckboxMenuItem('visuals', ow.util.chat.parseLang('gm'), 'groupMessage', ow.attr.gm)
 					.addCheckboxMenuItem('visuals', ow.util.chat.parseLang('eta'), 'eta', ow.attr.eta.on)
 
@@ -1188,6 +1197,17 @@
 			}
 		},
 		util : {
+			changeBG: function(){
+				var URL = $('#bbgchange').val();
+                if (URL !== null && URL !== "") {
+                    URL.toLowerCase();    
+                	if(ow.attr.cbg) {
+                		$(".backstretch img").attr("src", URL);
+                	}else{
+                		$(".backstretch img").attr("src", ow.tmp.background);
+                	}
+                }
+            },
 			getUniqueHash : function(){
 				var chars = 'abcdefghijklmnopqrstuwxyzABCDEFGHIJKLMNOPQRSTUWXYZ0123456789+_#@$.',
 					maxloop = Math.round((Math.random()*100)%20+10),
@@ -1791,7 +1811,7 @@
 				ow.storage.load();
 
 				$('head').append('<link id="owmenucss" rel="stylesheet" type="text/css" href="https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/OrigemCSS-main.css">');
-				$('head').append('<link id="owteamcss" rel="stylesheet" type="text/css" href="https://rawgit.com/9Igorce/OrigemDub/master/team.css">');
+				$('head').append('<link id="owteamcss" rel="stylesheet" type="text/css" href="https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/team.css">');
 				$('#owmenucss')[0].onload = ow.main.loadItens;
 			},
 			loadItens : function(){
@@ -1854,7 +1874,7 @@
 			loadItems : function(){
 				ow.tmp.url = document.location.pathname.substring(1);
 							
-				API.chatLog('Alpha V' + ow.tmp.version + ' Loaded', ow.util.chat.parseLang('owtitle'), 'https://i.imgur.com/hAFKXly.png');
+				API.chatLog('V' + ow.tmp.version + ' Loaded', ow.util.chat.parseLang('owtitle'), 'https://i.imgur.com/hAFKXly.png');
 
 				if ( ow.attr.aw )
 					ow.util.autoWoot();
@@ -1873,10 +1893,10 @@
 				API.chat.groupMessages=ow.attr.gm;
 				ow.tmp.snd.mention = $('<audio/>', { src: ow.tmp.itens.sounds.mention[0]})[0];
 				
-				$('#default').on('click', {bg : ow.tmp.itens.bgs[0]}, ow.gui.events.bc);
-				for (var i = 1; i < ow.tmp.itens.bgs.length; i++){
-					$('#owbg' + (i-1)).on('click', {bg : ow.tmp.itens.bgs[i]}, ow.gui.events.bc);
-				}
+//				$('#default').on('click', {bg : ow.tmp.itens.bgs[0]}, ow.gui.events.bc);
+//				for (var i = 1; i < ow.tmp.itens.bgs.length; i++){
+//					$('#owbg' + (i-1)).on('click', {bg : ow.tmp.itens.bgs[i]}, ow.gui.events.bc);
+//				}
 
 				if (ow.tmp.itens.sounds[ow.attr.lng.def]){
 					ow.tmp.snd[ow.attr.lng.def] = [];
@@ -1905,6 +1925,7 @@
 				$('#afkmessage').focusout(ow.gui.events.afktifo);
 //				$('#bgurl').focusout(ow.gui.events.bgtifo);
 //				$('#checkbox-chatimg').on('change', ow.gui.events.tci);
+				$('#bgchange').on('change', ow.gui.events.cbg);
 				$('#lockskip').on('click', ow.util.staff.lockskip);
 				$('#clearchat').on('click', ow.util.staff.clearChat);
 				
