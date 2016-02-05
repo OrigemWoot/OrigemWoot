@@ -8,6 +8,7 @@ window.ow_lang = {
     "titleSpreader":      "Origem Woot Spreader",
 	"titleDesigner": 	  "Origem Woot Designer",
 	"owload":			  "Origem Woot v%%Version%% loaded!",
+	"owtitle":			  "Origem Woot",
 	"version":			  "Version",
 	"reloading":		  "Reloading Origem Woot",
 	"reseting":			  "Reset Origem Woot",
