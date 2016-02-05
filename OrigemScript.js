@@ -1851,7 +1851,7 @@
 			loadItems : function(){
 				ow.tmp.url = document.location.pathname.substring(1);
 							
-				API.chatLog('Man, it\'s so crazy!', ow.util.chat.parseLang('owload', { Version : ow.tmp.version }),'https://i.imgur.com/hAFKXly.png');
+				API.chatLog(ow.util.chat.parseLang('owload', { Version : ow.tmp.version }), ow.util.chat.parseLang('owtitle'), 'https://i.imgur.com/hAFKXly.png');
 
 				if ( ow.attr.aw )
 					ow.util.autoWoot();
