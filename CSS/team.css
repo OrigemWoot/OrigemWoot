@@ -1,0 +1,58 @@
+/* Username Color */
+#chat .user-5618102d6d8d111d002aca6f a.username { /* Igorce9 */
+  color: #DB182E !important;
+  font-weight: bold;
+}
+#chat .user-56016d9e2e803803001001f4 a.username { /* Caipira */
+  color: #DB182E !important;
+  font-weight: bold;
+}
+
+/* Badge */
+#chat .user-5618102d6d8d111d002aca6f .image_row { /* Igorce9 */
+	content: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1);
+}
+#chat .user-56016d9e2e803803001001f4 .image_row { /* Caipira */
+  content: url(https://www.dropbox.com/s/kc4dejy9c1ynb51/SPRDBADG30px.png?raw=1);
+}
+
+/* Icon */
+#chat .chat-container ul.chat-main li.user-5618102d6d8d111d002aca6f .activity-row .text p a.username:before { /* Igorce9 */
+    content: url(https://i.imgur.com/7MHdeHw.png);
+    font-family: "foundation-icons";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    text-decoration: inherit;
+    margin-right: 5px;
+}
+
+#chat .chat-container ul.chat-main li.user-56016d9e2e803803001001f4 .activity-row .text p a.username:before { /* Caipira */
+    content: url(https://i.imgur.com/7MHdeHw.png);
+    font-family: "foundation-icons";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    text-decoration: inherit;
+    margin-right: 5px;
+}
+
+/* UserList Role */
+ul.avatar-list li.user-the_igorce9 p.dubs:before { /* Igorce9 */
+    content: "OrigemWoot Dev - ";
+    font-weight: 700;
+    color: #DB182E !important;
+}
+ul.avatar-list li.user-caipira p.dubs:before { /* Caipira */
+    content: "OrigemWoot Dev - ";
+    font-weight: 700;
+    color: #DB182E !important;
+}
