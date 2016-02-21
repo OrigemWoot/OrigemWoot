@@ -169,6 +169,64 @@
 	<script>
 		var playlists = null;
 		
+		function convertToJSON(data){
+			playlists = [];
+			var lines = data.split('\n');
+			
+			lines.shift();
+			lines.shift();
+			
+			try{
+				var curpl = null;
+				
+				while (lines.length > 0){					
+					var nextline = lines.shift();
+					var contentdata = nextline.match(/^,,,,,"(.*)","(.*)","(.*)","(.*)","(.*)","(.*)","(.*)","(.*)"$/);
+					
+					if (contentdata){
+						contentdata.shift();
+						
+						var media = {
+							author: contentdata.shift(),
+							cid: contentdata.shift(),
+							duration: +contentdata.shift(),
+							format: +contentdata.shift(),
+							id: +contentdata.shift(),
+							image: contentdata.shift(),
+							title: contentdata.shift(),
+							url: contentdata.shift()
+						};
+						
+						curpl.items.push(media);
+						continue;
+					}
+					
+					var plheader = nextline.match(/^"(.*)","(.*)","(.*)","(.*)","(.*)",,,,,,,$/);
+					if (plheader){
+						plheader.shift();
+						
+						if (curpl)
+							playlists.push(curpl);
+							
+						curpl = {
+							index: +plheader.shift(),
+							active: plheader.shift() == 'true',
+							count: +plheader.shift(),
+							id: +plheader.shift(),
+							name: plheader.shift(),
+							items: []
+						};
+					}
+				}
+				if (curpl)
+					playlists.push(curpl);
+					
+				console.log(playlists);
+			}catch(e){
+				console.log(e);
+			}
+		}
+		
 		function remPlaylistContent(){
 			var plc = document.getElementById('pl-table');
 			if (!plc)	return;
@@ -202,10 +260,14 @@
 				var r = new FileReader();
 				r.onload = function(e) { 
 					var contents = e.target.result;
+					var contents = e.target.result;
 					try{
-						playlists = JSON.parse(JSON.parse(contents));
+						playlists = JSON.parse(JSON.parse(contents));						
 					}catch(e){
-						alert("Invalid JSON file\nThis file isn't a valid JSON file. Select a valid playlists dump and try again.");
+						convertToJSON(contents);
+					}
+					if (!playlists || !playlists.length){
+						return alert('Invalid playlist file! Check if the file is a valid file and try again!');
 					}
 					try{
 						remPlaylistContent();
