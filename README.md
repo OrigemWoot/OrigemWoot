@@ -7,7 +7,7 @@
 -------------
 Our Team
 ---
- - [Caipira]() __(Owner/Developer)__
+ - [Ciker]() __(Owner/Developer)__
  - [Igorce9]() __(Developer)__
 
 -----------------
