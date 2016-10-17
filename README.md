@@ -8,7 +8,6 @@
 Our Team
 ---
  - [Ciker]() __(Owner/Developer)__
- - [Igorce9]() __(Developer)__
 
 -----------------
 IMPORTANT
