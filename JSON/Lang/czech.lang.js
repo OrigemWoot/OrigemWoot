@@ -1,9 +1,9 @@
 window.ow_lang = {
 	"ow_loaded":"Pro seznam příkazů použijte /cmd, nezapomeňte navštívit naší stránku!",
-	"ow_site":"http://origem-woot.com/",
+	"ow_site":"http://origem-woot.tk/",
 	"titleDev":"Origem Woot Dev",
 	"titlevip":"Origem Woot VIP",
-	"titlepomvip":"Power of Music VIP",
+	"titleumvip":"Ultra Music VIP",
 	"titleHelper":"Origem Woot Pomocník",
 	"titleSpreader":"Origem Woot Spreader",
 	"titleDesigner":"Origem Woot Designer",
@@ -200,8 +200,8 @@ window.ow_lang = {
 	"pm_fserv":"OrigemWoot Server v %%Time%%",
 	"pm_fuser":"%%User%% v %%Time%%",
 	"pm_unf":"Žádný uživatel nenalezen.",
-	"serv_diffnick":"Vaše uživatelské jméno je jiné než jméno na našem serveru. Prosím jděte do registratní místnosti pro aktualizování jména: https://plug.dj/6813306957241099586",
-	"serv_noreg":"Nemáte vytvořený účet na našem serveru. Jestli chcete používat Soukromý Chat, jděte prosím do naší registrační místnosti k vytvoření hesla: https://plug.dj/6813306957241099586 Když se připojíte do místnosti, spusťte znovu script. Příjde vám zpráva k vložení vašeho hesla.",
+	"serv_diffnick":"Vaše uživatelské jméno je jiné než jméno na našem serveru. Prosím jděte do registratní místnosti pro aktualizování jména: https://plug.dj/0124142727274",
+	"serv_noreg":"Nemáte vytvořený účet na našem serveru. Jestli chcete používat Soukromý Chat, jděte prosím do naší registrační místnosti k vytvoření hesla: https://plug.dj/0124142727274 Když se připojíte do místnosti, spusťte znovu script. Příjde vám zpráva k vložení vašeho hesla.",
 	"serv_acc_created":"Vaše heslo bylo vytvořeno/změněno. Nyní můžete jít do ostatních místností. Přijďte zpátky sem, pokud si chcete změnit heslo.",
 	"serv_mewpass":"Vložte nové heslo, pokud nejste registrovaný nebo si ho chcete změnit nebo klikněte na zrušit k zavření této zprávy.",
 	"serv_inspass":"Vložte vaše heslo"
