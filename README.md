@@ -7,27 +7,10 @@
 -------------
 Our Team
 ---
- - [Ciker]() __(Owner/Developer)__
+ - [1MICROFIX]() __(Owner/Developer)__
 
 -----------------
 IMPORTANT
----
-
-__Updates (Version 1.0.0.6)__
-
-- Auto Join
-
-
-__Updates (Version 1.0.0.4)__
-
-- Bugs fixed
-- LockSkip and Clear Chat (staff functions)
-
-
-__Updates (Version 1.0.0.2)__
-
-- Changes made in our API and added custom chat emotes
-
 -----------------
 Usage
 ---
