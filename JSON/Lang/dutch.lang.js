@@ -1,9 +1,9 @@
 window.ow_lang = {
 	"ow_loaded":		  "Voor een lijst van mogelijke commands, typ /cmd, bekijk zeker onze site!",
-	"ow_site":			  "http://origem-woot.com/",
+	"ow_site":			  "http://origem-woot.tk/",
     "titleDev":           "Origem Woot Dev",
     "titlevip":           "Origem Woot Vip",
-    "titlepomvip":"Power of Music VIP",
+    "titleumvip":"Ultra Music VIP",
     "titleSpreader":      "Origem Woot Verpreider",
     "titleHelper":        "Origem Woot Helper",
 	"titleDesigner": 	  "Origem Woot Ontwerper",
@@ -200,8 +200,8 @@ window.ow_lang = {
 	"pm_fserv":"OrigemWoot Server in %%Time%%",
 	"pm_fuser":"%%User%% om %%Time%%",
 	"pm_unf":"Geen gebruiker(s) gevonden.", 
-	"serv_diffnick":"Je gebruikersnaam verschilt van de gebruikersnaam op onze server. Ga naar onze Registratie Room alsjeblieft, om je gebruikersnaam te updaten: https://plug.dj/6813306957241099586",
-	"serv_noreg":"Je hebt geen account op onze server. Als je de Privé Berichten wilt gebruiken. Ga naar onze Registratie Room alsjeblieft, om een wachtwoord aan te maken: https://plug.dj/6813306957241099586 Als je de room binnenkomt, activeer het script. Er verschijnt dan een bericht om je nieuwe wachtwoord in te voeren.",
+	"serv_diffnick":"Je gebruikersnaam verschilt van de gebruikersnaam op onze server. Ga naar onze Registratie Room alsjeblieft, om je gebruikersnaam te updaten: https://plug.dj/0124142727274",
+	"serv_noreg":"Je hebt geen account op onze server. Als je de Privé Berichten wilt gebruiken. Ga naar onze Registratie Room alsjeblieft, om een wachtwoord aan te maken: https://plug.dj/0124142727274 Als je de room binnenkomt, activeer het script. Er verschijnt dan een bericht om je nieuwe wachtwoord in te voeren.",
 	"serv_acc_created":"Je wachtwoord is aangemaakr/veranderd. Je kan naar andere rooms gaan. In deze room kan je het wachtwoord veranderen.",
 	"serv_mewpass":"Voer je wachtwoord in als je je nog geregistreerd hebt of je wachtwoord wilt veranderen of klik annuleer om dit bericht te sluiten.",
 	"serv_inspass":"Voer je wachtwoord in"
