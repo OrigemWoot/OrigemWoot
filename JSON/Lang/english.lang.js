@@ -3,7 +3,7 @@ window.ow_lang = {
 	"ow_site":			  "http://origem-woot.tk/",
     "titleDev":           "Origem Woot Dev",
     "titlevip":           "Origem Woot Vip",
-    "titlepomvip":"Power of Music VIP",
+    "titlemuvip":"Ultra Music VIP",
     "titleHelper":        "Origem Woot Helper",
     "titleSpreader":      "Origem Woot Spreader",
 	"titleDesigner": 	  "Origem Woot Designer",
