@@ -1,7 +1,7 @@
 # Origem Woot
-- A complete script/extension for Dubtrack.fm
+- A complete script/extension for plug.dj
 
-[Like Us on Facebook!](https://www.facebook.com/OrigemWoot-323799137819519/)
+[Like Us on Facebook!](https://www.facebook.com/origemwootnew)
 
 
 -------------
@@ -32,10 +32,10 @@ __Updates (Version 1.0.0.2)__
 Usage
 ---
 
-* Copy the URL below and paste in Bookmarks:
+* Go to site and drop button
 
 ```
-javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/OrigemScript.js');}());
+http://origem-woot.tk/
 ```
 
 -----------------
@@ -53,6 +53,7 @@ Features
 - Show Mehs
 - DJ Stats
 - Music Length Alert
+- Private Chat
 
 -----------------
 Languages
