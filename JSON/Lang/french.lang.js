@@ -1,9 +1,9 @@
 window.ow_lang = {
 	"ow_loaded":"Pour une liste des commandes , utilisez /cmd , visitez notre site",
-	"ow_site":"http://origem-woot.com/",
+	"ow_site":"http://origem-woot.tk/",
 	"titleDev":"Développeur Origem Woot",
 	"titlevip":"VIP Origem Woot",
-	"titlepomvip":"Power of Music VIP",
+	"titlepomvip":"Ultra Music VIP",
 	"titleHelper":"Assistant Origem Woot",
 	"titleSpreader":"Propagateur Origem Woot",
 	"titleDesigner":"Designer Origem Woot",
@@ -200,8 +200,8 @@ window.ow_lang = {
 	"pm_fserv":"Serveur OrigemWoot à %%Time%%",
 	"pm_fuser":"%%User%% à %%Time%%",
 	"pm_unf":"Pas d'utilisateur(s) trouvé.",
-	"serv_diffnick":"Votre nom d'utilisateur est différent de celui de notre serveurs. Rendez-vous sur notre salle d'enregistrement pour mettre à jour votre nom d'utilisateur : https://plug.dj/6813306957241099586",
-	"serv_noreg":"Vous n'avez pas de compte sur notre serveur. Si vous souhaitez utiliser le tchat privé, rendez-vous sur notre salle d'enregistrement pour créer un mot de passe : https://plug.dj/6813306957241099586 . Quand vous rejoignez la salle, relancez le script. Un message apparaîtra vous demandant d'entrer votre mot de passe.",
+	"serv_diffnick":"Votre nom d'utilisateur est différent de celui de notre serveurs. Rendez-vous sur notre salle d'enregistrement pour mettre à jour votre nom d'utilisateur : https://plug.dj/0124142727274",
+	"serv_noreg":"Vous n'avez pas de compte sur notre serveur. Si vous souhaitez utiliser le tchat privé, rendez-vous sur notre salle d'enregistrement pour créer un mot de passe : https://plug.dj/0124142727274 . Quand vous rejoignez la salle, relancez le script. Un message apparaîtra vous demandant d'entrer votre mot de passe.",
 	"serv_acc_created":"Votre mot de passe a bien été créé/changé. Vous pouvez maintenant vous rendre sur les autres salles. Revenez ici si vous souhaitez changer de mot de passe",
 	"serv_mewpass":"Entrez un nouveau mot de passe si vous n'êtes pas encore enregistré ou si vous voulez changer de mot de passe, ou cliquez sur Annulez pour fermer ce message ",
 	"serv_inspass":"Entrez votre mot de passe"
