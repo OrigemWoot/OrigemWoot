@@ -1,9 +1,9 @@
 window.ow_lang = {
 	"ow_loaded":		  "Para ver a lista de comandos, use /cmd. Visite nosso site!",
-	"ow_site":			  "http://origem-woot.com/",
+	"ow_site":			  "http://origem-woot.tk/",
     "titleDev":           "Criador do Origem Woot",
     "titlevip":           "Vip do Origem Woot",
-    "titlepomvip":"Power of Music VIP",
+    "titleumvip":"Ultra Music VIP",
     "titleHelper":        "Ajudante do Origem Woot",
     "titleSpreader":      "Divulgador do Origem Woot",
 	"titleDesigner":   "Designer do Origem Woot",
@@ -212,8 +212,8 @@ window.ow_lang = {
 	"pm_fserv":"Servidor do OrigemWoot em %%Time%%",
 	"pm_fuser":"%%User%% em %%Time%%",
 	"pm_unf":"Nenhum usuário encontrado.",
-	"serv_diffnick":"Seu nick é diferente do nick registrado em nosso servidor. Por favor, vá até nossa sala de cadastro para atualizar seu nick: https://plug.dj/6813306957241099586",
-	"serv_noreg":"Você não possui uma conta em nosso servidor. Se você deseja usar o chat privado, por favor, vá até nossa sala de cadastro para criar uma senha: https://plug.dj/6813306957241099586 Quando você entrar na sala, execute o script novamente. Aparecerá uma mensagem para você inserir uma nova senha.",
+	"serv_diffnick":"Seu nick é diferente do nick registrado em nosso servidor. Por favor, vá até nossa sala de cadastro para atualizar seu nick: https://plug.dj/0124142727274",
+	"serv_noreg":"Você não possui uma conta em nosso servidor. Se você deseja usar o chat privado, por favor, vá até nossa sala de cadastro para criar uma senha: https://plug.dj/0124142727274 Quando você entrar na sala, execute o script novamente. Aparecerá uma mensagem para você inserir uma nova senha.",
 	"serv_acc_created":"Sua senha foi criada/alterada. Você pode ir para outras salas agora. Volte aqui se você quiser mudar a senha.",
 	"serv_mewpass":"Insira uma nova senha se você não está registrado ou se você deseja mudar sua senha ou clique em cancelar para fechar esta mensagem.",
 	"serv_inspass":"Insira sua senha"
