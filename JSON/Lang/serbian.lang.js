@@ -1,9 +1,9 @@
 window.ow_lang = {
         "ow_loaded":              "Za listu komandi koristi /cmd, takodje proveri nas sajt!",
-        "ow_site":                        "http://origem-woot.com/",
+        "ow_site":                        "http://origem-woot.tk/",
     "titleDev":           "Origem Woot Programer",
     "titlevip":           "Origem Woot VIP",
-    "titlepomvip":"Power of Music VIP",
+    "titleumvip":"Ultra Music VIP",
     "titleHelper":        "Origem Woot Pomoćnik",
     "titleSpreader":      "Origem Woot Spreader",
         "titleDesigner":          "Origem Woot Dizajner",
@@ -201,8 +201,8 @@ window.ow_lang = {
         "pm_fserv":"OrigemWoot Server u %%Time%%",
         "pm_fuser":"%%User%% u %%Time%%",
         "pm_unf":"Nema pronađenog(ih) korisnika.",
-        "serv_diffnick":"Tvoje korisničko ime je drugačije od korisničkog imena u našem serveru. Molimo Vas, idite u našu sobu za registracije da ažurirate korisničko ime: https://plug.dj/6813306957241099586",
-        "serv_noreg":"Nemaš profila na našem serveru. Ukoliko želite da koristite privatne poruke, molimo Vas, idite u našu sobu za registracije da kreirate šifru: https://plug.dj/6813306957241099586 Kada uđete u sobu pokrenite skriptu ponovo. Pojaviće se poruka da ubacite šifru",
+        "serv_diffnick":"Tvoje korisničko ime je drugačije od korisničkog imena u našem serveru. Molimo Vas, idite u našu sobu za registracije da ažurirate korisničko ime: https://plug.dj/0124142727274",
+        "serv_noreg":"Nemaš profila na našem serveru. Ukoliko želite da koristite privatne poruke, molimo Vas, idite u našu sobu za registracije da kreirate šifru: https://plug.dj/0124142727274 Kada uđete u sobu pokrenite skriptu ponovo. Pojaviće se poruka da ubacite šifru",
         "serv_acc_created":"Vaša šifra je kreirana/promenjena. Možete ići u drugo sobe sada. Vratite se ovde ukoliko želite da promenite šifru.",
         "serv_mewpass":"Unesite novu šifru ukoliko niste registrovani ili želite da promenie šifru ili kliknite izađi da isključite ovu poruku.",
         "serv_inspass":"Unesite Vašu šifru"
