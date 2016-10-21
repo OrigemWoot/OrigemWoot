@@ -41,43 +41,43 @@ window.ow_main = {
 			"https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som35.mp3"
 		]
 	},
-	"socket" : "wss://owsocket3-caipira.rhcloud.com:8443/socket/websocket",
+	"socket" : "wss://ow-socket-nakituminajasi.c9users.io:8080/socket/websocket",
 	"lng": {
 		"en" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/english.lang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/english.lang.js",
 			"name" : "English"
 		},
 		"pt" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/portuguese.lang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/portuguese.lang.js",
 			"name" : "Português"
 		},
 		"fr" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/french.lang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/french.lang.js",
 			"name" : "Français"
 		},
 		"sb" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/serbian.lang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/serbian.lang.js",
 			"name" : "српски"
 		},
 		"cs" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/czech.lang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/JSON/Lang/czech.lang.js",
 			"name" : "Čeština"
 		},
 		"nl" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/dutch.lang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/dutch.lang.js",
 			"name" : "Nederlands"
 		},
 		"es" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/spanish.lang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/spanish.lang.js",
 			"name" : "Español"
 		},
 		"sk" : {
-			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/sklang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/sklang.js",
 			"name" : "Slovenština"
 		}
 	},
 	"customRooms" : {
-		"electro-brasil" : {
+		"m-u" : {
 			"title" : "Dark",
 			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/EB%20CSS.css",
 			"overridecss" : true
