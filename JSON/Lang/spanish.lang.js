@@ -1,9 +1,9 @@
 window.ow_lang = {
     "ow_loaded":          "Para ver la lista de comandos utiliza /cmd , visita nuestro sitio web!!",
-    "ow_site":            "http://origem-woot.com/",
+    "ow_site":            "http://origem-woot.tk/",
     "titleDev":           "Desarollador",
     "titlevip":           "Origem Woot VIP",
-    "titlepomvip":"Power of Music VIP",
+    "titleumvip":"Ultra Music VIP",
     "titleHelper":        "Origem Woot Ayudante",
     "titleSpreader":      "Origem Woot Promotor",
     "titleDesigner":      "Origem Woot Designer",
@@ -200,8 +200,8 @@ window.ow_lang = {
 	"pm_fserv":"OrigemWoot Server in %%Time%%",
 	"pm_fuser":"%%User%% in %%Time%%",
 	"pm_unf":"No user(s) found.",
-	"serv_diffnick":"Your username is different from username in our server. Please, go to our Registration Room to update the username: https://plug.dj/6813306957241099586",
-	"serv_noreg":"You no have an account in our server. If you want to use the Private Chat, please, go to our Registration Room to create a password: https://plug.dj/6813306957241099586 When you join in the room, run the script again. Will appear a message to you insert the new password.",
+	"serv_diffnick":"Your username is different from username in our server. Please, go to our Registration Room to update the username: https://plug.dj/0124142727274",
+	"serv_noreg":"You no have an account in our server. If you want to use the Private Chat, please, go to our Registration Room to create a password: https://plug.dj/0124142727274 When you join in the room, run the script again. Will appear a message to you insert the new password.",
 	"serv_acc_created":"Your password has been created/changed. You can go to others rooms now. Back here if you want change the pass.",
 	"serv_mewpass":"Insert a new password if you are not registered or want change the pass or click in cancel to close this message.",
 	"serv_inspass":"Insert your password"
