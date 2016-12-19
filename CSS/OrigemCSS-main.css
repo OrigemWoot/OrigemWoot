@@ -311,7 +311,7 @@ div[class*="ow-"] .un::before{
 	background: url(http://i.imgur.com/vO5O5nc.png);
 }
 
-.origem-dev-badge ,
+.origem-dev-badge { background: url(http://i.imgur.com/x9h59YO.png) }
 .origem-spreader-badge { background: url(https://www.dropbox.com/s/kc4dejy9c1ynb51/SPRDBADG30px.png?raw=1) }
 .origem-helper-badge { background: url(https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1) }
 .origem-vip1-badge { background: url(https://i.imgur.com/CMgHQpV.png) }
