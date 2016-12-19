@@ -60,7 +60,7 @@ window.ow_main = {
 			"name" : "српски"
 		},
 		"cs" : {
-			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/JSON/Lang/czech.lang.js",
+			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/czech.lang.js",
 			"name" : "Čeština"
 		},
 		"nl" : {
