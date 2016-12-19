@@ -82,7 +82,7 @@ window.ow_main = {
 			"css" : "https://rawgit.com/FALSEYING/MFE/master/themes/christmas/style.css",
 			"background" : "https://cdn.radiant.dj/rcs/bg/2k13winter.jpg",
 			"overridecss" : true
-		}
+		},
 		"move-it" : {
 			"title" : "MIB",
 			"css" : "https://rawgit.com/Shadow-Slayer/mib/master/mib.css",
