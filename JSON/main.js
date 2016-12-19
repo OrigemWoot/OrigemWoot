@@ -83,5 +83,11 @@ window.ow_main = {
 			"background" : "https://cdn.radiant.dj/rcs/bg/2k13winter.jpg",
 			"overridecss" : true
 		}
+		"move-it" : {
+			"title" : "MIB",
+			"css" : "https://rawgit.com/Shadow-Slayer/mib/master/mib.css",
+			"background" : "http://i.imgur.com/Q2On7oi.png",
+			"overridecss" : true
+		}
 	}
 };
