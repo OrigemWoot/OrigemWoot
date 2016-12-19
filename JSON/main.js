@@ -41,7 +41,7 @@ window.ow_main = {
 			"https://raw.githubusercontent.com/OrigemWoot/OrigemWoot/master/Sounds/Zoeira/som35.mp3"
 		]
 	},
-	"socket" : "wss://ow-socket-nakituminajasi.c9users.io:8080/socket/websocket",
+	"socket" : "wss://ipwsocket3-igorce9.rhcloud.com:8443/socket/websocket",
 	"lng": {
 		"en" : {
 			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/english.lang.js",
