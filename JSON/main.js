@@ -77,9 +77,10 @@ window.ow_main = {
 		}
 	},
 	"customRooms" : {
-		"m-u" : {
-			"title" : "Dark",
-			"css" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/CSS/EB%20CSS.css",
+		"m-f-e" : {
+			"title" : "MFE",
+			"css" : "https://rawgit.com/FALSEYING/MFE/master/themes/christmas/style.css",
+			"background" : "https://cdn.radiant.dj/rcs/bg/2k13winter.jpg",
 			"overridecss" : true
 		}
 	}
