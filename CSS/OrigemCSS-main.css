@@ -72,7 +72,6 @@ background-repeat: no-repeat !important;width:15px;height:15px;}
 
 #main_player .eta{font-size:13px !important; position: relative;top: 5px;float: right;right: 0px;height: 30px;}
 
-/*
 .christmas{
 	background: url(https://i.imgur.com/xKY438C.png) !important;
 	background-repeat: no-repeat !important;
@@ -83,7 +82,6 @@ background-repeat: no-repeat !important;width:15px;height:15px;}
 	background-size: 100% 100%, auto;
 	margin-right: 12px;
 }
-*/
 /* User list */
 
 .userInfo.dj .votedBackgroundColor { background-color: #0A4380; font-weight: bold; }
