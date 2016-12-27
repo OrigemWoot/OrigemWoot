@@ -1,6 +1,7 @@
 window.ow_lang = {
 	"ow_loaded":		  "For a list of commands use /cmd, check out our site!",
 	"ow_site":			  "http://origem-woot.tk/",
+	"titleASO":           "Anime Srbija Osnivač",
 	"titleASS":           "Anime Srbija Staff",
 	"titleASV":           "Anime Srbija VIP",
     "titleDev":           "Origem Woot Dev",
