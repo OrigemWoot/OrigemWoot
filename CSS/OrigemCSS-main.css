@@ -234,7 +234,7 @@ background-repeat: no-repeat !important;}
 
 
 .ow-dev  > .msg > .from > .un, div[data-cid~="ow-dev"]   > .msg > .from > .un{	color: #db182e !important; }
-.ow-ASO  > .msg > .from > .un, div[data-cid~="ow-dev"]   > .msg > .from > .un{	color: #FF6600 !important; }
+.ow-ASO  > .msg > .from > .un, div[data-cid~="ow-ASO"]   > .msg > .from > .un{	color: #FF6600 !important; }
 /*
 .ow-helper  > .msg > .from > .un, div[data-cid~="ow-helper"]  > .msg > .from > .un { color: #00B3DB !important; }
 .ow-spreader  > .msg > .from > .un, div[data-cid~="ow-spreader"]  > .msg > .from > .un { color: #238341 !important; }
