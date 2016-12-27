@@ -161,14 +161,15 @@
 			 "color": "#7171C6"
 		}
 	},
-	"ASS" : {
+	"ASO" : {
 		"ids" : [
+			5595097
 		],
 		"rollover" : {
-			 "classteam" : "ASS",
-			 "icon" : "https://i.imgur.com/BXdbDyv.png",
-			 "langkey": "titleASS",
-			 "color": "#825AAE"
+			 "classteam" : "ASO",
+			 "icon" : "http://i.imgur.com/2VvYUSM.gif",
+			 "langkey": "titleASO",
+			 "color": "#FF6600"
 		}
 	}
 }
