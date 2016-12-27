@@ -150,5 +150,26 @@
 			 "langkey": "titleDesigner",
 			 "color": "#825AAE"
 		}
+	},
+	"ASV" : {
+		"ids" : [
+			22743068
+		],
+		"rollover" : {
+			 "classteam" : "ASV",
+			 "icon" : "https://i.imgur.com/BXdbDyv.png",
+			 "langkey": "titleASV",
+			 "color": "#7171C6"
+		}
+	},
+	"ASS" : {
+		"ids" : [
+		],
+		"rollover" : {
+			 "classteam" : "ASS",
+			 "icon" : "https://i.imgur.com/BXdbDyv.png",
+			 "langkey": "titleASS",
+			 "color": "#825AAE"
+		}
 	}
 }
