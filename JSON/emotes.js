@@ -1,5 +1,10 @@
 window.ow_emotes = {
  "Miscellaneous" : {
+      "animesrbija":{  
+         "height":"100px",
+         "url":"http://i913.photobucket.com/albums/ac339/vortodox1/35yz_zps9cd3e25c.png",
+         "width":"220px"
+        },
       "ciker":{  
          "height":"46px",
          "url":"http://i.imgur.com/Kx2N7VF.png",
