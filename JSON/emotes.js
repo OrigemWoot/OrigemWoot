@@ -1,5 +1,10 @@
 window.ow_emotes = {
  "Miscellaneous" : {
+      "ciker":{  
+         "height":"46px",
+         "url":"http://i.imgur.com/Kx2N7VF.png",
+         "width":"331px"
+        },
       "axl":{  
          "height":"100px",
          "url":"https://i.imgur.com/eaYZ3m7.gif",
