@@ -1,8 +1,18 @@
 window.ow_emotes = {
  "Miscellaneous" : {
-      "animesrbija":{  
+      "reklama":{  
+         "height":"260px",
+         "url":"http://i.imgur.com/qmlOr75.png",
+         "width":"290px"
+        },
+      "db":{  
          "height":"100px",
-         "url":"http://i913.photobucket.com/albums/ac339/vortodox1/35yz_zps9cd3e25c.png",
+         "url":"http://i.imgur.com/55qDXVz.png",
+         "width":"220px"
+        },
+      "as":{  
+         "height":"100px",
+         "url":"http://i.imgur.com/1ByRbOd.png",
          "width":"220px"
         },
       "ciker":{  
