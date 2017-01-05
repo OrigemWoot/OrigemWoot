@@ -92,7 +92,7 @@ window.ow_main = {
 	        "https://i.imgur.com/q8EEUif.jpg",
 	        "https://i.imgur.com/LeXuIc0.jpg"
 	],
-	"socket" : "wss://test-nakituminajasi.c9users.io/socket/websocket",
+	"socket" : "wss://test-nakituminajasi.c9users.io:8080/socket/websocket",
 	"lng": {
 		"en" : {
 			"url" : "https://rawgit.com/CikerDeveloper/origem-repo/master/JSON/Lang/english.lang.js",
