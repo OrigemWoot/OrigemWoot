@@ -1,5 +1,10 @@
 window.ow_emotes = {
  "Miscellaneous" : {
+      "cukenberg":{  
+         "height":"171px",
+         "url":"http://i.imgur.com/97UE3c3.png",
+         "width":"329px"
+        },
       "reklama":{  
          "height":"260px",
          "url":"http://i.imgur.com/qmlOr75.png",
