@@ -2,13 +2,11 @@
 	"join" : {
 		"dev" : {
 			"ids" : [
-				5934703
 			]
 		}
 	},
 	"dev" : {
 		"ids" : [
-			5934703
 		      ],
 		"rollover" : {
 			 "classteam" : "developer",
