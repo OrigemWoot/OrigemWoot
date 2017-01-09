@@ -471,7 +471,6 @@ a:-webkit-any-link { color: -webkit-link; text-decoration: none; cursor: auto; }
 	width: 53px;
 	height: 54px;
 	position: absolute;
-	background-color: #282c35;
 	top: 0px;
 	left: 54px;
 	z-index: 20;
