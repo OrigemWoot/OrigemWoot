@@ -1,5 +1,10 @@
 window.ow_emotes = {
  "Miscellaneous" : {
+     "cudesnabiljka":{
+         "height":"400px",
+         "url":"https://media.giphy.com/media/26FLgBTDkCK9p4sjC/giphy.gif",
+         "width":"224px"
+       },
       "cukenberg":{  
          "height":"171px",
          "url":"http://i.imgur.com/97UE3c3.png",
