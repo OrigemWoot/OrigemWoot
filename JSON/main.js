@@ -145,6 +145,13 @@ window.ow_main = {
 			"css" : "https://rawgit.com/Kenan-plugdj/RWplug/master/rw.css",
 			"background" : "http://i.imgur.com/WTylHRy.png",
 			"overridecss" : true
-		}
+		},
+		"kafana-je-moja-sudbina" : {
+ 			"title" : "ULTRA",
+ 			"msg" : "Origem Mode made by Ciker",
+ 			"background" : "http://i.imgur.com/jwmUiYF.png",
+ 			"css" : "https://rawgit.com/CikerDeveloper/origem-repo/master/CSS/cikerroom.css",
+ 			"overridecss" : true
+ 		}
 	}
 };
