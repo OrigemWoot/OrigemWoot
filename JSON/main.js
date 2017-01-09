@@ -146,7 +146,7 @@ window.ow_main = {
 			"background" : "http://i.imgur.com/WTylHRy.png",
 			"overridecss" : true
 		},
-		"kafana-je-moja-sudbina" : {
+		"ultramusic-um" : {
  			"title" : "ULTRA",
  			"msg" : "Origem Mode made by Ciker",
  			"background" : "http://i.imgur.com/jwmUiYF.png",
