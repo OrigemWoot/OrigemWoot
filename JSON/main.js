@@ -140,5 +140,11 @@ window.ow_main = {
 			"background" : "http://i.imgur.com/Q2On7oi.png",
 			"overridecss" : true
 		}
+		"rock-wins-10" : {
+			"title" : "RW",
+			"css" : "https://rawgit.com/Kenan-plugdj/RWplug/master/rw.css",
+			"background" : "http://i.imgur.com/WTylHRy.png",
+			"overridecss" : true
+		}
 	}
 };
