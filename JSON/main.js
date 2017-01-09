@@ -139,7 +139,7 @@ window.ow_main = {
 			"css" : "https://rawgit.com/Shadow-Slayer/mib/master/mib.css",
 			"background" : "http://i.imgur.com/Q2On7oi.png",
 			"overridecss" : true
-		}
+		},
 		"rock-wins-10" : {
 			"title" : "RW",
 			"css" : "https://rawgit.com/Kenan-plugdj/RWplug/master/rw.css",
