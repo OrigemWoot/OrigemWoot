@@ -18,7 +18,7 @@ Usage
 * Go to site and drop button
 
 ```
-http://origem-woot.tk/
+https://www.origem-woot.tk/
 ```
 
 -----------------
