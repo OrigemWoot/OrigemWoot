@@ -21,6 +21,9 @@ Usage
 https://www.origem-woot.tk/
 ```
 
+```
+javascript:(function(){$.getScript('https://www.origem-woot.tk/code/origem.min.js');}());
+```
 -----------------
 Features
 ---
