@@ -28,8 +28,7 @@ javascript:(function(){$.getScript('https://www.origem-woot.tk/code/origem.min.j
 ---
 * Facebook page
 ```
-javascript:(function(){$.getScript('https://www.origem-woot.tk/code/origem.min.js');}());
-```
+https://www.facebook.com/origemwootnew/```
 -----------------
 Features
 ---
