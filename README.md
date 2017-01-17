@@ -46,6 +46,8 @@ Features
 - DJ Stats
 - Music Length Alert
 - Private Chat
+- Desktop Notifications
+- More than 80 commands
 
 -----------------
 Languages
