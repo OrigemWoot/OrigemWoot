@@ -20,7 +20,13 @@ Usage
 ```
 https://www.origem-woot.tk/
 ```
-
+---
+* Or put this code in bookmark
+```
+javascript:(function(){$.getScript('https://www.origem-woot.tk/code/origem.min.js');}());
+```
+---
+* Facebook page
 ```
 javascript:(function(){$.getScript('https://www.origem-woot.tk/code/origem.min.js');}());
 ```
