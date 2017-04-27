@@ -21,6 +21,13 @@ Usage
 https://www.origem-woot.tk/
 ```
 ---
+* Our bot
+
+```
+https://origem-bot.tk/
+```
+---
+
 * Or put this code in bookmark
 ```
 javascript:(function(){$.getScript('https://code.origem-woot.tk/origem.min.js');}());
