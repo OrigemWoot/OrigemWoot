@@ -54,7 +54,15 @@ Features
 - Music Length Alert
 - Private Chat
 - Desktop Notifications
+- Emotes menu
 - More than 80 commands
+
+-----------------
+Fixes and Improvements
+---
+- Origem Update message
+- Loading box
+- Soundcloud fix
 
 -----------------
 Languages
