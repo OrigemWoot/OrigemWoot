@@ -18,7 +18,7 @@ Usage
 * Go to site and drop button
 
 ```
-[https://www.origem-woot.tk](https://www.origem-woot.tk)
+https://www.origem-woot.tk
 ```
 * Or put this code in bookmark
 ```
@@ -28,13 +28,13 @@ javascript:(function(){$.getScript('https://code.origem-woot.tk/origem.min.js');
 * Our bot
 
 ```
-[https://origem-bot.tk](https://origem-bot.tk) [Like Us on Facebook!](https://www.facebook.com/origemwootnew)
+https://origem-bot.tk
 ```
 ---
 ---
 * Facebook page
 ```
-[https://www.facebook.com/origemwootnew](https://www.facebook.com/origemwootnew)
+https://www.facebook.com/origemwootnew
 ```
 -----------------
 Features
