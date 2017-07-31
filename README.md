@@ -28,8 +28,7 @@ javascript:(function(){$.getScript('https://code.origem-woot.tk/origem.min.js');
 * Our bot
 
 ```
-[https://origem-bot.tk](https://origem-bot.tk)
-
+[https://origem-bot.tk](https://origem-bot.tk) [Like Us on Facebook!](https://www.facebook.com/origemwootnew)
 ```
 ---
 ---
