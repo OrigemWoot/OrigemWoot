@@ -31,7 +31,6 @@ javascript:(function(){$.getScript('https://code.origem-woot.tk/origem.min.js');
 https://origem-bot.tk
 ```
 ---
----
 * Facebook page
 ```
 https://www.facebook.com/origemwootnew
