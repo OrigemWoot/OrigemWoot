@@ -10,7 +10,7 @@
 -------------
 Our Team
 ---
- - [1MICROFIX]() __(Owner/Developer)__
+ - [1MICROFIX]() / [Ciker]() __(Owner/Developer)__
 
 -----------------
 IMPORTANT
