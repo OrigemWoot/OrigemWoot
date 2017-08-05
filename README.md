@@ -1,3 +1,6 @@
+[![Stories in Ready](https://badge.waffle.io/OrigemWoot/OrigemWoot.svg?label=ready&title=Ready)](http://waffle.io/OrigemWoot/OrigemWoot)
+-------------
+
 # Origem Woot
 - A complete script/extension for plug.dj
 
