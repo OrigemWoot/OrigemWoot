@@ -10,7 +10,7 @@
 -------------
 Our Team
 ---
- - [1MICROFIX]() / [Ciker]() __(Owner/Developer)__
+ - [1MICROFIX](https://github.com/CikerDeveloper) / [Ciker](https://github.com/CikerDeveloper) __(Owner/Developer)__
 
 -----------------
 IMPORTANT
