@@ -2,13 +2,15 @@
 	"join" : {
 		"dev" : {
 			"ids" : [
-				23713925
+				23713925,
+				29368845
 			]
 		}
 	},
 	"dev" : {
 		"ids" : [
-			23713925
+			23713925,
+			29368845
 		      ],
 		"rollover" : {
 			 "classteam" : "developer",
@@ -131,6 +133,7 @@
 	},
 	"helper" : {
 		"ids" : [
+			5819239
 		],
 		"rollover" : {
 			 "classteam" : "helper",
