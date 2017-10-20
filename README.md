@@ -21,11 +21,11 @@ Usage
 * Go to site and drop button
 
 ```
-https://www.origem-woot.tk
+https://origemwoot.github.io/
 ```
 * Or put this code in bookmark
 ```
-javascript:(function(){$.getScript('https://code.origem-woot.tk/origem.min.js');}());
+javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/origem.min.js');}());
 ```
 ---
 * Our bot
