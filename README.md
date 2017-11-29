@@ -21,7 +21,7 @@ Usage
 * Go to site and drop button
 
 ```
-https://origemwoot.github.io/
+https://origemwoot.github.io
 ```
 ```
 https://www.origem-woot.tk
