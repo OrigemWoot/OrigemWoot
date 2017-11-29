@@ -5,10 +5,11 @@
     Please do not copy or modify without permission
     from the respected owner(s) and developer(s).
 
-    CURRENT DEVELOPERS: 1MICROFIX (Nikita Sibul)
+    CURRENT DEVELOPERS: Ciker (Nikita Sibul)
 
     CONTACT: microfix1252002@gmail.com
     WEBSITE: https://origemwoot.github.io
+    WEBSITE: https://www.origem-woot.tk
 
     PROPERTY OF ORIGEM WOOT
 
