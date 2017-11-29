@@ -23,6 +23,10 @@ Usage
 ```
 https://origemwoot.github.io/
 ```
+```
+https://www.origem-woot.tk
+```
+
 * Or put this code in bookmark
 ```
 javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/origem.min.js');}());
