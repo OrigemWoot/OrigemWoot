@@ -1,6 +1,6 @@
 window.ow_lang = {
 	"ow_loaded":"Pro seznam příkazů použijte /cmd, nezapomeňte navštívit naší stránku!",
-	"ow_site":"https://www.origem-woot.tk/",
+	"ow_site":"https://origemwoot.github.io",
 	"titleDev":"Origem Woot Dev",
 	"titlevip":"Origem Woot VIP",
 	"titleumvip":"Ultra Music VIP",
