@@ -105,7 +105,7 @@ outline: none; z-index: 11 !important; overflow-y: auto; overflow-x: hidden; }
 .ul-bouncer,.ul-dj, .ul-host,.ul-manager { color: #CCABFF;}
 .ul-user { color: white; }
 .userlj{
- background: url(https://cdn.plug.dj/_/static/images/icons.d8b5eb442b3acb5ccfbbe2541b9db0756e45beba.png) 314px -349px;
+ background: url(https://i.imgur.com/P2oOeDR.png) 314px -349px;
  position: absolute; width: 15px; height: 15px; top: 7px;  left: 7px; }
 div[class^="nick ul"] {
     width: 125px;
@@ -234,7 +234,6 @@ background-repeat: no-repeat !important;}
 
 
 .ow-dev  > .msg > .from > .un, div[data-cid~="ow-dev"]   > .msg > .from > .un{	color: #db182e !important; }
-.ow-ASO  > .msg > .from > .un, div[data-cid~="ow-ASO"]   > .msg > .from > .un{	color: #FF6600 !important; }
 /*
 .ow-helper  > .msg > .from > .un, div[data-cid~="ow-helper"]  > .msg > .from > .un { color: #00B3DB !important; }
 .ow-spreader  > .msg > .from > .un, div[data-cid~="ow-spreader"]  > .msg > .from > .un { color: #238341 !important; }
@@ -309,9 +308,7 @@ div[class*="ow-"] .un::before{
 .ow-vip10 .un::before, div[data-cid~="ow-vip10"] .un::before{
 	background: url(http://i.imgur.com/vO5O5nc.png);
 }
-.ow-ASO .un::before, div[data-cid~="ow-ASO"] .un::before{
-	background: url(http://i.imgur.com/4SqDSIu.gif);
-}
+
 .origem-dev-badge { background: url(http://i.imgur.com/x9h59YO.png) }
 .origem-spreader-badge { background: url(https://www.dropbox.com/s/kc4dejy9c1ynb51/SPRDBADG30px.png?raw=1) }
 .origem-helper-badge { background: url(https://www.dropbox.com/s/a9bb12v032qww2y/HELPRBADGE30px.png?raw=1) }
@@ -327,7 +324,6 @@ div[class*="ow-"] .un::before{
 .origem-vip10-badge { background: url(http://i.imgur.com/sLplXry.png) }
 .origem-designer-badge { background: url(https://www.dropbox.com/s/fxz4ztvy0hz2kju/DESBADGE30px.png?raw=1) } 
 .origem-translator-badge { background: url(https://i.imgur.com/3epe8Vp.png) } 
-.origem-ASO-badge { background: url(http://i.imgur.com/QseftH8.jpg) }
 .icon-dev {	background: url(https://i.imgur.com/7MHdeHw.png) !important; background-repeat: no-repeat !important;
 width: 15px !important; height: 15px !important;
 top: 8px !important; left: 15px !important;}
@@ -680,29 +676,3 @@ height: 30px;
     height: 0;
 	z-index: 1;
 }
-
-/*deca oce bedzeve*/
-
-/*Wolfy-Girl-DJ*/
-
-#chat [data-cid^="22743068-"] .bdg {
-  background: url('http://i.imgur.com/ZwohEkB.png') !important;
-  background-position: 0px 0px;
-}
-
-/*DJ _vule_tebra*/
-
-#chat [data-cid^="3559739-"] .bdg {
-  background: url('http://i.imgur.com/szSuBcA.png') !important;
-  background-position: 0px 0px;
-}
-
-/*the.DARK.1337*/
-
-
-#chat [data-cid^="5347199-"] .bdg {
-  background: url('http://i.imgur.com/B6rzk0Z.png') !important;
-  background-position: 0px 0px;
-}
-
-
