@@ -1,9 +1,6 @@
 window.ow_lang = {
         "ow_loaded":              "Za listu komandi koristi /cmd, takodje proveri nas sajt!",
-        "ow_site":                        "https://www.origem-woot.tk/",
-	"titleASO":           "Anime Srbija Osnivač",
-	"titleASS":           "Anime Srbija Staff",
-	"titleASV":           "Anime Srbija VIP",
+        "ow_site":                        "https://origemwoot.github.io",
     "titleDev":           "Origem Woot Programer",
     "titlevip":           "Origem Woot VIP",
     "titleumvip":"Ultra Music VIP",
