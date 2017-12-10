@@ -3,7 +3,7 @@
   <br>
   <a href="https://origemwoot.github.io"><img src="https://i.imgur.com/YsvfUtf.png" alt="Origem Woot" width="200"></a>
   <br>
-  Origem Woot
+  Origem Woot (v2.7.1)
   <br>
 </h1>
 
@@ -63,6 +63,8 @@ https://www.facebook.com/origemwootnew
 - Origem Update message
 - Loading box
 - Soundcloud fix
+- Improved Stability
+- JSON Improvement in script
 
 ## Languages
 
