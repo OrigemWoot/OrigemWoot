@@ -1,6 +1,6 @@
 window.ow_lang = {
 	"ow_loaded":		  "Voor een lijst van mogelijke commands, typ /cmd, bekijk zeker onze site!",
-	"ow_site":			  "https://www.origem-woot.tk/",
+	"ow_site":			  "https://origemwoot.github.io",
     "titleDev":           "Origem Woot Dev",
     "titlevip":           "Origem Woot Vip",
     "titleumvip":"Ultra Music VIP",
