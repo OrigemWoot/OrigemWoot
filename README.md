@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://origemwoot.github.io"><img src="https://i.imgur.com/hAFKXly.png" alt="Origem Woot" width="200"></a>
+  <a href="https://origemwoot.github.io"><img src="https://i.imgur.com/YsvfUtf.png" alt="Origem Woot" width="200"></a>
   <br>
   Origem Woot
   <br>
