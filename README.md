@@ -68,6 +68,7 @@ https://www.facebook.com/origemwootnew
 - Soundcloud fix
 - Improved Stability
 - JSON Improvement in script
+- Annoucement on load
 
 ## Languages
 
