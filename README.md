@@ -43,9 +43,11 @@
 
 ```
 1. Go to site and drop button in your bookmark
+
 https://origemwoot.github.io
 
 2. Or put this code in bookmark
+
 javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/origem.min.js');}());
 
 ```
