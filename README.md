@@ -1,77 +1,70 @@
+
+<h1 align="center">
+  <br>
+  <a href="https://origemwoot.github.io"><img src="https://i.imgur.com/hAFKXly.png" alt="Origem Woot" width="200"></a>
+  <br>
+  Origem Woot
+  <br>
+</h1>
+
+<h4 align="center">A complete script/extension for <a href="http://plug.dj" target="_blank">plug.dj</a>.</h4>
+<p align="center">
 [![Stories in Ready](https://badge.waffle.io/OrigemWoot/OrigemWoot.svg?label=ready&title=Ready)](http://waffle.io/OrigemWoot/OrigemWoot)
--------------
+  </a>
+  <a href="https://gitter.im/OrigemWootOW/Lobby"><img src="https://badges.gitter.im/OrigemWootOW/Lobby.svg"></a>
+  <a href="#">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  </a>
+  <a href="https://www.paypal.me/1microfix">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+</p>
 
-# Origem Woot
-- A complete script/extension for plug.dj
 
-[Like Us on Facebook!](https://www.facebook.com/origemwootnew)
+## Key Features
 
+* Autovote
+* AFK Autorespond
+* Emotes
+* Split Chat
+* ETA
+* User Join
+* User Leave
+* Booth Alert
+* Show Mehs
+* DJ Stats
+* Music Length Alert
+* Private Chat
+* Desktop Notifications
+* Emotes menu
+* More than 80 commands
 
--------------
-Our Team
----
- - [Ciker](https://github.com/CikerDeveloper) __(OWNER/DEVELOPER)__
-
------------------
-IMPORTANT
------------------
-Usage
----
-
-* Go to site and drop button
+## How To Use
 
 ```
+# Go to site and drop button
 https://origemwoot.github.io
-```
-```
-https://www.origem-woot.tk
-```
 
-* Or put this code in bookmark
-```
+# Or put this code in bookmark
 javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/origem.min.js');}());
 ```
----
-* Our bot
 
-```
-https://origem-bot.tk
-```
----
-* Facebook page
-```
+## Facebook
+
 https://www.facebook.com/origemwootnew
-```
------------------
-Features
----
 
-- Autovote
-- AFK Autorespond
-- Emotes
-- Split Chat
-- ETA
-- User Join
-- User Leave
-- Booth Alert
-- Show Mehs
-- DJ Stats
-- Music Length Alert
-- Private Chat
-- Desktop Notifications
-- Emotes menu
-- More than 80 commands
+## Credits
 
------------------
-Fixes and Improvements
----
+- [Ciker](https://github.com/CikerDeveloper) __(OWNER/DEVELOPER)__
+
+
+## Fixes and Improvements
+
 - Origem Update message
 - Loading box
 - Soundcloud fix
 
------------------
-Languages
----
+## Languages
 
 - Português
 - English
@@ -81,3 +74,12 @@ Languages
 - Nederlands
 - Español
 - Slovenština
+
+#### License
+
+MIT
+
+---
+
+> GitHub [@CikerDeveloper](https://github.com/CikerDeveloper) &nbsp;&middot;&nbsp;
+
