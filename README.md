@@ -41,14 +41,15 @@
 
 ## How To Use
 
-```
-# Go to site and drop button
+
+1. Go to site and drop button in your bookmark
 https://origemwoot.github.io
 
-# Or put this code in bookmark
+2. Or put this code in bookmark
 javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/origem.min.js');}());
-```
-<a title="Drag me to your bookmarks bar!" onclick="return alert('Drag this link to your bookmarks'),false;" href="javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/origem.min.js');}());" target="_blank" class="btn purple01"><span>ORIGEM</span></a>
+
+3. <a href="javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWoot/master/origem.min.js');}());">ORIGEM</a>
+
 
 ## Facebook
 
