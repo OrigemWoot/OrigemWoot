@@ -9,7 +9,7 @@
 
 <h4 align="center">A complete script/extension for <a href="http://plug.dj" target="_blank">plug.dj</a>.</h4>
 <p align="center">
-[![Stories in Ready](https://badge.waffle.io/OrigemWoot/OrigemWoot.svg?label=ready&title=Ready)](http://waffle.io/OrigemWoot/OrigemWoot)
+    <a href="http://waffle.io/OrigemWoot/OrigemWoot"><img src="https://badge.waffle.io/OrigemWoot/OrigemWoot.svg?label=ready&title=Ready"></a>
   </a>
   <a href="https://gitter.im/OrigemWootOW/Lobby"><img src="https://badges.gitter.im/OrigemWootOW/Lobby.svg"></a>
   <a href="#">
