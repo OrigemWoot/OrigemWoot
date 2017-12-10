@@ -77,7 +77,7 @@ https://www.facebook.com/origemwootnew
 
 #### License
 
-MIT
+GPL-3.0
 
 ---
 
