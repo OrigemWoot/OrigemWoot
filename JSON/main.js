@@ -146,11 +146,10 @@ window.ow_main = {
 			"background" : "http://i.imgur.com/WTylHRy.png",
 			"overridecss" : true
 		},
-		"ultramusic-um" : {
- 			"title" : "ULTRA",
- 			"msg" : "Origem Mode made by Ciker",
- 			"background" : "http://i.imgur.com/jwmUiYF.png",
- 			"css" : "https://rawgit.com/CikerDeveloper/origem-repo/master/CSS/cikerroom.css",
+		"free-run" : {
+ 			"title" : "FR",
+ 			"background" : "https://Repi1K97.github.io/FreeRun/Background/BGS31.jpg",
+ 			"css" : "https://Repi1k97.github.io/FreeRun/Style/Style.css",
  			"overridecss" : true
  		}
 	}
