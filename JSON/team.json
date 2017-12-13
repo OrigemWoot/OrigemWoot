@@ -152,26 +152,5 @@
 			 "langkey": "titleDesigner",
 			 "color": "#825AAE"
 		}
-	},
-	"ASV" : {
-		"ids" : [
-		],
-		"rollover" : {
-			 "classteam" : "ASV",
-			 "icon" : "https://i.imgur.com/BXdbDyv.png",
-			 "langkey": "titleASV",
-			 "color": "#7171C6"
-		}
-	},
-	"ASO" : {
-		"ids" : [
-			5595097
-		],
-		"rollover" : {
-			 "classteam" : "ASO",
-			 "icon" : "http://i.imgur.com/2VvYUSM.gif",
-			 "langkey": "titleASO",
-			 "color": "#FF6600"
-		}
 	}
 }
