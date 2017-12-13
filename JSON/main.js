@@ -128,18 +128,6 @@ window.ow_main = {
 		}
 	},
 	"customRooms" : {
-		"m-f-e" : {
-			"title" : "MFE",
-			"css" : "https://rawgit.com/FALSEYING/MFE/master/themes/christmas/style.css",
-			"background" : "https://cdn.radiant.dj/rcs/bg/2k13winter.jpg",
-			"overridecss" : true
-		},
-		"move-it" : {
-			"title" : "MIB",
-			"css" : "https://rawgit.com/Shadow-Slayer/mib/master/mib.css",
-			"background" : "http://i.imgur.com/Q2On7oi.png",
-			"overridecss" : true
-		},
 		"rock-wins-10" : {
 			"title" : "RW",
 			"css" : "https://rawgit.com/Kenan-plugdj/RWplug/master/rw.css",
