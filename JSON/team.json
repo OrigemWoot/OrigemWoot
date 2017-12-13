@@ -31,8 +31,6 @@
 	},
 	"vip2" : {
 		"ids" : [
-			3559739,
-			5347199
 		],
 		"rollover" : {
 			 "classteam" : "vip2",
@@ -133,7 +131,6 @@
 	},
 	"helper" : {
 		"ids" : [
-			5819239
 		],
 		"rollover" : {
 			 "classteam" : "helper",
