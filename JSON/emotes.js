@@ -10,21 +10,6 @@ window.ow_emotes = {
          "url":"http://i.imgur.com/97UE3c3.png",
          "width":"329px"
         },
-      "reklama":{  
-         "height":"260px",
-         "url":"http://i.imgur.com/qmlOr75.png",
-         "width":"290px"
-        },
-      "db":{  
-         "height":"100px",
-         "url":"http://i.imgur.com/55qDXVz.png",
-         "width":"220px"
-        },
-      "as":{  
-         "height":"100px",
-         "url":"http://i.imgur.com/1ByRbOd.png",
-         "width":"220px"
-        },
       "ciker":{  
          "height":"46px",
          "url":"http://i.imgur.com/Kx2N7VF.png",
