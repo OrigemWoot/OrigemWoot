@@ -137,7 +137,6 @@ window.ow_main = {
 		"free-run" : {
  			"title" : "FR",
  			"background" : "https://Repi1K97.github.io/FreeRun/Background/BGS31.jpg",
- 			"css" : "https://Repi1k97.github.io/FreeRun/Style/Style.css",
  			"overridecss" : true
  		}
 	}
