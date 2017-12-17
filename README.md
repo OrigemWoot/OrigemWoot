@@ -59,7 +59,8 @@ https://www.facebook.com/origemwootnew
 ## Credits
 
 - [Ciker](https://github.com/CikerDeveloper) __(OWNER/DEVELOPER)__
-
+- [Tessi Tess](https://github.com/Tessi1998) __(HELPER)__
+- [Repi](https://github.com/Repi1K97) __(DESIGNER)__
 
 ## Fixes and Improvements
 
