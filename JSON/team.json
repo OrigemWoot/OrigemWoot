@@ -131,7 +131,8 @@
 	},
 	"helper" : {
 		"ids" : [
-			5477951
+			5477951,
+			33069874
 		],
 		"rollover" : {
 			 "classteam" : "helper",
@@ -142,7 +143,6 @@
 	},
 	"designer" : {
 		"ids" : [
-			30496749
 		],
 		"rollover" : {
 			 "classteam" : "designer",
