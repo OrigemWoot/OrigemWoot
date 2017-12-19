@@ -138,6 +138,13 @@ window.ow_main = {
  			"title" : "FR",
  			"background" : "https://Repi1K97.github.io/FreeRun/Background/BGS31.jpg",
  			"overridecss" : true
+ 		},
+		"anime404balkan" : {
+ 			"title" : "Origem",
+			"msg" : "Welcome to Origem Community",
+			"css" : "https://rawgit.com/CikerDeveloper/origem-repo/master/CSS/cikerroom.css",
+ 			"background" : "http://i.imgur.com/jwmUiYF.png",
+ 			"overridecss" : true
  		}
 	}
 };
