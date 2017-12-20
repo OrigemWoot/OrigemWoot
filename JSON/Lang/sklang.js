@@ -4,7 +4,7 @@ window.ow_lang = {
     "titleDev":           "Origem Woot Dev",
     "titlevip":           "Origem Woot Vip",
     "titleumvip":"Ultra Music VIP",
-    "titleHelper":        "Origem Woot Pomocník",
+    "titleStaff":        "Origem Woot Staff",
     "titleSpreader":      "Origem Woot Spreader",
 	"titleDesigner": 	  "Origem Woot Designer",
 	"owload":             "Origem Woot v%%Version%% načtena!",
