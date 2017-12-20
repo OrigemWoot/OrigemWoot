@@ -132,15 +132,15 @@
 			 "color": "#238341"
 		}
 	},
-	"helper" : {
+	"staff" : {
 		"ids" : [
 			5477951,
 			33069874
 		],
 		"rollover" : {
-			 "classteam" : "helper",
+			 "classteam" : "staff",
 			 "icon" : "https://i.imgur.com/H7aiAN8.png",
-			 "langkey": "titleHelper",
+			 "langkey": "titleStaff",
 			 "color": "#00B3DB"
 		}
 	},
