@@ -59,8 +59,8 @@ https://www.facebook.com/origemwootnew
 ## TEAM
 
 - [Ciker](https://github.com/CikerDeveloper) __(OWNER/DEVELOPER)__
-- [Tessi Tess](https://github.com/Tessi1998) __(HELPER)__
-- [Repi](https://github.com/Repi1K97) __(HELPER)__
+- [Tessi Tess](https://github.com/Tessi1998) __(STAFF)__
+- [Repi](https://github.com/Repi1K97) __(STAFF)__
 
 ## Fixes and Improvements
 
