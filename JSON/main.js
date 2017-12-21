@@ -149,7 +149,7 @@ window.ow_main = {
  			"title" : "Origem",
 			"msg" : "Welcome to Origem Community",
 			"css" : "https://rawgit.com/CikerDeveloper/origem-repo/master/CSS/cikerroom.css",
- 			"background" : "http://i.imgur.com/jwmUiYF.png",
+ 			"background" : "http://i.imgur.com/AQiItYa.jpg",
  			"overridecss" : true
  		}
 	}
