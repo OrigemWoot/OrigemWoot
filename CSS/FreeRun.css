@@ -1,1 +1,500 @@
+/* ------------------------------------------------------------------ */
 
+#origemscript { 
+    position: absolute; 
+    top: 54px; right: 345px; 
+    width: 130px;  
+    background: #000; 
+    background: rgba(0,0,0,0.5);        
+    padding: 10px; 
+    z-index: 12; 
+    font-family: "helvetica"; 
+    font-size: 1.0em; 
+    border-radius: 0 0 35px 35px; 
+    color: #FFF; 
+}
+
+#ow-painel-main { 
+    cursor: move; 
+}
+
+#ow-painel-background { 
+    cursor: move; 
+}
+
+#origemscript p { 
+    text-align: left; 
+    margin: 0 auto; 
+    width: 80px; 
+    display: inline-block; 
+    padding-right: 5px; 
+}
+
+#origemscript a { 
+    font-size: 1.0em; 
+    color: #fff;
+}
+
+/* ------------------------------------------------------------------ */
+
+#origemscript h3 { 
+    font-size: 20px; 
+    text-align: center; 
+    color: #F70000; 
+}
+
+#origemscript h4 { 
+    font-size: 15px; 
+    text-align: right; 
+    color: #F70000; 
+}
+
+#origemscript .version { 
+    font-style: italic; 
+    font-size: 0.8em; 
+    text-align: center; 
+    margin-bottom: 20px; 
+    width:100%; 
+}
+
+#origemscript .disclaimer { 
+    font-style: italic; 
+    font-size: 0.7em; 
+    text-align: center; 
+    padding-top: 10px; 
+}
+
+.owLinks { 
+    width: 100%; 
+    text-align: center; 
+    margin-bottom: 10px; 
+    cursor: pointer; 
+}
+
+/* ------------------------------------------------------------------ */
+
+.owLinks:hover { 
+    color: #F70000; 
+}
+
+.disabled1 { 
+    display: none; 
+}
+
+.disabled2 { 
+    z-index: 2000; 
+}
+
+.orange-bg { 
+    background: rgba(244, 107, 64, 0.29) !important; 
+}
+
+.blue-bg { 
+    background: rgba(64, 158, 244, 0.29) !important 
+}
+
+/* ------------------------------------------------------------------ */
+
+.onoffswitch { 
+    margin: 5px auto 10px auto; 
+    position: relative; 
+    width: 40px; 
+    -webkit-user-select:none; 
+    -moz-user-select:none; 
+    -ms-user-select: none; 
+    display: inline-block; 
+}
+
+.onoffswitch-checkbox { 
+    display: none; 
+}
+
+.onoffswitch-label { 
+    display: block; 
+    overflow: hidden; 
+    cursor: pointer; 
+    border: 2px solid #999999; 
+    border-radius: 20px; 
+}
+
+.onoffswitch-inner { 
+    width: 200%; 
+    margin-left: -100%; 
+    transition: margin 0.3s ease-in 0s; 
+}
+
+.onoffswitch-inner:before { 
+    float: left; 
+    width: 50%; 
+    height: 5px; 
+    padding: 0; 
+    line-height: 5px;
+    font-size: 14px; 
+    color: white; 
+    font-family: Trebuchet, Arial, sans-serif; 
+    font-weight: bold; 
+    box-sizing: border-box;
+}
+
+/* ------------------------------------------------------------------ */
+
+.onoffswitch-inner:after { 
+    float: left; 
+    width: 50%; 
+    height: 5px; 
+    padding: 0; 
+    line-height: 5px;
+    font-size: 14px; 
+    color: white; 
+    font-family: Trebuchet, Arial, sans-serif; 
+    font-weight: bold; 
+    box-sizing: border-box;
+}
+
+.onoffswitch-inner:before { 
+    content: ""; 
+    padding-left: 10px; 
+    background-color: #F70000; 
+    color: #FFFFFF; 
+}
+
+.onoffswitch-inner:after { 
+    content: ""; 
+    padding-right: 10px; 
+    background-color: #EEEEEE; 
+    color: #999999; 
+    text-align: right; 
+}
+
+.onoffswitch-switch { 
+    width: 9px; 
+    margin: -2px; 
+    background: #FFFFFF; 
+    border: 2px solid #999999; 
+    border-radius: 20px;
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    right: 31px; 
+    transition: all 0.3s ease-in 0s;  
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner { 
+    margin-left: 0; 
+}
+
+/* ------------------------------------------------------------------ */
+
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch { 
+  right: 0px;  
+}
+
+@keyframes fadein { 
+  from {
+    opacity:0;
+  } 
+  to {
+    opacity:1;
+  } 
+}
+
+@-webkit-keyframes fadein { 
+  from {
+    opacity:0;
+  } to {
+    opacity:1;
+  } 
+}
+
+#origemscriptOther { 
+    position: absolute; 
+    top: 54px; 
+    right: 496px; 
+    width: 130px; 
+    height: 300px; 
+    overflow-y: auto;
+    background: #000; 
+    background: rgba(0,0,0,0.5); 
+    padding: 10px; 
+    z-index: 10; 
+    font-family: "helvetica";
+    font-size: 1.0em; 
+    -moz-border-radius: 0 0 35px 35px !important; 
+    -webkit-border-radius: 0 0 35px 35px !important;  
+    border-radius: 0 0 35px 35px !important; 
+    color: #FFF;  
+}
+
+#origemscriptOther p { 
+    text-align: center; 
+    margin: 0 auto; 
+    display: inline-block; 
+    padding-right: 5px; 
+}
+
+/* ------------------------------------------------------------------ */
+
+#origemscriptOther a {  
+    font-size: 1.0em; 
+    color: #fff; 
+}
+
+#origemscriptOther h3 {  
+    font-size: 20px;    
+    text-align: center; 
+    color: #F70000; 
+}
+
+#origemscriptOther .version { 
+    font-style: italic; 
+    font-size: 0.8em;   
+    text-align: center; 
+    margin-bottom: 20px; 
+    width:100%; 
+}
+
+#origemscriptOther .disclaimer { 
+    font-style: italic; 
+    font-size: 0.7em; 
+    text-align: center;  
+    padding-top: 10px; 
+}
+
+.slideout-menu { 
+    position: fixed; 
+    top: 0; left: -250px; 
+    width: 250px; 
+    height: 100%; 
+    background: #333; 
+    z-index: 100; 
+}
+
+/* ------------------------------------------------------------------ */
+
+.slideout-menu h3 { 
+    position: relative; 
+    padding: 12px 10px; 
+    color: #fff; 
+    font-size: 1.2em; 
+    font-weight: 400; 
+    border-bottom: 4px solid #222; 
+}
+
+.slideout-menu .slideout-menu-toggle {  
+    position: absolute; top: 12px; 
+    right: 10px; display: inline-block; 
+    padding: 6px 9px 5px;
+    font-family: Arial, sans-serif;  
+    line-height: 1; 
+    background: #222; 
+    color: #999; 
+    text-decoration: none; 
+    vertical-align: top; 
+}
+
+.slideout-menu .slideout-menu-toggle:hover {  
+    color: #fff; 
+}
+
+.slideout-menu ul { 
+    list-style: none; 
+    font-weight: 300; 
+    border-top: 1px solid #151515; 
+    border-bottom: 1px solid #454545; 
+}
+
+.slideout-menu ul li { 
+    border-top: 1px solid #454545; 
+    border-bottom: 1px solid #151515; 
+}
+
+/* ------------------------------------------------------------------ */
+
+.slideout-menu ul li a { 
+    position: relative; 
+    display: block; 
+    padding: 10px; 
+    color: #999; 
+    text-decoration: none; 
+}
+
+.slideout-menu ul li a:hover { 
+    background: #000; 
+    color: #fff; 
+}
+
+.slideout-menu ul li a i { 
+    position: absolute; 
+    top: 15px; 
+    right: 10px; 
+    opacity: .5; 
+}
+
+#ow-painel-background { 
+    cursor: move; 
+}
+
+#staff-icon { 
+    right: 20px;
+} 
+
+/* ------------------------------------------------------------------ */
+
+#ul-icon-grab {  
+    position: relative; 
+    top: -6px;  
+    left: -3px;
+}
+
+.title-variant {  
+    font-variant: small-caps;  
+    vertical-align: sub; 
+} 
+
+.drag-blur { 
+    -webkit-filter: blur(1px); 
+    height: 18px; 
+    width: 18px; 
+    position: absolute; 
+    top: 5px !important;
+    right: 6px !important; 
+    background: rgb(0, 156, 221); 
+    border-radius: 10px; 
+    cursor: pointer; 
+}
+
+#origemscript g { 
+    text-align: right; 
+    margin: 0 auto; 
+    width: 80px; 
+    display: inline-block; 
+    padding-right: 5px; 
+}
+
+.ow-img.max { 
+    width:280px; 
+    height:350px;
+}
+
+/* ------------------------------------------------------------------ */
+
+.ow-img.wide { 
+    width:280px; 
+    height:auto; 
+}
+
+.ow-img.high { 
+    height:350px; 
+    width:auto;
+}
+
+.ow-img-delete { 
+    position:absolute; 
+    top:25px; 
+    left:8px; 
+    background-color:#f04f30; 
+    padding:0 3px; 
+    cursor:pointer;
+} 
+
+.custom-emote { 
+    display:inline-block; 
+    vertical-align:top; 
+}
+
+.userInfo.dj .votedBackgroundColor { 
+    background-color: #0A4380; 
+    font-weight: bold; 
+}
+
+/* ------------------------------------------------------------------ */
+
+.userInfo.woot .votedBackgroundColor { 
+    background-color: #407D42; 
+} 
+
+.userInfo.meh .votedBackgroundColor { 
+    background-color: #702B30; 
+}
+
+#plugbot-userlist { 
+    position: absolute; 
+    top: 54px; 
+    width: 220px; 
+    max-height: 445px; 
+    overflow: hidden;
+    outline: none; 
+    z-index: 11; 
+    overflow-y: auto; 
+    overflow-x: hidden; 
+} 
+
+#nwootCreator { 
+    margin-bottom: 0 px; 
+    width: 220px;  
+    height: auto; 
+    cursor: move; 
+}
+
+.ulh1 { 
+    background-color: #052736; 
+    border-bottom:1px solid #444; 
+    border-collapse: collapse; 
+}
+
+/* ------------------------------------------------------------------ */
+
+.ulh2 {
+    font-size:22px;
+    background: rgb(37,141,200);
+    background: -moz-linear-gradient(top, rgba(37,141,200,1) 0%, rgba(37,141,200,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(37,141,200,1)), color-stop(100%,rgba(37,141,200,1)));
+    background: -webkit-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%);
+    background: -o-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%);
+    background: -ms-linear-gradient(top,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%);
+    background: linear-gradient(to bottom,  rgba(37,141,200,1) 0%,rgba(37,141,200,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#258dc8', endColorstr='#258dc8',GradientType=0 );
+}
+
+.ulh3 { 
+    text-decoration:none; 
+    font-weight:bold; 
+    cursor:pointer; 
+    color:rgb(37,141,200); 
+    font-size:13px; 
+}
+
+.row:hover {
+    text-decoration: none;
+    background-color: rgba(213, 28, 28, 0.22) !important;
+    background: linear-gradient(to right,rgba(255, 118, 118, 0.05) 0,rgba(255, 0, 0, 0.49) 100%) !important;
+    -webkit-transition: 200ms linear 0s;
+    -moz-transition: 200ms linear 0s; 
+    -o-transition: 200ms linear 0s; 
+    transition: 300ms linear 0,1s; 
+    outline: 0 none;
+}
+
+#user-lists .list .user:hover {
+    text-decoration: none;
+    background-color: rgba(213, 28, 28, 0.22) !important;
+    background: linear-gradient(to right,rgba(255, 118, 118, 0.05) 0,rgba(255, 0, 0, 0.49) 100%) !important;
+    -webkit-transition: 200ms linear 0s;
+    -moz-transition: 200ms linear 0s; 
+    -o-transition: 200ms linear 0s; 
+    transition: 300ms linear 0,1s; 
+    outline: 0 none;
+}
+
+.media-list .actions {
+    text-decoration: none;
+    background-color: rgba(213, 28, 28, 0.22) !important;
+    background: linear-gradient(to right,rgba(255, 118, 118, 0.05) 0,rgba(255, 0, 0, 0.49) 100%) !important;
+    -webkit-transition: 200ms linear 0s;
+    -moz-transition: 200ms linear 0s; 
+    -o-transition: 200ms linear 0s; 
+    transition: 300ms linear 0,1s; 
+    outline: 0 none;
+}
+
+/* ------------------------------------------------------------------ */
