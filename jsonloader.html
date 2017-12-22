@@ -1,0 +1,334 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Playlists</title>
+		<style type="text/css">
+			/* Layout */
+			body {
+				min-width: 630px;
+			}
+
+			#container {
+				padding-left: 200px;
+				padding-right: 190px;	
+				max-height: calc(100% - 92px);				
+			}
+			
+			#container .column {
+				position: relative;
+				float: left;				
+			}
+			
+			#center {
+				padding: 10px 20px;
+				width: 100%;
+			}
+			
+			#left {
+				width: 180px;
+				padding: 0 10px;
+				right: 240px;
+				margin-left: -100%;
+			}
+			
+			#right {
+				width: 130px;
+				padding: 0 10px;
+				margin-right: -100%;
+			}
+			
+			#footer {
+				clear: both;
+			}
+			
+			/* IE hack */
+			* html #left {
+				left: 150px;
+			}
+
+			/* Make the columns the same height as each other */
+			#container {
+				overflow: hidden;
+				max-height: calc(100% - 92px);
+			}
+
+			#container .column {
+				padding-bottom: 1001em;
+				margin-bottom: -1000em;
+			}
+
+			/* Fix for the footer */
+			* html body {
+				overflow: hidden;
+			}
+			
+			* html #footer-wrapper {
+				float: left;
+				position: relative;
+				width: 100%;
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				background: #fff;
+			}
+
+			/* Aesthetics */
+			body {
+				margin: 0;
+				padding: 0;
+				font-family:Sans-serif;
+				line-height: 1.5em;
+			}
+			
+			p {
+				color: #555;
+			}
+
+			table, th, td {
+				border: 1px solid black;
+				border-collapse: collapse;
+			}
+			
+			th, td {
+				padding: 5px;
+				text-align: left;    
+			}
+			
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: darkgreen;
+				text-decoration: none;
+			}
+
+			#header, #footer {
+				font-size: large;
+				padding: 0.3em;
+				background: #BCCE98;
+			}
+
+			#left {
+				background: #DAE9BC;
+			}
+			
+			#right {
+				background: #F7FDEB;
+			}
+
+			#center {
+				background: #fff;
+			}
+
+			#container .column {
+				padding-top: 1em;
+			}
+			#playlists {
+				overflow-y: auto;
+				max-height: calc(100% - 170px);
+			}
+			#pl-table {
+				overflow-y: auto;
+				height: calc(100% - 170px);
+			}			
+		</style>		
+	</head>	
+	<body>
+		<header id="header">
+			<p>Open playlist file</p>
+			<input type="file" id="fileinput" />
+		</header>
+
+		<div id="container">
+			<main id="center" class="column">
+				<article>
+					<div id="pl-content">
+						<h1 class="pl-name">Title</h1>
+						<div id="pl-table">							
+						</div>
+					</div>
+				</article>								
+			</main>
+
+			<nav id="left" class="column">				
+				<h3>Playlists</h3>
+				<div id="playlists">
+					
+				</div>
+			</nav>
+
+			<div id="right" class="column">
+				<div id="pl-details">
+				</div>
+			</div>
+
+		</div>
+	</body>
+	<script>
+		var playlists = null;
+		
+		function convertToJSON(data){
+			playlists = [];
+			var lines = data.split('\n');
+			
+			lines.shift();
+			lines.shift();
+			
+			try{
+				var curpl = null;
+				
+				while (lines.length > 0){					
+					var nextline = lines.shift();
+					var contentdata = nextline.match(/^,,,,,"(.*)","(.*)","(.*)","(.*)","(.*)","(.*)","(.*)","(.*)"$/);
+					
+					if (contentdata){
+						contentdata.shift();
+						
+						var media = {
+							author: contentdata.shift(),
+							cid: contentdata.shift(),
+							duration: +contentdata.shift(),
+							format: +contentdata.shift(),
+							id: +contentdata.shift(),
+							image: contentdata.shift(),
+							title: contentdata.shift(),
+							url: contentdata.shift()
+						};
+						
+						curpl.items.push(media);
+						continue;
+					}
+					
+					var plheader = nextline.match(/^"(.*)","(.*)","(.*)","(.*)","(.*)",,,,,,,$/);
+					if (plheader){
+						plheader.shift();
+						
+						if (curpl)
+							playlists.push(curpl);
+							
+						curpl = {
+							index: +plheader.shift(),
+							active: plheader.shift() == 'true',
+							count: +plheader.shift(),
+							id: +plheader.shift(),
+							name: plheader.shift(),
+							items: []
+						};
+					}
+				}
+				if (curpl)
+					playlists.push(curpl);
+					
+				console.log(playlists);
+			}catch(e){
+				console.log(e);
+			}
+		}
+		
+		function remPlaylistContent(){
+			var plc = document.getElementById('pl-table');
+			if (!plc)	return;
+			while(plc.children.length)
+				plc.children[0].remove();
+		}
+		function remPlaylistList(){
+			var pll = document.getElementById('playlists');
+			if (!pll)	return;
+			while (pll.children.length)
+				pll.children[0].remove();
+		}
+		function remRightInfo(){
+			var pld = document.getElementById('pl-details');
+			if (!pld)	return;
+			while( pld.children.length)
+				pld.children[0].remove();
+		}
+		function insertElements(id,content){
+			var el = document.getElementById(id);
+			if ( !el)
+				return;
+				
+			el.insertAdjacentHTML('beforeend', content);
+			el.scrollTop=0;
+		}
+		function readSingleFile(evt) {
+			var f = evt.target.files[0]; 
+
+			if (f) {
+				var r = new FileReader();
+				r.onload = function(e) { 
+					var contents = e.target.result;
+					var contents = e.target.result;
+					try{
+						playlists = JSON.parse(JSON.parse(contents));						
+					}catch(e){
+						convertToJSON(contents);
+					}
+					if (!playlists || !playlists.length){
+						return alert('Invalid playlist file! Check if the file is a valid file and try again!');
+					}
+					try{
+						remPlaylistContent();
+						remPlaylistList();
+						
+						var pl_content = '<ul>';
+						for (var i in playlists)
+							pl_content+='<li><a href="#" onclick="openPlaylist('+i+');">'+playlists[i].name+' ('+playlists[i].count+')</a></li>';
+							
+						pl_content+='</ul>';
+						insertElements('playlists',pl_content);
+						
+						document.getElementById('left').getElementsByTagName('h3')[0].innerText = 'Playlists ('+playlists.length+')';
+						
+						openPlaylist(0);
+					}catch(e){
+						alert("Failed to load playlists, try again.");
+					}
+				}
+				r.readAsText(f);
+			}
+		}
+
+		document.getElementById('fileinput').addEventListener('change', readSingleFile, false);
+		
+		function openPlaylist(index){
+			if (!playlists || !playlists[index])
+				return;
+			
+			var plsel = playlists[index],
+				items = plsel.items||[];
+			
+			document.getElementsByClassName('pl-name')[0].innerText = plsel.name;
+			remRightInfo();
+			remPlaylistContent();
+
+			insertElements('pl-details','<h3>'+plsel.name+'</h3><p>Count: '+plsel.count+'</p><p>Active: '+(plsel.active ? 'yes':'no')+'</p>');
+			
+			var plc = '<table style="width:100%">';
+			
+			for (var i in items){
+				var title = items[i].author+' - '+items[i].title;
+				plc+='<tr><td><img src="'+(!items[i].image.indexOf('/') ? 'https://plug.dj':'')+items[i].image+'" alt="'+items[i].image+'" height="45" width="60"></td>'+
+					'<td>'+
+					(items[i].url ? '<a href="'+items[i].url+'" target="_blank">' + title + '</a>':title)+
+					'</td><td>'+secToDur(items[i].duration)+'</td></tr>';			
+			}
+			insertElements('pl-table',plc);
+		}
+		
+		function secToDur(s) {
+			var sec_num = parseInt(s, 10);
+			var hours   = Math.floor(sec_num / 3600);
+			var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+			var seconds = sec_num - (hours * 3600) - (minutes * 60);
+
+			if (hours   < 10) {hours   = "0"+hours;}
+			if (minutes < 10) {minutes = "0"+minutes;}
+			if (seconds < 10) {seconds = "0"+seconds;}
+			var time    = (hours=='00' ? '' : hours+':')+minutes+':'+seconds;
+			return time;
+		}
+	</script>
+</html>
