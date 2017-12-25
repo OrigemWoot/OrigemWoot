@@ -150,6 +150,10 @@ window.ow_main = {
 			"css" : "https://rawgit.com/CikerDeveloper/origem-repo/master/CSS/cikerroom.css",
  			"background" : "http://i.imgur.com/jwmUiYF.png",
  			"overridecss" : true
+ 		},
+		"tessin-emo-koutek" : {
+ 			"css" : "https://tessi1998.github.io/TessinEMOkoutek/Style/Style.css",
+ 			"overridecss" : true
  		}
 	}
 };
