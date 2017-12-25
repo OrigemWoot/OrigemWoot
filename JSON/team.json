@@ -134,7 +134,8 @@
 	},
 	"staff" : {
 		"ids" : [
-			5477951
+			5477951,
+			11396631
 		],
 		"rollover" : {
 			 "classteam" : "helper",
