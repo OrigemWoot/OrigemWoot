@@ -136,8 +136,7 @@ window.ow_main = {
 		},
 		"free-run" : {
  			"title" : "FR",
- 			"background" : "http://i.imgur.com/BiNIdRN.jpg",
-			"css" : "https://rawgit.com/Dark1997/FR/master/FR.css",
+			"css" : "https://tessi1998.github.io/FreeRun/Style/Style.css",
  			"overridecss" : true
  		},
 		"dnb-liquified" : {
