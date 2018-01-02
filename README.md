@@ -60,7 +60,7 @@ https://www.facebook.com/origemwootnew
 
 - [Ciker](https://github.com/CikerDeveloper) __(OWNER/DEVELOPER)__
 - [Tessi Tess](https://github.com/Tessi1998) __(HELPER)__
-- [Repi](https://github.com/Repi1K97) __(HELPER)__
+- [şτρăჭი98](https://github.com/strajo98) __(HELPER)__
 
 ## Fixes and Improvements
 
