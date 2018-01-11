@@ -59,6 +59,7 @@ https://www.facebook.com/origemwootnew
 ## TEAM
 
 - [Ciker](https://github.com/CikerDeveloper) __(DEVELOPER)__
+- [Caipira](https://github.com/LuizEdP) __(DEVELOPER)__
 - [Tessi Tess](https://github.com/Tessi1998) __(STAFF)__
 - [şτρăჭი98](https://github.com/strajo98) __(STAFF)__
 
