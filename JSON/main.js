@@ -92,7 +92,7 @@ window.ow_main = {
 	        "https://i.imgur.com/q8EEUif.jpg",
 	        "https://i.imgur.com/LeXuIc0.jpg"
 	],
-	"socket" : "wss://ws.origem-woot.tk",
+	"socket" : "wss://origemsocket.herokuapp.com/socket/websocket",
 	"lng": {
 		"en" : {
 			"url" : "https://rawgit.com/OrigemWoot/OrigemWoot/master/JSON/Lang/english.lang.js",
