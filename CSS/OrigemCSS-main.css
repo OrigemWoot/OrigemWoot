@@ -355,7 +355,7 @@ top: 8px !important; left: 15px !important;}
 	position: fixed;
 	top: 54px;
 	display: none;
-	z-index: 11;
+	z-index: 1000;
 }
 
 .origem-menu-section {
