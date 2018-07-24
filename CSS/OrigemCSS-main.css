@@ -687,3 +687,12 @@ height: 30px;
     border-radius: 50%;
     background: #eee;
 }
+
+.eta-timerbtn
+{
+    bottom: 52px;
+    position: absolute;
+    left: 31px;
+    font-size: 14px;
+    white-space: nowrap;
+}
