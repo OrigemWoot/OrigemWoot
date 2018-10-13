@@ -144,6 +144,11 @@ window.ow_main = {
  			"css" : "https://amadeuswizard.github.io/dnb-liquified/Style/Style.css",
  			"overridecss" : true
  		},
+		"geriausieji" : {
+ 			"title" : "Geriausieji",
+ 			"css" : "https://dl.dropboxusercontent.com/s/2p5gb4g4epoj5mp/Geriausieji.css",
+ 			"overridecss" : true
+ 		},
 		"anime404balkan" : {
  			"title" : "Origem",
 			"msg" : "Welcome to Origem Community",
