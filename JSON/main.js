@@ -147,6 +147,7 @@ window.ow_main = {
 		"geriausieji" : {
  			"title" : "Geriausieji",
  			"css" : "https://dl.dropboxusercontent.com/s/2p5gb4g4epoj5mp/Geriausieji.css",
+			"background" : "https://i.imgur.com/kRpdB0i.jpg",
  			"overridecss" : true
  		},
 		"anime404balkan" : {
