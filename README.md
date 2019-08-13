@@ -8,6 +8,7 @@
 </h1>
 
 <h4 align="center">A complete script/extension for <a href="http://plug.dj" target="_blank">plug.dj</a>.</h4>
+<h4 align="center">NOTE: Origem will got only important updates if plug.dj something broke.</h4>
 <p align="center">
     <a href="http://waffle.io/OrigemWoot/OrigemWoot"><img src="https://badge.waffle.io/OrigemWoot/OrigemWoot.svg?label=ready&title=Ready"></a>
   </a>
