@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">A complete script/extension for <a href="http://plug.dj" target="_blank">plug.dj</a>.</h4>
-<h4 align="center">NOTE: Origem will got only important updates if plug.dj something broke. If someone want to maintain it open issue and post email.</h4>
+<h4 align="center">NOTE: If plug.dj update something bigger in code origem will be broken my HDD is dead. RIP <3.</h4>
 <p align="center">
     <a href="http://waffle.io/OrigemWoot/OrigemWoot"><img src="https://badge.waffle.io/OrigemWoot/OrigemWoot.svg?label=ready&title=Ready"></a>
   </a>
